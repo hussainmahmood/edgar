@@ -1,0 +1,151 @@
+<SEC-DOCUMENT>0000784199-21-000167.txt : 20210602
+<SEC-HEADER>0000784199-21-000167.hdr.sgml : 20210602
+<ACCEPTANCE-DATETIME>20210602162123
+ACCESSION NUMBER:		0000784199-21-000167
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20210601
+FILED AS OF DATE:		20210602
+DATE AS OF CHANGE:		20210602
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Borgstrom Marna P
+		CENTRAL INDEX KEY:			0001744267
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-13165
+		FILM NUMBER:		21989383
+
+	MAIL ADDRESS:	
+		STREET 1:		1655 ROBERTS BLVD NW
+		CITY:			KENNESAW
+		STATE:			GA
+		ZIP:			30144
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CRYOLIFE INC
+		CENTRAL INDEX KEY:			0000784199
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		IRS NUMBER:				592417093
+		STATE OF INCORPORATION:			FL
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1655 ROBERTS BOULEVARD N W
+		CITY:			KENNESAW
+		STATE:			GA
+		ZIP:			30144
+		BUSINESS PHONE:		7704193355
+
+	MAIL ADDRESS:	
+		STREET 1:		1655 ROBERTS BOULEVARD N W
+		CITY:			KENNESAW
+		STATE:			GA
+		ZIP:			30144
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>certent-form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-06-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000784199</issuerCik>
+        <issuerName>CRYOLIFE INC</issuerName>
+        <issuerTradingSymbol>CRY</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001744267</rptOwnerCik>
+            <rptOwnerName>Borgstrom Marna P</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>CRYOLIFE, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>1655 ROBERTS BLVD, NW</rptOwnerStreet2>
+            <rptOwnerCity>KENNESAW</rptOwnerCity>
+            <rptOwnerState>GA</rptOwnerState>
+            <rptOwnerZipCode>30144</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2021-06-01</value>
+            </transactionDate>
+            <deemedExecutionDate>
+                <value>2021-06-01</value>
+            </deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4423</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>29.39</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>18887</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents shares of restricted stock that cliff vest on June 1, 2022, provided the status as a Director with CryoLife continues through such date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Marna Borgstrom</signatureName>
+        <signatureDate>2021-06-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,199 @@
+<SEC-DOCUMENT>0001193125-12-325930.txt : 20120731
+<SEC-HEADER>0001193125-12-325930.hdr.sgml : 20120731
+<ACCEPTANCE-DATETIME>20120731162612
+ACCESSION NUMBER:		0001193125-12-325930
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20120630
+FILED AS OF DATE:		20120731
+DATE AS OF CHANGE:		20120731
+EFFECTIVENESS DATE:		20120731
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DT Investment Partners, LLC
+		CENTRAL INDEX KEY:			0001537621
+		IRS NUMBER:				451586812
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-14628
+		FILM NUMBER:		12997224
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1013 CENTRE ROAD - SUITE 220
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19805
+		BUSINESS PHONE:		3025941070
+
+	MAIL ADDRESS:	
+		STREET 1:		1013 CENTRE ROAD - SUITE 220
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19805
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>d387900d13fhr.txt
+<DESCRIPTION>FORM 13F-HR
+<TEXT>
+<PAGE>
+
+================================================================================
+
+                                   FORM 13F
+
+                              Form 13F Cover Page
+
+Report for the Calendar Year or Quarter Ended: 06/30/2012
+
+
+Check here if Amendment [_]; Amendment Number __________
+
+   This Amendment (Check only one):   [_] is a restatement
+                                      [_] adds new holdings entries
+
+Institutional Investment Manager Filing this Report:
+
+Name:    DT Investment Partners, LLC
+
+Address: Brandywine Five, Suite 103
+         1 Dickinson Drive
+         Chadds Ford, PA 19317
+
+
+Form 13F File Number: 028-14628
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements
+schedules, lists and tables, are considered integral parts of this form.
+
+Person signing this Report on Behalf of Reporting Manager:
+
+Name:    Daniel N. Mullen
+Title:   Chief Compliance Officer
+Phone:   484-778-4425
+
+
+Signature, Place and Date of Signing:
+
+Daniel N. Mullen,    Chadds Ford, PA,    July 30, 2012
+
+Report Type (Check only one.):
+
+[X] 13F Holdings Report (Check here if all holdings of this reporting manager
+    are reported in this report.)
+
+[_] 13F Notice. (Check here if no holdings reported are in this report, and all
+    holdings are reported by other reporting managers.)
+
+[_] 13F COMBINATION REPORT. (Check here if a portion of the holdings for this
+    reporting manager are reported in this report and a portion is reported by
+    other reporting managers.)
+
+List of Other Managers Reporting for this Manager:
+
+None
+
+================================================================================
+
+<PAGE>
+
+FORM 13F SUMMARY PAGE
+
+Report Summary:
+
+Number of Other Included Managers:        1
+
+Form 13F Information Table Entry Total:   48
+
+Form 13F Information Table Value Total:   184042
+                                       ----------------
+                                          (thousands)
+
+List of Other Included Managers:
+
+<TABLE>
+<CAPTION>
+No.  Form 13F File Number         Name
+---  -------------------- ----------------------
+<S>  <C>                  <C>
+1         028-14068       Daniels & Tansey, LLP
+</TABLE>
+
+<PAGE>
+
+                          FORM 13F INFORMATION TABLE
+                          DT INVESTMENT PARTNERS, LLC
+
+                              AS OF JUNE 30, 2012
+
+<TABLE>
+<CAPTION>
+COLUMN 1                          COLUMN 2      COLUMN 3  COLUMN 4 COLUMN 5           COLUMN 6  COLUMN 7      COLUMN 8
+                                                           VALUE   SHRS OR  SH/ PUT/ INVESTMENT  OTHER    VOTING AUTHORITY
+NAME OF ISSUER                 TITLE OF CLASS    CUSIP    (x$1000) PRN AMT  PRN CALL DISCRETION   MGRS   SOLE SHARED  NONE
+<S>                          <C>                <C>       <C>      <C>      <C> <C>  <C>        <C>      <C>  <C>    <C>
+AT&T INC                     COM                00206R102    286      8020  SH        Defined      1                   8020
+ALPHATEC HOLDINGS INC        COM                02081G102     18     10000  SH        Defined      1                  10000
+ANALOG DEVICES INC           COM                032654105    219      5817  SH        Defined      1                   5817
+BLACKROCK ENH CAP AND INC
+  FD I                       COM                09256A109    395     30861  SH        Defined      1                  30861
+BRISTOL MYERS SQUIBB CO      COM                110122108    207      5755  SH        Defined      1                   5755
+CAMPBELL SOUP CO             COM                134429109    318      9525  SH        Defined      1                   9525
+CHEVRON CORP NEW             COM                166764100    348      3296  SH        Defined      1                   3296
+CONOCOPHILLIPS               COM                20825C104    255      4571  SH        Defined      1                   4571
+DU PONT E I DE NEMOURS & CO  COM                263534109    338      6687  SH        Defined      1                   6687
+EXELON CORP                  COM                30161N101    203      5388  SH        Defined      1                   5388
+FIRST ENERGY CORP            COM                337932107    228      4635  SH        Defined      1                   4635
+GENERAL ELECTRIC COMPANY     COM                369604103    245     11754  SH        Defined      1                  11754
+KIMBERLY CLARK CORP          COM                494368103    359      4289  SH        Defined      1                   4289
+KRAFT FOODS INC              CL A               50075N104    314      8137  SH        Defined      1                   8137
+LILLY ELI & COMPANY          COM                532457108    218      5084  SH        Defined      1                   5084
+MERCK & CO INC NEW           COM                58933Y105    234      5609  SH        Defined      1                   5609
+MICROSOFT CORP               COM                594918104    263      8611  SH        Defined      1                   8611
+PFIZER INC                   COM                717081103    233     10129  SH        Defined      1                  10129
+SHORE BANCSHARES INC         COM                825107105     60     10000  SH        Defined      1                  10000
+SPECTRA ENERGY PARTNERS LP   COM                847560109    225      7735  SH        Defined      1                   7735
+SYSCO CORP                   COM                871829107    278      9335  SH        Defined      1                   9335
+TORTOISE ENERGY INFRASTR C   COM                89147L100    415     10408  SH        Defined      1                  10408
+VERIZON COMMUNICATIONS INC   COM                92343V104    305      6858  SH        Defined      1                   6858
+WILLIAMS COS INC DEL         COM                969457100    237      8226  SH        Defined      1                   8226
+ISHARES GOLD TRUST           I SHARES           464285105   2924    187940  SH        Defined      1                 187940
+I SHARES TR                  BARCLAYS USAGG B   464287226  19387    174188  SH        Defined      1                 174188
+I SHARES TR                  MSCI EMERGING MKT  464287234    241      6163  SH        Defined      1                   6163
+I SHARES TR                  S&P MIDCAP 400     464287507  17456    185367  SH        Defined      1                 185367
+I SHARES TR                  COHEN & ST REALTY  464287564   5168     65728  SH        Defined      1                  65728
+I SHARES TR                  RUSSELL 1000       464287622  13466    179049  SH        Defined      1                 179049
+I SHARES TR                  S&P SML CAP 600    464287804  10743    146618  SH        Defined      1                 146618
+I SHARES TR                  AGENCY BD FD       464288166   4702     41447  SH        Defined      1                  41447
+I SHARES TR                  S&P NATL AMTFREE   464288414    742      6737  SH        Defined      1                   6737
+I SHARES TR                  BARCLAYS INTER CR  464288638   7725     70668  SH        Defined      1                  70668
+I SHARES TR                  BARCLAYS MBS BD    464288638  18602    171540  SH        Defined      1                 171540
+I SHARES TR                  BARCLAYS 1-3 YR CR 464288646   2198     20989  SH        Defined      1                  20989
+I SHARES TR                  US PFD STK IDX     464288687    587     15033  SH        Defined      1                  15033
+POWERSHARES DB
+  CMDTY IDX TRA              UNIT BEN INT       73935S105   3080    119617  SH        Defined      1                 119617
+POWERSHARES GLOBAL ETF TR    SOVEREIGN DEBT     73936T573   1611     55867  SH        Defined      1                  55867
+SPDR S&P 500 ETF             TR UNIT            78462F103  22523    165484  SH        Defined      1                 165484
+SPDR SERIES TR               BARCLYS YLD ETF    78464A417  15179    384657  SH        Defined      1                 384657
+SPDR SERIES TR               DJ REIT ETF        78464A607   5576     76502  SH        Defined      1                  76502
+SELECT SECTOR SPDR TR        SBI HEALTHCARE     81369Y209   3520     92635  SH        Defined      1                  92635
+SELECT SECTOR SPDR TR        SBI CONS-STPLS     81369Y308   3351     96376  SH        Defined      1                  96376
+SELECT SECTOR SPDR TR        SBI INT-ENERGY     81369Y506   3520     53037  SH        Defined      1                  53037
+SELECT SECTOR SPDR TR        SBI INT-UTILS      81369Y886   1943     52523  SH        Defined      1                  52523
+VANGUARD SPECIALIZED
+  PORTFOL                    DIV APP ETF        921908844   4652     82064  SH        Defined      1                  82064
+VANGUARD INT EQUITY INDEX F  MSCI EMR MKT ETF   922042858   8945    224022  SH        Defined      1                   8945
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

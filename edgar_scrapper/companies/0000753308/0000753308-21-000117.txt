@@ -1,0 +1,173 @@
+<SEC-DOCUMENT>0000753308-21-000117.txt : 20210517
+<SEC-HEADER>0000753308-21-000117.hdr.sgml : 20210517
+<ACCEPTANCE-DATETIME>20210517161235
+ACCESSION NUMBER:		0000753308-21-000117
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20210515
+FILED AS OF DATE:		20210517
+DATE AS OF CHANGE:		20210517
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Moul Donald A
+		CENTRAL INDEX KEY:			0001798361
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08841
+		FILM NUMBER:		21930704
+
+	MAIL ADDRESS:	
+		STREET 1:		700 UNIVERSE BLVD
+		CITY:			JUNO BEACH
+		STATE:			FL
+		ZIP:			33408
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NEXTERA ENERGY INC
+		CENTRAL INDEX KEY:			0000753308
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		IRS NUMBER:				592449419
+		STATE OF INCORPORATION:			FL
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		700 UNIVERSE BLVD
+		CITY:			JUNO BEACH
+		STATE:			FL
+		ZIP:			33408
+		BUSINESS PHONE:		5616944853
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 14000
+		CITY:			JUNO BEACH
+		STATE:			FL
+		ZIP:			33408
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FPL GROUP INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>edgar.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-05-15</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000753308</issuerCik>
+        <issuerName>NEXTERA ENERGY INC</issuerName>
+        <issuerTradingSymbol>NEE</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001798361</rptOwnerCik>
+            <rptOwnerName>Moul Donald A</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O NEXTERA ENERGY, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>700 UNIVERSE BLVD</rptOwnerStreet2>
+            <rptOwnerCity>JUNO BEACH</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>33408</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>EVP, Nuclear Div &amp; CNO</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2021-05-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1271</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>73.12</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>13963</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>274</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Retirement Savings Plan Trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Restricted stock withheld by Issuer to satisfy tax withholding obligations on vesting of restricted stock granted May 15, 2019.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>W. Scott Seeley (Attorney-in-Fact)</signatureName>
+        <signatureDate>2021-05-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

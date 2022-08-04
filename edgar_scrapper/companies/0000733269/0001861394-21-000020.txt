@@ -1,0 +1,234 @@
+<SEC-DOCUMENT>0001861394-21-000020.txt : 20210715
+<SEC-HEADER>0001861394-21-000020.hdr.sgml : 20210715
+<ACCEPTANCE-DATETIME>20210715190537
+ACCESSION NUMBER:		0001861394-21-000020
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20210713
+FILED AS OF DATE:		20210715
+DATE AS OF CHANGE:		20210715
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Panama Diego
+		CENTRAL INDEX KEY:			0001869071
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38669
+		FILM NUMBER:		211093762
+
+	MAIL ADDRESS:	
+		STREET 1:		225 BUSH STREET, 17TH FLOOR
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94104
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LiveRamp Holdings, Inc.
+		CENTRAL INDEX KEY:			0000733269
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		IRS NUMBER:				710581897
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	BUSINESS ADDRESS:	
+		STREET 1:		225 BUSH STREET
+		STREET 2:		17TH FLOOR
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94104
+		BUSINESS PHONE:		866-352-3267
+
+	MAIL ADDRESS:	
+		STREET 1:		225 BUSH STREET
+		STREET 2:		17TH FLOOR
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94104
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Acxiom Holdings, Inc.
+		DATE OF NAME CHANGE:	20180920
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ACXIOM CORP
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CCX NETWORK INC
+		DATE OF NAME CHANGE:	19880816
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2021-07-13</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0000733269</issuerCik>
+        <issuerName>LiveRamp Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>RAMP</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001869071</rptOwnerCik>
+            <rptOwnerName>Panama Diego</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>225 BUSH STREET, 17TH FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SAN FRANCISCO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94104</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Commercial Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>COMMON STOCK, $.10 PAR VALUE</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>32308</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>COMMON STOCK, $.10 PAR VALUE</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1525</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>BY MANAGED ACCOUNT 1</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This total includes 22,849 unvested restricted stock units (RSUs&quot;) previously granted to the reporting person that will vest subject to the reporting person's continued employment through the applicable vesting dates. Each RSU represents a contingent right to receive one share of the registrant's common stock.</footnote>
+        <footnote id="F2">These shares are held under the Registrant's 401(k) Retirement Savings Plan.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Diego Panama</signatureName>
+        <signatureDate>2021-07-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>poa-dp.txt
+<DESCRIPTION>POWER OF ATTORNEY
+<TEXT>
+POWER OF ATTORNEY
+
+       The undersigned hereby constitutes and appoints Catherine
+L. Hughes and Jerry C. Jones, or either of them, acting singly
+and with full power of substitution, as the undersigned's true
+and lawful attorneys-in-fact, for such period of time that the
+undersigned is required to file reports pursuant to Section 16(a)
+of the Securities Exchange Act of 1934, as amended ("Exchange
+Act") due to his affiliation as an executive officer of LiveRamp
+Holdings, Inc. and any successor corporation, to:
+
+       (1)	execute for and on behalf of the undersigned
+Forms 3,4 and 5 (including any amendments thereto) in
+accordance with Section 16(a) of the Exchange Act and
+the rules thereunder;
+
+       (2)	do and perform any and all acts for and on
+behalf of the undersigned which may be necessary or
+desirable to complete the execution of any such Form
+3, 4 or 5 (or any amendments thereto) and the timely
+filing of such form with the United States Securities
+and Exchange Commission and any other authority as
+required by law; and
+
+       (3)	take any other action of any type whatsoever in
+       connection with the foregoing which, in the opinion of such
+attorney-in-fact, may be of benefit to, in the best
+interest of or legally required by the undersigned, it
+being understood that the documents executed by such
+attorney-in-fact on behalf of the undersigned pursuant to
+this Power of Attorney shall be in such form and shall
+contain such terms and conditions as such attorney-in-fact
+may approve in its discretion.
+
+       The undersigned hereby grants to such attorneys-in-fact
+full power and authority to do and perform all and every act
+requisite, necessary and proper to be done in the exercise of any
+of the rights and powers herein granted, as fully to all intents
+and purposes as the undersigned could do if personally present,
+with full power of substitution, hereby ratifying and confirming
+all that such attorneys-in-fact shall lawfully do or cause to be
+done by virtue of this Power of Attorney and the rights and
+powers herein granted.  The undersigned acknowledges that the
+foregoing attorneys-in-fact, in serving in such capacity at the
+request of the undersigned, are not assuming any of the
+undersigned's responsibilities to comply with Section 16 of the
+Exchange Act or other applicable securities laws or rules.
+
+
+
+       IN WITNESS WHEREOF, the undersigned has caused this Power
+of Attorney to be executed as of the 14th day of July, 2021.
+
+						/s/ Diego Panama
+						Signature
+
+						Diego Panama
+						Print Name
+
+						Chief Commercial Officer
+						Title
+4815-3636-7855.2
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

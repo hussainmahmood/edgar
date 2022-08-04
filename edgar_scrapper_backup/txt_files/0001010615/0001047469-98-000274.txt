@@ -1,0 +1,452 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ VeAGveXzyPMu1addnARyzbbPuPTvj0oUkru8v6h5RzvYvXkOwgtcI08cYDXu7yjx
+ h7ckqRq4ukrhN6lRdzOppQ==
+
+<SEC-DOCUMENT>0001047469-98-000274.txt : 19980108
+<SEC-HEADER>0001047469-98-000274.hdr.sgml : 19980108
+ACCESSION NUMBER:		0001047469-98-000274
+CONFORMED SUBMISSION TYPE:	SC 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19980107
+SROS:			NASD
+GROUP MEMBERS:		GOLDEN MARK I
+GROUP MEMBERS:		LEE GOLDEN
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PUBLISHING CO OF NORTH AMERICA INC
+		CENTRAL INDEX KEY:			0001010615
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS PUBLISHING [2741]
+		IRS NUMBER:				593203301
+		STATE OF INCORPORATION:			FL
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+		SEC ACT:		
+		SEC FILE NUMBER:	005-51533
+		FILM NUMBER:		98501889
+
+	BUSINESS ADDRESS:	
+		STREET 1:		P O BOX 280
+		STREET 2:		186 N INDUSTRIAL PARK DR
+		CITY:			LAKE HELEN
+		STATE:			FL
+		ZIP:			32744
+		BUSINESS PHONE:		9042281000
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 280
+		STREET 2:		186 N INDUSTRIAL PARK DR
+		CITY:			LAKE HELEN
+		STATE:			FL
+		ZIP:			32744
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GOLDEN MARK I
+		CENTRAL INDEX KEY:			0000945839
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1110 SW IVANHOE BLVD
+		STREET 2:		UNIT 20
+		CITY:			ORLANDO
+		STATE:			FL
+		ZIP:			32804
+		BUSINESS PHONE:		4078720191
+
+	MAIL ADDRESS:	
+		STREET 1:		1110 SW IVANHOE BLVD
+		STREET 2:		UNIT 20
+		CITY:			ORLANDO
+		STATE:			FL
+		ZIP:			32804
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<DESCRIPTION>SCHEDULE 13-G
+<TEXT>
+
+<PAGE>
+
+
+                         SECURITIES AND EXCHANGE COMMISSION
+                                WASHINGTON, D.C. 20549
+                                     SCHEDULE 13G
+                      Under the Securities Exchange Act of 1934
+                                 (AMENDMENT NO. __)*
+                                            --
+
+                    THE PUBLISHING COMPANY OF NORTH AMERICA, INC.          
+          -----------------------------------------------------------------
+                                   (Name of Issuer)
+
+                                     COMMON STOCK                           
+          ------------------------------------------------------------------
+                            (Title of Class of Securities)
+
+                                     744654-10-4                           
+          -----------------------------------------------------------------
+                                    (CUSIP Number)
+
+    *The remainder of this cover page shall be filled out for a reporting
+person's initial filing on this form with respect to the subject class of
+securities, and for any subsequent amendment containing information which would
+alter the disclosures provided in a prior cover page.
+
+                                                                              
+- ------------------------------------------------------------------------------
+1)  Name of Reporting Persons S.S. or I.R.S. Identification Nos. of Above
+    Persons
+     MARK I. GOLDEN, N.A.                                                    
+    -------------------------------------------------------------------------
+     LEE GOLDEN, N.A.                                                        
+    -------------------------------------------------------------------------
+
+2)  Check the Appropriate Box if a Member of a Group (See Instructions)
+    (a)                            
+         --------------------------
+    (b)     X                      
+         --------------------------
+                                                                              
+- ------------------------------------------------------------------------------
+
+    3)   SEC Use Only                                                         
+                     ---------------------------------------------------------
+4)  Citizenship or Place of Organization     U.S.A.                           
+                                        --------------------------------------
+                                                                              
+- ------------------------------------------------------------------------------
+Number of          (5)  Sole Voting Power  100,000 - LEE GOLDEN(1) 
+                                          -------------------------
+Shares Bene-                                                                  
+              ----------------------------------------------------------------
+ficially      (6)  Shared Voting Power    336,000(1,2)                        
+                                      ----------------------------------------
+Owned by                                                                      
+              ----------------------------------------------------------------
+Each Report-  (7)  Sole Dispositive Power    100,000 - LEE GOLDEN(1)          
+                                         -------------------------------------
+ing Person                                                                    
+              ----------------------------------------------------------------
+With               (8)  Shared Dispositive Power     336,000(1,2)             
+                                           -----------------------------------
+              9)  Aggregate Amount Beneficially Owned by Each Reporting Person
+                                                    336,000(1) - MARK GOLDEN
+                                                 -----------------------------
+                                                    436,000(1) - LEE GOLDEN
+                                                 -----------------------------
+
+    10)  Check if the Aggregate Amount in Row (9) Excludes Certain Shares
+    (See Instructions)       X*                                               
+                      --------------------------------------------------------
+                                                                              
+- ------------------------------------------------------------------------------
+    11)  Percent of Class Represented by Amount in Row 9 8.1%  -  MARK GOLDEN 
+                                                        ----------------------
+                                                        10.6%  -  LEE GOLDEN
+                                                        ----------------------
+                                                                              
+- ------------------------------------------------------------------------------
+    12)  Type of Reporting Person (See Instructions)         IN               
+                                                    --------------------------
+                                                                              
+- ------------------------------------------------------------------------------
+
+1   Excludes 10,000 shares of Common Stock owned by Dr. and Mrs. Golden's son 
+    as to which they disclaim beneficial ownership.
+2   Owned by tenants by the entireties.
+
+<PAGE>
+
+
+                                      ITEM 1(A)
+Name of Issuer:  THE PUBLISHING COMPANY OF NORTH AMERICA, INC.               
+              ----------------------------------------------------------------
+
+                                      ITEM 1(B)
+Address of Issuer's Principal Executive Offices:   186 N. INDUSTRIAL DRIVE 
+                                                 -----------------------------
+                                                   LAKE HELEN, FL  32744-0280
+                                                 -----------------------------
+
+                                      ITEM 2(A)
+Name of Person Filing:  MARK I. GOLDEN                                       
+                     ---------------------------------------------------------
+
+                                      ITEM 2(B)
+Address of Principal Business Office or, if none, Residence: 1110 S.W. IVANHOE
+                                                           -------------------
+ BLVD., #UNIT 20
+- ----------------
+                                                        ORLANDO, FL  32804    
+                                                      ------------------------
+
+                                      ITEM 2(C)
+Citizenship:      U.S.A.                                                       
+           -------------------------------------------------------------------
+
+                                      ITEM 2(D)
+
+Title of Class of Securities:       COMMON STOCK                               
+                            --------------------------------------------------
+
+                                      ITEM 2(E)
+CUSIP Number:       744654-10-4                                                
+            ------------------------------------------------------------------
+
+                                        ITEM 3
+NOT APPLICABLE                                                                 
+- ------------------------------------------------------------------------------
+                                        ITEM 4
+Ownership.
+    If the percent of the class owned, as of December 31 of the year covered by
+the statement, or as of the last day of any month described in Rule 13d-1(b)(2),
+if applicable, exceeds five percent, provide the following information as of
+that date and identify those shares which there is a right to acquire.
+
+    (a)  Amount Beneficially Owned:
+            336,000(1,2)                                                      
+         ---------------------------------------------------------------------
+    (b)  Percent of Class:
+            8.1%                                                            
+         ---------------------------------------------------------------------
+    (c)  Number of shares to which such person has:
+
+         (i)     sole power to vote or to direct the vote:    -0-            
+                                                         --------------------
+         (ii)    shared power to vote or to direct the vote:   336,000(1,2)  
+                                                           ------------------
+         (iii)   sole power to dispose or to direct the disposition of:  -0- 
+                                                                       ------
+          (iv)   shared power to dispose or to direct the disposition 
+                                                      of:  336,000(1,2)     
+                                                         -------------------
+1   Excludes 10,000 shares of Common Stock owned by Dr. and Mrs. Golden's son
+    as to which they disclaim beneficial ownership
+
+2   Owned as Tenants by the Entireties
+
+                                          1
+<PAGE>
+
+                                        ITEM 5
+
+Ownership of Five Percent or Less of a Class.
+
+*If this statement is being filed to report the fact that as of the date hereof
+the reporting person has ceased to be the beneficial owner of more than five
+percent of the class of securities, check the following [  ].
+
+                                        ITEM 6
+
+Ownership of More than Five Percent on Behalf of Another Person.
+
+NOT APPLICABLE                                                                
+- ------------------------------------------------------------------------------
+
+                                        ITEM 7
+
+Identification and Classification of the Subsidiary Which Acquired the Security
+Being Reported on By the Parent Holding Company.
+
+NOT APPLICABLE                                                                
+- ------------------------------------------------------------------------------
+
+                                        ITEM 8
+Identification and Classification of Members of the Group.
+
+NOT APPLICABLE                                                                
+- ------------------------------------------------------------------------------
+                                        ITEM 9
+Notice of Dissolution of Group.
+
+NOT APPLICABLE                                                                
+- ------------------------------------------------------------------------------
+
+                                       ITEM 10
+Certification.
+
+
+    By signing below, I certify that, to the best of my knowledge and belief,
+the securities referred to above were acquired in the ordinary course of
+business and were not acquired for the purpose of and do not have the effect of
+changing or influencing the control of the issuer of such securities and were
+not acquired in connection with or as a participant in any transaction having
+such purposes or effect.
+
+Signature.
+
+    After reasonable inquiry and to the best of my knowledge and belief, I
+certify that the information set forth in this statement is true, complete and
+correct.
+- ------------------------------------------------------------------------------
+
+Date:  February   13 , 1997
+                ----
+
+ /s/ Mark I. Golden           
+- ------------------------------
+Signature
+
+
+  MARK I. GOLDEN                                     
+- ------------------------------
+Name/Title
+
+                                          2
+<PAGE>
+
+
+                                      ITEM 1(A)
+Name of Issuer:  THE PUBLISHING COMPANY OF NORTH AMERICA, INC.           
+              ----------------------------------------------------------
+
+                                      ITEM 1(B)
+Address of Issuer's Principal Executive Offices:    186 N. INDUSTRIAL DRIVE  
+                                                 ----------------------------
+                                                    LAKE HELEN, FL  32744-0280
+                                                 -----------------------------
+                                      ITEM 2(A)
+Name of Person Filing:  LEE GOLDEN                                             
+                     ---------------------------------------------------------
+                                      ITEM 2(B)
+Address of Principal Business Office or, if none, Residence:      1110 S.W.
+                                                                -----------
+                                                 IVANHOE BLVD., #UNIT 20
+                                                 --------------------------
+                                                   ORLANDO, FL  32804     
+                                                 --------------------------
+
+                                      ITEM 2(C)
+Citizenship:      U.S.A.                                                   
+           -------------------------------------------------------------------
+
+                                      ITEM 2(D)
+Title of Class of Securities:       COMMON STOCK                             
+                            ------------------------------------------------
+
+                                      ITEM 2(E)
+CUSIP Number:       744654-10-4                                                
+            ------------------------------------------------------------------
+                                        ITEM 3
+NOT APPLICABLE   
+- -------------------------------------------------------------------------------
+                                        ITEM 4
+Ownership.
+    If the percent of the class owned, as of December 31 of the year covered by
+the statement, or as of the last day of any month described in Rule 13d-1(b)(2),
+if applicable, exceeds five percent, provide the following information as of
+that date and identify those shares which there is a right to acquire.
+
+    (a)  Amount Beneficially Owned:
+            436,000(1,2)                                                    
+         -------------------------------------------------------------------
+    (b)  Percent of Class:
+            10.6%                                                
+         -------------------------------------------------------------------
+    (c)  Number of shares to which such person has:
+
+          (i)    sole power to vote or to direct the vote:       -0-         
+                                                           ---------------
+          (ii)   shared power to vote or to direct the vote:   436,000(1,2)
+                                                           ----------------
+          (iii)  sole power to dispose or to direct the disposition of:  -0- 
+                                                                       ------
+          (iv)   shared power to dispose or to direct the disposition of:
+                                                             436,000(1,2)
+                                                           --------------
+
+    1    Excludes 10,000 shares of Common Stock owned by Dr. and Mrs. Golden's
+         son as to which they disclaim beneficial ownership
+
+    2    Owned as Tenants by the Entireties
+
+                                        ITEM 5
+
+Ownership of Five Percent or Less of a Class.
+
+*If this statement is being filed to report the fact that as of the date hereof
+the reporting person has ceased to be the beneficial owner of more than five
+percent of the class of securities, check the following [  ].
+
+                                          1
+<PAGE>
+
+                                        ITEM 6
+
+Ownership of More than Five Percent on Behalf of Another Person.
+
+NOT APPLICABLE                                                                 
+- -------------------------------------------------------------------------------
+
+                                        ITEM 7
+
+Identification and Classification of the Subsidiary Which Acquired the Security
+Being Reported on By the Parent Holding Company.
+
+NOT APPLICABLE                                                                 
+- -------------------------------------------------------------------------------
+
+                                        ITEM 8
+
+Identification and Classification of Members of the Group.
+
+NOT APPLICABLE                                                                 
+- -------------------------------------------------------------------------------
+
+                                        ITEM 9
+
+Notice of Dissolution of Group.
+
+NOT APPLICABLE                                                                  
+
+- -------------------------------------------------------------------------------
+                                       ITEM 10
+Certification.
+
+    By signing below, I certify that, to the best of my knowledge and belief,
+the securities referred to above were acquired in the ordinary course of
+business and were not acquired for the purpose of and do not have the effect of
+changing or influencing the control of the issuer of such securities and were
+not acquired in connection with or as a participant in any transaction having
+such purposes or effect.
+
+Signature.
+
+    After reasonable inquiry and to the best of my knowledge and belief, I
+certify that the information set forth in this statement is true, complete and
+correct.
+- -------------------------------------------------------------------------------
+
+
+Date:  February   13 , 1997
+                ----
+
+/s/ Lee Golden      
+- --------------------
+Signature
+
+
+Lee Golden         
+- --------------------
+Name/Title
+
+                                          2
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

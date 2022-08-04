@@ -1,0 +1,157 @@
+<SEC-DOCUMENT>0001204081-21-000001.txt : 20210506
+<SEC-HEADER>0001204081-21-000001.hdr.sgml : 20210506
+<ACCEPTANCE-DATETIME>20210506175931
+ACCESSION NUMBER:		0001204081-21-000001
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20210504
+FILED AS OF DATE:		20210506
+DATE AS OF CHANGE:		20210506
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			MORRISON PATRICIA
+		CENTRAL INDEX KEY:			0001204081
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04448
+		FILM NUMBER:		21899361
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE BAXTER PARKWAY
+		CITY:			DEERFIELD
+		STATE:			IL
+		ZIP:			60015
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BAXTER INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000010456
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		IRS NUMBER:				360781620
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE BAXTER PKWY
+		STREET 2:		DF2-1W
+		CITY:			DEERFIELD
+		STATE:			IL
+		ZIP:			60015
+		BUSINESS PHONE:		8479482000
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE BAXTER PARKWAY
+		STREET 2:		DF2-1W
+		CITY:			DEERFIELD
+		STATE:			IL
+		ZIP:			60015
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BAXTER TRAVENOL LABORATORIES INC
+		DATE OF NAME CHANGE:	19880522
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BAXTER LABORATORIES INC
+		DATE OF NAME CHANGE:	19760608
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>edgar.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-05-04</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000010456</issuerCik>
+        <issuerName>BAXTER INTERNATIONAL INC</issuerName>
+        <issuerTradingSymbol>BAX</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001204081</rptOwnerCik>
+            <rptOwnerName>MORRISON PATRICIA</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>ONE BAXTER PARKWAY</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>DEERFIELD</rptOwnerCity>
+            <rptOwnerState>IL</rptOwnerState>
+            <rptOwnerZipCode>60015</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, $1 par value</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2021-05-04</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2230</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>7370</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The reporting person received a grant of fully vested shares of common stock of Baxter International Inc., subject to the terms and conditions of the applicable grant.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Matthew Rice, as attorney in-fact for Patricia Morrison</signatureName>
+        <signatureDate>2021-05-06</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

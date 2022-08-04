@@ -1,0 +1,156 @@
+<SEC-DOCUMENT>0001493152-21-017582.txt : 20210722
+<SEC-HEADER>0001493152-21-017582.hdr.sgml : 20210722
+<ACCEPTANCE-DATETIME>20210722203026
+ACCESSION NUMBER:		0001493152-21-017582
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20210719
+FILED AS OF DATE:		20210722
+DATE AS OF CHANGE:		20210722
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Francis Kevin A.
+		CENTRAL INDEX KEY:			0001833995
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08266
+		FILM NUMBER:		211108811
+
+	MAIL ADDRESS:	
+		STREET 1:		553 SAGE CIRCLE
+		CITY:			HIGHLANDS RANCH
+		STATE:			CO
+		ZIP:			80126
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			U.S. GOLD CORP.
+		CENTRAL INDEX KEY:			0000027093
+		STANDARD INDUSTRIAL CLASSIFICATION:	METAL MINING [1000]
+		IRS NUMBER:				221831409
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0430
+
+	BUSINESS ADDRESS:	
+		STREET 1:		SUITE 102 - BOX 604
+		STREET 2:		1910 E IDAHO STREET
+		CITY:			ELKO
+		STATE:			NV
+		ZIP:			89801
+		BUSINESS PHONE:		6097990071
+
+	MAIL ADDRESS:	
+		STREET 1:		SUITE 102 - BOX 604
+		STREET 2:		1910 E IDAHO STREET
+		CITY:			ELKO
+		STATE:			NV
+		ZIP:			89801
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DATARAM CORP
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-07-19</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000027093</issuerCik>
+        <issuerName>U.S. GOLD CORP.</issuerName>
+        <issuerTradingSymbol>USAU</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001833995</rptOwnerCik>
+            <rptOwnerName>Francis Kevin A.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O U.S. GOLD CORP.</rptOwnerStreet1>
+            <rptOwnerStreet2>1910 E. IDAHO STREET, SUITE 102-BOX 604</rptOwnerStreet2>
+            <rptOwnerCity>ELKO</rptOwnerCity>
+            <rptOwnerState>NV</rptOwnerState>
+            <rptOwnerZipCode>89801</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>VP - Exploration</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2021-07-19</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>15322</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>15322</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents restricted stock units granted to the reporting person pursuant to the U.S. Gold Corp. 2020 Stock Incentive Plan (the &quot;Plan&quot;). The restricted stock units vest 25% on the date of grant, and 25% on the first, second and third anniversaries of the date of grant, subject to certain restrictions and conditions set forth in the Plan. For each vested restricted stock unit, the reporting person will be entitled to receive one share of common stock upon termination of employment with or services to the Issuer or in connection with a change of control, as set forth in the reporting person's restricted stock unit award agreement.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Kevin Francis</signatureName>
+        <signatureDate>2021-07-22</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

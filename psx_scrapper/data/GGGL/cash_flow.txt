@@ -1,0 +1,10 @@
+Year,2020
+Operating Cash Flow,"122,458,819"
+Captial Expenditure,"51,286,435"
+Cashflow from Investing,"-51,422,435"
+Cash Flow from Financing,"-66,959,305"
+Net Change,"4,077,079"
+Opening Cash,"60,349,591"
+Closing Cash,"64,426,670"
+FCFF,"71,172,384"
+FCFE,"4,213,079"

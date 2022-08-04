@@ -1,0 +1,182 @@
+<SEC-DOCUMENT>0001127602-21-023111.txt : 20210804
+<SEC-HEADER>0001127602-21-023111.hdr.sgml : 20210804
+<ACCEPTANCE-DATETIME>20210804184533
+ACCESSION NUMBER:		0001127602-21-023111
+CONFORMED SUBMISSION TYPE:	3/A
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20210729
+FILED AS OF DATE:		20210804
+DATE AS OF CHANGE:		20210804
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			ISHRAK OMAR
+		CENTRAL INDEX KEY:			0001523102
+
+	FILING VALUES:
+		FORM TYPE:		3/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37702
+		FILM NUMBER:		211145658
+
+	MAIL ADDRESS:	
+		STREET 1:		710 MEDTRONIC PKWY
+		STREET 2:		MS LC300
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55432
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMGEN INC
+		CENTRAL INDEX KEY:			0000318154
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		IRS NUMBER:				953540776
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE AMGEN CENTER DRIVE
+		CITY:			THOUSAND OAKS
+		STATE:			CA
+		ZIP:			91320
+		BUSINESS PHONE:		(805)447-1000
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE AMGEN CENTER DRIVE
+		CITY:			THOUSAND OAKS
+		STATE:			CA
+		ZIP:			91320
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AMGEN
+		DATE OF NAME CHANGE:	19870305
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3/A
+<SEQUENCE>1
+<FILENAME>form3a.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3/A</documentType>
+
+    <periodOfReport>2021-07-29</periodOfReport>
+
+    <dateOfOriginalSubmission>2021-07-30</dateOfOriginalSubmission>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0000318154</issuerCik>
+        <issuerName>AMGEN INC</issuerName>
+        <issuerTradingSymbol>AMGN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001523102</rptOwnerCik>
+            <rptOwnerName>ISHRAK OMAR</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>ONE AMGEN CENTER DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>THOUSAND OAKS</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>91320</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>175</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Due to administrative error, 175 shares of the Company's Common Stock held by the reporting person prior to his appointment as a director of the Company were not reported.  This filing corrects that administrative error.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Andrea A. Robinson, Attorney-In-Fact for Dr. Ishrak</signatureName>
+        <signatureDate>2021-08-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>doc1.txt
+<DESCRIPTION>POWER OF ATTORNEY (PUBLIC): POWER OF ATTORNEY
+<TEXT>
+Exhibit 24
+
+Power of Attorney
+
+
+		Know all men by these presents, that the undersigned hereby
+constitutes and appoints each of Dennis Yai and Andrea A. Robinson,
+signing singly, the undersigned's true and lawful attorney-in-fact to
+execute for and on behalf of the undersigned Forms 3, 4 and 5 in
+accordance with Section 16(a) of the Securities Exchange Act of 1934,
+as amended, and the rules thereunder, as may be required as a result
+of the undersigneds position as an officer and/or director of Amgen Inc.
+(the "Company").
+
+		The undersigned hereby grants to each such attorney-in-fact
+full power and authority to execute such Forms 3, 4 and 5 as fully to all
+intents and purposes as the undersigned might or could do if personally
+present, with full power of substitution or revocation, hereby ratifying
+and confirming all that such attorney-in-fact, or such attorney-in-fact's
+substitute or substitutes, shall lawfully do or cause to be done by virtue
+of this power of attorney and the rights and powers herein granted.
+The undersigned acknowledges that the foregoing attorneys-in-fact, in
+serving in such capacity at the request of the undersigned, are not
+assuming, nor is the Company assuming, any of the undersigned's
+responsibilities to comply with Section 16 of the Securities Exchange Act
+of 1934, as amended.
+
+		This Power of Attorney shall remain in full force and
+effect until the undersigned is no longer required to file Forms 3, 4
+and 5 with respect to the undersigneds holdings of and transactions
+in securities issued by the Company, unless earlier revoked by the
+undersigned in a signed writing delivered to the foregoing attorneys-
+in-fact.
+
+		IN WITNESS WHEREOF, the undersigned has caused this Power
+of Attorney to be executed as of this 30th day of July, 2021.
+
+
+
+
+						/s/   S. Omar Ishrak
+						Name: S. Omar Ishrak
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

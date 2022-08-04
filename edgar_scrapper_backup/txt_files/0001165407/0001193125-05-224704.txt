@@ -1,0 +1,162 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ JkGhU2x9/bHIeSZaSd4do79GTjjZO56AZHIU4lryPY5fLiPyLnrr/rPyOmqtxpnP
+ qJkC7s6oyJPXYOYwhskMTA==
+
+<SEC-DOCUMENT>0001193125-05-224704.txt : 20051114
+<SEC-HEADER>0001193125-05-224704.hdr.sgml : 20051111
+<ACCEPTANCE-DATETIME>20051114090504
+ACCESSION NUMBER:		0001193125-05-224704
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20050930
+FILED AS OF DATE:		20051114
+DATE AS OF CHANGE:		20051114
+EFFECTIVENESS DATE:		20051114
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PAMET CAPITAL MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001165407
+		IRS NUMBER:				043565803
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-10112
+		FILM NUMBER:		051196912
+
+	BUSINESS ADDRESS:	
+		STREET 1:		425 BOYLTON STREET
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+		BUSINESS PHONE:		6176466100
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>d13fhr.txt
+<DESCRIPTION>FORM 13F
+<TEXT>
+<PAGE>
+
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 13F
+
+                               FORM 13f Cover Page
+
+         Report for the Calendar Year or Quarter End: September 30, 2005
+
+                          Pamet Capital Management, LLC
+- --------------------------------------------------------------------------------
+Name of Institutional Investment Manager
+
+222 Berkeley Street, 22nd Floor                  Boston       MA        02116
+- --------------------------------------------------------------------------------
+Business Address                    (Street)     (City)     (State)     (Zip)
+
+13F File Number: 028-10112
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information herein is true, correct and complete, and
+that it is understood that all required items, statements, schedules, and
+tables, are considered integral parts of this form.
+
+Name, Title and Telephone Number of Person Submitting Report:
+
+Jason Price        Chief Financial Officer              617-646-6100
+- --------------------------------------------------------------------------------
+(Name)                    (Title)                         (Phone)
+
+Signature, Place and Date of Signing:
+
+/s/ Jason Price
+222 Berkeley Street, 22nd Floor, Boston, MA 02116
+11/14/2005
+
+Report Type:
+
+[X]  13F HOLDINGS REPORT.
+[ ]  13F NOTICE.
+[ ]  13F COMBINATION REPORT.
+
+                              FORM 13F SUMMARY PAGE
+
+Number of Other Included Managers:                          1
+List of Other Included Managers:          Abrams Capital, LLC
+
+Form 13F Information Table Entry Total:                    27
+Form 13F Information Table Value Total:         1,180,970,000
+
+<PAGE>
+
+
+                UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 13F
+                                INFORMATION TABLE
+
+                          Pamet Capital Management, LLC
+
+                           FORM 13F INFORMATION TABLE
+                               AS OF DATE: 9/30/05
+
+<TABLE>
+<CAPTION>
+ITEM 1                           ITEM 2        ITEM 3     ITEM 4         ITEM 5       ITEM 6     ITEM 7               ITEM 8
+- ------------------------------------------------------------------------------------------------------------------------------------
+                                                                                      INVSTMT                   VOTING AUTHORITY
+                                                          VALUE      SHARES/   PUT/   DSCRETN    OTHER       ----------------------
+NAME OF ISSUER               TITLE OF CLASS    CUSIP     (x$1000)    PRN AMT   CALL    SOLE     MANAGERS*    SOLE     SHARED   NONE
+- ------------------------------------------------------------------------------------------------------------------------------------
+<S>                            <C>           <C>          <C>       <C>         <C>     <C>             <C> <C>       <C>      <C>
+Allegheny Energy Inc               COM       017361106      9,873     321,400           SOLE                  321,400
+Allegheny Energy Inc               COM       017361106    141,702   4,612,700           SOLE            1   4,612,700
+Altria Goup Inc                    COM       02209S103     13,872     188,200   CALL    SOLE                  188,200
+Altria Goup Inc                    COM       02209S103    212,417   2,881,800   CALL    SOLE            1   2,881,800
+Central Pkg Corp                   COM       154785109        431      28,800           SOLE                   28,800
+Central Pkg Corp                   COM       154785109      6,297     421,200           SOLE            1     421,200
+Dycom Inds Inc                     COM       267475101        200       9,900           SOLE                    9,900
+Dycom Inds Inc                     COM       267475101      2,976     147,200           SOLE            1     147,200
+EGL Inc                            COM       268484102        356      13,100           SOLE                   13,100
+EGL Inc                            COM       268484102      5,304     167,992           SOLE            1     167,992
+Echostar Communications New       CL A       278762109    133,721   4,522,200           SOLE            1   4,522,200
+Erie Indty Co                     CL A       29530P102      3,381      64,100           SOLE                   64,100
+Erie Indty Co                     CL A       29530P102     53,884   1,021,492           SOLE            1   1,021,492
+Gentek Inc                     COM NEW       37245X203        222      15,300           SOLE                   15,300
+Gentek Inc                     COM NEW       37245X203      3,239     223,374           SOLE            1     223,374
+Global Signal Inc                  COM       37944Q103    315,725   7,118,841           SOLE            1   7,118,841
+Golden West Finl Corp Del          COM       381317106      3,397      57,200           SOLE                   57,200
+Golden West Finl Corp Del          COM       381317106     50,054     842,800           SOLE            1     842,800
+Group 1 Automotive Inc             COM       398905109      2,227      80,700           SOLE            1      80,700
+Hospira Inc                        COM       441060100      3,130      76,400           SOLE                   76,400
+Hospira Inc                        COM       441060100     46,526   1,135,600           SOLE            1   1,135,600
+Morgan Stanley                 COM NEW       617446448      2,104      39,000           SOLE                   39,000
+Morgan Stanley                 COM NEW       617446448     32,272     598,300           SOLE            1     598,300
+SLM Corp                           COM       78442P106      4,372      81,500           SOLE                   81,500
+SLM Corp                           COM       78442P106     65,173   1,215,000           SOLE            1   1,215,000
+USA Mobility Inc                   COM       90341G103      3,859     143,043           SOLE                  143,043
+USA Mobility Inc                   COM       90341G103     64,256   2,381,633           SOLE            1   2,381,633
+</TABLE>
+
+* Where shares are reported for "Other Managers" designated in Item 7, all of
+the information provided is with respect to such manager.
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

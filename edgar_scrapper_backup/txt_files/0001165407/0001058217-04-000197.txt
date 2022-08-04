@@ -1,0 +1,195 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Qy29ELhZVmhZ76g4cRcNui7ENi87mopaVrcNdSb3slOrgg7rx/0VeHUm+VsOxfXr
+ k0eyKAFN9VoTFzH2o7cf2g==
+
+<SEC-DOCUMENT>0001058217-04-000197.txt : 20041112
+<SEC-HEADER>0001058217-04-000197.hdr.sgml : 20041111
+<ACCEPTANCE-DATETIME>20041112163616
+ACCESSION NUMBER:		0001058217-04-000197
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20040930
+FILED AS OF DATE:		20041112
+DATE AS OF CHANGE:		20041112
+EFFECTIVENESS DATE:		20041112
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PAMET CAPITAL MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001165407
+		IRS NUMBER:				043565803
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-10112
+		FILM NUMBER:		041139850
+
+	BUSINESS ADDRESS:	
+		STREET 1:		425 BOYLTON STREET
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+		BUSINESS PHONE:		6176466100
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>pametabramcapital13fhr20850.txt
+<DESCRIPTION>HOLDINGS REPORT
+<TEXT>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 13F
+
+                               FORM 13f Cover Page
+
+
+         Report for the Calendar Year or Quarter End: September 30, 2004
+
+
+                          Pamet Capital Management, LLC
+- --------------------------------------------------------------------------------
+Name of Institutional Investment Manager
+
+
+  222 Berkeley Street, 22nd Floor           Boston              MA         02116
+- --------------------------------------------------------------------------------
+Business Address         (Street)           (City)            (State)      (Zip)
+
+
+13F File Number: 028-10112
+                ---------------
+
+The institutional  investment  manager filing this report and the person by whom
+it is signed hereby  represent  that the person signing the report is authorized
+to submit it, that all  information  herein is true,  correct and complete,  and
+that it is  understood  that all  required  items,  statements,  schedules,  and
+tables, are considered integral parts of this form.
+
+
+Name, Title and Telephone Number of Person Submitting Report:
+
+
+Jason Price                 Chief Financial Officer                 617-646-6100
+- --------------------------------------------------------------------------------
+  (Name)                          (Title)                             (Phone)
+
+
+
+Signature, Place and Date of Signing:
+
+/s/ Jason Price
+- ------------------------------------------------
+Jason Price
+222 Berkeley Street, 22nd Floor, Boston, MA 02116
+11/12/2004
+
+
+Report Type:
+
+[X]      13F HOLDINGS REPORT.
+[ ]      13F NOTICE.
+[ ]      13F COMBINATION REPORT.
+
+
+<PAGE>
+
+                              FORM 13F SUMMARY PAGE
+
+
+
+
+
+Number of Other Included Managers:       1
+                                  --------------
+
+List of Other Included Managers:    Abrams Capital, LLC
+                                ------------------------------
+
+Form 13F Information Table Entry Total:     33
+                                       ------------
+
+Form 13F Information Table Value Total:   640,142,000
+                                       ---------------------
+
+
+<PAGE>
+
+                UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 13F
+                                INFORMATION TABLE
+
+                          Pamet Capital Management, LLC
+
+                           FORM 13F INFORMATION TABLE
+                               AS OF DATE: 9/30/04
+
+<TABLE>
+<CAPTION>
+- ------------------------------------------------------------------------------------------------------------------------------------
+ITEM 1                              ITEM 2       ITEM 3     ITEM 4       ITEM 5      ITEM 6    ITEM 7              ITEM 8
+                                                            VALUE   SHARES/   PUT/   INVSTMT    OTHER          VOTING AUTHORITY
+  NAME OF ISSUER               TITLE OF CLASS    CUSIP    (x$1000)  PRN AMT   CALL   DSCRETN   MANAGERS     SOLE    SHARED    NONE
+- ------------------------------ ---------------- --------- -------- --------   ----   ------- ------------ -------- -------- --------
+<S>                                 <C>          <C>        <C>    <C>               <C>          <C>   <C>
+Allegheny Energy Inc                    COM       017361106   5770   361500            361500             361500
+Allegheny Energy Inc                    COM       017361106  80089  5018100           5018100      1     5018100
+Arch Wireless Inc.                     CL A       039392709   3271   113854            113854             113854
+Arch Wireless Inc.                     CL A       039392709  47624  1657638           1657638      1     1657638
+Berkshire Hathaway Inc  Del            CL A       084670108   5199       60                60      1          60
+Berkshire Hathaway Inc Del             CL B       084670207    844      294               294                294
+Berkshire Hathaway Inc Del             CL B       084670207   8963     3122              3122      1        3122
+Block H&R Inc                           COM       093671105   3924    79400             79400              79400
+Block H&R Inc                           COM       093671105  52706  1066500           1066500      1     1066500
+Citigroup Inc                         W EXP       172967127    350   246340            246340             246340
+Citigroup Inc                         W EXP       172967127   5213  3670936           3670936      1     3670936
+Echostar Communications New            CL A       278762109   5709   183450            183450             183450
+Echostar Communications New            CL A       278762109  77700  2496800           2496800      1     2496800
+Erie Indty Co                          CL A       29530P102   2985    58500             58500              58500
+Erie Indty Co                          CL A       29530P102  41663   816592            816592      1      816592
+Global Signal Inc                       COM       37944Q103   8559   379462            379462             379462
+Global Signal Inc                       COM       37944Q103 125639  5569986           5569986      1     5569986
+Intergraph Corp                         COM       458683109   2475    91077             91077              91077
+Intergraph Corp                         COM       458683109  40253  1481542           1481542      1     1481542
+Juno Ltg Inc                        COM NEW       482047206   1044    34400             34400              34400
+Juno Ltg Inc                        COM NEW       482047206  14876   490311            490311      1      490311
+Metrocall Hldgs Inc                     COM       59164X105   1193    18400             18400              18400
+Metrocall Hldgs Inc                     COM       59164X105  16576   255600            255600      1      255600
+Morgan Stanley                      COM NEW       617446448   1403    28450             28450              28450
+Morgan Stanley                      COM NEW       617446448  20156   408850            408850      1      408850
+Newcastle Invt Corp                     COM       65105M108    697    22700             22700              22700
+Newcastle Invt Corp                     COM       65105M108  11583   377300            377300      1      377300
+Progressive Corp Ohio                   COM       743315103    653     7700              7700               7700
+Progressive Corp Ohio                   COM       743315103   9119   107600            107600      1      107600
+SLM Corp                                COM       78442P106   2524    56600             56600              56600
+SLM Corp                                COM       78442P106  34387   771000            771000      1      771000
+Safety Ins Group Inc                    COM       78648T100    413    18600             18600              18600
+Safety Ins Group Inc                    COM       78648T100   6582   296104            296104      1      296104
+
+
+*  Where shares are reported for "Other Managers" designated in Item 7, all of the information provided is with respect to such
+   manager.
+
+
+
+</TABLE>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

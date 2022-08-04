@@ -1,0 +1,198 @@
+<SEC-DOCUMENT>0001193125-13-015812.txt : 20130117
+<SEC-HEADER>0001193125-13-015812.hdr.sgml : 20130117
+<ACCEPTANCE-DATETIME>20130117141755
+ACCESSION NUMBER:		0001193125-13-015812
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20121231
+FILED AS OF DATE:		20130117
+DATE AS OF CHANGE:		20130117
+EFFECTIVENESS DATE:		20130117
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DT Investment Partners, LLC
+		CENTRAL INDEX KEY:			0001537621
+		IRS NUMBER:				451586812
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-14628
+		FILM NUMBER:		13534488
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1013 CENTRE ROAD - SUITE 220
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19805
+		BUSINESS PHONE:		3025941070
+
+	MAIL ADDRESS:	
+		STREET 1:		1013 CENTRE ROAD - SUITE 220
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19805
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>d469700d13fhr.txt
+<DESCRIPTION>FORM 13F
+<TEXT>
+<PAGE>
+
+================================================================================
+
+                                 UNITED STATES
+                      SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C. 20549
+
+                                   FORM 13F
+
+                             Form 13 F Cover Page
+
+Report for the Calendar Year or Quarter Ended: 12/31/2012
+
+Check here if Amendment [_]; Amendment Number ______________
+   This Amendment (Check only one):   [_] is a restatement
+                                      [_] adds new holdings entries
+
+Institutional Investment Manager Filing this Report:
+
+Name:    DT Investment Partners, LLC
+Address: Brandywine Five, Suite 103
+         1 Dickinson Drive
+         Chadds Ford, PA 19317
+
+Form 13F File Number: 028-14628
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements
+schedules, lists and tables, are considered integral parts of this form.
+
+Person signing this Report on Behalf of Reporting Manager:
+
+Name:    Daniel N. Mullen
+Title:   Chief Compliance Officer
+Phone:   484-778-4425
+
+Signature, Place and Date of Signing:
+
+Daniel N. Mullen,    Chadds Ford, PA    January 17, 2013
+
+Report Type (Check only one.):
+
+[X] 13F Holdings Report (Check here if all holdings of this reporting manager
+    are reported in this report.)
+
+[_] 13F Notice. (Check here if no holdings reported are in this report, and all
+    holdings are reported by other reporting managers.)
+
+[_] 13F COMBINATION REPORT. (Check here if a portion of the holdings for this
+    reporting manager are reported in this report and a portion is reported by
+    other reporting managers.)
+
+List of Other Managers Reporting for this Manager:
+
+None
+
+================================================================================
+
+<PAGE>
+
+                             FORM 13F SUMMARY PAGE
+
+Report Summary:
+
+Number of Other Included Managers:      1
+
+Form 13F Information Table Entry Total: 54
+
+Form 13F Information Table Value Total: 187126
+                                        -----------
+                                        (thousands)
+
+List of Other Included Managers:
+
+    No.    Form 13F File Number         Name
+    ---    --------------------         ------------
+     1          028-14068               Daniels & Tansey, LLP
+
+<PAGE>
+
+                          FORM 13F INFORMATION TABLE
+                          DT INVESTMENT PARTNERS, LLC
+                            AS OF DECEMBER 31, 2012
+
+<TABLE>
+<CAPTION>
+COLUMN 1                          COLUMN 2        COLUMN 3  COLUMN 4 COLUMN 5           COLUMN 6  COLUMN 7      COLUMN 8
+                                                             VALUE   SHRS OR  SH/ PUT/ INVESTMENT  OTHER     VOTING AUTHORITY
+NAME OF ISSUER                  TITLE OF CLASS     CUSIP    (x$1000) PRN AMT  PRN CALL DISCRETION   MGRS   SOLE  SHARED   NONE
+<S>                           <C>                 <C>       <C>      <C>      <C> <C>  <C>        <C>      <C>  <C>      <C>
+EATON CORP PLC                       SHS          G29183103    270      4986  SH        DEFINED      1                     4986
+AT&T INC                             COM          00206R102    389     11535  SH        DEFINED      1                    11535
+ANALOG DEVICES INC                   COM          032654105    340      8073  SH        DEFINED      1                     8073
+APPLIED MATERIALS INC                COM          038222105    185     16194  SH        DEFINED      1                    16194
+BLCKRCK ENHCD CAP & INC              COM          09256A109    526     42334  SH        DEFINED      1                    42334
+BRISTOL-MYERS SQUIBB                 COM          110122108    258      7908  SH        DEFINED      1                     7908
+CAMPBELL SOUP CO                     COM          134429109    446     12784  SH        DEFINED      1                    12784
+CHEVRON CORP NEW                     COM          166764100    566      5236  SH        DEFINED      1                     5236
+CONOCOPHILLIPS                       COM          20825C104    337      5810  SH        DEFINED      1                     5810
+DU PONT E I DE NEMOURS & CO          COM          263534109    234      5209  SH        DEFINED      1                     5209
+ENTERGY CORP NEW                     COM          29364G103    215      3377  SH        DEFINED      1                     3377
+EXELON CORPORATION                   COM          30161N101    227      7641  SH        DEFINED      1                     7641
+FIRSTENERGY CORP                     COM          337932107    273      6537  SH        DEFINED      1                     6537
+GENERAL ELECTRIC CO                  COM          369604103    281     13396  SH        DEFINED      1                    13396
+ILLINOIS TOOL WORKS INC              COM          452308109    269      4427  SH        DEFINED      1                     4427
+ISHARES GOLD TRUST                 I SHARES       464285105   5291    325001  SH        DEFINED      1                   325001
+I SHARES TR                   CORE TOTUS BD ETF   464287226  20347    183178  SH        DEFINED      1                   183178
+I SHARES TR                    CORE S&P MCP ETF   464287507  19765    194346  SH        DEFINED      1                   194346
+I SHARES TR                    COHEN & ST RLTY    464287564   5039     64161  SH        DEFINED      1                    64161
+I SHARES TR                      RUSSELL 1000     464287622   7255     91659  SH        DEFINED      1                    91659
+I SHARES TR                      S&P SCP ETF      464287804  10598    135698  SH        DEFINED      1                   135698
+I SHARES TR                     S&P EURO PLUS     464287861   4729    120323  SH        DEFINED      1                   120323
+I SHARES TR                      AGENCY BD FD     464288166    764      6741  SH        DEFINED      1                     6741
+I SHARES TR                    S&P NATL AMTFREE   464288414    296      2672  SH        DEFINED      1                     2672
+I SHARES TR                     BARCLYS MBS BD    464288588  17660    163531  SH        DEFINED      1                   163531
+I SHARES TR                    BARCLYS INTER CR   464288638   7464     67064  SH        DEFINED      1                    67064
+I SHARES TR                   BARCLAYS 1-3 YR CR  464288646   2197     20829  SH        DEFINED      1                    20829
+I SHARES TR                    US PFD STOCK IDX   464288687    765     19298  SH        DEFINED      1                    19298
+I SHARES TR                     USA MIN VOL ID    46429B697    411     14170  SH        DEFINED      1                    14170
+KIMBERLY CLARK CORP                  COM          494368103    492      5830  SH        DEFINED      1                     5830
+KINDER MORGAN ENERGY
+ PARTNER                        UT LTD PARTNER    494550106    321      4021  SH        DEFINED      1                     4021
+ELI LILLY & CO                       COM          532457108    342      6927  SH        DEFINED      1                     6927
+MERCK & CO INC NEW                   COM          58933Y105    252      6165  SH        DEFINED      1                     6165
+MICROSOFT CORP                       COM          594918104    293     10966  SH        DEFINED      1                    10966
+NUCOR CORP                           COM          670346105    313      7252  SH        DEFINED      1                     7252
+PFIZER INC                           COM          717081103    340     13552  SH        DEFINED      1                    13552
+PIMCO ETF TR                     0-5 HIGH YLD     72201R783    381      3688  SH        DEFINED      1                     3688
+POWERSHARES DB COMM IDX TRA      UNIT BEN INT     73935S105   2846    102452  SH        DEFINED      1                   102452
+POWERSHARES GLOBAL ETF TRUST    SOVERIGN DEBT     73936T573   1595     50723  SH        DEFINED      1                    50723
+RAYTHEON CO                          COM          755111507    315      5474  SH        DEFINED      1                     5474
+SPDR S&P 500 ETF TRUST             TR UNIT        78462F103  25503    179082  SH        DEFINED      1                   179082
+SPDR SERIES TR                  BR HIGH YLD BD    78464A417  15914    390913  SH        DEFINED      1                   390913
+SPDR SERIES TR                   DJ REIT ETF      78464A607   5172     70872  SH        DEFINED      1                    70872
+SELECT SECTOR SPDR TR           SBI HEALTHCARE    81369Y209   3369     84466  SH        DEFINED      1                    84466
+SELECT SECTOR SPDR TR          SBI CONS STAPLES   81369Y308   2931     83977  SH        DEFINED      1                    83977
+SELECT SECTOR SPDR TR           SBI INT ENERGY    81369Y506   2859     40037  SH        DEFINED      1                    40037
+SELECT SECTOR SPDR TR           SBI INT UTILS     81369Y886   1921     55007  SH        DEFINED      1                    55007
+SPECTRA ENERGY CORP                  COM          847560109    319     11644  SH        DEFINED      1                    11644
+SYSCO CORP                           COM          871829107    440     13908  SH        DEFINED      1                    13908
+TORTOISE EGY INFRASTRUCT C           COM          89147L100    518     13665  SH        DEFINED      1                    13665
+VANGUARD SPECIALIZED
+ PORTFOLIO                       DIV APP ETF      921908844   4576     76824  SH        DEFINED      1                    76824
+VANGUARD INTL EQUITY INDEX F   MSCI EMR MKT ETF   922042858   7941    178330  SH        DEFINED      1                   178330
+VERIZON COMMUNICATIONS               COM          92343V104    397      9175  SH        DEFINED      1                     9175
+WILLIAMS COS INC                     COM          969457100    379     11568  SH        DEFINED      1                    11568
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

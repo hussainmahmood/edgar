@@ -1,0 +1,162 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ E+MXweUNjR4uoV+THeUciKhdTpWyNQNTwshh8lIasZ+fvAlnNIi4fWcRQnWHbGtv
+ SfMOTJ9CgIL7RAKWcwg2Dw==
+
+<SEC-DOCUMENT>0000919574-05-003874.txt : 20051114
+<SEC-HEADER>0000919574-05-003874.hdr.sgml : 20051111
+<ACCEPTANCE-DATETIME>20051114122237
+ACCESSION NUMBER:		0000919574-05-003874
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20050930
+FILED AS OF DATE:		20051114
+DATE AS OF CHANGE:		20051114
+EFFECTIVENESS DATE:		20051114
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ABRAMS BISON INVESTMENTS, LLC
+		CENTRAL INDEX KEY:			0001317588
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-11161
+		FILM NUMBER:		051198481
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7315 WISCONSIN AVENUE
+		STREET 2:		SUITE 700E
+		CITY:			BETHESDA
+		STATE:			MD
+		ZIP:			20814
+		BUSINESS PHONE:		301-657-5925
+
+	MAIL ADDRESS:	
+		STREET 1:		7315 WISCONSIN AVENUE
+		STREET 2:		SUITE 700E
+		CITY:			BETHESDA
+		STATE:			MD
+		ZIP:			20814
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>d614704_13f-hr.txt
+<TEXT>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 13F
+
+                               FORM 13F Cover Page
+
+             Report for the Calendar Year or Quarter Ended 09/30/05
+
+Check here if Amendment:           |_|; Amendment Number: ____
+
+This Amendment (Check only one):   |_| is a restatement
+                                   |_| adds new holding entries.
+
+Institutional Manager Filing this Report:
+
+Name:     Abrams Bison Investments, L.L.C.
+
+Address:  7315 Wisconsin Ave., Suite 700E
+          Bethesda, MD 20814
+
+13F File Number: 28- 11161
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:     Gavin M. Abrams
+Title:    Managing Member
+Phone:    (301) 657 5925
+
+Signature, Place and Date of Signing:
+
+
+   /s/ Gavin M. Abrams          Bethesda, Maryland              11/14/05
+- -----------------------     --------------------------    ----------------------
+     [Signature]                  [City, State]                   [Date]
+<PAGE>
+
+Report Type: (Check only one):
+
+[x]  13F HOLDINGS REPORT. (Check here if all holdings of this reporting manager
+     are reported in this report).
+
+[_]  13F NOTICE. (Check here if no holdings reported are in this report, and all
+     holdings are reported by other reporting managers(s).)
+
+[_]  13F COMBINATION REPORT. (Check here if a portion of the holdings for this
+     reporting manager are reported in this report and a portion are reported by
+     other reporting manager(s).)
+
+List of Other Managers Reporting for this Manager:
+
+NONE
+<PAGE>
+
+                              Form 13F SUMMARY PAGE
+
+Report Summary:
+
+Number of Other Included Managers:       1
+Form 13F Information Table Entry Total:  12
+Form 13F Information Table Value Total: $362,413 (thousands)
+
+List of Other Included Managers:
+
+          Form 13F file Number               Name
+          --------------------               ----
+
+1.        028-11159                          Abrams Bison Partners, L.P.,
+          ---------------------------------------------------------------
+<PAGE>
+
+<TABLE>
+                                                     FORM 13F INFORMATION TABLE
+<CAPTION>
+                               Title                 Market     Sh/
+                               of                    Value      Prn         Sh/   Put/   Investment   Other       Voting Authority
+Name of Issuer                 Class     Cusip       (USD)      Amount      Prn   Call   Discretion   Managers   Sole  Shared   None
+- ------------------------------------------------------------------------------------------------------------------------------------
+<S>                            <C>       <C>          <C>       <C>         <C>   <C>    <C>          <C>        <C>   <C>       <C>
+AUTOZONE, INC                  COM       053332102    28,422    341,400     SH           SHARE-DEFINED                 341,400
+AVIALL INC                     COM       05366B102    76,937    2,277,600   SH           SHARE-DEFINED                 2,277,600
+BLOCKBUSTER INC                CL A      093679108    1,501     316,000     SH           SHARE-DEFINED                 316,000
+BLOCKBUSTER INC                CL B      093679207    9,113     2,034,100   SH           SHARE-DEFINED                 2,034,100
+HASBRO INC                     COM       418056107    64,688    3,292,000   SH           SHARE-DEFINED                 3,292,000
+HEIDRICK & STRUGGLES INTL IN   COM       422819102    59,632    1,841,632   SH           SHARE-DEFINED                 1,841,632
+IPAYMENT INC                   COM       46262E105    9,112     240,800     SH           SHARE-DEFINED                 240,800
+MERCK & CO.INC.                COM       589331107    1,361     50,000      SH           SHARE-DEFINED                 50,000
+PFIZER INC.                    COM       717081103    7,491     300,000     SH           SHARE-DEFINED                 300,000
+PIONEER NATURAL RESOURCES CO   COM       723787107    37,208    677,500     SH           SHARE-DEFINED                 677,500
+ROYAL GROUP TECHNOLOGIES LTD   COM       779915107    11,468    1,141,130   SH           SHARE-DEFINED                 1,141,130
+RENAISSANCE RE HOLDINGS LTD    COM       G7496G103    55,480    1,268,700   SH           SHARE-DEFINED                 1,268,700
+
+                                                      362,413
+</TABLE>
+
+02802.0001 #614704
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

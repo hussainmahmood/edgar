@@ -1,0 +1,163 @@
+<SEC-DOCUMENT>0000764065-21-000152.txt : 20210430
+<SEC-HEADER>0000764065-21-000152.hdr.sgml : 20210430
+<ACCEPTANCE-DATETIME>20210430162934
+ACCESSION NUMBER:		0000764065-21-000152
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20210428
+FILED AS OF DATE:		20210430
+DATE AS OF CHANGE:		20210430
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			GERBER WILLIAM K
+		CENTRAL INDEX KEY:			0001211265
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08944
+		FILM NUMBER:		21878591
+
+	MAIL ADDRESS:	
+		STREET 1:		999 WEST BIG BEAVER ROAD
+		CITY:			TROY
+		STATE:			MI
+		ZIP:			48084
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CLEVELAND-CLIFFS INC.
+		CENTRAL INDEX KEY:			0000764065
+		STANDARD INDUSTRIAL CLASSIFICATION:	METAL MINING [1000]
+		IRS NUMBER:				341464672
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 PUBLIC SQUARE
+		STREET 2:		STE. 3300
+		CITY:			CLEVELAND
+		STATE:			OH
+		ZIP:			44114-2315
+		BUSINESS PHONE:		216-694-5700
+
+	MAIL ADDRESS:	
+		STREET 1:		200 PUBLIC SQUARE
+		STREET 2:		STE. 3300
+		CITY:			CLEVELAND
+		STATE:			OH
+		ZIP:			44114-2315
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CLIFFS NATURAL RESOURCES INC.
+		DATE OF NAME CHANGE:	20081015
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CLEVELAND CLIFFS INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wf-form4_161981455837247.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-04-28</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000764065</issuerCik>
+        <issuerName>CLEVELAND-CLIFFS INC.</issuerName>
+        <issuerTradingSymbol>CLF</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001211265</rptOwnerCik>
+            <rptOwnerName>GERBER WILLIAM K</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>200 PUBLIC SQUARE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 3300</rptOwnerStreet2>
+            <rptOwnerCity>CLEVELAND</rptOwnerCity>
+            <rptOwnerState>OH</rptOwnerState>
+            <rptOwnerZipCode>44114</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2021-04-28</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>6539</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>122874</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reflects the number of restricted shares granted to the Reporting Person as  the 2021 Director Restricted Shares pursuant to the Cleveland-Cliffs Inc. 2021 Nonemployee Directors' Compensation Plan.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ James D. Graham, By Power of Attorney</signatureName>
+        <signatureDate>2021-04-30</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

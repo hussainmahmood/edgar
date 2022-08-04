@@ -1,0 +1,614 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Bx/AilatYagEgHktDny6Ej/NfmQTyuoJBqJSgBHzThrL+5VQhFmmIuiGk1GCudXk
+ +DB6wbQIjE+pSeQANYF3ag==
+
+<SEC-DOCUMENT>0000922423-05-000891.txt : 20050614
+<SEC-HEADER>0000922423-05-000891.hdr.sgml : 20050614
+<ACCEPTANCE-DATETIME>20050525170942
+ACCESSION NUMBER:		0000922423-05-000891
+CONFORMED SUBMISSION TYPE:	SC 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20050525
+DATE AS OF CHANGE:		20050525
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			1 800 CONTACTS INC
+		CENTRAL INDEX KEY:			0001050122
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-CATALOG & MAIL-ORDER HOUSES [5961]
+		IRS NUMBER:				870571643
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-54695
+		FILM NUMBER:		05857507
+
+	BUSINESS ADDRESS:	
+		STREET 1:		13751 S WADSWORTH PARK DR SUITE D-140
+		CITY:			DRAPER
+		STATE:			UT
+		ZIP:			84020
+		BUSINESS PHONE:		8015728225
+
+	MAIL ADDRESS:	
+		STREET 1:		13751 S WADSWORTH PARK DR SUITE D-140
+		CITY:			DRAPER
+		STATE:			UT
+		ZIP:			84020
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Johnson Frank L
+		CENTRAL INDEX KEY:			0001315394
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+
+	BUSINESS ADDRESS:	
+		BUSINESS PHONE:		212 218 5154
+
+	MAIL ADDRESS:	
+		STREET 1:		1270 SIXTH AVENUE, SUITE 2200
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10020
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Johnson Frank
+		DATE OF NAME CHANGE:	20050125
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<FILENAME>kl00562_sc13g.txt
+<DESCRIPTION>1-800 CONTACTS
+<TEXT>
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+
+                                   ----------
+
+
+                    Under the Securities Exchange Act of 1934
+
+                                  SCHEDULE 13G
+
+
+             INFORMATION STATEMENT PURSUANT TO RULES 13d-1 AND 13d-2
+                    UNDER THE SECURITIES EXCHANGE ACT OF 1934
+
+
+
+
+                              1-800 Contacts, Inc.
+                              --------------------
+                                (Name of Issuer)
+
+
+
+                     Common Stock, $0.01 par value per share
+                     ---------------------------------------
+                         (Title of Class of Securities)
+
+
+
+                                    681977104
+                                  ------------
+                                 (CUSIP Number)
+
+                                  May 12, 2005
+             ------------------------------------------------------
+             (Date of Event Which Requires Filing of this Statement)
+
+
+
+Check the appropriate box to designate the rule pursuant to which this Schedule
+is filed:
+
+         |_|  Rule 13d-1(b)
+         |X| Rule 13d-1(c)
+         |_| Rule 13d-1(d)
+
+
+                               Page 1 of 10 Pages
+
+
+<PAGE>
+
+                                  SCHEDULE 13G
+
+CUSIP No. 681977104                                          Page 2 of 10 Pages
+- -------------------------------------------------------------------------------
+1)  NAME OF REPORTING PERSON
+    S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+    LaGrange Capital Partners, L.P.
+- -------------------------------------------------------------------------------
+2)  CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP         (a)   |_|
+
+                                                             (b)   |X|
+- -------------------------------------------------------------------------------
+3)  SEC USE ONLY
+
+
+- -------------------------------------------------------------------------------
+4)  CITIZENSHIP OR PLACE OF ORGANIZATION
+
+    Delaware
+- -------------------------------------------------------------------------------
+                                5)     SOLE VOTING POWER
+
+       NUMBER                          577,339
+       OF                     --------------------------------------------------
+       SHARES                   6)     SHARED VOTING POWER
+       BENEFICIALLY
+       OWNED BY                        0
+       EACH                   --------------------------------------------------
+       REPORTING                7)     SOLE DISPOSITIVE POWER
+       PERSON
+       WITH                            577,339
+                              --------------------------------------------------
+                                8)     SHARED DISPOSITIVE POWER
+
+                                       0
+- -------------------------------------------------------------------------------
+9)  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+    577,339
+- -------------------------------------------------------------------------------
+10) CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+
+                                                           |_|
+- -------------------------------------------------------------------------------
+11) PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+
+    4.3%
+- -------------------------------------------------------------------------------
+12) TYPE OF REPORTING PERSON
+
+    PN
+- -------------------------------------------------------------------------------
+
+
+<PAGE>
+
+
+
+                                  SCHEDULE 13G
+
+CUSIP No. 681977104                                           Page 3 of 10 Pages
+- -------------------------------------------------------------------------------
+
+1)  NAME OF REPORTING PERSON
+    S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+    LaGrange Capital Partners Offshore Fund, Ltd.
+- -------------------------------------------------------------------------------
+2)  CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP         (a)   |_|
+
+                                                             (b)   |X|
+- -------------------------------------------------------------------------------
+3)  SEC USE ONLY
+
+
+- -------------------------------------------------------------------------------
+4)  CITIZENSHIP OR PLACE OF ORGANIZATION
+
+    Cayman Islands
+- -------------------------------------------------------------------------------
+                                5)     SOLE VOTING POWER
+
+       NUMBER                          91,331
+       OF                     --------------------------------------------------
+       SHARES                   6)     SHARED VOTING POWER
+       BENEFICIALLY
+       OWNED BY                        0
+       EACH                   --------------------------------------------------
+       REPORTING                7)     SOLE DISPOSITIVE POWER
+       PERSON
+       WITH                            91,331
+                              --------------------------------------------------
+                                8)     SHARED DISPOSITIVE POWER
+
+                                       0
+- -------------------------------------------------------------------------------
+9)  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+    91,331
+- -------------------------------------------------------------------------------
+10) CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+
+                                                             |_|
+- -------------------------------------------------------------------------------
+11) PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+
+    .7%
+- -------------------------------------------------------------------------------
+12) TYPE OF REPORTING PERSON
+
+    CO
+- -------------------------------------------------------------------------------
+
+<PAGE>
+
+
+
+                                  SCHEDULE 13G
+
+CUSIP No. 681977104                                           Page 4 of 10 Pages
+- -------------------------------------------------------------------------------
+
+1)  NAME OF REPORTING PERSON
+    S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+    Frank LaGrange Johnson
+- -------------------------------------------------------------------------------
+2)  CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP         (a)   |_|
+
+                                                             (b)   |X|
+- -------------------------------------------------------------------------------
+3)  SEC USE ONLY
+
+
+- -------------------------------------------------------------------------------
+4)  CITIZENSHIP OR PLACE OF ORGANIZATION
+
+    USA
+- -------------------------------------------------------------------------------
+                                5)     SOLE VOTING POWER
+
+       NUMBER                          682,231
+       OF                     --------------------------------------------------
+       SHARES                   6)     SHARED VOTING POWER
+       BENEFICIALLY
+       OWNED BY                        0
+       EACH                   --------------------------------------------------
+       REPORTING                7)     SOLE DISPOSITIVE POWER
+       PERSON
+       WITH                            682,231
+                              --------------------------------------------------
+                                8)     SHARED DISPOSITIVE POWER
+
+                                       0
+- -------------------------------------------------------------------------------
+9)  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+    682,231
+- -------------------------------------------------------------------------------
+10) CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+
+                                                             |_|
+- -------------------------------------------------------------------------------
+11) PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+
+    5.1%
+- -------------------------------------------------------------------------------
+12) TYPE OF REPORTING PERSON
+
+    IN
+- -------------------------------------------------------------------------------
+
+
+<PAGE>
+
+
+
+Schedule 13G
+
+Item 1(a).   Name of Issuer:
+
+1-800 Contacts, Inc.
+
+Item 1(b).   Address of Issuer's Principal Executive Offices:
+
+66 E. Wadsworth Park Drive
+Draper, UT  84020
+
+Item 2(a).   Name of Persons Filing:
+
+(i)   LaGrange Capital Partners, L.P.
+(ii)  LaGrange Capital Partners Offshore Fund, Ltd.
+(iii) Frank LaGrange Johnson
+
+(collectively, the "Reporting Persons" and each a "Reporting Person")
+
+Item 2(b).   Address of Principal Business Office or, if None, Residence:
+
+Each of the Reporting Persons has a business address at 1270 Avenue of the
+Americas, Suite 2200, New York, New York 10020.
+
+Item 2(c).   Citizenship:
+
+(i)   LaGrange Capital Partners, L.P.
+      Delaware
+
+(ii)  LaGrange Capital Partners Offshore Fund, Ltd.
+      Cayman Islands
+
+(iii) Frank LaGrange Johnson
+      USA
+
+Item 2(d).   Title of Class of Securities:
+
+Common Stock, $0.01 par value per share
+
+Item 2(e).   CUSIP Number:
+
+681977104
+
+Item 3.      If this statement is filed pursuant to ss.ss. 240.13d-1(b), or
+             240.13d-2(b) or (c), check whether the person filing is a:
+
+            (a)   |_| Broker or Dealer Registered Under Section 15 of the Act
+                  (15 U.S.C. 78o)
+
+            (b)   |_| Bank as defined in section 3(a)(6) of the Act (15 U.S.C.
+                  78c)
+<PAGE>
+
+            (c)   |_| Insurance Company as defined in section 3(a)(19) of the
+                  Act (15 U.S.C. 78c)
+
+            (d)   |_| Investment Company registered under section 8 of the
+                  Investment Company Act of 1940 (15 U.S.C. 80a-8)
+
+            (e)   |_| Investment Adviser in accordance with ss.
+                  240.13d-1(b)(1)(ii)(E)
+
+            (f)   |_| Employee benefit plan or endowment fund in accordance with
+                  ss. 240.13d-1(b)(1)(ii)(F)
+
+            (g)   |_| Parent Holding Company or control person in accordance
+                  with ss.240.13d-1(b)(ii)(G)
+
+            (h)   |_| Savings Association as defined in ss.3(b) of the Federal
+                  Deposit Insurance Act (12 U.S.C. 1813)
+
+            (i)   |_| Church plan that is excluded from the definition of an
+                  investment company under ss.3(c)(15) of the Investment Company
+                  Act of 1940 (15 U.S.C. 80a-3)
+
+            (j)   |_| Group, in accordance with ss.240.13d-1(b)(ii)(J)
+
+Item 4.      Ownership.
+
+(i)         LaGrange Capital Partners, L.P.(1)
+
+            (a)   Amount beneficially owned: 577,339
+
+            (b)   Percent of class: 4.3%(2)
+
+            (c)   Number of shares as to which such person has:
+
+                  (i)   Sole power to vote or to direct the vote: 577,339
+
+                  (ii)  Shared power to vote or to direct the vote: 0
+
+                  (iii) Sole power to dispose or to direct the disposition of:
+                        577,339
+
+                  (iv)  Shared power to dispose or to direct the disposition of:
+                        0
+- ---------------
+(1) The general partner of LaGrange Capital Partners, L.P. is LaGrange Capital
+Management, L.L.C., a limited liability company organized under the laws of
+Delaware. Frank LaGrange Johnson is the sole member of LaGrange Capital
+Management, L.L.C.
+
+(2) Percentages are based on 13,306,958 shares of Common Stock outstanding as of
+May 4, 2005 (as set forth on the Issuer's Form 10-Q, filed on May 12, 2005 with
+the Securities and Exchange Commission).
+
+<PAGE>
+
+
+
+(ii)        LaGrange Capital Partners Offshore Fund, Ltd.(3)
+
+            (a)   Amount beneficially owned: 91,331
+
+            (b)   Percent of class: .7%(4)
+
+            (c)   Number of shares as to which such person has:
+
+                  (i)   Sole power to vote or to direct the vote: 91,331
+
+                  (ii)  Shared power to vote or to direct the vote: 0
+
+                  (iii) Sole power to dispose or to direct the disposition of:
+                        91,331
+
+                  (iv)  Shared power to dispose or to direct the disposition of:
+                        0
+(iii)       Frank LaGrange Johnson
+
+            (a)   Amount beneficially owned: 682,231
+
+            (b)   Percent of class: 5.1%(5)
+
+            (c)   Number of shares as to which such person has:
+
+                  (i)   Sole power to vote or to direct the vote: 682,231(6)
+
+                  (ii)  Shared power to vote or to direct the vote: 0
+
+                  (iii) Sole power to dispose or to direct the disposition of:
+                        682,231
+
+                  (iv)  Shared power to dispose or to direct the disposition of:
+                        0
+
+- ---------------
+(3) The investment manager of LaGrange Capital Partners Offshore Fund, Ltd. is
+LaGrange Capital Administration, L.L.C., a limited liability company organized
+under the laws of Delaware. Frank LaGrange Johnson is the sole member of
+LaGrange Capital Administration, L.L.C.
+
+(4) Percentages are based on 13,306,958 shares of Common Stock outstanding as of
+May 4, 2005 (as set forth on the Issuer's Form 10-Q, filed on May 12, 2005 with
+the Securities and Exchange Commission).
+
+(5) Percentages are based on 13,306,958 shares of Common Stock outstanding as of
+May 4, 2005 (as set forth on the Issuer's Form 10-Q, filed on May 12, 2005 with
+the Securities and Exchange Commission).
+
+(6) Includes 12,161 shares of Common Stock owned by Mr. Johnson that are
+currently being held in an individual retirement account and a personal trading
+account and 1,400 shares of Common Stock owned by Susan Ely Johnson, wife of
+Frank LaGrange Johnson, that are currently being held in an individual
+retirement account. Mr. Johnson disclaims any beneficial ownership of the shares
+of Common Stock owned by his wife.
+
+
+<PAGE>
+
+
+Item 5.      Ownership of Five Percent or Less of a Class.
+
+Not applicable.
+
+Item 6.      Ownership of More than Five Percent on Behalf of Another Person.
+
+Not applicable.
+
+Item 7.      Identification and Classification of the Subsidiary Which Acquired
+             the Security Being Reported on by the Parent Holding Company.
+
+Not applicable.
+
+Item 8.      Identification and Classification of Members of the Group.
+
+Not applicable.
+
+Item 9.      Notice of Dissolution of Group.
+
+Not applicable.
+
+Item 10.     Certification.
+
+                  By signing below I certify that, to the best of my knowledge
+and belief, the securities referred to above were acquired and are held in the
+ordinary course of business and were not acquired and are not held for the
+purpose of or with the effect of changing or influencing the control of the
+issuer of the securities and were not acquired and are not held in connection
+with or as a participant in any transaction having such purpose or effect.
+
+
+<PAGE>
+
+
+
+                                    SIGNATURE
+                                    ----------
+
+
+             After reasonable inquiry and to the best knowledge and belief of
+the undersigned, the undersigned certifies that the information set forth in
+this Statement is true, complete and correct.
+
+
+Dated as of May 25, 2005
+
+
+                             LaGrange Capital Partners, L.P.
+                             By:  LaGrange Capital Management, L.L.C.,
+                                    its General Partner
+
+                             By:   /s/  Frank LaGrange Johnson
+                                --------------------------------------
+                                Frank LaGrange Johnson, its sole Member
+
+
+Dated as of May 25, 2005
+
+
+                             LaGrange Capital Partners Offshore Fund, Ltd.
+                             By:  LaGrange Capital Administration, L.L.C.,
+                                     its Investment Manager
+
+                             By:   /s/  Frank LaGrange Johnson
+                                --------------------------------------
+                                   Frank LaGrange Johnson, its sole Member
+
+
+Dated as of May 25, 2005
+
+
+                             By:    /s/  Frank LaGrange Johnson
+                                --------------------------------------
+                                    Frank LaGrange Johnson
+
+
+<PAGE>
+
+
+
+                                                                       Exhibit A
+
+                            Agreement of Joint Filing
+
+
+                  Pursuant to 13d-1(k) promulgated under the Securities Exchange
+Act of 1934, as amended, the undersigned hereby confirm the agreement by and
+among them to join in the filing on behalf of each of them of a Statement on
+Schedule 13G and any and all amendments thereto, and that this Agreement be
+included as an Exhibit to such filing.
+
+                  This Agreement may be executed in any number of counterparts
+each of which shall be deemed to be an original and all of which together shall
+be deemed to constitute one and the same Agreement.
+
+                  IN WITNESS WHEREOF, the undersigned have executed this
+Agreement.
+
+
+
+Dated as of May 25, 2005
+
+
+                             LaGrange Capital Partners, L.P.
+                             By:  LaGrange Capital Management, L.L.C.,
+                                    its General Partner
+
+                             By:   /s/  Frank LaGrange Johnson
+                                --------------------------------------
+                                Frank LaGrange Johnson, its sole Member
+
+
+Dated as of May 25, 2005
+
+
+                             LaGrange Capital Partners Offshore Fund, Ltd.
+                             By:  LaGrange Capital Administration, L.L.C.,
+                                     its Investment Manager
+
+                             By:   /s/  Frank LaGrange Johnson
+                                --------------------------------------
+                                   Frank LaGrange Johnson, its sole Member
+
+
+Dated as of May 25, 2005
+
+
+                             By:    /s/  Frank LaGrange Johnson
+                                --------------------------------------
+                                    Frank LaGrange Johnson
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

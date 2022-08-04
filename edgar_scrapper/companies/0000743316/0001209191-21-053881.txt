@@ -1,0 +1,155 @@
+<SEC-DOCUMENT>0001209191-21-053881.txt : 20210830
+<SEC-HEADER>0001209191-21-053881.hdr.sgml : 20210830
+<ACCEPTANCE-DATETIME>20210830174616
+ACCESSION NUMBER:		0001209191-21-053881
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20210826
+FILED AS OF DATE:		20210830
+DATE AS OF CHANGE:		20210830
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Accardi Tracy
+		CENTRAL INDEX KEY:			0001683383
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34192
+		FILM NUMBER:		211224718
+
+	MAIL ADDRESS:	
+		STREET 1:		160 RIO ROBLES
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95134
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MAXIM INTEGRATED PRODUCTS INC
+		CENTRAL INDEX KEY:			0000743316
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				942896096
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0626
+
+	BUSINESS ADDRESS:	
+		STREET 1:		160 RIO ROBLES
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95134
+		BUSINESS PHONE:		408-601-1000
+
+	MAIL ADDRESS:	
+		STREET 1:		160 RIO ROBLES
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95134
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-08-26</periodOfReport>
+
+    <notSubjectToSection16>1</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000743316</issuerCik>
+        <issuerName>MAXIM INTEGRATED PRODUCTS INC</issuerName>
+        <issuerTradingSymbol>MXIM</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001683383</rptOwnerCik>
+            <rptOwnerName>Accardi Tracy</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>160 RIO ROBLES</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SAN JOSE</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>95134</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2021-08-26</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>18731.349</value>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reflects disposition in connection with the consummation of the transactions contemplated by the Agreement &amp; Plan of Merger, dated as of July 12, 2020 (the &quot;Merger Agreement&quot;), among the Issuer, Analog Devices, Inc. (&quot;ADI&quot;) and Magneto Corp. (&quot;Merger Sub&quot;), pursuant to which (i)Merger Sub merged with and into the Issuer (the &quot;Merger&quot;), with the Issuer surviving the Merger as a wholly owned subsidiary of ADI, and (ii)at the effective time of the Merger (the &quot;Effective Time&quot;), each share of common stock, par value $0.001 per share, of the Issuer (the &quot;Common Stock&quot;) outstanding immediately prior to the Effective Time was disposed of in exchange for 0.6300 (the &quot;Exchange Ratio&quot;) of a share of common stock, par value $0.16 2/3 per share, of ADI (having a market value at the Effective Time of $103.32 per share based on the closing price per share of ADI common stock on the last trading day prior to the Merger of $164), together with cash in lieu of any fractional shares of ADI common stock.</footnote>
+        <footnote id="F2">Updated to reflect shares beneficially owned from previous filings.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>BY MARK CASPER FOR TRACY ACCARDI</signatureName>
+        <signatureDate>2021-08-30</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

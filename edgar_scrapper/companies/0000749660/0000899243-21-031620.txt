@@ -1,0 +1,177 @@
+<SEC-DOCUMENT>0000899243-21-031620.txt : 20210804
+<SEC-HEADER>0000899243-21-031620.hdr.sgml : 20210804
+<ACCEPTANCE-DATETIME>20210804164749
+ACCESSION NUMBER:		0000899243-21-031620
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20210802
+FILED AS OF DATE:		20210804
+DATE AS OF CHANGE:		20210804
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Carter Charles Ross
+		CENTRAL INDEX KEY:			0001779359
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-09341
+		FILM NUMBER:		211144766
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O GI DYNAMICS, INC.
+		STREET 2:		745 ATLANTIC AVENUE
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02111
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ICAD INC
+		CENTRAL INDEX KEY:			0000749660
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		IRS NUMBER:				020377419
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		98 SPIT BROOK ROAD, SUITE 100
+		CITY:			NASHUA
+		STATE:			NH
+		ZIP:			03062
+		BUSINESS PHONE:		603-882-5200
+
+	MAIL ADDRESS:	
+		STREET 1:		98 SPIT BROOK ROAD, SUITE 100
+		CITY:			NASHUA
+		STATE:			NH
+		ZIP:			03062
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HOWTEK INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-08-02</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000749660</issuerCik>
+        <issuerName>ICAD INC</issuerName>
+        <issuerTradingSymbol>ICAD</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001779359</rptOwnerCik>
+            <rptOwnerName>Carter Charles Ross</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O ICAD, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>98 SPIT BROOK ROAD, SUITE 100</rptOwnerStreet2>
+            <rptOwnerCity>NASHUA</rptOwnerCity>
+            <rptOwnerState>NH</rptOwnerState>
+            <rptOwnerZipCode>03062</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Employee Stock Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>14.14</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2021-08-02</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>75000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2031-08-02</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>75000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>75000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents options to purchase shares of common stock granted to the Report Person pursuant to the Company's 2016 Stock Incentive Plan, as amended.</footnote>
+        <footnote id="F2">The shares underlying the option vest annually over a three-year period commencing one year from August 2, 2021, the date the award was approved by the Company's Board of Directors.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Charles R. Carter</signatureName>
+        <signatureDate>2021-08-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

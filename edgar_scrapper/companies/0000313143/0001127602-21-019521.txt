@@ -1,0 +1,157 @@
+<SEC-DOCUMENT>0001127602-21-019521.txt : 20210609
+<SEC-HEADER>0001127602-21-019521.hdr.sgml : 20210609
+<ACCEPTANCE-DATETIME>20210609162739
+ACCESSION NUMBER:		0001127602-21-019521
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20210607
+FILED AS OF DATE:		20210609
+DATE AS OF CHANGE:		20210609
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Simon, Christopher
+		CENTRAL INDEX KEY:			0001674993
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14041
+		FILM NUMBER:		211005407
+
+	BUSINESS ADDRESS:	
+		STREET 1:		HAEMONETICS CORPORATION
+		STREET 2:		400 WOOD ROAD
+		CITY:			BRAINTREE
+		STATE:			MA
+		ZIP:			02184
+		BUSINESS PHONE:		781-356-7100
+
+	MAIL ADDRESS:	
+		STREET 1:		HAEMONETICS CORPORATION
+		STREET 2:		400 WOOD ROAD
+		CITY:			BRAINTREE
+		STATE:			MA
+		ZIP:			02184
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HAEMONETICS CORP
+		CENTRAL INDEX KEY:			0000313143
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		IRS NUMBER:				042882273
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			0403
+
+	BUSINESS ADDRESS:	
+		STREET 1:		125 SUMMER STREET
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02110
+		BUSINESS PHONE:		7818487100
+
+	MAIL ADDRESS:	
+		STREET 1:		125 SUMMER STREET
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02110
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-06-07</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000313143</issuerCik>
+        <issuerName>HAEMONETICS CORP</issuerName>
+        <issuerTradingSymbol>HAE</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001674993</rptOwnerCik>
+            <rptOwnerName>Simon, Christopher</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>125 SUMMER STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>BOSTON</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02110</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <officerTitle>President &amp; CEO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2021-06-07</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2715</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>55.09</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>193006</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents the number of shares required to be sold by the reporting person to cover tax withholding obligations in connection with the vesting of certain restricted stock units (&quot;RSUs&quot;) previously reported in Table I following the date of grant. This sale is mandated by the Issuer's election under its 2005 Long Term Incentive Compensation Plan (as amended) to require the satisfaction of tax withholding obligations to be funded by a &quot;sell to cover&quot; transaction and does not represent a discretionary trade by the reporting person.</footnote>
+        <footnote id="F2">This number includes unvested RSUs previously reported.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Thomas V. Powers, attorney-in-fact for Mr. Simon</signatureName>
+        <signatureDate>2021-06-09</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,151 @@
+<SEC-DOCUMENT>0001543407-21-000033.txt : 20210903
+<SEC-HEADER>0001543407-21-000033.hdr.sgml : 20210903
+<ACCEPTANCE-DATETIME>20210903083602
+ACCESSION NUMBER:		0001543407-21-000033
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20210902
+FILED AS OF DATE:		20210903
+DATE AS OF CHANGE:		20210903
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			RIMEL REBECCA W
+		CENTRAL INDEX KEY:			0001250391
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04802
+		FILM NUMBER:		211235189
+
+	MAIL ADDRESS:	
+		STREET 1:		345 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BECTON DICKINSON & CO
+		CENTRAL INDEX KEY:			0000010795
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		IRS NUMBER:				220760120
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0930
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE BECTON DR
+		CITY:			FRANKLIN LAKES
+		STATE:			NJ
+		ZIP:			07417-1880
+		BUSINESS PHONE:		2018476800
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE BECTON DR
+		CITY:			FRANKLIN LAKE
+		STATE:			NJ
+		ZIP:			07417
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>edgar.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-09-02</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000010795</issuerCik>
+        <issuerName>BECTON DICKINSON &amp; CO</issuerName>
+        <issuerTradingSymbol>BDX</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001250391</rptOwnerCik>
+            <rptOwnerName>RIMEL REBECCA W</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O BECTON, DICKINSON AND COMPANY</rptOwnerStreet1>
+            <rptOwnerStreet2>1 BECTON DRIVE</rptOwnerStreet2>
+            <rptOwnerCity>FRANKLIN LAKES</rptOwnerCity>
+            <rptOwnerState>NJ</rptOwnerState>
+            <rptOwnerZipCode>07417</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2021-09-02</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>244</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>254</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>11618</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Includes rights acquired through dividend reinvestment since the last report filed by the reporting person.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>Richard Stout, by power of attorney for Rebecca W. Rimel</signatureName>
+        <signatureDate>2021-09-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

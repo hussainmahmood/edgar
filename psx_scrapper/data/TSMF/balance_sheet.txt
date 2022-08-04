@@ -1,0 +1,12 @@
+Year,2009,2008
+Cash in Hand and Bank,"7,275","38,742"
+Investments,"24,967,498","41,306,319"
+Total Assets,"25,274,916","41,533,504"
+Total Liabilities,"3,187,735","2,657,983"
+Paid Up Capital,"50,000,000","50,000,000"
+Reserves,"-27,912,819","-11,124,479"
+Preferred Equity,0,0
+Shareholder Equity,"22,087,181","38,875,521"
+Paid Up Value,10,10
+Number of Share,"5,000,000","5,000,000"
+Surplus On Revaluation of Assets,0,0

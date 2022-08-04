@@ -1,0 +1,158 @@
+<SEC-DOCUMENT>0001593636-21-000003.txt : 20210902
+<SEC-HEADER>0001593636-21-000003.hdr.sgml : 20210902
+<ACCEPTANCE-DATETIME>20210902161025
+ACCESSION NUMBER:		0001593636-21-000003
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20210901
+FILED AS OF DATE:		20210902
+DATE AS OF CHANGE:		20210902
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			SACCARO JAMES
+		CENTRAL INDEX KEY:			0001593636
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04448
+		FILM NUMBER:		211233353
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE BAXTER PARKWAY
+		CITY:			DEERFIELD
+		STATE:			IL
+		ZIP:			60015
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BAXTER INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000010456
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		IRS NUMBER:				360781620
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE BAXTER PKWY
+		STREET 2:		DF2-1W
+		CITY:			DEERFIELD
+		STATE:			IL
+		ZIP:			60015
+		BUSINESS PHONE:		8479482000
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE BAXTER PARKWAY
+		STREET 2:		DF2-1W
+		CITY:			DEERFIELD
+		STATE:			IL
+		ZIP:			60015
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BAXTER TRAVENOL LABORATORIES INC
+		DATE OF NAME CHANGE:	19880522
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BAXTER LABORATORIES INC
+		DATE OF NAME CHANGE:	19760608
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>edgar.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-09-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000010456</issuerCik>
+        <issuerName>BAXTER INTERNATIONAL INC</issuerName>
+        <issuerTradingSymbol>BAX</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001593636</rptOwnerCik>
+            <rptOwnerName>SACCARO JAMES</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>ONE BAXTER PARKWAY</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>DEERFIELD</rptOwnerCity>
+            <rptOwnerState>IL</rptOwnerState>
+            <rptOwnerZipCode>60015</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Executive VP and CFO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, $1 par value</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2021-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>34678</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>77.6</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>138240</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents the number of shares forfeited by the reporting person to cover the withholding of taxes incurred as a result of the vesting of restricted stock units granted on September 1, 2017.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Matthew Rice, as atttorney in-fact for James K. Saccaro</signatureName>
+        <signatureDate>2021-09-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

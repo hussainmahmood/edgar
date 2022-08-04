@@ -1,0 +1,296 @@
+<SEC-DOCUMENT>0001437749-21-015113.txt : 20210617
+<SEC-HEADER>0001437749-21-015113.hdr.sgml : 20210617
+<ACCEPTANCE-DATETIME>20210617192736
+ACCESSION NUMBER:		0001437749-21-015113
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20210616
+FILED AS OF DATE:		20210617
+DATE AS OF CHANGE:		20210617
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			WILSON KAREN J
+		CENTRAL INDEX KEY:			0001267490
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35285
+		FILM NUMBER:		211026537
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O JAZZ PHARMACEUTICALS PLC
+		STREET 2:		5TH FL, WATERLOO EXCHANGE, WATERLOO RD
+		CITY:			DUBLIN L2 4
+		STATE:			L2
+		ZIP:			0
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Vaxart, Inc.
+		CENTRAL INDEX KEY:			0000072444
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		IRS NUMBER:				591212264
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		170 HARBOR WAY, SUITE 300
+		CITY:			SOUTH SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94080
+		BUSINESS PHONE:		(650) 550-3500
+
+	MAIL ADDRESS:	
+		STREET 1:		170 HARBOR WAY, SUITE 300
+		CITY:			SOUTH SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94080
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Aviragen Therapeutics, Inc.
+		DATE OF NAME CHANGE:	20160413
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Biota Pharmaceuticals, Inc.
+		DATE OF NAME CHANGE:	20121113
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NABI BIOPHARMACEUTICALS
+		DATE OF NAME CHANGE:	20100719
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>rdgdoc.xml
+<DESCRIPTION>FORM 4 WILSON
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-06-16</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000072444</issuerCik>
+        <issuerName>Vaxart, Inc.</issuerName>
+        <issuerTradingSymbol>VXRT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001267490</rptOwnerCik>
+            <rptOwnerName>WILSON KAREN J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O VAXART, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>170 HARBOR WAY, SUITE 300</rptOwnerStreet2>
+            <rptOwnerCity>SOUTH SAN FRANCISCO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94080</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>7.79</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2021-06-16</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>15097</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2031-06-15</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>15097</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>15097</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The shares subject to this option shall vest on the earlier of the date of the 2022 annual meeting of stockholders of the Issuer and June 16, 2022, the first anniversary of the date of the grant.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Margaret Echerd, Attorney-in-Fact for Karen J. Wilson</signatureName>
+        <signatureDate>2021-06-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>wilsonpoa.htm
+<TEXT>
+<html><head>
+	<title>ex_201554.htm</title>
+
+	<!-- Generated by ThunderDome Portal - 8/26/2020 3:49:14 AM --><meta charset="utf-8"><meta name="format-detection" content="telephone=no">
+</head>
+<body style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; padding:0in .1in;">
+<p style="margin-bottom: 0px; text-align: right; margin-top: 0px"><font style="font-family: 'Times New Roman', Times, serif; font-size: 10pt"><b>Exhibit 24</b></font></p>
+
+<p style="margin-bottom: 0px; text-align: left; margin-top: 0px"><font style="font-family: 'Times New Roman', Times, serif; font-size: 10pt">&nbsp;</font></p>
+
+<p style="font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:center;"><b>POWER OF ATTORNEY</b></p>
+
+<p style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
+
+<p style="font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Know all by these presents that the undersigned hereby constitutes and appoints each of Andrei Floroiu, Margaret Echerd, Faith L. Charles, Esq., Jennifer A. Val, Esq., and Kaoru C. Suzuki, Esq., or any of them signing singly, and with full power of substitution, the undersigned&#8217;s true and lawful attorney-in-fact to:</p>
+
+<p style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
+
+<table border="0" cellpadding="0" cellspacing="0" style="width:100%;font-family:'Times New Roman', Times, serif;font-size:10pt;">
+
+		<tr>
+			<td style="width:18pt;">&nbsp;</td>
+			<td style="width:18pt;vertical-align:top;">
+			<p style="font-family:'Times New Roman', Times, serif;margin-right:0pt;margin-top:0pt;text-align:left;margin-bottom:0pt;font-size:10pt;">1.</p>
+			</td>
+			<td style="vertical-align:top;">
+			<p style="font-family:'Times New Roman', Times, serif;margin-right:0pt;margin-top:0pt;text-align:left;margin-bottom:0pt;font-size:10pt;">prepare, execute in the undersigned&#8217;s name and on the undersigned&#8217;s behalf, and submit to the U.S. Securities and Exchange Commission (the &#8220;<i><b>SEC</b></i>&#8221;) a Form ID, including amendments thereto, and any other documents necessary or appropriate to obtain codes and passwords enabling the undersigned to make electronic filings with the SEC of reports required by Section 16(a) of the Securities Exchange Act of 1934 or any rule or regulation of the SEC;</p>
+			</td>
+		</tr>
+
+</table>
+
+<p style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
+
+<table border="0" cellpadding="0" cellspacing="0" style="width:100%;font-family:'Times New Roman', Times, serif;font-size:10pt;">
+
+		<tr>
+			<td style="width:18pt;">&nbsp;</td>
+			<td style="width:18pt;vertical-align:top;">
+			<p style="font-family:'Times New Roman', Times, serif;margin-right:0pt;margin-top:0pt;text-align:left;margin-bottom:0pt;font-size:10pt;">2.</p>
+			</td>
+			<td style="vertical-align:top;">
+			<p style="font-family:'Times New Roman', Times, serif;margin-right:0pt;margin-top:0pt;text-align:left;margin-bottom:0pt;font-size:10pt;">execute for and on behalf of the undersigned, in the undersigned&#8217;s capacity as an officer and/or director of Vaxart, Inc. (the &#8220;<i><b>Company</b></i>&#8221;), Forms 3, 4, and 5 in accordance with Section 16(a) of the Securities Exchange Act of 1934 and the rules thereunder;</p>
+			</td>
+		</tr>
+
+</table>
+
+<p style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
+
+<table border="0" cellpadding="0" cellspacing="0" style="width:100%;font-family:'Times New Roman', Times, serif;font-size:10pt;">
+
+		<tr>
+			<td style="width:18pt;">&nbsp;</td>
+			<td style="width:18pt;vertical-align:top;">
+			<p style="font-family:'Times New Roman', Times, serif;margin-right:0pt;margin-top:0pt;text-align:left;margin-bottom:0pt;font-size:10pt;">3.</p>
+			</td>
+			<td style="vertical-align:top;">
+			<p style="font-family:'Times New Roman', Times, serif;margin-right:0pt;margin-top:0pt;text-align:left;margin-bottom:0pt;font-size:10pt;">do and perform any and all acts for and on behalf of the undersigned which may be necessary or desirable to complete and execute any such Form 3, 4, or 5, complete and execute any amendment or amendments thereto, and timely file such form with the SEC and any stock exchange or similar authority; and</p>
+			</td>
+		</tr>
+
+</table>
+
+<p style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
+
+<table border="0" cellpadding="0" cellspacing="0" style="width:100%;font-family:'Times New Roman', Times, serif;font-size:10pt;">
+
+		<tr>
+			<td style="width:18pt;">&nbsp;</td>
+			<td style="width:18pt;vertical-align:top;">
+			<p style="font-family:'Times New Roman', Times, serif;margin-right:0pt;margin-top:0pt;text-align:left;margin-bottom:0pt;font-size:10pt;">4.</p>
+			</td>
+			<td style="vertical-align:top;">
+			<p style="font-family:'Times New Roman', Times, serif;margin-right:0pt;margin-top:0pt;text-align:left;margin-bottom:0pt;font-size:10pt;">take any other action of any type whatsoever in connection with the foregoing which, in the opinion of such attorney-in-fact, may be of benefit to, in the best interest of, or legally required by, the undersigned, it being understood that the documents executed by such attorney-in-fact on behalf of the undersigned pursuant to this Power of Attorney shall be in such form and shall contain such terms and conditions as such attorney-in-fact may approve in such attorney-in-fact&#8217;s discretion.</p>
+			</td>
+		</tr>
+
+</table>
+
+<p style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
+
+<p style="font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The undersigned hereby grants to each such attorney-in-fact full power and authority to do and perform any and every act and thing whatsoever requisite, necessary, or proper to be done in the exercise of any of the rights and powers herein granted, as fully to all intents and purposes as the undersigned might or could do if personally present, with full power of substitution or revocation, hereby ratifying and confirming all that such attorney-in-fact, or such attorney-in-fact&#8217;s substitute or substitutes, shall lawfully do or cause to be done by virtue of this power of attorney and the rights and powers herein granted. The undersigned acknowledges that the foregoing attorneys-in-fact, in serving in such capacity at the request of the undersigned, are not assuming, nor is the Company assuming, any of the undersigned&#8217;s responsibilities to comply with Section 16 of the Securities Exchange Act of 1934.</p>
+
+<p style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
+
+<p style="font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This Power of Attorney shall remain in full force and effect until the undersigned is no longer required to file Forms 3, 4, and 5 with respect to the undersigned&#8217;s holdings of and transactions in securities issued by the Company, unless earlier revoked by the undersigned in a signed writing delivered to the foregoing attorneys-in-fact.</p>
+
+<p style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
+
+<p style="font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">&nbsp;</p>
+
+<p style="font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IN WITNESS WHEREOF, the undersigned has caused this Power of Attorney to be executed as of this 25<sup style="vertical-align:top;line-height:120%;font-size:pt">th</sup> day of August, 2020.</p>
+
+<p style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
+
+<p style="font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">&nbsp;</p>
+
+<p style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
+
+<p style="font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;"><u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/s/ Karen J. Wilson</u><u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></p>
+
+<p style="font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">Name: Karen J. Wilson</p>
+
+<p style="font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">&nbsp;</p>
+
+<p style="font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">&nbsp;</p>
+
+<div class="LAST-PAGE-BREAK">
+<div class="PGFTR">
+<div class="hf-row">
+<div class="hf-cell PGNUM">&nbsp;</div>
+</div>
+</div>
+</div>
+
+
+</body></html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

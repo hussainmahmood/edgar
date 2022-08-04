@@ -1,0 +1,192 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Psk1InfFXp3lTUlLpqU5Vb3EwI4ikB8riuLCsI9EZXtnZkq67b9OmkG1juhV7wpM
+ KBkS6ZBcRqfZo4hMyh1Rcg==
+
+<SEC-DOCUMENT>0001058217-02-000246.txt : 20021112
+<SEC-HEADER>0001058217-02-000246.hdr.sgml : 20021111
+<ACCEPTANCE-DATETIME>20021112104615
+ACCESSION NUMBER:		0001058217-02-000246
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20020930
+FILED AS OF DATE:		20021112
+EFFECTIVENESS DATE:		20021112
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PAMET CAPITAL MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001165407
+		IRS NUMBER:				043565803
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-10112
+		FILM NUMBER:		02815807
+
+	BUSINESS ADDRESS:	
+		STREET 1:		425 BOYLTON STREET
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+		BUSINESS PHONE:		6176466100
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>pametabramscapital13f20638.txt
+<DESCRIPTION>HOLDINGS REPORT
+<TEXT>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 13F
+
+                               FORM 13f Cover Page
+
+
+        Report for the Calendar Year or Quarter End: September 30, 2002
+
+
+
+                          Pamet Capital Management, LLC
+- --------------------------------------------------------------------------------
+                    Name of Institutional Investment Manager
+
+
+        222 Berkeley Street, 22nd Floor         Boston       MA          02116
+- --------------------------------------------------------------------------------
+Business Address          (Street)              (City)     (State)        (Zip)
+
+
+13F File Number: 028-10112
+                -----------
+
+The institutional  investment  manager filing this report and the person by whom
+it is signed hereby  represent  that the person signing the report is authorized
+to submit it, that all  information  herein is true,  correct and complete,  and
+that it is  understood  that all  required  items,  statements,  schedules,  and
+tables, are considered integral parts of this form.
+
+Name, Title and Telephone Number of Person Submitting Report:
+
+
+Jason Price                   Chief Financial Officer               617-646-6100
+- --------------------------------------------------------------------------------
+(Name)                               (Title)                          (Phone)
+
+Signature, Place and Date of Signing:
+
+
+/s/ Jason Price
+- -----------------------------
+222 Berkeley Street, 22nd Floor, Boston, MA 02116
+11/11/2002
+
+
+Report Type:
+
+[X]        13F HOLDINGS REPORT.
+[ ]        13F NOTICE.
+[ ]        13F COMBINATION REPORT.
+
+<PAGE>
+
+
+                              FORM 13F SUMMARY PAGE
+
+
+
+Number of Other Included Managers:    1
+                                  ----------
+
+List of Other Included Managers:  Abrams Capital, LLC
+                                ------------------------
+
+Form 13F Information Table Entry Total:  40
+                                       --------
+
+Form 13F Information Table Value Total:     150,375,000
+                                        -------------------
+
+<PAGE>
+
+                UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 13F
+                                INFORMATION TABLE
+
+                          Pamet Capital Management, LLC
+
+                           FORM 13F INFORMATION TABLE
+                               AS OF DATE: 9/30/02
+
+<TABLE>
+<CAPTION>
+- ------------------------------------------------------------------------------------------------------------------------------------
+ITEM 1                              ITEM 2       ITEM 3     ITEM 4       ITEM 5      ITEM 6    ITEM 7              ITEM 8
+                                                            VALUE   SHARES/   PUT/   INVSTMT    OTHER          VOTING AUTHORITY
+  NAME OF ISSUER               TITLE OF CLASS    CUSIP    (x$1000)  PRN AMT   CALL   DSCRETN   MANAGERS     SOLE    SHARED    NONE
+- ------------------------------ ---------------- --------- -------- --------   ----   ------- ------------ -------- -------- --------
+<S>                                <C>          <C>         <C>     <C>               <C>        <C>    <C>
+AES Corp.                                  COM   00130H105     109   100100            100100             100100
+AES Corp.                                  COM   00130H105    2401   956600            956600      1      956600
+Arbitron Inc.                              COM   03875Q108    1354    56820             56820              56820
+Arbitron Inc.                              COM   03875Q108   19853   582200            582200      1      582200
+Baycorp Holdings Ltd.                      COM   072728108     121    24600             24600              24600
+Baycorp Holdings Ltd.                      COM   072728108    2361   185600            185600      1      185600
+Bay View Cap Corp.                         COM   07262L101     753    72400             72400              72400
+Bay View Cap Corp.                         COM   07262L101    4606   812200            812200      1      812200
+Berkshire Hathaway Inc.                   CL B   084670207     688      281               281                281
+Berkshire Hathaway Inc.                   CL B   084670207    4272     1733              1733      1        1733
+Berkshire Hathaway Inc.                   CL A   084670108    3326       45                45      1          45
+BKF Capital Group Inc.                     COM   05548G102     401    31000             31000              31000
+BKF Capital Group Inc.                     COM   05548G102    6256   296800            296800      1      296800
+Block H&R Inc.                             COM   093671105     958    32300             32300              32300
+Block H&R Inc.                             COM   093671105   14338   341300            341300      1      341300
+Coast Federal Litigation Contingent Trust RIGHT  19034Q110      13   149460            149460             149460
+Coast Federal Litigation Contingent Trust RIGHT  19034Q110     201  1436684           1436684      1     1436684
+Echostar Communications Corp.             CL A   278762109    1987   162700            162700             162700
+Echostar Communications Corp.             CL A   278762109   29626  1712500           1712500      1     1712500
+Erie Indty Co.                            CL A   29530P102    1196    40000             40000              40000
+Erie Indty Co.                            CL A   29530P102   17424   418242            418242      1      418242
+Golden State Bancorp Inc.                  WRT   381197136     269   349706            349706             349706
+Golden State Bancorp Inc.                  WRT   381197136    4001  3670936           3670936      1     3670936
+International Speedway Corp.              CL A   460335201     416    20430             20430              20430
+International Speedway Corp.              CL A   460335201    6255   157430            157430      1      157430
+Juno Lighting, Inc.                        COM   482047206     283    51780             51780              51780
+Juno Lighting, Inc.                        COM   482047206    4304   400792            400792      1      400792
+Morgan Stanley Dean Witter & Co            COM   617446448     446    18000             18000              18000
+Morgan Stanley Dean Witter & Co            COM   617446448    6279   185350            185350      1      185350
+OPTI Inc.                                  COM   683960108      26    38100             38100              38100
+OPTI Inc.                                  COM   683960108     453   393565            393565      1      393565
+Philip Morris Cos. Inc.                    COM   718154107     609    21600             21600              21600
+Philip Morris Cos. Inc.                    COM   718154107    9006   232100            232100      1      232100
+Sirius Satellite Radio Inc.                COM   82966U103      27    63800             63800              63800
+Sirius Satellite Radio Inc.                COM   82966U103     579   578300            578300      1      578300
+Washington Post Co.                       CL B   939640108     270      811               811                811
+Washington Post Co.                       CL B   939640108    4081     6288              6288      1        6288
+XM Satellite                              CL A   983759101      85    19400             19400              19400
+XM Satellite                              CL A   983759101     742   190100            190100      1      190100
+
+</TABLE>
+
+* Where shares are reported for "Other  Managers"  designated  in Item 7, all of
+the information provided is with respect to such manager.
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

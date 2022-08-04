@@ -1,0 +1,149 @@
+<SEC-DOCUMENT>0000919574-11-004899.txt : 20110815
+<SEC-HEADER>0000919574-11-004899.hdr.sgml : 20110815
+<ACCEPTANCE-DATETIME>20110815163219
+ACCESSION NUMBER:		0000919574-11-004899
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20110630
+FILED AS OF DATE:		20110815
+DATE AS OF CHANGE:		20110815
+EFFECTIVENESS DATE:		20110815
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ABRAMS BISON INVESTMENTS, LLC
+		CENTRAL INDEX KEY:			0001317588
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-11161
+		FILM NUMBER:		111036864
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4800 HAMPDEN LANE
+		STREET 2:		SUITE 1050
+		CITY:			BETHESDA
+		STATE:			MD
+		ZIP:			20814
+		BUSINESS PHONE:		301-657-5925
+
+	MAIL ADDRESS:	
+		STREET 1:		4800 HAMPDEN LANE
+		STREET 2:		SUITE 1050
+		CITY:			BETHESDA
+		STATE:			MD
+		ZIP:			20814
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>d1211931_13f-hr.txt
+<TEXT>
+
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 13F
+
+                              FORM 13F Cover Page
+
+          Report for the Calendar Year or Quarter Ended: June 30, 2011
+
+Check here if Amendment:         |_|; Amendment Number: ____
+
+This Amendment (Check only one): |_| is a restatement
+					   |_| adds new holding entries.
+
+Institutional Manager Filing this Report:
+
+Name: 	Abrams Bison Investments, L.L.C.
+
+Address: 	4800 Hampden Lane, Suite 1050
+            Bethesda, MD 20814
+
+13F File Number: 028-11161
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:   	Gavin M. Abrams
+Title:  	Managing Member
+Phone:  	(301) 664-8900
+
+Signature, Place and Date of Signing:
+
+
+ /s/ Gavin M. Abrams              Bethesda, Maryland            August 15, 2011
+-----------------------     --------------------------    ----------------------
+     [Signature]                   [City, State]                   [Date]
+<PAGE>
+
+Report Type: (Check only one):
+
+[x]   13F HOLDINGS REPORT. (Check here if all holdings of this reporting manager
+      are reported in this report).
+
+[_]   13F NOTICE. (Check here if no holdings reported are in this report, and
+      all holdings are reported by other reporting managers(s).)
+
+[_]   13F COMBINATION REPORT. (Check here if a portion of the holdings for this
+      reporting manager are reported in this report and a portion are reported
+      by other reporting manager(s).)
+
+List of Other Managers Reporting for this Manager: NONE
+<PAGE>
+
+                             Form 13F SUMMARY PAGE
+
+Report Summary:
+
+Number of Other Included Managers:       1
+Form 13F Information Table Entry Total:  13
+Form 13F Information Table Value Total:  $944,332
+                                        (thousands)
+
+List of Other Included Managers:
+
+No.   Form 13F File Number    Name
+
+1. 	028-11159 			Abrams Bison Partners, L.P.
+<PAGE>
+
+<TABLE>
+                                                     FORM 13F INFORMATION TABLE
+                                                           June 30, 2011
+<CAPTION>
+COLUMN 1                         COLUMN  2     COLUMN 3   COLUMN 4        COLUMN 5         COLUMN 6   COLUMN 7      COLUMN 8
+
+                                                           VALUE     SHRS OR   SH/ PUT/   INVESTMENT  OTHER     VOTING AUTHORITY
+NAME OF ISSUER                TITLE OF CLASS    CUSIP      (x1000)   PRN AMT   PRN CALL   DISCRETION  MNGRS    SOLE      SHARED NONE
+--------------                --------------    -----      -------   -------   --- ----   ----------  -----    ----      ------ ----
+<S>                           <C>              <C>        <C>        <C>       <C> <C>    <C>         <C>      <C>        <C>   <C>
+AON CORP                      COM              037389103  107,730    2,100,000 SH         SOLE        NONE     2,100,000
+AUTOZONE INC                  COM              053332102   25,062       85,000 SH         SOLE        NONE        85,000
+BANK OF NEW YORK MELLON CORP  COM              064058100  102,480    4,000,000 SH         SOLE        NONE     4,000,000
+DELL INC                      COM              24702R101   63,346    3,800,000 SH         SOLE        NONE     3,800,000
+GENERAL DYNAMICS CORP         COM              369550108  153,325    2,057,500 SH         SOLE        NONE     2,057,500
+GENERAL DYNAMICS CORP         COM              369550108   74,520    1,000,000 SH  CALL   SOLE        NONE     1,000,000
+GOODRICH CORP                 COM              382388106   21,010      220,000 SH         SOLE        NONE       220,000
+HEIDRICK & STRUGGLES INTL IN  COM              422819102   25,162    1,111,400 SH         SOLE        NONE     1,111,400
+INTERVAL LEISURE GROUP INC    COM              46113M108    8,868      647,767 SH         SOLE        NONE       647,767
+PFIZER INC                    COM              717081103  246,170    1,195,000 SH         SOLE        NONE     1,195,000
+PIONEER NAT RES CO            COM              723787107   60,012      670,000 SH         SOLE        NONE       670,000
+RENAISSANCERE HOLDINGS LTD    COM              G7496G103   39,218      560,657 SH         SOLE        NONE       560,657
+FOSTER WHEELER AG             COM              H27178104   17,429      573,700 SH         SOLE        NONE       573,700
+</TABLE>
+
+SK 02802 0004 1211931
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,9 @@
+Year,2009,2008
+Realised Income,"-14,613,156","-8,315,044"
+Unrealised Income,0,0
+Rumenaration Fees,"639,752","1,047,993"
+Operating Expenses,"56,482","71,660"
+EBT,"-15,309,390","-9,434,697"
+Tax,0,0
+PAT,"-15,309,390","-9,434,697"
+EPS,-3.06,-1.89

@@ -1,0 +1,18 @@
+Year,2009,2008
+Cash in Hand and Bank,"26,434,250","38,610,982"
+Current Assets,"1,318,998,778","1,724,383,275"
+Musharika & Morabaha finances-Assets,"1,013,221,216","1,402,681,394"
+Investments,"58,739,891","94,737,132"
+Fixed Assets,"1,643,879,125","1,810,205,918"
+Total Assets,"3,046,041,697","3,594,604,613"
+Total Current Liabilities,"1,350,629,960","2,021,160,430"
+Total Non Current Liabilities,"1,332,413,289","1,129,809,488"
+Musharika & Morabaha finances-Liability,"1,173,349,624","883,542,753"
+Total Liabilities,"2,683,043,249","3,150,969,918"
+Paid Up Capital,"340,200,000","340,200,000"
+Reserves,"22,798,448","103,434,695"
+Preferred Equity,0,0
+Shareholder Equity,"362,998,448","443,634,695"
+Paid Up Value,10,10
+Number of Shares,"60,000,000","30,000,000"
+Surplus On Revaluation of Assets,0,0

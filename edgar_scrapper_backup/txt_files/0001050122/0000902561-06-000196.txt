@@ -1,0 +1,1459 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ K7WUcSXNbipkuQ54U+eaAysb1wa9ItpY51YLXCjjpWUxqhQezGnzJYUSZxPf8V+2
+ S1laVtaQ2+rxn0CpogJxvQ==
+
+<SEC-DOCUMENT>0000902561-06-000196.txt : 20061106
+<SEC-HEADER>0000902561-06-000196.hdr.sgml : 20061106
+<ACCEPTANCE-DATETIME>20061106161134
+ACCESSION NUMBER:		0000902561-06-000196
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20061106
+DATE AS OF CHANGE:		20061106
+GROUP MEMBERS:		LAGRANGE CAPITAL ADMINISTRATION, L.L.C.
+GROUP MEMBERS:		LAGRANGE CAPITAL PARTNERS LP
+GROUP MEMBERS:		LAGRANGE CAPITAL PARTNERS OFFSHORE LTD.
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			1 800 CONTACTS INC
+		CENTRAL INDEX KEY:			0001050122
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-CATALOG & MAIL-ORDER HOUSES [5961]
+		IRS NUMBER:				870571643
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-54695
+		FILM NUMBER:		061190477
+
+	BUSINESS ADDRESS:	
+		STREET 1:		13751 S WADSWORTH PARK DR SUITE D-140
+		CITY:			DRAPER
+		STATE:			UT
+		ZIP:			84020
+		BUSINESS PHONE:		8015728225
+
+	MAIL ADDRESS:	
+		STREET 1:		13751 S WADSWORTH PARK DR SUITE D-140
+		CITY:			DRAPER
+		STATE:			UT
+		ZIP:			84020
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Johnson Frank L
+		CENTRAL INDEX KEY:			0001315394
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		BUSINESS PHONE:		212 218 5154
+
+	MAIL ADDRESS:	
+		STREET 1:		1270 SIXTH AVENUE, SUITE 2200
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10020
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Johnson Frank
+		DATE OF NAME CHANGE:	20050125
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<FILENAME>sch13d.htm
+<TEXT>
+<html>
+<head>
+<title>Schedule 13d</title>
+  <table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="width: 100%; border-collapse: collapse">
+    <tr>
+      <td style="width: 15%; " nowrap>
+      <p style="margin-bottom: .0001pt">&nbsp;</td>
+      <td style="width: 63%; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: medium none; " align="center" nowrap>
+      <p style="margin-bottom: .0001pt"><b><font size="2">UNITED STATES</font></b></td>
+      <td style="width: 21%; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: 1.0pt solid windowtext; border-bottom: medium none" nowrap>
+      <div style="border-bottom-style: solid; border-bottom-width: 1">
+      <p align="center" style="text-align: center; line-height: 9.0pt">
+      <font size="1">OMB APPROVAL</font></div>
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 15%; " nowrap>
+      <p style="margin-bottom: .0001pt">&nbsp;</td>
+      <td style="width: 63%; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: medium none; " align="center" nowrap>
+      <p style="margin-bottom: .0001pt"><b><font size="2">SECURITIES AND
+      EXCHANGE COMMISSION<br>
+      Washington, D.C. 20549<br>
+&nbsp;</font></b></td>
+      <td style="width: 21%; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext" nowrap>
+      <p style="line-height: 9.0pt">
+      <font size="1">&nbsp;OMB Number:&nbsp; 3235-0145<br>
+      &nbsp;Expires:&nbsp; January 31, 2006<br>
+      &nbsp;Estimated average burden<br>
+      &nbsp;hours per response... ... ...15</font></td>
+    </tr>
+    <tr>
+      <td style="width: 15%; " nowrap>
+      <p style="margin-bottom: .0001pt">&nbsp;</td>
+      <td style="width: 63%; " nowrap>
+      <p style="margin-bottom: .0001pt" align="center">
+      <b>SCHEDULE 13D</b><br>
+      <b><font size="2">Under the Securities Exchange Act of 1934</font></b></td>
+      <td style="width: 21%; border: medium none" nowrap>
+      <p align="center" style="text-align: center; line-height: 9.0pt">
+      &nbsp;</td>
+    </tr>
+    <tr>
+      <td style="width: 15%; ">
+      <p style="margin-bottom: .0001pt">&nbsp;</td>
+      <td style="width: 63%; ">
+      <p style="margin-bottom: .0001pt">&nbsp;</td>
+      <td style="width: 21%; ">
+      <p align="center" style="text-align: center; line-height: 9.0pt">
+      &nbsp;</td>
+    </tr>
+  </table>
+  <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="95%" style="width: 95.86%; border-collapse: collapse; border: medium none" height="390">
+    <tr>
+      <td width="100%" style="width: 100.0%; border: 1.0pt solid windowtext; " height="32">
+      <p align="center" style="text-align: center; margin-bottom: 0; margin-top:0">
+      <b>1-800 Contacts, Inc.</b></td>
+    </tr>
+    <tr style="height: 43.15pt">
+      <td width="100%" style="width: 100.0%; height: 60; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; ">
+      <p align="center" style="text-align: center; margin-bottom: 0; margin-top:0">
+      <font size="2">(Name of Issuer)</font><br>
+      <br>
+      <b>Common Stock, $.01 par value</b></td>
+    </tr>
+    <tr>
+      <td width="100%" style="width: 100.0%; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; " height="60">
+      <p align="center" style="text-align: center; margin-bottom: 0; margin-top:0">
+      <font size="2">(Title of Class of Securities)</font><br>
+      <br>
+      <b>681977104</b></td>
+    </tr>
+    <tr>
+      <td width="100%" valign="top" style="width: 100.0%; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in" height="109">
+      <p align="center" style="text-align: center; margin-top:0; margin-bottom:0">
+      <font size="2">(CUSIP
+      Number)</font><br>
+      <br>
+      <b>Frank LaGrange Johnson <br>
+      1270 Avenue of the America, Suite 2200<br>
+      New York, New York&nbsp; 10020<br>
+      (212) 218-8091</b></td>
+    </tr>
+    <tr>
+      <td width="100%" valign="top" style="width: 100.0%; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in" height="75">
+      <p align="center" style="text-align: center; margin-bottom: 0; margin-top:0">
+      <font size="2">(Name, Address and Telephone Number of Person Authorized to<br>
+      Receive Notices and Communications)</font><br>
+      <br>
+      <b>October 26, 2006</b></td>
+    </tr>
+    <tr>
+      <td width="100%" valign="top" style="width: 100.0%; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in" height="42">
+      <p align="center" style="text-align: center; margin-bottom: .25in">
+      <font size="2">(Date of Event which Requires Filing of this Statement)</font></td>
+    </tr>
+  </table>
+  <p style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
+  <table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse">
+    <tr>
+      <td width="45" valign="top" style="width: 33.95pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p style="margin-left: 0in"><font size="2">&nbsp;</font></td>
+      <td width="565" valign="top" style="width: 423.85pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p style="margin-left: 0in"><font size="2">If the filing person
+      has previously filed a statement on Schedule 13G to report the
+      acquisition that is the subject of this Schedule 13D, and is filing this
+      schedule because of &#167;&#167; 240.13d-1(e), 240.13d-1(f) or 240.13d-1(g), check
+      the following box.&nbsp;  </font><b>X</b></td>
+    </tr>
+    <tr>
+      <td width="45" valign="top" style="width: 33.95pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <font size="2">&nbsp;</font></td>
+      <td width="565" valign="top" style="width: 423.85pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <font size="2">&nbsp;</font></td>
+    </tr>
+    <tr>
+      <td width="45" valign="top" style="width: 33.95pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p style="margin-left: 0in"><b><font size="2">&nbsp;</font></b></td>
+      <td width="565" valign="top" style="width: 423.85pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p style="margin-left: 0in"><b><font size="2">Note:</font></b><font size="2">&nbsp;
+      Schedules filed in paper format shall include a signed original and five
+      copies of the schedule, including all exhibits. See &#167;240.13d-7 for other
+      parties to whom copies are to be sent.</font></td>
+    </tr>
+    <tr>
+      <td width="45" valign="top" style="width: 33.95pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <font size="2">&nbsp;</font></td>
+      <td width="565" valign="top" style="width: 423.85pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <font size="2">&nbsp;</font></td>
+    </tr>
+    <tr>
+      <td width="45" valign="top" style="width: 33.95pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p style="margin-left: 0in"><font size="2">&nbsp;</font></td>
+      <td width="565" valign="top" style="width: 423.85pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p style="margin-left: 0in"><font size="2">*&nbsp; The remainder
+      of this cover page shall be filled out for a reporting person's initial
+      filing on this form with respect to the subject class of securities, and
+      for any subsequent amendment containing information which would alter
+      disclosures provided in a prior cover page.</font></td>
+    </tr>
+    <tr>
+      <td width="45" valign="top" style="width: 33.95pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <font size="2">&nbsp;</font></td>
+      <td width="565" valign="top" style="width: 423.85pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <font size="2">&nbsp;</font></td>
+    </tr>
+    <tr>
+      <td width="45" valign="top" style="width: 33.95pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p style="margin-left: 0in"><font size="2">&nbsp;</font></td>
+      <td width="565" valign="top" style="width: 423.85pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p style="margin-left: 0in"><font size="2">The information
+      required on the remainder of this cover page shall not be deemed to be
+      &quot;filed&quot; for the purpose of Section 18 of the Securities Exchange Act of
+      1934 (&quot;Act&quot;) or otherwise subject to the liabilities of that section of
+      the Act but shall be subject to all other provisions of the Act
+      (however, see the Notes).</font></td>
+    </tr>
+    <tr>
+      <td width="45" valign="top" style="width: 33.95pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <font size="2">&nbsp;</font></td>
+      <td width="565" valign="top" style="width: 423.85pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <font size="2">&nbsp;</font></td>
+    </tr>
+    <tr>
+      <td width="45" valign="top" style="width: 33.95pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <font size="2">&nbsp;</font></td>
+      <td width="565" valign="top" style="width: 423.85pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <font size="2">&nbsp;</font></td>
+    </tr>
+    <tr>
+      <td width="45" valign="top" style="width: 33.95pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p style="margin-left: 0in"><b><font size="2">&nbsp;</font></b></td>
+      <td width="565" valign="top" style="width: 423.85pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p style="margin-left: 0in"><b><font size="2">Persons who respond
+      to the collection of information contained in this form are not required
+      to respond unless the form displays a currently valid OMB control
+      number.</font></b></td>
+    </tr>
+  </table>
+  <p style="margin-left: 0in"><font size="2">SEC 1746 (1-06)</font></p>
+  <p style="page-break-before:always">
+  <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: medium none">
+    <tr>
+      <td width="616" colspan="2" style="width: 461.7pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; ">
+      <p><b><font size="2">CUSIP No.&nbsp; 681977104<br>
+&nbsp;</font></b></td>
+    </tr>
+    <tr>
+      <td width="111" valign="top" style="width: 83.4pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; ">
+      <p align="center" style="text-align: center"><font size="2"><br>
+      1.</font></td>
+      <td width="504" style="width: 378.3pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; ">
+      <p><font size="2"><br>
+      Names of Reporting Persons.<br>
+      I.R.S. Identification Nos. of above persons (entities only).<br>
+      <br>
+      LaGrange Capital Partners, L.P. 1<br>
+&nbsp;</font></td>
+    </tr>
+    <tr>
+      <td width="111" valign="top" style="width: 83.4pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; ">
+      <p align="center" style="text-align: center"><font size="2"><br>
+      2.</font></td>
+      <td width="504" style="width: 378.3pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; ">
+      <p><font size="2"><br>
+      Check the Appropriate Box if a Member of a Group (See Instructions)</font></p>
+      <p><font size="2">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>X</b></font></p>
+      <p><font size="2">(b)<br>
+     <br>
+      &nbsp;</font></td>
+    </tr>
+    <tr>
+      <td width="111" style="width: 83.4pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; ">
+      <p align="center" style="text-align: center"><font size="2"><br>
+      3.<br>
+&nbsp; </font></td>
+      <td width="504" style="width: 378.3pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; ">
+      <p><font size="2"><br>
+      SEC Use Only <br>
+&nbsp; </font></td>
+    </tr>
+    <tr>
+      <td width="111" style="width: 83.4pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; ">
+      <p align="center" style="text-align: center"><font size="2"><br>
+      4.<br>
+&nbsp;&nbsp; </font></td>
+      <td width="504" style="width: 378.3pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; ">
+      <p><font size="2"><br>
+      Source of Funds (See Instructions)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>&nbsp;WC</b><br>
+&nbsp; </font></td>
+    </tr>
+    <tr>
+      <td width="111" style="width: 83.4pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; ">
+      <p align="center" style="text-align: center"><font size="2"><br>
+      5.<br>
+&nbsp;&nbsp; </font></td>
+      <td width="504" style="width: 378.3pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; ">
+      <p><font size="2"><br>
+      Check if Disclosure of Legal Proceedings Is Required Pursuant to Items
+      2(d) or 2(e)&nbsp;<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font> </td>
+    </tr>
+    <tr>
+      <td width="111" style="width: 83.4pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1px solid windowtext; ">
+      <p align="center" style="text-align: center"><font size="2"><br>
+      6.<br>
+&nbsp;</font></td>
+      <td width="504" style="width: 378.3pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1px solid windowtext; ">
+      <p><font size="2"><br>
+      Citizenship or Place of Organization&nbsp;&nbsp;<b>DELAWARE</b><br>
+&nbsp;</font></td>
+    </tr>
+    <tr style="height: 9.4pt">
+      <td width="111" style="width: 83.4pt; border-left: medium none; border-right: medium none; border-bottom: 1px solid windowtext; border-top-color:inherit">
+      <p align="center" style="text-align: center; margin-top:0; margin-bottom:0">
+      <font size="1">&nbsp;</font></td>
+      <td width="504" style="width: 378.3pt; border-left: medium none; border-right: medium none; border-bottom: 1px solid windowtext; border-top-color:inherit">
+      <p style="margin-top: 0; margin-bottom: 0"><font size="1">&nbsp;</font></td>
+    </tr>
+    <tr>
+      <td width="111" rowspan="4" valign="top" style="width: 83.4pt; border-left: medium none; border-right: medium none; border-bottom: 1.0pt solid windowtext; border-top-color:inherit">
+      <p style="margin-top: 0; margin-bottom: 0"><font size="2">Number of<br>
+      Shares<br>
+      Beneficially by Owned by Each
+      Reporting Person With </font></td>
+      <td width="504" style="width: 378.3pt; border-left: medium none; border-right: medium none; border-bottom: 1.0pt solid windowtext; border-top-color:inherit">
+      <p style="margin-top: 0; margin-bottom: 0"><font size="2"><br>
+      7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      Sole Voting Power&nbsp;&nbsp;<b>1,334,290</b><br>
+&nbsp;</font></td>
+    </tr>
+    <tr>
+      <td width="504" style="width: 378.3pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; ">
+      <p><font size="2"><br>
+      8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      Shared Voting Power&nbsp;&nbsp;<b>0</b><br>
+&nbsp;</font></td>
+    </tr>
+    <tr>
+      <td width="504" style="width: 378.3pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; ">
+      <p><font size="2"><br>
+      9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      Sole Dispositive Power&nbsp;&nbsp;<b>1,334,290<br>
+&nbsp;</b></font></td>
+    </tr>
+    <tr>
+      <td width="504" style="width: 378.3pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; ">
+      <p><font size="2"><br>
+      10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shared
+      Dispositive Power&nbsp; <b>0<br>
+&nbsp;</b></font></td>
+    </tr>
+    <tr>
+      <td width="111" style="width: 83.4pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; ">
+      <p align="center" style="text-align: center"><font size="2"><br>
+      11.<br>
+&nbsp;</font></td>
+      <td width="504" style="width: 378.3pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; ">
+      <p><font size="2"><br>
+      Aggregate Amount Beneficially Owned by Each Reporting Person&nbsp; <b>1,334,290<br>
+&nbsp;</b></font></td>
+    </tr>
+    <tr>
+      <td width="111" style="width: 83.4pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; ">
+      <p align="center" style="text-align: center"><font size="2"><br>
+      12.<br>
+&nbsp; </font></td>
+      <td width="504" style="width: 378.3pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; ">
+      <p><font size="2"><br>
+      Check if the Aggregate Amount in Row (11) Excludes Certain Shares (See
+      Instructions)<br>
+&nbsp;</font></td>
+    </tr>
+    </table>
+  <p>
+  <font size="2"><sup>________________________________<br>
+  1</sup> The general partner of LaGrange Capital
+  Partners, L.P. is LaGrange Capital Management, L.L.C., a limited liability
+  company organized under the laws of Delaware.&nbsp; Frank LaGrange Johnson
+  is the sole member of LaGrange Capital Management, L.L.C. </font></p>
+    <p style="page-break-before:always">
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-left-width:0; border-right-width:0; border-bottom-width:0" bordercolor="#111111" width="92%" id="AutoNumber2">
+  <tr>
+    <td width="19%" align="center" style="border-left-style:none; border-left-width:medium; border-right-style:none; border-right-width:medium; border-top-style:solid; border-top-width:1; border-bottom-style:none; border-bottom-width:medium"><font size="2">
+    <br>
+      13.</font></td>
+    <td width="81%" style="border-left-style:none; border-left-width:medium; border-right-style:none; border-right-width:medium; border-top-style:solid; border-top-width:1; border-bottom-style:none; border-bottom-width:medium"><font size="2">
+    <br>
+      Percent of Class Represented by Amount in Row (11)&nbsp; <b>10.0%</b><sup>2</sup></font></td>
+  </tr>
+  <tr>
+    <td width="19%" align="center" style="border-style: none; border-width: medium">&nbsp;</td>
+    <td width="81%" style="border-style: none; border-width: medium">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="19%" align="center" style="border-style: none; border-width: medium"><font size="2">
+    <br>
+      14.</font></td>
+    <td width="81%" style="border-style: none; border-width: medium"><font size="2">
+    <br>
+      Type of Reporting Person (See Instructions)&nbsp; <b>PN</b></font></td>
+    </tr>
+  </table>
+  <p align="left" style="text-align: left; margin-bottom: 0pt; margin-top:0">
+  <font size="2"><sup><br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  ___________________________________<br>
+  2</sup> Percentages are based on 1,336,000 shares of
+  Common Stock outstanding as of July 1, 2006 (as set forth in the Issuer's
+  Form 10-Q, filed August 10, 2006, with the Securities and Exchange
+  Commission.<sup><br>
+  &nbsp;</sup></font></p>
+  <p style="page-break-before:always">
+  <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="100%" style="width: 100.0%; border-collapse: collapse; border: medium none">
+    <tr>
+      <td width="100%" colspan="2" valign="top" style="width: 100.0%; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p><b><font size="2">CUSIP No.&nbsp; 681977104</font></b></td>
+    </tr>
+    <tr>
+      <td width="18%" valign="top" style="width: 18.06%; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p align="center" style="text-align: center"><font size="2"><br>
+      1.</font></td>
+      <td width="81%" valign="top" style="width: 81.94%; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p align="left" style="text-align: left"><font size="2"><br>
+      Names of Reporting Persons.<br>
+      I.R.S. Identification Nos. of above persons (entities only).<br>
+      <br>
+      LaGrange Capital Partners Offshore Fund, Ltd.</font><sup><font size="2">3<br>
+&nbsp;</font></sup></td>
+    </tr>
+    <tr>
+      <td width="18%" valign="top" style="width: 18.06%; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p align="center" style="text-align: center"><font size="2"><br>
+      2.</font></td>
+      <td width="81%" valign="top" style="width: 81.94%; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p><font size="2"><br>
+      Check the Appropriate Box if a Member of a Group (See Instructions)</font></p>
+      <p><font size="2">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><b><font size="2">X</font></b></p>
+      <p><font size="2">(b)<br>
+     <br>
+      </font>
+     </td>
+    </tr>
+    <tr>
+      <td width="18%" valign="top" style="width: 18.06%; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p align="center" style="text-align: center"><font size="2"><br>
+      3.<br>
+&nbsp;</font></td>
+      <td width="81%" valign="top" style="width: 81.94%; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p><font size="2"><br>
+      SEC Use Only</font></td>
+    </tr>
+    <tr>
+      <td width="18%" valign="top" style="width: 18.06%; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p align="center" style="text-align: center"><font size="2"><br>
+      4.</font></td>
+      <td width="81%" valign="top" style="width: 81.94%; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p><font size="2"><br>
+      Source of Funds (See Instructions)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><b><font size="2">WC<br>
+&nbsp;</font></b></td>
+    </tr>
+    <tr>
+      <td width="18%" valign="top" style="width: 18.06%; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p align="center" style="text-align: center"><font size="2"><br>
+      5.</font></td>
+      <td width="81%" valign="top" style="width: 81.94%; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p><font size="2"><br>
+      Check if Disclosure of Legal Proceedings Is Required Pursuant to Items
+      2(d) or 2(e)<br>
+&nbsp;</font></td>
+    </tr>
+    <tr>
+      <td width="18%" valign="top" style="width: 18.06%; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p align="center" style="text-align: center"><font size="2"><br>
+      6.</font></td>
+      <td width="81%" valign="top" style="width: 81.94%; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p><font size="2"><br>
+      Citizenship or Place of Organization&nbsp;&nbsp;&nbsp;</font><b><font size="2">CAYMAN ISLANDS<br>
+&nbsp;</font></b></td>
+    </tr>
+    <tr style="height: 9.4pt">
+      <td width="18%" valign="top" style="width: 18.06%; height: 9.4pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p align="center" style="text-align: center; margin-bottom: .0001pt">
+      <font size="2">&nbsp;</font></td>
+      <td width="81%" valign="top" style="width: 81.94%; height: 9.4pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p  style="margin-bottom: .0001pt"><font size="2">&nbsp;</font></td>
+    </tr>
+    <tr>
+      <td width="18%" rowspan="4" valign="top" style="width: 18.06%; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p align="left" style="text-align: left"><font size="2">Number of
+      Shares Beneficially by Owned by Each Reporting Person With</font></td>
+      <td width="81%" valign="top" style="width: 81.94%; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p><font size="2"><br>
+      7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sole Voting Power &nbsp;&nbsp;&nbsp;</font><b><font size="2">326,884<br>
+&nbsp;</font></b></td>
+    </tr>
+    <tr>
+      <td width="81%" valign="top" style="width: 81.94%; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p><font size="2"><br>
+      8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shared Voting Power&nbsp;&nbsp;&nbsp;</font><b><font size="2">0<br>
+&nbsp;</font></b></td>
+    </tr>
+    <tr>
+      <td width="81%" valign="top" style="width: 81.94%; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p><font size="2"><br>
+      9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sole Dispositive Power&nbsp;&nbsp;&nbsp;</font><b><font size="2">326,884<br>
+&nbsp;</font></b></td>
+    </tr>
+    <tr>
+      <td width="81%" valign="top" style="width: 81.94%; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p><font size="2"><br>
+      10.&nbsp;&nbsp;&nbsp;&nbsp; Shared Dispositive Power&nbsp;&nbsp;&nbsp;</font><b><font size="2">0<br>
+&nbsp;</font></b></td>
+    </tr>
+    <tr>
+      <td width="18%" valign="top" style="width: 18.06%; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p align="center" style="text-align: center"><font size="2"><br>
+      11. </font></td>
+      <td width="81%" valign="top" style="width: 81.94%; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p><font size="2"><br>
+      Aggregate Amount Beneficially Owned by Each Reporting Person&nbsp;&nbsp;&nbsp;</font><b><font size="2">326,884<br>
+&nbsp;</font></b></td>
+    </tr>
+    <tr>
+      <td width="18%" valign="top" style="width: 18.06%; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p align="center" style="text-align: center"><font size="2"><br>
+      12. </font></td>
+      <td width="81%" valign="top" style="width: 81.94%; border-left: medium none; border-right: medium none windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p><font size="2"><br>
+      Check if the Aggregate Amount in Row (11) Excludes Certain Shares (See
+      Instructions)<br>
+&nbsp;</font></td>
+    </tr>
+  </table>
+  <p style="margin-top: 0; margin-bottom: 0"><br>
+  <br>
+  ______________________<br>
+  <font size="2"><sup>3</sup> The investment manager of
+  LaGrange Capital Partners Offshore Fund, Ltd. Is LaGrange Capital
+  Administration, L.L.C., a limited liability company organized under the laws
+  of Delaware.&nbsp; Frank LaGrange Johnson is the sole member of LaGrange
+  Capital Administration, L.L.C.</font></p>
+<p style="page-break-before:always">
+  <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: medium none" height="622">
+    <tr>
+      <td width="111" valign="top" style="width: 83.4pt; border-left: medium none; border-right: medium none; border-top: 1.0pt solid windowtext; border-bottom: medium none; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in" height="29">
+      <p align="center" style="text-align: center"><font size="2"><br>
+      13.</font></td>
+      <td width="504" valign="top" style="width: 378.3pt; border-left: medium none; border-right: medium none; border-top: 1.0pt solid windowtext; border-bottom: medium none; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in" height="29">
+      <p><font size="2"><br>
+      Percent of Class Represented by Amount in Row (11)&nbsp;&nbsp;&nbsp;<b>2.5%</b></font><sup><font size="2">4</font></sup></td>
+    </tr>
+    <tr style="page-break-inside: avoid">
+      <td width="111" valign="top" style="width: 83.4pt; border: medium none; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in" height="28">
+      <p align="center" style="text-align: center"><font size="2"><br>
+      14.</font></td>
+      <td width="504" valign="top" style="width: 378.3pt; border: medium none; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in" height="28">
+      <p align="left" style="text-align: left"><font size="2"><br>
+      Type of Reporting Person (See Instructions)&nbsp;&nbsp;&nbsp;</font><b><font size="2">PN</font></b></td>
+    </tr>
+    <tr>
+      <td width="616" colspan="2" valign="top" style="width: 461.7pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in" height="48">
+      <font size="2">
+         </font><b><font size="2"><br>
+      CUSIP No.</font></b><font size="2">&nbsp;
+      </font> <b><font size="2">681977104<br>
+&nbsp;</font></b></td>
+    </tr>
+    <tr>
+      <td width="111" valign="top" style="width: 83.4pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in" height="76">
+      <p align="center" style="text-align: center"><font size="2"><br>
+      1.</font></td>
+      <td width="504" valign="top" style="width: 378.3pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in" height="76">
+      <p align="left" style="text-align: left"><font size="2"><br>
+      Names of Reporting Persons.<br>
+      I.R.S. Identification Nos. of above persons (entities only).<br>
+      <br>
+      LaGrange Capital Administration, L.L.C.</font><sup><font size="2"> 5<br>
+&nbsp;</font></sup></td>
+    </tr>
+    <tr>
+      <td width="111" valign="top" style="width: 83.4pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in" height="131">
+      <p align="center" style="text-align: center"><font size="2"><br>
+      2.</font></td>
+      <td width="504" valign="top" style="width: 378.3pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in" height="131">
+      <p><font size="2"><br>
+      Check the Appropriate Box if a Member of a Group (See Instructions)</font></p>
+      <p><font size="2">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><b><font size="2">X</font></b></p>
+      <p><font size="2">(b)<br>
+     <br>
+      &nbsp;</font></td>
+    </tr>
+    <tr>
+      <td width="111" valign="top" style="width: 83.4pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in" height="29">
+      <p align="center" style="text-align: center"><font size="2"><br>
+      3.</font></td>
+      <td width="504" valign="top" style="width: 378.3pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in" height="29">
+      <p><font size="2"><br>
+      SEC Use Only&nbsp; <br>
+&nbsp;</font></td>
+    </tr>
+    <tr>
+      <td width="111" valign="top" style="width: 83.4pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in" height="29">
+      <p align="center" style="text-align: center"><font size="2"><br>
+      4.</font></td>
+      <td width="504" valign="top" style="width: 378.3pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in" height="29">
+      <p><font size="2"><br>
+      Source of Funds (See Instructions)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><b><font size="2">WC<br>
+&nbsp;</font></b></td>
+    </tr>
+    <tr>
+      <td width="111" valign="top" style="width: 83.4pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in" height="29">
+      <p align="center" style="text-align: center"><font size="2"><br>
+      5.</font></td>
+      <td width="504" valign="top" style="width: 378.3pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in" height="29">
+      <p><font size="2"><br>
+      Check if Disclosure of Legal Proceedings Is Required Pursuant to Items
+      2(d) or 2(e)<br>
+&nbsp;</font></td>
+    </tr>
+    <tr>
+      <td width="111" valign="top" style="width: 83.4pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in" height="29">
+      <p align="center" style="text-align: center"><font size="2"><br>
+      6.</font></td>
+      <td width="504" valign="top" style="width: 378.3pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in" height="29">
+      <p><font size="2"><br>
+      Citizenship or Place of Organization&nbsp;&nbsp;&nbsp;</font><b><font size="2">DELAWARE<br>
+&nbsp;</font></b></td>
+    </tr>
+    <tr style="height: 9.4pt">
+      <td width="111" valign="top" style="width: 83.4pt; height: 19; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p align="center" style="text-align: center; margin-bottom: .0001pt">
+      <font size="2">&nbsp;</font></td>
+      <td width="504" valign="top" style="width: 378.3pt; height: 19; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p  style="margin-bottom: .0001pt"><font size="2">&nbsp;</font></td>
+    </tr>
+    <tr>
+      <td width="111" rowspan="4" valign="top" style="width: 83.4pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in" height="122">
+      <p align="left" style="text-align: left"><font size="2">Number of
+      Shares Beneficially by Owned by Each Reporting Person With</font></td>
+      <td width="504" valign="top" style="width: 378.3pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in" height="29">
+      <p><font size="2"><br>
+      7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sole Voting Power&nbsp;&nbsp;&nbsp;</font><b><font size="2">1,671,174<br>
+&nbsp;</font></b></td>
+    </tr>
+    <tr>
+      <td width="504" valign="top" style="width: 378.3pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in" height="29">
+      <p><font size="2"><br>
+      8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shared Voting Power&nbsp;&nbsp;&nbsp;</font><b><font size="2">0<br>
+&nbsp;</font></b></td>
+    </tr>
+    <tr>
+      <td width="504" valign="top" style="width: 378.3pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in" height="29">
+      <p><font size="2"><br>
+      9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sole Dispositive Power&nbsp;&nbsp;&nbsp;</font><b><font size="2">1,671,174<br>
+&nbsp;</font></b></td>
+    </tr>
+    <tr>
+      <td width="504" valign="top" style="width: 378.3pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in" height="29">
+      <p><font size="2"><br>
+      10.&nbsp;&nbsp;&nbsp;&nbsp; Shared Dispositive Power&nbsp;&nbsp;&nbsp;</font><b><font size="2">0<br>
+&nbsp;</font></b></td>
+    </tr>
+    <tr>
+      <td width="111" valign="top" style="width: 83.4pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in" height="29">
+      <p align="center" style="text-align: center"><font size="2"><br>
+      11.</font></td>
+      <td width="504" valign="top" style="width: 378.3pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in" height="29">
+      <p><font size="2"><br>
+      Aggregate Amount Beneficially Owned by Each Reporting Person&nbsp;&nbsp;&nbsp;</font><b><font size="2">1,671,174<br>
+&nbsp;</font></b></td>
+    </tr>
+  </table>
+  <p style="margin-top: 0; margin-bottom: 0"><font size="2"><br>
+  _______________________<br>
+  <sup>4</sup> Percentages are based on 1,336,000 shares of Common Stock
+  outstanding as of July 1, 2006 (as set forth in the Issuer's Form 10-Q,
+  filed August 10, 2006, with the Securities and Exchange Commission.</font><sup><font size="2"><br>
+  5</font></sup><font size="2"> Frank LaGrange is the sole member of
+  LaGrange Capital Administration, L.L.C.</font>
+  <p style="page-break-before: always">
+  <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: medium none">
+    <tr>
+      <td width="111" valign="top" style="width: 83.4pt; border-left: medium none; border-right: medium none; border-top: 1.0pt solid windowtext; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p align="center" style="text-align: center"><font size="2"><br>
+      12.</font></td>
+      <td width="504" valign="top" style="width: 378.3pt; border-left: medium none; border-right: medium none; border-top: 1.0pt solid windowtext; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p><font size="2"><br>
+      Check if the Aggregate Amount in Row (11) Excludes Certain Shares (See
+      Instructions)<br>
+&nbsp;</font></td>
+    </tr>
+    <tr>
+      <td width="111" valign="top" style="width: 83.4pt; border: medium none; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p align="center" style="text-align: center"><font size="2"><br>
+      13.</font></td>
+      <td width="504" valign="top" style="width: 378.3pt; border: medium none; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p><font size="2"><br>
+      Percent of Class Represented by Amount in Row (11)&nbsp;&nbsp; <b>12.5%</b></font><sup><font size="2">6<br>
+&nbsp;</font></sup></td>
+    </tr>
+    <tr style="page-break-inside: avoid">
+      <td width="111" valign="top" style="width: 83.4pt; border: medium none; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p align="center" style="text-align: center"><font size="2"><br>
+      14.</font></td>
+      <td width="504" valign="top" style="width: 378.3pt; border: medium none; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p align="left" style="text-align: left"><font size="2"><br>
+      Type of Reporting Person (See Instructions)&nbsp;&nbsp; </font> <b>
+      <font size="2">PN<br>
+&nbsp;</font></b></td>
+    </tr>
+    <tr>
+      <td width="616" colspan="2" valign="top" style="width: 461.7pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <font size="2">
+        </font><b><font size="2">CUSIP No.</font></b><font size="2">&nbsp;
+      </font> <b><font size="2">681977104</font></b></td>
+    </tr>
+    <tr>
+      <td width="111" valign="top" style="width: 83.4pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p align="center" style="text-align: center"><font size="2"><br>
+      1.</font></td>
+      <td width="504" valign="top" style="width: 378.3pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p align="left" style="text-align: left"><font size="2"><br>
+      Names of Reporting Persons.<br>
+      I.R.S. Identification Nos. of above persons (entities only).<br>
+      <br>
+      Frank LaGrange Johnson<br>
+&nbsp;</font></td>
+    </tr>
+    <tr>
+      <td width="111" valign="top" style="width: 83.4pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p align="center" style="text-align: center"><font size="2"><br>
+      2.</font></td>
+      <td width="504" valign="top" style="width: 378.3pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p><font size="2"><br>
+      Check the Appropriate Box if a Member of a Group (See Instructions)</font></p>
+      <p><font size="2">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><b><font size="2">X</font></b></p>
+      <p><font size="2">(b)<br>
+      <br>
+      &nbsp;</font></td>
+    </tr>
+    <tr>
+      <td width="111" valign="top" style="width: 83.4pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p align="center" style="text-align: center"><font size="2"><br>
+      3.</font></td>
+      <td width="504" valign="top" style="width: 378.3pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p><font size="2"><br>
+      SEC Use Only<br>
+&nbsp;</font></td>
+    </tr>
+    <tr>
+      <td width="111" valign="top" style="width: 83.4pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p align="center" style="text-align: center"><font size="2"><br>
+      4.</font></td>
+      <td width="504" valign="top" style="width: 378.3pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p align="left" style="text-align: left"><font size="2"><br>
+      Source of Funds (See Instructions)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><b><font size="2"> PF<br>
+&nbsp;</font></b></td>
+    </tr>
+    <tr>
+      <td width="111" valign="top" style="width: 83.4pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p align="center" style="text-align: center"><font size="2"><br>
+      5.</font></td>
+      <td width="504" valign="top" style="width: 378.3pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p><font size="2"><br>
+      Check if Disclosure of Legal Proceedings Is Required Pursuant to Items
+      2(d) or 2(e)<br>
+&nbsp;</font></td>
+    </tr>
+    <tr>
+      <td width="111" valign="top" style="width: 83.4pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p align="center" style="text-align: center"><font size="2"><br>
+      6.</font></td>
+      <td width="504" valign="top" style="width: 378.3pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p><font size="2"><br>
+      Citizenship or Place of Organization&nbsp;&nbsp; </font> <b>
+      <font size="2">UNITED STATES<br>
+&nbsp;</font></b></td>
+    </tr>
+    <tr style="height: 9.4pt">
+      <td width="111" valign="top" style="width: 83.4pt; height: 9.4pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p align="center" style="text-align: center; margin-bottom: .0001pt">
+      <font size="2">&nbsp;</font></td>
+      <td width="504" valign="top" style="width: 378.3pt; height: 9.4pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p  style="margin-bottom: .0001pt"><font size="2">&nbsp;</font></td>
+    </tr>
+    <tr>
+      <td width="111" rowspan="4" valign="top" style="width: 83.4pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p align="left" style="text-align: left"><font size="2">Number of
+      Shares Beneficially by Owned by Each Reporting Person With</font></td>
+      <td width="504" valign="top" style="width: 378.3pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p><font size="2"><br>
+      7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sole Voting Power&nbsp;&nbsp; <b>
+      1,688,335</b></font><sup><font size="2">7<br>
+&nbsp;</font></sup></td>
+    </tr>
+    <tr>
+      <td width="504" valign="top" style="width: 378.3pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p><font size="2"><br>
+      8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shared Voting Power&nbsp;&nbsp;
+      </font>
+      <b><font size="2">0<br>
+&nbsp;</font></b></td>
+    </tr>
+    <tr>
+      <td width="504" valign="top" style="width: 378.3pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p><font size="2"><br>
+      9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sole Dispositive Power&nbsp;&nbsp;
+      </font>
+      <b><font size="2">1,688,335<br>
+&nbsp; </font></b></td>
+    </tr>
+    <tr>
+      <td width="504" valign="top" style="width: 378.3pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p><font size="2">&nbsp; </font></td>
+    </tr>
+  </table>
+  <p><font size="2">________________________<br>
+  <sup>6</sup> Percentages are based on 1,336,000 shares of Common Stock
+  outstanding as of July 1, 2006 (as set forth in the Issuer's Form 10-Q,
+  filed August 10, 2006, with the Securities and Exchange Commission.<br>
+  </font><sup><font size="2">7</font></sup><font size="2"> Includes 15,161 shares of Common
+  Stock owned by Mr. Johnson that are currently being held in an individual
+  retirement account and a personal trading account and 2,000 shares of Common
+  Stock owned by Susan Ely Johnson, wife of Frank LaGrange Johnson, that are
+  currently being held in an individual retirement account.&nbsp; Mr. Johnson
+  disclaims beneficial ownership of the shares of Common Stock held by his
+  wife.</font></p>
+  &nbsp;
+  <p style="page-break-before:always">
+  <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: medium none">
+    <tr>
+      <td width="111" valign="top" style="width: 83.4pt; border-left: medium none; border-right: medium none; border-top: 1.0pt solid windowtext; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p align="center" style="text-align: center">&nbsp;</td>
+      <td width="504" valign="top" style="width: 378.3pt; border-left: medium none; border-right: medium none; border-top: 1.0pt solid windowtext; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p><font size="2"><br>
+      10.&nbsp;&nbsp;&nbsp;&nbsp; Shared Dispositive
+      Power&nbsp;&nbsp; </font> <b><font size="2">0<br>
+&nbsp;</font></b></td>
+    </tr>
+    <tr>
+      <td width="111" valign="top" style="width: 83.4pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p align="center" style="text-align: center"><font size="2"><br>
+      11.</font></td>
+      <td width="504" valign="top" style="width: 378.3pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p><font size="2"><br>
+      Aggregate Amount Beneficially Owned by Each Reporting Person&nbsp;
+      </font> <b>
+      <font size="2">1,688,335<br>
+&nbsp;</font></b></td>
+    </tr>
+    <tr>
+      <td width="111" valign="top" style="width: 83.4pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p align="center" style="text-align: center"><font size="2"><br>
+      12.</font></td>
+      <td width="504" valign="top" style="width: 378.3pt; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p><font size="2"><br>
+      Check if the Aggregate Amount in Row (11) Excludes Certain Shares (See
+      Instructions)<br>
+&nbsp;</font></td>
+    </tr>
+    <tr>
+      <td width="111" valign="top" style="width: 83.4pt; border: medium none; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p align="center" style="text-align: center"><font size="2"><br>
+      13.</font></td>
+      <td width="504" valign="top" style="width: 378.3pt; border: medium none; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p><font size="2"><br>
+      Percent of Class Represented by Amount in Row (11)&nbsp; <b>12.6%</b></font><sup><font size="2">8<br>
+&nbsp;</font></sup></td>
+    </tr>
+    <tr style="page-break-inside: avoid">
+      <td width="111" valign="top" style="width: 83.4pt; border: medium none; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p align="center" style="text-align: center"><font size="2"><br>
+      14.</font></td>
+      <td width="504" valign="top" style="width: 378.3pt; border: medium none; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p align="left" style="text-align: left"><font size="2"><br>
+      Type of Reporting Person (See Instructions)&nbsp; </font> <b>
+      <font size="2">IN<br>
+&nbsp;</font></b></td>
+    </tr>
+  </table>
+  <p  style="margin-bottom: 6.0pt">&nbsp;</p>
+  <p align="left" style="text-align: left"><b><u>
+  Item 1: Security and Issuer</u></b></p>
+  <p align="left" style="text-align: left">
+  This statement relates to the Common Stock,
+  par value $.01, the (&quot;Common Stock&quot;) issued by 1-800 Contacts, Inc. (the &quot;Issuer&quot;).&nbsp; The principal executive offices of the Issuer is 66 E.
+  Wadsworth Park, Draper, UT 84020.&nbsp; </p>
+  <p align="left" style="text-align: left"><b><u>
+  Item 2: Identity and Background.</u></b></p>
+  <p align="left" style="text-align: left">
+  The Reporting Persons (as hereafter defined)
+  are LaGrange Capital Partners, L.P., a Delaware Limited Partnership,
+  (&quot;LaGrange Capital&quot;), LaGrange Capital Partners Offshore Fund, Ltd., a
+  Cayman Islands Limited Partnership (&quot;LaGrange Offshore&quot;) LaGrange Capital
+  Administration, L.L.C., a Delaware Limited Liability Company (&quot;LaGrange
+  Administration&quot;) and Frank LaGrange Johnson, a citizen of the United States
+  of America (collectively, the &quot;Reporting Persons&quot;).</p>
+  <p align="left" style="text-align: left">
+  The principal business address of each of
+  LaGrange Capital, LaGrange Offshore, and LaGrange Administration is LaGrange
+  Capital Partners, LP, 1270 Avenue of the Americas, Suite 2200, New York, New
+  York 10020.</p>
+  <p align="left" style="text-align: left">
+  The name,&nbsp; citizenship,&nbsp; present&nbsp;
+  principal&nbsp; occupation or&nbsp; employment&nbsp; and business address of
+  each manager and executive officer of the Reporting Persons are set forth in
+  Schedule A attached hereto.</p>
+  <p align="left" style="text-align: left">
+  None of the Reporting&nbsp; Persons nor any
+  manager or executive&nbsp; officer of the Reporting&nbsp; Persons,&nbsp;
+  has,&nbsp; during the past five years,&nbsp; (a) been&nbsp; convicted in a
+  criminal proceeding (excluding traffic violations or similar&nbsp;
+  misdemeanors),&nbsp; or (b) been a party to a civil proceeding of a judicial
+  or&nbsp; administrative&nbsp; body of competent jurisdiction and as a result
+  of such proceeding was or is subject to a judgment,&nbsp; decree or final
+  order enjoining future violations of, or prohibiting, or&nbsp;
+  mandating&nbsp;activities&nbsp;subject&nbsp;to,&nbsp;Federal or State&nbsp;securities laws or a
+  finding of any violation with respect to such laws.</p>
+  <p><font size="2">____________________________<br>
+  8 Percentages are based on 1,336,000 shares of Common Stock
+  outstanding as of July 1, 2006 (as set forth in the Issuer's Form 10-Q,
+  filed August 10, 2006, with the Securities and Exchange Commission.</font></p>
+  <p style="page-break-before:always">
+  <p align="left" style="text-align: left"><b><u>
+  Item 3:&nbsp; Source and Amount of Funds or
+  Other Consideration.</u></b></p>
+  <p>The source of funding
+  for the purchase of these Shares was the general&nbsp; working&nbsp; capital
+  of LaGrange Capital, LaGrange Offshore, and the funds from Mr. Johnson's
+  brokerage account.&nbsp;</p>
+  <p><b><u>Item 4:&nbsp;
+  Purpose of Transaction</u></b></p>
+  <p>The Reporting
+  Persons&nbsp;acquired shares of Common Stock of the Company for investment
+  purposes in the ordinary course of&nbsp;their business.</p>
+  <p>The Reporting Persons
+  have had discussions with directors and senior management of the Company
+  concerning the Company's business and management and&nbsp;expect to continue to
+  have such discussions in the future.&nbsp; Frank LaGrange Johnson was
+  appointed to the Company's board of directors on October 26, 2006.&nbsp; In
+  that capacity it is expected that Mr. Johnson will&nbsp;be involved in discussing
+  and influencing&nbsp;the management and direction of the Company and its business
+  and affairs on an ongoing basis, including regarding&nbsp;any or all of the
+  matters specified in clauses (a) through (j) of Item 4 of Schedule 13D of
+  the Act.</p>
+  <p>The Reporting Persons
+  may purchase additional shares of Common Stock or dispose of any or all of
+  the shares of Common Stock held by them in the future in the open market, in
+  privately negotiated transactions, or otherwise, depending upon future
+  evaluation of the prospects of the Company, the investment plans and
+  objectives of the Reporting Persons&nbsp;and upon other developments, including
+  general economic and stock market conditions.</p>
+  <p><b><u>Item 5:&nbsp;
+  Interest in Securities of the Issuer.</u></b></p>
+  <p align="left" style="text-align: left; margin-bottom: .0001pt">
+  LaGrange Capital has sole voting power and
+  sole dispositive power with regard to 1,344,290 shares of Common Stock.&nbsp;
+  LaGrange Offshore has sole voting power and sole dispositive power with
+  regard to 326,884 shares of Common Stock.&nbsp; LaGrange Administration has
+  sole voting power and sole dispositive power with regard to 1,671,174 shares
+  of Common Stock.&nbsp; Frank LaGrange Johnson has sole voting power and sole
+  dispositive power with regard to 1,671,174 shares of Common Stock.</p>
+  <p>
+  The following table sets forth all
+  transactions with respect to Shares effected during the past sixty (60) days
+  by any of the Reporting Persons. Except as otherwise&nbsp; indicated,&nbsp;
+  all transactions were effected in the open market, and the table includes
+  commissions paid in per share prices.</p>
+  <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: medium none">
+    <tr>
+      <td width="160" valign="top" style="width: 119.7pt; border: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in" align="center">
+      <p>
+      Name</td>
+      <td width="160" valign="top" style="width: 119.7pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: 1.0pt solid windowtext; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in" align="center">
+      <p>
+      Date</td>
+      <td width="160" valign="top" style="width: 119.7pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: 1.0pt solid windowtext; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in" align="center">
+      <p>
+      Shares Purchased<br>
+      (Sold)</td>
+      <td width="160" valign="top" style="width: 119.7pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: 1.0pt solid windowtext; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in" align="center">
+      <p>
+      Price Per Share/<br>
+      Exercise Price</td>
+    </tr>
+    <tr>
+      <td width="160" valign="top" style="width: 119.7pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p>
+      LaGrange Capital Partners Offshore Ltd.</td>
+      <td width="160" valign="top" style="width: 119.7pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p>
+      08/31/2006</td>
+      <td width="160" valign="top" style="width: 119.7pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p>
+      109</td>
+      <td width="160" valign="top" style="width: 119.7pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p>
+      $14.8889</td>
+    </tr>
+    <tr>
+      <td width="160" valign="top" style="width: 119.7pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p>
+      LaGrange Capital Partners, L.P.</td>
+      <td width="160" valign="top" style="width: 119.7pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p>
+      09/29/2006</td>
+      <td width="160" valign="top" style="width: 119.7pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p>
+      1100</td>
+      <td width="160" valign="top" style="width: 119.7pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p>
+      $14.91</td>
+    </tr>
+    <tr>
+      <td width="160" valign="top" style="width: 119.7pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p>
+      LaGrange Capital Partners, L.P.</td>
+      <td width="160" valign="top" style="width: 119.7pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p>
+      08/31/2006</td>
+      <td width="160" valign="top" style="width: 119.7pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p>
+      450</td>
+      <td width="160" valign="top" style="width: 119.7pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p>
+      $14.8889</td>
+    </tr>
+    <tr>
+      <td width="160" valign="top" style="width: 119.7pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p>
+      Frank LaGrange<br>
+      Johnson</td>
+      <td width="160" valign="top" style="width: 119.7pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p>
+      08/30/2006</td>
+      <td width="160" valign="top" style="width: 119.7pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p>
+      1000</td>
+      <td width="160" valign="top" style="width: 119.7pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+      <p>
+      $14.75</td>
+    </tr>
+  </table>
+  <p style="page-break-before:always">
+    <p><b>Item 6:&nbsp; Contracts, Arrangement,
+  Understandings or Relationships with Respect to the Securities of the
+  Issuer.</b></p>
+  <p>
+  None.</p>
+  <p><b>Item 7:&nbsp; Material to be Filed as
+  Exhibits</b></p>
+  <p>
+  Joint Filing Agreement of the Reporting
+  Persons</p>
+  <p>
+  &nbsp;</p>
+  <p align="center"><b>SIGNATURE</b></p>
+    <div align="center">
+      <center>
+    <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse" width="366">
+      <tr>
+        <td valign="top" style="width: 352; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+        <p align="center">
+        November 6, 2006</td>
+      </tr>
+      <tr>
+        <td valign="top" style="width: 352; border: medium none; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+        <p align="center">
+        (Date)</td>
+      </tr>
+      <tr>
+        <td valign="top" style="width: 352; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+        <p>LaGrange Capital
+        Partners, L.P.</td>
+      </tr>
+      <tr>
+        <td valign="top" style="width: 352; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+        <p>By: LaGrange
+        Capital Management, L.L.C., its General Partner</td>
+      </tr>
+      <tr>
+        <td valign="top" style="width: 352; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+        <p>By: /s/ Frank
+        LaGrange Johnson</td>
+      </tr>
+      <tr>
+        <td valign="top" style="width: 352; border: medium none; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+        <p>Frank LaGrange
+        Johnson, its sole Member</td>
+      </tr>
+      <tr>
+        <td valign="top" style="width: 352; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+        <p>&nbsp;</td>
+      </tr>
+      <tr>
+        <td valign="top" style="width: 352; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+        <p>LaGrange Capital
+        Partners Offshore Fund, Ltd.</td>
+      </tr>
+      <tr>
+        <td valign="top" style="width: 352; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+        <p>By:&nbsp;
+        LaGrange Capital Administration, L.L.C., its Investment Manager</td>
+      </tr>
+      <tr>
+        <td valign="top" style="width: 352; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+        <p>By: /s/ Frank
+        LaGrange Johnson</td>
+      </tr>
+      <tr>
+        <td valign="top" style="width: 352; border: medium none; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+        <p>Frank LaGrange
+        Johnson, its sole Member</td>
+      </tr>
+      <tr>
+        <td valign="top" style="width: 352; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: medium none windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+        <p>&nbsp;</td>
+      </tr>
+      <tr>
+        <td valign="top" style="width: 352; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+        <p>LaGrange Capital
+        Administration, L.L.C.</td>
+      </tr>
+      <tr>
+        <td valign="top" style="width: 352; border: medium none; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+        <p>By: /s/ Frank
+        LaGrange Johnson</td>
+      </tr>
+      <tr>
+        <td valign="top" style="width: 352; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+        <p>Frank LaGrange
+        Johnson, its sole Member</td>
+      </tr>
+      <tr>
+        <td valign="top" style="width: 352; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+        <p>&nbsp;</td>
+      </tr>
+      <tr>
+        <td valign="top" style="width: 352; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+        <p>/s/ Frank
+        LaGrange Johnson</td>
+      </tr>
+      <tr>
+        <td valign="top" style="width: 352; border: medium none; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+        <p>Frank LaGrange
+        Johnson</td>
+      </tr>
+      <tr>
+        <td valign="top" style="width: 352; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+        <p>&nbsp;</td>
+      </tr>
+    </table>
+      </center>
+</div>
+  <p style="page-break-before:always">
+<p align="left" style="text-align:left">Exhibit 1</p>
+  <p align="left" style="text-align:left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JOINT FILING AGREEMENT<br>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In accordance with Rule&nbsp; 13d-1(k)(1)&nbsp; under the Securities&nbsp;
+  Exchange Act of 1934, as amended, the persons named below agree to the joint
+  filing on behalf of each of them of a statement on Schedule 13D (including&nbsp;
+  amendments thereto) with respect to the Common&nbsp; Stock of 1-800 Contacts,
+  Inc. and&nbsp; further&nbsp; agree that this Joint&nbsp; Filing&nbsp;
+  Agreement&nbsp; be&nbsp; included as an Exhibit to such joint&nbsp; filings.&nbsp;
+  In evidence&nbsp; thereof,&nbsp; the undersigned,&nbsp; being duly
+  authorized,&nbsp; have executed this Joint Filing Agreement this 6th day of
+  November, 2006.</p>
+    <div align="center">
+      <center>
+      <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse" width="371">
+      <tr>
+        <td valign="top" style="width: 357; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+        <p align="center" style="text-align:center">November 6, 2006</td>
+      </tr>
+      <tr>
+        <td style="width: 357; border: medium none">
+        <p align="center" style="text-align:center">(Date)</td>
+      </tr>
+      <tr>
+        <td style="width: 357; ">
+        LaGrange Capital Partners, L.P.</td>
+      </tr>
+      <tr>
+        <td style="width: 357; ">
+        By: LaGrange Capital Management, L.L.C.,
+        its General Partner</td>
+      </tr>
+      <tr>
+        <td style="width: 357; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext">
+        By: /s/ Frank LaGrange Johnson</td>
+      </tr>
+      <tr>
+        <td style="width: 357; border: medium none">
+        Frank LaGrange Johnson, its sole Member</td>
+      </tr>
+      <tr>
+        <td style="width: 357; border-bottom-style: none; border-bottom-width: medium">
+        &nbsp;</td>
+      </tr>
+      <tr>
+        <td style="width: 357; border-top-style: none; border-top-width: medium">
+        LaGrange Capital Partners Offshore
+        Fund, Ltd.</td>
+      </tr>
+      <tr>
+        <td style="width: 357; ">
+        By:&nbsp; LaGrange Capital
+        Administration, L.L.C., its Investment Manager</td>
+      </tr>
+      <tr>
+        <td style="width: 357; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext">
+        By: /s/ Frank LaGrange Johnson</td>
+      </tr>
+      <tr>
+        <td style="width: 357; border: medium none">
+        <div style="border-bottom-style: solid; border-bottom-width: 1">
+          Frank LaGrange Johnson, its sole Member
+        </td>
+      </tr>
+      <tr>
+        <td style="width: 357; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext">
+        &nbsp;</td>
+      </tr>
+      <tr>
+        <td style="width: 357; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext">
+        LaGrange Capital Administration, L.L.C.</td>
+      </tr>
+      <tr>
+        <td style="width: 357; border: medium none">
+        <div style="border-bottom-style: solid; border-bottom-width: 1">
+          By: /s/ Frank LaGrange Johnson</div>
+        </td>
+      </tr>
+      <tr>
+        <td style="width: 357; border: medium none">
+        <div style="border-bottom-style: solid; border-bottom-width: 1">
+          Frank LaGrange Johnson, its sole Member</div>
+        </td>
+      </tr>
+      <tr>
+        <td style="width: 357; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1px solid windowtext">
+        &nbsp;</td>
+      </tr>
+      <tr>
+        <td style="width: 357; border-left: medium none; border-right: medium none; border-top-color: inherit; border-bottom: 1.0pt solid windowtext">
+        /s/ Frank LaGrange Johnson</td>
+      </tr>
+      <tr>
+        <td style="width: 357; border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid windowtext">
+        Frank LaGrange Johnson</td>
+      </tr>
+      <tr>
+        <td style="width: 357; border: medium none">
+        &nbsp;</td>
+      </tr>
+    </table>
+      </center>
+  <br clear="all" style="page-break-before:always">
+  </p>
+  <p align="left" style="text-align:left">
+  SCHEDULE A<br>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DIRECTORS AND EXECUTIVE OFFICERS OF THE REPORTING PERSONS<br>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The following sets forth the name,&nbsp; position,&nbsp; and
+  principal&nbsp; occupation of each director and executive officer of each of
+  the Reporting Persons.&nbsp; Each such person&nbsp; is a&nbsp; citizen&nbsp;
+  of the&nbsp; United&nbsp; States of&nbsp; America.&nbsp; Except as&nbsp;
+  otherwise indicated,&nbsp; the&nbsp; business&nbsp; address&nbsp; of each&nbsp;
+  director&nbsp; and&nbsp; officer is c/o LaGrange Capital Partners, L.P., 1270 Avenue of the America, Suite 2200, New York, New York 10020. To the
+  best of the Reporting Persons' knowledge,&nbsp; except as set forth in this
+  statement on Schedule 13D,&nbsp; none of the&nbsp; directors or executive&nbsp;
+  officers of the Reporting Persons own any Shares.</p>
+  <p align="left" style="text-align:left">
+  LaGrange Capital Partners, L.P.</p>
+      <div align="left">
+  <table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse">
+    <tr>
+      <td width="319" style="width:239.4pt;">
+      <p><u>NAME</u></td>
+      <td width="319" style="width:239.4pt;">
+      <p><u>TITLE</u></td>
+    </tr>
+    <tr>
+      <td width="319" style="width:239.4pt;">
+      <p>&nbsp;</td>
+      <td width="319" style="width:239.4pt;">
+      <p>&nbsp;</td>
+    </tr>
+    <tr>
+      <td width="319" style="width:239.4pt;">
+      <p>Frank LaGrange
+      Johnson</td>
+      <td width="319" style="width:239.4pt;">
+      <p>Sole Member of
+      LaGrange Capital Management, L.L.C., its General Partner</td>
+    </tr>
+    <tr>
+      <td width="319" style="width:239.4pt;">
+      <p>&nbsp;</td>
+      <td width="319" style="width:239.4pt;">
+      <p>&nbsp;</td>
+    </tr>
+    <tr>
+      <td width="319" style="width:239.4pt;">
+      <p>&nbsp;</td>
+      <td width="319" style="width:239.4pt;">
+      <p>&nbsp;</td>
+    </tr>
+    <tr>
+      <td width="319" style="width:239.4pt;">
+      <p>LaGrange Capital
+      Partners Offshore Fund, Ltd.</td>
+      <td width="319" style="width:239.4pt;">
+      <p>&nbsp;</td>
+    </tr>
+    <tr>
+      <td width="319" style="width:239.4pt;padding:0; ">
+      <p>&nbsp;</td>
+      <td width="319" style="width:239.4pt;padding:0; ">
+      <p>&nbsp;</td>
+    </tr>
+    <tr>
+      <td width="319" style="width:239.4pt;padding:0; ">
+      <p><u>NAME </u>
+      </td>
+      <td width="319" style="width:239.4pt;padding:0; ">
+      <p><u>TITLE</u></td>
+    </tr>
+    <tr>
+      <td width="319" style="width:239.4pt;padding:0; ">
+      <p>&nbsp;</td>
+      <td width="319" style="width:239.4pt;padding:0; ">
+      <p>&nbsp;</td>
+    </tr>
+    <tr>
+      <td width="319" style="width:239.4pt;padding:0; ">
+      <p>Frank LaGrange
+      Johnson</td>
+      <td width="319" style="width:239.4pt;padding:0; ">
+      <p>Sole Member of
+      LaGrange Capital Administration, L.L.C., its Investment Manager</td>
+    </tr>
+    <tr>
+      <td width="319" style="width:239.4pt;padding:0; ">
+      <p>&nbsp;</td>
+      <td width="319" style="width:239.4pt;padding:0; ">
+      <p>&nbsp;</td>
+    </tr>
+    <tr>
+      <td width="319" style="width:239.4pt;padding:0; ">
+      <p>&nbsp;</td>
+      <td width="319" style="width:239.4pt;padding:0; ">
+      <p>&nbsp;</td>
+    </tr>
+    <tr>
+      <td width="319" style="width:239.4pt;padding:0; ">
+      <p>LaGrange Capital
+      Administration, L.L.C.</td>
+      <td width="319" style="width:239.4pt;padding:0; ">
+      <p>&nbsp;</td>
+    </tr>
+    <tr>
+      <td width="319" style="width:239.4pt;padding:0; ">
+      <p>&nbsp;</td>
+      <td width="319" style="width:239.4pt;padding:0; ">
+      <p>&nbsp;</td>
+    </tr>
+    <tr>
+      <td width="319" style="width:239.4pt;padding:0; ">
+      <p><u>NAME</u></p>
+      </td>
+      <td width="319" style="width:239.4pt;padding:0; ">
+      <p>&nbsp;</td>
+    </tr>
+    <tr>
+      <td width="319" style="width:239.4pt;padding:0; ">
+      &nbsp;</td>
+      <td width="319" style="width:239.4pt;padding:0; ">
+      &nbsp;</td>
+    </tr>
+    <tr>
+      <td width="319" style="width:239.4pt;padding:0; ">
+      <p>Frank LaGrange Johnson</td>
+      <td width="319" style="width:239.4pt;padding:0; ">
+      <p>Sole Member</td>
+    </tr>
+    <tr>
+      <td width="319" style="width:239.4pt;padding:0; ">
+      <p>&nbsp;</td>
+      <td width="319" style="width:239.4pt;padding:0; ">
+      <p>&nbsp;</td>
+    </tr>
+  </table>
+      </div>
+      </body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

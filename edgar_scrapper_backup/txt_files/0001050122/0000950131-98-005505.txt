@@ -1,0 +1,640 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ GFlqyNa4HFh9rQ1o37G2J4M3EsElXMqh9YqCyqrfqvUDp6u2Sw7fV8X+ubj865pz
+ qEnkSGjHC+uWHA+MMaUF4A==
+
+<SEC-DOCUMENT>0000950131-98-005505.txt : 19981014
+<SEC-HEADER>0000950131-98-005505.hdr.sgml : 19981014
+ACCESSION NUMBER:		0000950131-98-005505
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		19981013
+SROS:			NONE
+GROUP MEMBERS:		CAROLYN Z. YACKTMAN
+GROUP MEMBERS:		DONALD A. YACKTMAN
+GROUP MEMBERS:		YACKTMAN FAMILY TRUST
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			1 800 CONTACTS INC
+		CENTRAL INDEX KEY:			0001050122
+		STANDARD INDUSTRIAL CLASSIFICATION:	OPTICAL INSTRUMENTS & LENSES [3827]
+		IRS NUMBER:				870571643
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		
+		SEC FILE NUMBER:	005-54695
+		FILM NUMBER:		98724001
+
+	BUSINESS ADDRESS:	
+		STREET 1:		13751 S WADSWORTH PARK DR SUITE D-140
+		CITY:			DRAPER
+		STATE:			UT
+		ZIP:			84020
+		BUSINESS PHONE:		8015728225
+
+	MAIL ADDRESS:	
+		STREET 1:		13751 S WADSWORTH PARK DR SUITE D-140
+		CITY:			DRAPER
+		STATE:			UT
+		ZIP:			84020
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			YACKTMAN FAMILY TRUST
+		CENTRAL INDEX KEY:			0001071922
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+		STATE OF INCORPORATION:			SD
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O 9 CITICORP SOUTH DAKOTA
+		STREET 2:		701 EAST 60TH STREET NORTH
+		CITY:			SIOUX FALLS
+		STATE:			SD
+		ZIP:			57117
+		BUSINESS PHONE:		6053737851
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O 9 CITICORP SOUTH DAKOTA
+		STREET 2:		701 EAST 60TH STREET NORTH
+		CITY:			SIOUX FALLS
+		STATE:			SD
+		ZIP:			57117
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<DESCRIPTION>SCHEDULE 13D
+<TEXT>
+
+<PAGE>
+ 
+                      SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C. 20549
+
+                            ----------------------
+
+                                  SCHEDULE 13D
+                                (Rule 13d -101)
+
+           INFORMATION TO BE INCLUDED IN STATEMENTS FILED PURSUANT TO
+                   RULE 13d-1(a) AND AMENDMENTS THERETO FILED
+                           PURSUANT TO RULE 13d-2(a)
+
+                            (Amendment No._______)*
+
+
+                             1-800 CONTACTS, INC.
+                  ------------------------------------------
+                               (Name of Issuer)
+
+                    Common Stock, par value $.01 per share
+                  ------------------------------------------
+                        (Title of Class of Securities)
+
+                                   681977104
+                  ------------------------------------------
+                                (CUSIP Number)
+
+                               Donald A. Yacktman
+                           Yacktman Asset Management
+                            303 West Madison Street
+                            Chicago, Illinois 60606
+                                  312/201-1200
+                                        
+                  ------------------------------------------
+                 (Name, Address and Telephone Number of Person
+               Authorized to Receive Notices and Communications)
+
+
+                               September 29, 1998
+                  ------------------------------------------
+            (Date of Event which Requires Filing of this Statement)
+
+
+If the filing person has previously filed a statement on Schedule 13G to report
+the acquisition that is the subject of this Schedule 13D, and is filing this
+schedule because of Rule 13d-1(e), 13d-1(f) or 13d-1(g), check the following box
+[_].
+
+Note: Schedules filed in paper format shall include a signed original and five
+copies of the schedule, including all exhibits.  See Rule 13d-7(b) for other
+parties to whom copies are to be sent.
+
+
+
+                         (Continued on following pages)
+
+                               Page 1 of 10 Pages
+                                        
+*The remainder of this cover page shall be filled out for a reporting person's
+initial filing on this form with respect to the subject class of securities, and
+for any subsequent amendment containing information which would alter
+disclosures provided in a prior cover page.
+
+The information required on the remainder of this cover page shall not be deemed
+to be "filed" for the purpose of Section 18 of the Securities Exchange Act of
+1934 ("Act") or otherwise subject to the liabilities of that section of the Act
+but shall be subject to all other provisions of the Act (however, see the
+Notes).
+<PAGE>
+ 
+- -----------------------                                  ---------------------
+  CUSIP NO. 681977104                13D                   PAGE 2 OF 10 PAGES
+- -----------------------                                  ---------------------
+ 
+- ------------------------------------------------------------------------------
+      NAME OF REPORTING PERSONS
+ 1    
+      Yacktman Family Trust                    
+                                         
+- ------------------------------------------------------------------------------
+      CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*
+ 2                                                              (a) [_]
+                                                                (b) [X]
+- ------------------------------------------------------------------------------
+      SEC USE ONLY
+ 3
+ 
+- ------------------------------------------------------------------------------
+      SOURCE OF FUNDS*
+ 4    
+      Not Applicable
+- ------------------------------------------------------------------------------
+      CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT 
+      TO ITEMS 2(d) or 2(e) [_]
+ 5    
+- ------------------------------------------------------------------------------
+      CITIZENSHIP OR PLACE OF ORGANIZATION
+ 6    
+      South Dakota
+- ------------------------------------------------------------------------------
+                          SOLE VOTING POWER
+                     7     
+     NUMBER OF            430,000 (See Item 5)      
+                             
+      SHARES       -----------------------------------------------------------
+                          SHARED VOTING POWER
+   BENEFICIALLY      8    
+                          0 (See Item 5)
+     OWNED BY                    
+                   -----------------------------------------------------------
+       EACH               SOLE DISPOSITIVE POWER
+                     9     
+    REPORTING             430,000 (See Item 5)
+                         
+      PERSON       -----------------------------------------------------------
+                          SHARED DISPOSITIVE POWER
+       WITH          10   
+                          0 (See Item 5)       
+- ------------------------------------------------------------------------------
+      AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+11    
+      430,000 (See Item 5)
+      
+- ------------------------------------------------------------------------------
+      CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES*
+12                  
+      [_]
+- ------------------------------------------------------------------------------
+      PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+13    
+      6.7% (See Item 5)            
+- ------------------------------------------------------------------------------
+      TYPE OF REPORTING PERSON*
+14
+      OO
+- ------------------------------------------------------------------------------
+                     *SEE INSTRUCTIONS BEFORE FILLING OUT!
+<PAGE>
+ 
+- -----------------------                                  ---------------------
+  CUSIP NO. 681977104                13D                   PAGE 3 OF 10 PAGES
+- -----------------------                                  ---------------------
+ 
+- ------------------------------------------------------------------------------
+      NAME OF REPORTING PERSONS
+ 1    
+      Carolyn Z. Yacktman, as trustee under the Yacktman Family Trust   
+                                         
+- ------------------------------------------------------------------------------
+      CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*
+ 2                                                              (a) [_]
+                                                                (b) [X]
+- ------------------------------------------------------------------------------
+      SEC USE ONLY
+ 3
+ 
+- ------------------------------------------------------------------------------
+      SOURCE OF FUNDS*
+ 4    
+      Not Applicable
+- ------------------------------------------------------------------------------
+      CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT 
+      TO ITEMS 2(d) or 2(e) [_]
+ 5    
+- ------------------------------------------------------------------------------
+      CITIZENSHIP OR PLACE OF ORGANIZATION
+ 6    
+      United States
+- ------------------------------------------------------------------------------
+                          SOLE VOTING POWER
+                     7     
+     NUMBER OF            430,000 (See Item 5)      
+                             
+      SHARES       -----------------------------------------------------------
+                          SHARED VOTING POWER
+   BENEFICIALLY      8    
+                          0 (See Item 5)
+     OWNED BY                    
+                   -----------------------------------------------------------
+       EACH               SOLE DISPOSITIVE POWER
+                     9     
+    REPORTING             430,000 (See Item 5)
+                         
+      PERSON       -----------------------------------------------------------
+                          SHARED DISPOSITIVE POWER
+       WITH          10   
+                          0 (See Item 5)       
+- ------------------------------------------------------------------------------
+      AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+11    
+      430,000 (See Item 5)
+      
+- ------------------------------------------------------------------------------
+      CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES*
+12                  
+      [_]
+- ------------------------------------------------------------------------------
+      PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+13    
+      6.7% (See Item 5)            
+- ------------------------------------------------------------------------------
+      TYPE OF REPORTING PERSON*
+14
+      IN
+- ------------------------------------------------------------------------------
+                     *SEE INSTRUCTIONS BEFORE FILLING OUT!
+<PAGE>
+ 
+- -----------------------                                  ---------------------
+  CUSIP NO. 681977104                13D                   PAGE 4 OF 10 PAGES
+- -----------------------                                  ---------------------
+ 
+- ------------------------------------------------------------------------------
+      NAME OF REPORTING PERSONS
+ 1    
+      Donald A. Yacktman
+                                         
+- ------------------------------------------------------------------------------
+      CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*
+ 2                                                              (a) [_]
+                                                                (b) [X]
+- ------------------------------------------------------------------------------
+      SEC USE ONLY
+ 3
+ 
+- ------------------------------------------------------------------------------
+      SOURCE OF FUNDS*
+ 4    
+      Not Applicable
+- ------------------------------------------------------------------------------
+      CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT 
+      TO ITEMS 2(d) or 2(e) [_]
+ 5    
+- ------------------------------------------------------------------------------
+      CITIZENSHIP OR PLACE OF ORGANIZATION
+ 6    
+      United States
+- ------------------------------------------------------------------------------
+                          SOLE VOTING POWER
+                     7     
+     NUMBER OF            112,000 (See Item 5)      
+                             
+      SHARES       -----------------------------------------------------------
+                          SHARED VOTING POWER
+   BENEFICIALLY      8    
+                          430,000 (See Item 5)
+     OWNED BY                    
+                   -----------------------------------------------------------
+       EACH               SOLE DISPOSITIVE POWER
+                     9     
+    REPORTING             112,000 (See Item 5)
+                         
+      PERSON       -----------------------------------------------------------
+                          SHARED DISPOSITIVE POWER
+       WITH          10   
+                          430,000 (See Item 5)       
+- ------------------------------------------------------------------------------
+      AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+11    
+      542,000 (See Item 5)
+      
+- ------------------------------------------------------------------------------
+      CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES*
+12                  
+      [_]
+- ------------------------------------------------------------------------------
+      PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+13    
+      8.4% (See Item 5)            
+- ------------------------------------------------------------------------------
+      TYPE OF REPORTING PERSON*
+14
+      IN
+- ------------------------------------------------------------------------------
+                     *SEE INSTRUCTIONS BEFORE FILLING OUT!
+<PAGE>
+ 
+Item 1.   Security and Issuer.
+
+     The name of the issuer is 1-800 CONTACTS, INC., a Delaware corporation (the
+"Issuer"). The address of the Issuer's offices is 66 East Wadsworth Park Drive,
+3/rd/ Floor, Draper, Utah 84020. This Schedule 13D Statement (this "Statement")
+relates to the Issuer's Common Stock, $0.01 par value (the "Common Stock").
+
+Item 2.   Identity and Background.
+
+     (a) - (c), (f).  This Statement is being jointly filed by each of the
+following persons pursuant to Rule 13d-1(f) promulgated by the Securities and
+Exchange Commission (the "Commission") pursuant to Section 13 of the Securities
+Exchange Act of 1934, as amended (the "Exchange Act"): (i) Yacktman Family
+Trust, a trust created under the laws of the State of South Dakota (the
+"Trust"), by virtue of its direct beneficial ownership of 430,000 shares of
+Common Stock; (ii) Carolyn Z. Yacktman, by virtue of Mrs. Yacktman serving as a
+trustee of the Trust and having the sole power to vote and dispose of the shares
+held by the Trust; and (iii) Donald A. Yacktman, by virtue of being the spouse
+of Carolyn Z. Yacktman and his direct beneficial ownership of 100,000 shares of
+Common Stock and indirect beneficial ownership of 12,000 shares of Common Stock
+in his capacity as custodian for his minor sons under the Uniform Gifts to
+Minors Act.  Attached as Exhibit A hereto, which is incorporated by reference
+herein, is an agreement among Donald A. Yacktman, Carolyn Z. Yacktman and the
+Yacktman Family Trust that this Statement is filed on behalf of each of them.
+The Trust and Mr. and Mrs. Yacktman are sometimes collectively referred to
+herein as the "Reporting Persons."  The filing of this Statement shall not be
+construed as an admission by Mr. Yacktman that he is, for the purpose of Section
+13(d) or 13(g) of the Exchange Act or otherwise, the beneficial owner of any of
+the shares of Common Stock held by the Trust.
+
+     The Trust was formed under the laws of the State of South Dakota and its
+address is c/o Citicorp Trust South Dakota, 701 East 60/th/ Street North, Sioux
+Falls, South Dakota 57117.  Carolyn Z. Yacktman, Gregory L. Jackson and Citicorp
+Trust-South Dakota serve as trustees under the Trust.  Mr. Jackson is a citizen
+of the United States with his principal business address at 303 W. Madison
+Street, Suite 1925, Chicago, Illinois 60606.  Citicorp Trust-South Dakota is a
+corporation incorporated under the laws of the State of South Dakota with its
+principal business address at 701 East 60/th/ Street North, Sioux Falls, South
+Dakota 57117.
+
+     Carolyn Z. Yacktman is a citizen of the United States with her principal
+residence at 2826 North Elm Lane, Arlington Heights, Illinois 60004.  Mrs.
+Yacktman is not employed.
+
+     Donald A. Yacktman is a citizen of the United States with his principal
+business address at 303 W. Madison Street, Suite 1925, Chicago, Illinois 60606.
+Mr. Yacktman is the President and Chief Investment Officer of Yacktman Asset
+Management Co., which is an investment advisor registered under Section 203 of
+the Investment Advisors Act of 1940.
+
+     Information with respect to each of the Reporting Persons is given solely
+by such Reporting Person, and no Reporting Person assumes responsibility for the
+accuracy or completeness of information given by another Reporting Person.  By
+their signature on this Statement, each of the Reporting Persons agrees that
+this Statement is filed on behalf of such Reporting Person.
+
+                               Page 5 of 10 Pages
+<PAGE>
+ 
+     The Reporting Persons may be deemed to constitute a "group" for purposes of
+Section 13(d)(3) of the Act.  The Reporting Persons expressly disclaim that they
+have agreed to act as a group other than as described in this Statement.
+
+     (d).  During the past five years, none of the Reporting Persons has been
+convicted in a criminal proceeding (excluding traffic violations or similar
+misdemeanors).
+
+     (e).  During the past five years, none of the Reporting Persons was a party
+to a civil proceeding of a judicial or administrative body of competent
+jurisdiction as a result of which such person was or is subject to a judgment,
+decree or final order enjoining future violations of, or prohibiting or
+mandating activity subject to, federal or state securities laws or finding any
+violation with respect to such laws.
+
+Item 3.   Source and Amount of Funds or Other Consideration.
+
+     All securities reported as beneficially owned by the Trust on this
+Statement were purchased by the Trust using assets of the Trust.  Mr. Yacktman
+used personal funds to purchase the 100,000 shares of Common Stock individually
+owned by him and the 12,000 shares of Common Stock held by him as custodian for
+his minor sons.
+
+Item 4.   Purpose of Transaction.
+
+     Each of the Reporting Persons has acquired the shares of Common Stock
+beneficially owned by it, him or her for investment purposes and may acquire
+additional shares, or dispose of some or all of the shares of Common Stock, from
+time to time, depending upon price and market conditions, evaluation of
+alternative investments and other factors.
+
+     Mr. Donald A. Yacktman and his son, Stephen A. Yacktman, currently serve on
+the Issuer's Board of Directors.  In such capacities, Mr. Yacktman and his son
+have the power of influencing the management of the Issuer as to various
+business and corporate matters.
+
+Item 5.   Interest in Securities of the Issuer.
+
+     (a)  As of October 9, 1998, each of the Reporting Persons named in Item 2
+          beneficially owned the aggregate number and percentage of the shares
+          of Common Stock set forth below:
+
+<TABLE>
+<CAPTION>
+          Reporting Person                 No. of   Percent of
+          ----------------                 ------   ----------
+                                           Shares      Class
+                                           ------      -----
+          <S>                              <C>         <C>
+          Yacktman Family Trust..........  430,000      6.7%
+
+          Carolyn Z. Yacktman............  430,000      6.7%
+
+          Donald A. Yacktman.............  542,000      8.4%
+</TABLE>
+
+                               Page 6 of 10 Pages
+<PAGE>
+ 
+     (b)  The Trust has sole power to vote or to direct the vote of 430,000
+          shares of Common Stock, and the sole power to dispose or to direct
+          the disposition of 430,000 shares of Common Stock.
+
+          Carolyn Z. Yacktman, in her capacity as a trustee of the Trust, has
+          the sole power to vote or to direct the vote of 430,000 shares of
+          Common Stock, and the sole power to dispose or to direct the
+          disposition of 430,000 shares of Common Stock.
+
+          Donald A. Yacktman has sole power to vote or to direct the vote of
+          112,000 shares of Common Stock, and the sole power to dispose or to
+          direct the disposition of 112,000 shares of Common Stock.  By virtue
+          of his relationship with Carolyn Z. Yacktman, Mr. Yacktman may be
+          deemed to share voting and dispositive power with respect to the
+          430,000 shares of Common Stock held by the Trust.  The filing of this
+          Statement shall not be construed as an admission by Mr. Yacktman that
+          he is, for the purpose of Section 13(d) or 13(g) of the Exchange Act
+          or otherwise, the beneficial owner of any of the shares of common
+          Stock held by the Trust.
+
+     (c)  During the 60 day period ended as of the date hereof, the Reporting
+          Persons have acquired shares of Common Stock in open market
+          transactions as follows:
+
+<TABLE>
+<CAPTION>
+                                                       No. of   Price Per
+     Reporting Person                          Date    Shares     Share    
+     ----------------                          ----    ------     ----- 
+     <S>                                      <C>      <C>      <C>
+     Yacktman Family Trust and Carolyn
+     Z. Yacktman............................. 8/13/98   25,000    $6.06
+                                              8/14/98   10,000    $6.00
+                                              8/18/98    5,000    $6.06
+                                              9/29/98  133,523    $6.00
+
+     Donald A. Yacktman...................... 8/26/98   12,000    $5.75
+                                              9/30/98  100,000    $5.94
+</TABLE>
+
+
+     (d)  Not applicable.
+
+     (e)  Not applicable.
+
+     All such ownership percentages of the shares of Common Stock reported
+herein are based upon 6,430,568 shares of Common Stock outstanding as of June
+30, 1998, as disclosed in the Issuer's Quarterly Report on Form 10-Q filed with
+the Commission on August 18, 1998 for the fiscal quarter ended July 4, 1998.
+
+     No person other than the Reporting Persons has the right to receive or the
+power to direct the receipt of dividends from or the proceeds from the sale of
+the Common Stock owned beneficially by any of the Reporting Persons.
+
+                               Page 7 of 10 Pages
+<PAGE>
+ 
+Item 6.   Contracts, Arrangements, Understandings or Relationships With Respect
+          to Securities of the Issuer.
+
+     Except as otherwise described herein, none of Donald A. Yacktman, Carolyn
+Z. Yacktman or the Trust, nor, to the best knowledge of the undersigned, any
+other person named in Item 2 hereof, has any contract, arrangement,
+understanding or relationship with respect to any securities of 1-800 CONTACTS,
+INC.
+
+Item 7.   Materials to be Filed as Exhibits.
+
+          Exhibit A:   Agreement of Joint Filing, dated as of October 9, 1998,
+                       among the Trust, Carolyn Z. Yacktman and Donald A. 
+                       Yacktman.
+
+                               Page 8 of 10 Pages
+<PAGE>
+ 
+                                   SIGNATURES
+
+          After reasonable inquiry and to the best of my knowledge and belief, I
+certify that the information set forth in this statement is true, complete and
+correct.
+
+
+Date: October 9, 1998
+
+                              YACKTMAN FAMILY TRUST
+
+                              By:    /s/ Carolyn Z. Yacktman
+                                     ------------------------
+                              Name:  Carolyn Z. Yacktman
+                              Title: Trustee
+
+
+                               /s/ Carolyn Z. Yacktman
+                              ------------------------
+                              Carolyn Z. Yacktman
+
+
+                               /s/ Donald A. Yacktman
+                              ------------------------
+                              Donald A. Yacktman
+
+                               Page 9 of 10 Pages
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.A
+<SEQUENCE>2
+<DESCRIPTION>AGREEMENT OF JOINT FILING
+<TEXT>
+
+<PAGE>
+ 
+                                   EXHIBIT A
+
+     AGREEMENT dated as of October 9, 1998 by and among Donald A. Yacktman
+("Yacktman"), Carolyn Z. Yacktman (the "Trustee") and the Yacktman Family Trust
+(the "Trust").
+
+     WHEREAS, in accordance with Rule 13d-1(f) of the Securities Exchange Act of
+1934 (the "Act"), only one such statement need be filed whenever two or more
+persons are required to file a statement pursuant to Section 13(d) of the Act
+with respect to the same securities, provided that said persons agree in writing
+that such statement is filed on behalf of each of them.
+
+     NOW, THEREFORE, in consideration of the premises and mutual agreements
+herein contained, the parties hereto agree as follows:
+
+     Each of Yacktman, Trustee and Trust does hereby agree, in accordance with
+Rule 13d-1(f) under the Act, to file one Statement on Schedule 13D relating to
+their ownership of the Common Stock of 1-800 CONTACTS, INC., and does hereby
+further agree that said Statement shall be filed on behalf of each of Yacktman,
+Trustee and Trust.  Nothing herein shall be deemed to be an admission that the
+parties hereto, or any of them, are members of a "group" (within the meaning of
+Section 13(d) of the Act and the rules promulgated thereunder) with respect to
+any securities of 1-800 CONTACTS, INC.
+
+     IN WITNESS WHEREOF, the parties have executed this Agreement as of the date
+first written above.
+
+                              YACKTMAN FAMILY TRUST
+
+                              By:     /s/ Carolyn Z. Yacktman
+                                     ------------------------
+                              Name:  Carol Z. Yacktman
+                              Title: Trustee
+
+
+                               /s/ Donald A. Yacktman
+                              ------------------------
+                                   Donald A. Yacktman
+
+
+                               /s/ Carolyn Z. Yacktman
+                              ------------------------
+                                   Carolyn Z. Yacktman
+
+                              Page 10 of 10 Pages
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

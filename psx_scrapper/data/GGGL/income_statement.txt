@@ -1,0 +1,16 @@
+Year,2020
+Sales,"1,297,084,516"
+COGS,"1,009,798,462"
+Gross Profit,"287,286,054"
+Administrative Expenses,"61,253,038"
+Selling & Distributive Expenses,"38,185,744"
+Financial Charges,"141,709,969"
+Other Income,"1,618,804"
+Change In Value of Investment,0
+Other Expenses,"7,279,137"
+EBITDA,"270,265,536"
+EBIT,"182,186,939"
+EBT,"40,476,970"
+Tax,0
+PAT,"40,476,970"
+EPS,0.4

@@ -1,0 +1,148 @@
+<SEC-DOCUMENT>0001127602-21-017271.txt : 20210518
+<SEC-HEADER>0001127602-21-017271.hdr.sgml : 20210518
+<ACCEPTANCE-DATETIME>20210518183037
+ACCESSION NUMBER:		0001127602-21-017271
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20210517
+FILED AS OF DATE:		20210518
+DATE AS OF CHANGE:		20210518
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Llorens Josep
+		CENTRAL INDEX KEY:			0001750812
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14041
+		FILM NUMBER:		21937713
+
+	MAIL ADDRESS:	
+		STREET 1:		HAEMONETICS CORPORATION
+		STREET 2:		400 WOOD ROAD
+		CITY:			BRAINTREE
+		STATE:			MA
+		ZIP:			02184
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HAEMONETICS CORP
+		CENTRAL INDEX KEY:			0000313143
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		IRS NUMBER:				042882273
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			0403
+
+	BUSINESS ADDRESS:	
+		STREET 1:		125 SUMMER STREET
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02110
+		BUSINESS PHONE:		7818487100
+
+	MAIL ADDRESS:	
+		STREET 1:		125 SUMMER STREET
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02110
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-05-17</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000313143</issuerCik>
+        <issuerName>HAEMONETICS CORP</issuerName>
+        <issuerTradingSymbol>HAE</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001750812</rptOwnerCik>
+            <rptOwnerName>Llorens Josep</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>125 SUMMER STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>BOSTON</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02110</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>SVP, Global Manufacturing</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2021-05-17</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>114</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>55.97</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4140</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents the number of shares required to be sold by the reporting person to cover tax withholding obligations in connection with the vesting of certain restricted stock units (&quot;RSUs&quot;) previously reported in Table I following the date of grant. This sale is mandated by the Issuer's election under its 2005 Long Term Incentive Compensation Plan (as amended) to require the satisfaction of tax withholding obligations to be funded by a &quot;sell to cover&quot; transaction and does not represent a discretionary trade by the reporting person.</footnote>
+        <footnote id="F2">This number includes unvested RSUs previously reported.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Thomas V. Powers, attorney-in-fact for Mr. Llorens</signatureName>
+        <signatureDate>2021-05-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

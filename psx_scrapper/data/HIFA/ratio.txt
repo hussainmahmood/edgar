@@ -1,0 +1,7 @@
+Year,2009,2008
+Payout,0.00,-84.69
+Plow Back,100.00,184.69
+Return on Equity,-42.08,-4.97
+Return on Assets,-41.05,-4.89
+Book Value Per Share,10.60,17.83
+Earning Per Share,-4.46,-0.89

@@ -1,0 +1,151 @@
+<SEC-DOCUMENT>0001493152-21-019360.txt : 20210811
+<SEC-HEADER>0001493152-21-019360.hdr.sgml : 20210811
+<ACCEPTANCE-DATETIME>20210811161636
+ACCESSION NUMBER:		0001493152-21-019360
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20210809
+FILED AS OF DATE:		20210811
+DATE AS OF CHANGE:		20210811
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Baker Paul Christopher
+		CENTRAL INDEX KEY:			0001765672
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-19882
+		FILM NUMBER:		211163625
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O KOPIN CORPORATION
+		STREET 2:		125 NORTH DRIVE
+		CITY:			WESTBOROUGH
+		STATE:			MA
+		ZIP:			01581
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KOPIN CORP
+		CENTRAL INDEX KEY:			0000771266
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				042833935
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1225
+
+	BUSINESS ADDRESS:	
+		STREET 1:		125 NORTH DRIVE
+		CITY:			WESTBOROUGH
+		STATE:			MA
+		ZIP:			01581
+		BUSINESS PHONE:		508-870-5959
+
+	MAIL ADDRESS:	
+		STREET 1:		125 NORTH DRIVE
+		CITY:			WESTBOROUGH
+		STATE:			MA
+		ZIP:			01581
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-08-09</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000771266</issuerCik>
+        <issuerName>KOPIN CORP</issuerName>
+        <issuerTradingSymbol>KOPN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001765672</rptOwnerCik>
+            <rptOwnerName>Baker Paul Christopher</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O KOPIN CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>125 NORTH DRIVE</rptOwnerStreet2>
+            <rptOwnerCity>WESTBOROUGH</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>01581</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Strategic Business Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2021-08-09</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7500</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>5.93</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>182477</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Shares sold under a 10b5-1 Plan that was adopted by the reporting person on May 12, 2021 and effective as of August 9, 2021.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ John J. Concannon, as Attorney-in-fact</signatureName>
+        <signatureDate>2021-08-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

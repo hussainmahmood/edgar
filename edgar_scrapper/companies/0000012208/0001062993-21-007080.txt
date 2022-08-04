@@ -1,0 +1,150 @@
+<SEC-DOCUMENT>0001062993-21-007080.txt : 20210805
+<SEC-HEADER>0001062993-21-007080.hdr.sgml : 20210805
+<ACCEPTANCE-DATETIME>20210805124007
+ACCESSION NUMBER:		0001062993-21-007080
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20210804
+FILED AS OF DATE:		20210805
+DATE AS OF CHANGE:		20210805
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			ERNST TIMOTHY S
+		CENTRAL INDEX KEY:			0001676291
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-07928
+		FILM NUMBER:		211147226
+
+	MAIL ADDRESS:	
+		STREET 1:		1000 ALFRED NOBEL DRIVE
+		CITY:			HERCULES
+		STATE:			CA
+		ZIP:			94547
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BIO-RAD LABORATORIES, INC.
+		CENTRAL INDEX KEY:			0000012208
+		STANDARD INDUSTRIAL CLASSIFICATION:	LABORATORY ANALYTICAL INSTRUMENTS [3826]
+		IRS NUMBER:				941381833
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1000 ALFRED NOBEL DRIVE
+		CITY:			HERCULES
+		STATE:			CA
+		ZIP:			94547
+		BUSINESS PHONE:		5107247000
+
+	MAIL ADDRESS:	
+		STREET 1:		1000 ALFRED NOBEL DRIVE
+		CITY:			HERCULES
+		STATE:			CA
+		ZIP:			94547
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BIO RAD LABORATORIES INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-08-04</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000012208</issuerCik>
+        <issuerName>BIO-RAD LABORATORIES, INC.</issuerName>
+        <issuerTradingSymbol>BIO BIOB</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001676291</rptOwnerCik>
+            <rptOwnerName>ERNST TIMOTHY S</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O BIO-RAD LABORATORIES, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>1000 ALFRED NOBEL DRIVE</rptOwnerStreet2>
+            <rptOwnerCity>HERCULES</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94547</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>EVP, General Counsel &amp; Sec</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Bio-Rad A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2021-08-04</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>327</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>760.26</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>919.0531</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Includes 13.1255 and 12.9276 shares acquired under the Bio-Rad Employee Stock Purchase Plan on 03/31/2021 and 06/30/2021, respectively.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Timothy S. Ernst</signatureName>
+        <signatureDate>2021-08-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

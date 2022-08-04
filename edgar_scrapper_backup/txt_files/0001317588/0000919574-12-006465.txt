@@ -1,0 +1,167 @@
+<SEC-DOCUMENT>0000919574-12-006465.txt : 20121114
+<SEC-HEADER>0000919574-12-006465.hdr.sgml : 20121114
+<ACCEPTANCE-DATETIME>20121114163007
+ACCESSION NUMBER:		0000919574-12-006465
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20120930
+FILED AS OF DATE:		20121114
+DATE AS OF CHANGE:		20121114
+EFFECTIVENESS DATE:		20121114
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ABRAMS BISON INVESTMENTS, LLC
+		CENTRAL INDEX KEY:			0001317588
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-11161
+		FILM NUMBER:		121205095
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4800 HAMPDEN LANE
+		STREET 2:		SUITE 1050
+		CITY:			BETHESDA
+		STATE:			MD
+		ZIP:			20814
+		BUSINESS PHONE:		301-657-5925
+
+	MAIL ADDRESS:	
+		STREET 1:		4800 HAMPDEN LANE
+		STREET 2:		SUITE 1050
+		CITY:			BETHESDA
+		STATE:			MD
+		ZIP:			20814
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>d1330875_13f-hr.txt
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 13F
+
+                               FORM 13F Cover Page
+
+
+
+            Report for the Calendar Year or Quarter Ended: September 30, 2012
+
+Check here if Amendment:           |_|; Amendment Number: ____
+
+This Amendment (Check only one):   |_| is a restatement
+                                   |_| adds new holding entries.
+
+Institutional Manager Filing this Report:
+
+Name:    Abrams Bison Investments, L.L.C.
+
+Address: 4800 Hampden Lane, Suite 1050
+         Bethesda, MD 20814
+
+
+13F File Number: 028-11161
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby  represent that the person signing the report is authorized
+to submit it, that all information contained  herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:   Gavin M. Abrams
+Title:  Managing Member
+Phone:  (301) 664-8900
+
+
+Signature, Place and Date of Signing:
+
+   /s/ Gavin M. Abrams         Bethesda, Maryland           November 14, 2012
+-----------------------     --------------------------    ----------------------
+     [Signature]                  [City, State]                  [Date]
+
+
+<PAGE>
+Report Type:  (Check only one):
+
+[x]      13F HOLDINGS REPORT.  (Check here if all holdings of this reporting
+         manager are reported in this report).
+
+[_]      13F NOTICE.  (Check here if no holdings reported are in this report,
+         and all holdings are reported by other reporting managers(s).)
+
+[_]      13F COMBINATION REPORT.  (Check here if a portion of the holdings for
+         this reporting manager are reported in this report and a portion are
+         reported by other reporting manager(s).)
+
+
+List of Other Managers Reporting for this Manager:
+
+NONE
+
+
+
+<PAGE>
+                            Form 13F SUMMARY PAGE
+
+
+Report Summary:
+
+
+Number of Other Included Managers:       1
+Form 13F Information Table Entry Total:  13
+Form 13F Information Table Value Total:  $951,589
+                                         (thousands)
+
+List of Other Included Managers:
+
+Provide a numbered list of the name(s) and Form 13F file number(s) of all
+institutional investment managers with respect to which this report is filed,
+other than the manager filing this report.
+
+
+No.  Form 13F File Number      Name
+
+1.   028-11159                 Abrams Bison Partners, L.P.
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+                                                   FORM 13F INFORMATION TABLE
+                                                        September 30, 2012
+
+COLUMN 1                      COLUMN 2        COLUMN 3   COLUMN 4          COLUMN 5      COLUMN 6    COLUMN 7       COLUMN 8
+
+                              TITLE                      VALUE       SHS OR    SH/ PUT/  INVESTMENT  OTHER        VOTING AUTHORITY
+NAME OF ISSUER                OF CLASS        CUSIP      (x$1000)    PRN AMT   PRN CALL  DISCRETION  MGRS      SOLE     SHARED NONE
+--------------               ---------       ------     ---------   --------  --------- ----------- -----     -----    ------------
+
+<S>                           <C>             <C>        <C>       <C>         <C>  <C>   <C>         <C>       <C>
+AON PLC                       SHS CL A        G0408V102     79,481   1,520,000 SH         SOLE        NONE     1,520,000
+BANK OF NEW YORK MELLON CORP  COM             064058100     96,361   4,260,000 SH         SOLE        NONE     4,260,000
+DELL INC                      COM             24702R101    108,898  11,050,000 SH         SOLE        NONE    11,050,000
+FOSTER WHEELER AG             COM             H27178104    116,206   4,850,000 SH         SOLE        NONE     4,850,000
+GENERAL DYNAMICS CORP         COM             369550108    187,120   2,830,000 SH         SOLE        NONE     2,830,000
+GENERAL DYNAMICS CORP         COM             369550108     59,508     900,000      CALL  SOLE        NONE       900,000
+HEIDRICK & STRUGGLES INTL IN  COM             422819102      4,801     376,829 SH         SOLE        NONE       376,829
+NEWS CORP                     CL A            65248E104     24,505   1,000,000 SH         SOLE        NONE     1,000,000
+PFIZER INC                    COM             717081103     22,365     900,000 SH         SOLE        NONE       900,000
+PIONEER NAT RES CO            COM             723787107     37,584     360,000 SH         SOLE        NONE       360,000
+RENAISSANCERE HOLDINGS LTD    COM             G7496G103     53,979     700,657 SH         SOLE        NONE       700,657
+SIGNET JEWELERS LIMITED       SHS             G81276100    121,489   2,491,562 SH         SOLE        NONE     2,491,562
+SMITH A O                     COM             831865209     39,292     682,868 SH         SOLE        NONE       682,868
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

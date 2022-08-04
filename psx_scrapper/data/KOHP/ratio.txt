@@ -1,0 +1,19 @@
+Year,2017,2009,2008
+Payout,0.00,0.00,0.00
+Plow Back,100.00,100.00,100.00
+Return on Equity,-3.36,9.98,6.65
+Return on Assets,-3.28,9.20,6.02
+Book Value per Share,14.27,30.45,28.78
+Earning Per Share,-0.48,3.04,1.92
+Net Working Capital to Total Asseets,0.34,0.34,0.26
+Current Ratio,19.09,7.72,4.09
+Acid Test,18.58,4.98,2.79
+Times Interest Earned,-310.47,157.15,19.60
+Total Debt Ratio,0.02,0.08,0.10
+Debt To Equity,0.02,0.09,0.11
+Return on Capital Employed,-0.04,0.10,0.07
+Average Collection Period,42.64,41.81,57.72
+Days sales Inventory,45.75,30.90,39.99
+Total Assets Turnover,0.09,1.77,1.06
+Gross Profit Margin,12.09,6.42,7.36
+Net Profit Margin,-37.59,5.19,5.67

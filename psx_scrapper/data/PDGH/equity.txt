@@ -1,0 +1,12 @@
+Year,2011
+Revenue Excluding Capital,0
+Capital Gains,0
+Administrative Cost,"54,486,000"
+Financial Charges,"74,805,000"
+Other Income,"24,717,000"
+Other Expense,"4,185,000"
+Change In Value of Investment,0
+EBT,"-38,466,000"
+Tax,"-19,966,000"
+PAT,"-18,500,000"
+EPS,-0.33

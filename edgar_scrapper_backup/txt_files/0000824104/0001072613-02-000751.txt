@@ -1,0 +1,1194 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Dzx0nLuQhuGSENk3rkcqqQgvmNAH4JnMJW7QyT+sJ2X4Vif/XYQVgw4rvNybDyka
+ 9rBWNDyBXyEHgeoaSAVzdg==
+
+<SEC-DOCUMENT>0001072613-02-000751.txt : 20020507
+<SEC-HEADER>0001072613-02-000751.hdr.sgml : 20020507
+ACCESSION NUMBER:		0001072613-02-000751
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20020507
+GROUP MEMBERS:		STEVEN A. HOROWITZ
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DOMINIX INC
+		CENTRAL INDEX KEY:			0000824104
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		IRS NUMBER:				134127624
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-59467
+		FILM NUMBER:		02637108
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O BOOKDIGITAL.COM, INC.
+		STREET 2:		142 WEST 38TH STREET 2ND FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10018
+		BUSINESS PHONE:		2124806380
+
+	MAIL ADDRESS:	
+		STREET 1:		5459 SOUTH IRIS STREET
+		CITY:			LITTLETON
+		STATE:			CO
+		ZIP:			80123
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DOG WORLD INC
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	APACHE INVESTMENTS INC
+		DATE OF NAME CHANGE:	19911006
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MEDICAL MANAGEMENT SYSTEMS INC
+		DATE OF NAME CHANGE:	19970814
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DIVERSIFIED CAPITAL HOLDINGS LLC
+		CENTRAL INDEX KEY:			0001172702
+		IRS NUMBER:				113623166
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	MAIL ADDRESS:	
+		STREET 1:		150 BROADHOLLOW RD
+		STREET 2:		STE 103
+		CITY:			MELVILLE
+		STATE:			NY
+		ZIP:			11747
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<FILENAME>sc13d_11229.txt
+<DESCRIPTION>DIVERSIFIED CAPITAL HOLDINGS, LLC SCHEDULE 13D
+<TEXT>
+================================================================================
+                       SECURITIES AND EXCHANGE COMMISSION
+                              WASHINGTON, DC 20549
+
+                                  SCHEDULE 13D
+                                 (Rule 13d-101)
+
+             INFORMATION TO BE INCLUDED IN STATEMENTS FILED PURSUANT
+            TO RULE 13D-1(A) AND AMENDMENTS THERETO FILED PURSUANT TO
+                                  RULE 13D-2(A)
+
+
+                                  DOMINIX, INC.
+                                (Name of Issuer)
+
+                    COMMON STOCK , PAR VALUE $.0001 PER SHARE
+                         (Title of Class of Securities)
+
+                                   257545103
+                                 (CUSIP Number)
+
+                        Diversified Capital Holdings, LLC
+                     Attention Andrew J. Schenker, President
+                        With a copy to CDKnet.com, Inc.
+                         150 Broadhollow Road, Suite 103
+                            Melville, New York 11747
+                                 (631) 385-6200
+
+                  (Name, Address and Telephone Number of Person
+                Authorized to Receive Notices and Communications)
+
+                                 April 26, 2002
+             (Date of Event Which Requires Filing of This Statement)
+
+If the filing person has previously filed a statement on Schedule 13G to report
+the acquisition that is the subject of this Schedule 13D, and is filing this
+schedule because of Rule 13d-1(e), 13d-1(f) or 13d-1(g), check the following box
+|_|.
+
+Note. Schedules filed in paper format shall include a signed original and five
+copies of the schedule, including all exhibits. See Rule 13d-7(b) for other
+parties to whom copies are to be sent.
+
+                         (Continued on following pages)
+
+                              (Page 1 of 17 Pages)
+================================================================================
+(1) The remainder of this cover page shall be filled out for a reporting
+person's initial filing on this form with respect to the subject class of
+securities, and for any subsequent amendment containing information which would
+alter disclosures provided in a prior cover page.
+
+The information required on the remainder of this cover page shall not be deemed
+to be "filed" for the purpose of Section 18 of the Securities Exchange Act of
+1934 or otherwise subject to the liabilities of that section of the Act but
+shall be subject to all other provisions of the Act (however, see the Notes).
+<PAGE>
+
+CUSIP No. 257545103              SCHEDULE 13D                 Page 2 of 17 Pages
+- --------------------------------------------------------------------------------
+1     NAMES OF REPORTING PERSONS
+      I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)
+
+      Diversified Capital Holdings, LLC
+- --------------------------------------------------------------------------------
+2     CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*
+                                                                        (a)  |X|
+                                                                        (b)  |_|
+- --------------------------------------------------------------------------------
+3     SEC USE ONLY
+
+
+- --------------------------------------------------------------------------------
+4     SOURCE OF FUNDS*
+
+      WC
+- --------------------------------------------------------------------------------
+5     CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT
+      TO ITEM 2(d) or 2(e)                                                   |_|
+
+- --------------------------------------------------------------------------------
+6     CITIZENSHIP OR PLACE OF ORGANIZATION
+
+      Delaware
+- --------------------------------------------------------------------------------
+                  7     SOLE VOTING POWER
+
+                        101,500,000 (1)
+                        --------------------------------------------------------
+  NUMBER OF       8     SHARED VOTING POWER
+   SHARES
+BENEFICIALLY            33,833,300 (2)
+  OWNED BY              --------------------------------------------------------
+    EACH          9     SOLE DISPOSITIVE POWER
+  REPORTING
+   PERSON               101,500,000 (1)
+    WITH                --------------------------------------------------------
+                  10    SHARED DISPOSITIVE POWER
+
+                        33,833,300 (2)
+- --------------------------------------------------------------------------------
+11    AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+      135,333,300
+- --------------------------------------------------------------------------------
+12    CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES
+      CERTAIN SHARES*                                                        |_|
+
+
+- --------------------------------------------------------------------------------
+13    PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+
+      63.134% (3)
+- --------------------------------------------------------------------------------
+14    TYPE OF REPORTING PERSON*
+
+      CO
+- --------------------------------------------------------------------------------
+
+     (1) This number includes (i) up to 100,000,000 shares of common stock of
+Dominix, Inc., ("Dominix") issuable upon conversion of up to 1,000,000 shares of
+Dominix's Series A Preferred Stock which, in turn, are issuable upon the
+conversion of up to $75,000 of the principal balance of certain convertible
+debentures of Dominix; and (ii) up to 1,500,000 shares common stock issuable
+upon the exercise of certain warrants to purchase common stock (the "Warrants")
+attributable to Diversified under that certain Securities Purchase Agreement
+entered into by and among Dominix and Diversified dated as of November 30, 2001.
+The Series A Preferred Stock shall convert into Common Stock at a 1:100 ratio.
+
+     (2) This number includes (i) up to 33,333,300 shares of common stock of
+Dominix, Inc., ("Dominix") issuable upon conversion of up to 333,333 shares of
+Dominix's Series A Preferred Stock which, in turn, are issuable upon the
+conversion of up to $25,000 of the principal balance of certain convertible
+debentures of Dominix attributable to the other Reporting Party; and (ii) up to
+500,000 shares common stock issuable upon the exercise of certain warrants to
+purchase common stock (the "Warrants") attributable to the other Reporting Party
+under that certain Securities Purchase Agreement entered into by and among
+Dominix and Diversified dated as of November 30, 2001. The Series A Preferred
+Stock shall convert into Common Stock at a 1:100 ratio.
+
+     (3) This percentage is calculated based on 214,691,479 shares of common
+stock outstanding, which is the sum of (a) 79,358,179 shares of common stock
+outstanding (as of September 30, 2001, as reported by Dominix in its most
+recently filed Form 10-Q for the quarter ended September 30, 2001), (b)
+2,000,000 shares of common stock issuable upon exercise of Warrants held by the
+Reporting Persons, and (c) 133,333,300 shares of common stock issuable upon
+conversion of Series A Preferred Stock referenced in Footnotes 1 and 2.
+<PAGE>
+
+CUSIP No. 257545103               SCHEDULE 13D                Page 3 of 17 Pages
+- --------------------------------------------------------------------------------
+1     NAMES OF REPORTING PERSONS
+      I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)
+
+      Steven A. Horowitz
+- --------------------------------------------------------------------------------
+2     CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*
+                                                                        (a)  |X|
+                                                                        (b)  |_|
+- --------------------------------------------------------------------------------
+3     SEC USE ONLY
+
+
+- --------------------------------------------------------------------------------
+4     SOURCE OF FUNDS*
+
+      PF
+- --------------------------------------------------------------------------------
+5     CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT
+      TO ITEM 2(d) or 2(e)                                                   |_|
+
+- --------------------------------------------------------------------------------
+6     CITIZENSHIP OR PLACE OF ORGANIZATION
+
+      United States
+- --------------------------------------------------------------------------------
+                  7     SOLE VOTING POWER
+
+                        0
+                        --------------------------------------------------------
+  NUMBER OF       8     SHARED VOTING POWER
+   SHARES
+BENEFICIALLY            33,833,300 (4)
+  OWNED BY              --------------------------------------------------------
+    EACH          9     SOLE DISPOSITIVE POWER
+  REPORTING
+   PERSON               0
+    WITH                --------------------------------------------------------
+                  10    SHARED DISPOSITIVE POWER
+
+                        33,833,300 (4)
+- --------------------------------------------------------------------------------
+11    AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+      135,333,300
+- --------------------------------------------------------------------------------
+12    CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES
+      CERTAIN SHARES*                                                        |_|
+
+
+- --------------------------------------------------------------------------------
+13    PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+
+      63.134% (5)
+- --------------------------------------------------------------------------------
+14    TYPE OF REPORTING PERSON*
+
+      IN
+- --------------------------------------------------------------------------------
+     (4) This number includes (i) up to 33,333,300 shares of common stock of
+Dominix, Inc., ("Dominix") issuable upon conversion of up to 333,333 shares of
+Dominix's Series A Preferred Stock which, in turn, are issuable upon the
+conversion of up to $25,000 of the principal balance of certain convertible
+debentures of Dominix; and (ii) up to 500,000 shares common stock issuable upon
+the exercise of certain warrants to purchase common stock (the "Warrants")
+attributable in each case to Steven A. Horowitz under that certain Securities
+Purchase Agreement entered into by and among Dominix and Diversified dated as of
+November 30, 2001. The Series A Preferred Stock shall convert into Common Stock
+at a 1:100 ratio.
+
+     (5) See FN 3
+<PAGE>
+
+CUSIP No. 257545103              SCHEDULE 13D                Page 4 of 17 Pages
+- --------------------------------------------------------------------------------
+ITEM 1: SECURITY AND ISSUER.
+
+This Statement relates to the common stock, par value $.0001 issuable upon the
+conversion of the Series A Convertible Preferred Stock, par value $.0001 (the
+"Series A Preferred Stock") which is issuable upon the conversion of the
+outstanding principal balance of certain 6% convertible debentures, of Dominix,
+Inc., a Delaware corporation (the "Company"), with offices located at 2777
+Summer Street, Suite 501, Stamford, CT06905.
+
+ITEM 2: IDENTITY AND BACKGROUND.
+
+(a) This Statement is filed by Diversified Capital Holdings, LLC., a Delaware
+limited liability company ("Diversified"), and Mr. Steven A. Horowitz. The
+persons listed on Schedule 2 annexed hereto are the executive officers and
+members (the "Listed Persons") of Diversified.
+
+(b) The address of the principal place of business of Diversified is 150
+Broadhollow Road, Suite 103, Melville, New York 11747. The business address of
+Mr. Horowitz is c/o Moritt, Hock, Hamroff & Horowitz, LLP., 400 Garden City
+Plaza, Suite 202, Garden City, NY 11530. Schedule 2 sets forth the respective
+business addresses of the Listed Persons.
+
+(c) The principal business of Diversified is management advisory and financial
+services consulting. The principal occupation of Mr. Horowitz is as a partner in
+the law firm of Moritt, Hock, Hamroff & Horowitz, LLP., the address of which is
+400 Garden City Plaza, Suite 202, Garden City, NY 11530. Mr. Horowitz is also
+the Chairman and Chief Executive Office of CDKnet.com, Inc., the corporate
+parent of Diversified.
+
+(d) None of the persons filing this statement and none of the Listed Persons (to
+the knowledge of the undersigneds) have, during the last five years, been
+convicted in a criminal proceeding (excluding traffic violations or similar
+misdemeanors).
+
+(e) None of the persons filing this statement and none of the Listed Persons (to
+the knowledge of the undersigneds) have, during the last five years, been a
+party to a civil proceeding of a judicial or administrative body of competent
+jurisdiction and as a result of such proceeding was or is subject to a judgment,
+decree or final order enjoining future violations of, or prohibiting or
+mandating activities subject to, Federal or state securities laws or finding any
+violation with respect to such laws.
+
+(f) Mr. Horowitz is a United States citizen, as are each of the Listed Persons.
+
+ITEM 3: SOURCE AND AMOUNT OF FUNDS OR OTHER CONSIDERATION.
+
+On November 30, 2001, Dominix, Inc., (the "Company") and Diversified Capital
+Holdings, LLC (f/k/a Azure Capital Holdings, LLC) ("Diversified") entered into a
+Securities Purchase Agreement whereby Diversified purchased an aggregate of (i)
+$100,000 principal amount of the Company's 6% convertible debentures due
+November 29, 2003 (the "Debentures"); and (ii) warrants to purchase 2,000,000
+shares of the Company's common stock, $.0001 par value, (the "Warrants") which
+Debentures and Warrants had certain registration rights as set forth in the
+registration rights agreement dated of even date therewith (the "Registration
+Rights Agreement"). Pursuant to nominee agreement with Diversified in which
+Diversified agreed to act as nominee for Mr. Horowitz, Steven A. Horowitz
+provided $25,000 of the $100,000. In accordance with the terms of the
+Registration Rights Agreement, the Company agreed to file a registration
+statement (the "Registration Statement") with the Securities and Exchange
+Commission registering the shares issuable upon (i) the conversion of the
+Debentures; and (ii) the exercise of the Warrants on or before January 30, 2002
+and was to take all steps necessary for the SEC to declare such Registration
+Statement effective, in no case later than March 30, 2002. The Company failed to
+file the Registration Statement and acknowledged that a Registration Default had
+occurred, for which it was solely responsible. In settlement of its default, the
+Company entered into an agreement (the "Settlement Agreement") with Diversified
+dated the 26th day of April 2002, which amended the terms of the Debentures and
+the Registration Rights Agreement, providing Diversified with the right, at any
+time and in its sole discretion to convert the outstanding principal balance of
+the Debentures into up to 1,333,333 shares of the Company's Series A Preferred
+Stock, the Designation of which was authorized by the Company's Board of
+Directors. Each share of the Company's Series A Preferred Stock is convertible,
+at any time and in the sole discretion of the holder thereof into 100 shares of
+the Company's common stock. Pursuant to the Settlement Agreement, Enrique J.
+Abreau, Chairman (Mr. Abreau was the sole member of the Company's Board of
+Directors) and President of the Company resigned from every position which he
+held with the Company effective May 30, 2002. Prior to his resignation, the
+Company's Board of Directors appointed Andrew J. Schenker as the Company's
+Chairman and Chief Executive Officer and James W. Zimbler as a Director and as
+the Company's President, which appointments were made effective simultaneously
+with Mr. Abreau's resignation. Mr. Schenker is the Chief Executive Officer of
+Diversified as well as a Director, President and Chief Operating Officer of
+CDKnet.com, Inc. ("CDK"), the sole member of Diversified. Mr. Zimbler is the
+President of Diversified and is the Executive Vice President and Secretary of
+CDK.
+
+ITEM 4: PURPOSE OF TRANSACTION.
+
+The persons filing this Report believe that (a) the common stock of the Company
+is significantly under-valued, (b) are concerned that steps taken by the Company
+to date have been insufficient to positively impact share value, and (c) believe
+that management must take further immediate steps to enhance shareholder value
+in order to prevent a further deterioration of the underlying value of the
+Company.
+
+The persons filing this Report have discussed their concerns with the current
+management of the Company, who have held discussions with other shareholders and
+potential financial and strategic investors in the Company. The persons filing
+this Report are also examining all of their options with respect to the
+possibility of taking actions, which they believe will enhance shareholder
+value. Such actions could include proposing that management pursue an
+extraordinary corporate transaction, such as a merger, reorganization or
+liquidation. Any such actions could relate to or result in one or more of the
+matters referred to in paragraphs (a) through (j) of Item 4 of Schedule 13D.
+
+Each of the persons filing this Report also reserves the right to purchase or
+otherwise acquire additional Common Stock or to sell or otherwise dispose of
+Common Stock owned by it, in each case in open market or privately negotiated
+transactions or otherwise.
+<PAGE>
+
+CUSIP No. 257545103              SCHEDULE 13D                Page 5 of 17 Pages
+- --------------------------------------------------------------------------------
+
+ITEM 5: INTEREST IN SECURITIES OF THE ISSUER.
+
+(a) Diversified beneficially owns (i) up to 1,000,000 shares of common stock
+issuable upon the conversion of Dominix's Series A Preferred Stock, which are
+issuable upon the conversion of up to $75,000 of the principle balance of
+certain 6% convertible debentures; and (ii) up to 1,500,000 shares of common
+stock issuable upon the exercise of up to 1,500,000 warrants to purchase
+Dominix's common stock, which collectively represent approximately 56% of the
+total shares of Common Stock issued and outstanding.
+
+(b) Diversified is holding, as nominee for Steven A. Horowitz, the right to
+receive (i) up to 33,333,300 shares of Common Stock issuable upon the conversion
+of up to 333,333 shares of Series A Preferred Stock which are issuable upon the
+conversion of up to $25,000 of the principal balance of certain 6% convertible
+debentures; and (ii) up to 500,000 shares of Common Stock issuable upon the
+exercise of up to 500,000 Warrants to purchase Dominix's Common Stock, which
+collectively represents approximately 29% of the total shares of Common Stock
+issued and outstanding.
+
+    Diversified Capital Holdings:
+            Sole Power to Vote:                             101,500,000
+            Sole Power to Dispositive Power:                101,500,000
+
+            Shared Dispositive Power:                        33,833,300
+
+
+    Steven A. Horowitz:
+            Sole Power to Vote:                                    none
+            Sole Power to Dispositive Power:                       none
+
+            Shared Dispositive Power:                        33,833,300
+
+(c) On November 30, 2001, Dominix, Inc., (the "Company") and Diversified Capital
+Holdings, LLC (f/k/a Azure Capital Holdings, LLC) ("Diversified") entered into a
+Securities Purchase Agreement whereby Diversified purchased an aggregate of (i)
+$100,000 principal amount of the Company's 6% convertible debentures due
+November 29, 2003 (the "Debentures"); and (ii) warrants to purchase 2,000,000
+shares of the Company's common stock, $.0001 par value, (the "Warrants") which
+Debentures and Warrants had certain registration rights as set forth in the
+registration rights agreement dated of even date therewith (the "Registration
+Rights Agreement"). Pursuant to an agreement with Diversified, Steven A.
+Horowitz provided $25,000 of the $100,000. In accordance with the terms of the
+Registration Rights Agreement, the Company agreed to file a registration
+statement (the "Registration Statement") with the Securities and Exchange
+Commission registering the shares issuable upon (i) the conversion of the
+Debentures; and (ii) the exercise of the Warrants on or before January 30, 2002
+and was to take all steps necessary for the SEC to declare such Registration
+Statement effective, in no case later than March 30, 2002. The Company failed to
+file the Registration Statement and acknowledged that a Registration Default had
+occurred, for which it was solely responsible. In settlement of its default, the
+Company entered into an agreement (the "Settlement Agreement") with Diversified
+dated the 26th day of April 2002, which amended the terms of the Debentures and
+the Registration Rights Agreement, providing Diversified with the right, at any
+time and in its sole discretion to convert the outstanding principal balance of
+the Debentures into up to 1,333,333 shares of the Company's Series A Preferred
+Stock, the Designation of which was authorized by the Company's Board of
+Directors. Each share of the Company's Series A Preferred Stock is convertible,
+at any time and in the sole discretion of the holder thereof into 100 shares of
+the Company's common stock.
+
+(d) No person other than the persons filing this Report is known to have the
+right to receive or the power to direct the receipt of dividends from or the
+proceeds from the sale of the Common Stock owned by them.
+
+(e) Not applicable.
+
+ITEM 6: CONTRACTS, ARRANGEMENTS, UNDERSTANDINGS OR RELATIONSHIPS WITH RESPECT TO
+SECURITIES OF THE ISSUER.
+
+Except as described above, there are no contracts, arrangements, understandings
+or relationships (legal or otherwise) among the persons filing this Report or
+the Listed Persons or between such persons and any other person with respect to
+any securities of the Company, including but not limited to transfer or voting
+of any of the securities, finder's fees, joint ventures, loan or option
+arrangements, puts or calls, guarantees of profits, divisions of profits or
+loss, or the giving or withholding of proxies.
+
+ITEM 7: MATERIAL TO BE FILED AS EXHIBITS.
+
+EXHIBIT A
+- ---------
+Joint Filing Agreement as required by Rule 13d-1(k)(l) under the Exchange Act.
+
+EXHIBIT B
+- ---------
+Agreement dated April 26, by and between Dominix and Diversified regarding the
+settlement of Dominix's default in failing to register the shares of common
+stock issuable upon the conversion of up to $100,000 in principal balance of
+certain 6% convertible debentures and the exercise of up to 2,000,000 warrants
+to purchase Dominix's common stock.
+<PAGE>
+
+CUSIP No. 257545103              SCHEDULE 13D                Page 6 of 17 Pages
+- --------------------------------------------------------------------------------
+
+After reasonable inquiry and to the best of the undersigneds' knowledge and
+belief, the undersigned certify that the information set forth in this statement
+is true, complete and correct.
+
+
+
+
+
+MAY 7, 2002                      DIVERSIFIED CAPITAL HOLDINGS, LLC
+
+
+                                 BY:  /S/ James W. Zimbler
+                                      ------------------------------------
+                                      NAME:  JAMES W. ZIMBLER
+                                      TITLE: PRESIDENT
+
+
+
+                                 /S/ Steven A. Horowitz
+                                 -----------------------------------------
+                                 STEVEN A. HOROWITZ
+<PAGE>
+
+CUSIP No.                        SCHEDULE 13D                Page 7 of 17 Pages
+- --------------------------------------------------------------------------------
+
+                                                                     Schedule 1
+
+                        DIVERSIFIED CAPITAL HOLDINGS, LLC
+
+OFFICERS
+- --------
+
+Andrew J. Schenker
+c/o Diversified Capital Holdings, LLC
+150 Broadhollow Road, Suite 103
+Melville, New York  11747
+Principal Occupation: Chief Executive Officer
+Citizenship: USA
+
+James W. Zimbler
+c/o Diversified Capital Holdings, LLC
+150 Broadhollow Road, Suite 103
+Melville, New York  11747
+Principal Occupation: President
+Citizenship: USA
+
+SOLE MEMBER OF DIVERSIFIED
+- --------------------------
+
+CDKnet.com, Inc.
+150 Broadhollow Road, Suite 103
+Melville, New York  11747
+Andrew J. Schenker, Director, President and Chief Operating Officer
+State of Incorporation: Delaware
+
+
+
+
+<PAGE>
+
+CUSIP No. 257545103              SCHEDULE 13D                Page 8 of 17 Pages
+- --------------------------------------------------------------------------------
+
+                                  EXHIBIT INDEX
+
+Exhibit A - Joint Acquisition Statement Pursuant To Rule 13d-1(k)(1).
+
+Exhibit B - Agreement dated April 26, 2002 by and between Dominix and
+Diversified.
+<PAGE>
+
+CUSIP No. 257545103              SCHEDULE 13D                Page 9 of 17 Pages
+- --------------------------------------------------------------------------------
+
+                                    EXHIBIT A
+
+                           JOINT ACQUISITION STATEMENT
+                          PURSUANT TO RULE 13d-1(k)(1)
+
+The undersigned acknowledge and agree that the foregoing statement on Schedule
+13D is filed on behalf of each of the undersigned and that all subsequent
+amendments to this statement on Schedule 13D shall be filed on behalf of each of
+the undersigned without the necessity of filing additional joint acquisition
+statements. The undersigned acknowledge that each shall be responsible for the
+timely filing of such amendments, and for the completeness and accuracy of the
+information concerning him or it contained therein, but shall not be responsible
+for the completeness and accuracy of the information concerning the others,
+except to the extent that he or it knows or has reason to believe that such
+information is inaccurate.
+
+
+
+
+
+DATED:  May 7, 2002                    Diversified Capital Holdings, LLC
+
+
+                                       BY: /S/ James W. Zimbler
+                                           -------------------------------------
+                                           NAME:  James W. Zimbler
+                                           TITLE: PRESIDENT
+
+
+
+                                       /S/ Steven A. Horowitz
+                                       -----------------------------------------
+                                       Steven A. Horowitz
+
+<PAGE>
+
+CUSIP No. 257545103              SCHEDULE 13D                Page 10 of 17 Pages
+- --------------------------------------------------------------------------------
+
+                                    EXHIBIT B
+
+                                    AGREEMENT
+
+            Agreement, dated the 26th day of April, 2002, by and between
+Dominix, Inc., a Delaware corporation (the "Company") and Diversified Capital
+Holdings, LLC (f/k/a Azure Capital Holdings, LLC) ("Diversified").
+
+            WHEREAS, on November 30, 2001 the Parties hereto entered into a
+Securities Purchase Agreement whereby Diversified purchased an aggregate of (i)
+$100,000 principal amount of the Company's 6% convertible debentures due
+November 29, 2003 (the "Debentures"); and (ii) warrants to purchase 2,000,000
+shares of the Company's common stock, $.0001 par value, (the "Warrants"); and
+
+            WHEREAS, by Registration Rights Agreement dated November 30, 2001,
+the Company agreed to file a registration statement (the "Registration
+Statement") with the Securities and Exchange Commission registering the shares
+issuable upon (i) the conversion of the Debentures; and (ii) the exercise of the
+Warrants (the "Registration Rights Agreement"); and
+
+            WHEREAS, pursuant to the Registration Rights Agreement, it would
+constitute a Registration Default (as defined therein) in the event that the SEC
+failed to declare the Registration Statement effective on or before March 30,
+2002, except where the failure to meet such deadline was solely the result of
+the holders of the securities to be registered therein; and
+
+            WHEREAS, the Company agrees that a Registrable Default has occurred,
+for which it is solely responsible; and
+
+            WHEREAS, the parties have agreed to amend the terms of the
+Debentures and the Registration Rights Agreement upon the terms and conditions
+set forth below; and
+
+            WHEREAS, the Company has informed Diversified that the Company owes
+an aggregate of approximately $3,000,000 (the "Debt") to Cornelia Abreu and
+Nativity Realty, Inc., a Philippine corporation (collectively the "Debt
+Holders"), which Debt is in default and that the Company has agreed to surrender
+the Company's entire ownership interest its majority owned subsidiary,
+International Controllers, Inc., a Delaware corporation ("ICON"), together with
+ICON's ownership interests in its subsidiaries, eClubsPhillipines, Royalclubs
+and Sumacom, as well as the Company's interests in its e-rate contracts and the
+Company's right, title and interest in and to the trademark and service mark
+"eClubsworldwide" (collectively the "Assets") in consideration for the full
+satisfaction, cancellation and release of the Debt by the Debt Holders.
+
+            WHEREAS, Enrique J. Abreu has represented to Diversified that he
+has, and at all times necessary to effectuate the above referenced transaction
+with the Debt Holders shall have, full, valid and binding authority to act on
+behalf of the Debt Holders and that Debt Holders are aware of, have agreed to
+and have specifically authorized him to effectuate the satisfaction,
+cancellation and release of the Debt on their behalf in exchange for the Assets.
+
+            NOW, THEREFORE, in consideration of the premises and mutual
+covenants contained herein and such good and valuable consideration, the receipt
+and sufficiency of which are hereby acknowledged, the Company and Diversified
+hereby agree as follows:
+
+1.          SATISFACTION OF REGISTRATION DEFAULT
+            ------------------------------------
+
+            1.1 Amendment of Debentures: In full satisfaction of any liquidated
+damages otherwise due to Diversified arising from the Company's Registration
+Default and notwithstanding any provision of the Debentures to the contrary, the
+parties hereby agree to amend the terms of the Debentures to allow Diversified,
+it's successors and assigns, in addition to and not in replacement of any other
+conversions rights which it may have pursuant to the Debentures, to
+<PAGE>
+
+CUSIP No. 257545103              SCHEDULE 13D                Page 11 of 17 Pages
+- --------------------------------------------------------------------------------
+
+convert, all, or any portion of the outstanding Principal Amount (as defined in
+the Debentures), into up to 1,333,333 shares of Series A Convertible Preferred
+Stock which the Company shall promptly authorize, which authorization shall
+occur prior to the resignation of the Company's Current Management, as set forth
+below:
+
+            1.2. Designation of Preferred Stock: Prior to the resignation of the
+Company's Current Management (as defined below), the Company shall approve the
+designations, preferences and relative, participating, optional or other special
+rights and the qualifications, limitations or other restrictions of Series A
+Convertible of the Company's preferred stock and shall promptly file a
+certificate of designation regarding such Series A Convertible Preferred Stock
+with the Delaware Secretary of State, a copy of which is attached hereto as
+Exhibit A, designating 1,333,333 of the Company's authorized 5,000,000 shares of
+preferred stock as Series A Convertible Preferred Stock, each share of which is
+convertible, at any time and in the sole discretion of the holder of such Series
+A Convertible Preferred Stock, into 100 shares of the Company's common stock.
+
+            1.3. Current Management. A. Effective 9:00 am, New York time on
+April 30, 2002, each of the officers and directors of the Company (the "Current
+Management") shall resign and shall be deemed to have resigned from each and
+every position each such individual holds with the Company and, pursuant to such
+resignation shall renounce and waive any right any such individual may have to
+any options, warrants, debentures or other securities each such individual may
+possess.
+
+            B. It is agreed that Enrique J. Abreu and Richard Cmiel have not
+been fully compensated for their services to the Company and that the Company
+shall enter into agreements with each such individual, subject to the approval
+of New Management, as set forth below, regarding the potential satisfaction of
+any compensation which may be due to them.
+
+            1.4. New Management. The Current Management of the Company shall
+appoint the following individuals to the following positions, effective 9:00 am,
+April 30, 2002:
+
+            A. Andrew J. Schenker, Chairman of the Board of Directors and Chief
+Executive Officer; and
+            B. James W. Zimbler, Director and President.
+
+            1.5. Surrender of Shares. As an inducement to Diversified to enter
+into this agreement, it is agreed that, no later than April 30, 2002, Enrique J.
+Abreu shall cause the shareholders who received an aggregate of 19,000,000
+shares of the Company's common stock pursuant to the Vahab settlement agreement
+shall surrender such 19,000,000 shares of the Company's common stock to
+Diversified, together with attached, properly executed stock powers in favor of
+Diversified.
+
+            1.6. Grassi & Co. It is agreed that the Company, following the
+appointments of New Management as described above, shall satisfy the outstanding
+obligations owed to the Company's accountants, Grassi & Co. on terms to be
+negotiated.
+
+            1.7. Vahab Default Litigation. It is agreed that the Company,
+following the appointment of New Management as described above, the Company
+shall retain outside counsel to defend and settle the Vahab litigation, Ray
+Vahab v. Dominix, et al, United States District Court, Southern District of New
+York, 01 CV 7334 (HB).
+
+2.          CLOSING.     INTENTIONALLY LEFT BLANK
+
+3.          REPRESENTATIONS AND WARRANTIES OF THE COMPANY.
+
+            In order to induce Diversified to enter into this Agreement and to
+perform its obligations hereunder, the Company hereby represents and warrants to
+Diversified, which representations and warranties shall be deemed made as of the
+date hereof and as of the date of Closing, and which shall survive the date
+hereof and the Closing Date, that:
+
+            3.1 ORGANIZATION, GOOD STANDING, POWER, ETC. The Company is a
+Delaware corporation but has not paid its 2000 and 2001 Delaware franchise taxes
+and, accordingly, is not in good standing under the laws of the state of
+<PAGE>
+
+CUSIP No. 257545103              SCHEDULE 13D                Page 12 of 17 Pages
+- --------------------------------------------------------------------------------
+
+Delaware. Except as set forth above in this section 3.1, the Company has full
+corporate power and authority to own, operate and lease its properties and to
+carry on its businesses as they are now being conducted.
+
+            3.2 CORPORATE AND SHAREHOLDER APPROVAL; BINDING OBLIGATION. The
+execution, delivery and performance of this Agreement and the transactions and
+agreements contemplated hereby have been approved by the directors and
+shareholders of the Company and, when executed and delivered by the Company and
+the Sellers, this Agreement and each of the agreements contemplated hereby shall
+constitute a legal, valid and binding obligation of the Company, enforceable in
+accordance with its terms.
+
+            3.3 NO VIOLATION. Except as set forth in Section 3.3 of the
+Disclosure Schedule, neither the execution nor delivery of this Agreement nor
+the consummation of the transactions contemplated hereby will (i) result in a
+breach of any provision of any agreement to which the Company is a party, or
+result in the creation of any lien, charge or encumbrance upon any of the assets
+of the Company; (ii) conflict with or violate any injunction, decree, statute,
+rule or regulation applicable to the Company or any of its assets; (iii)
+conflict with or violate any provision of the Certificate of Incorporation or
+By-laws of the Company; or (iv) conflict with any contract, lease, note,
+agreement, bond, indenture or other instrument or undertaking, whether written
+or oral, to which the Company is a party or may be bound.
+
+            3.4 CONSENTS AND APPROVALS. Except as set forth in Section 3.4 of
+the Disclosure Schedule, no permit, consent, approval or authorization of, or
+filing or registration with, any public authority or other person or entity is
+necessary in connection with the execution and delivery by the Company of this
+Agreement or the consummation of the transactions contemplated hereby, provided
+that the parties understand that certain filings, including but not limited to a
+form 8-K, must be made to the Securities and Exchange Commission (the
+"Commission") in order to be in compliance with Federal securities laws.
+
+            3.5 TAXES. Except as set forth in Section 3.1 above and in Section
+3.5 of the Disclosure Schedule, the Company has timely, completely and
+accurately filed all federal, state and local taxes, tax returns and reports
+required to be filed by law and have paid all amounts which have become due and
+payable in connection with such returns and reports. The Company is not a party
+to any pending proceeding and, to the knowledge of the Company, there is no
+proceeding threatened by any government authority for the assessment or
+collection of taxes and there is no unresolved claim or lien for assessment or
+collection of taxes. There are no outstanding waivers or extensions of time with
+respect to the Company's taxes. For purposes hereof, "taxes" shall mean all
+taxes, charges, fees, levies or other assessments, including, without
+limitation, income, gross receipts, petroleum business tax, excise, property,
+sales, occupation, use, recording taxes, fees and charges imposed by any
+federal, state or local government or agency and such terms shall further
+include any interest, liabilities, penalties and additions to tax thereon.
+
+            3.6 LITIGATION. Except as set forth in Section 3.6 of the Disclosure
+Schedule, no claim, audit, suit, litigation, arbitration, proceeding (including
+any civil, criminal administrative, investigative, or appellate proceeding), or
+investigation pending or to the knowledge of the Company is threatened against
+or relating to the Company or any of its assets, or any of the transactions
+contemplated hereby.
+
+            3.7 EMPLOYEES AND LABOR CONTRACTS.
+
+            (a) Except as set forth in Section 3.7(a) of the Disclosure
+Schedule, the Company is not party to any employment agreement, union contract,
+collective bargaining agreement, or other agreement, relating to its employees.
+The Company (i) has paid in full all amounts owed or accrued to all of their
+respective employees (including vacation, sick and personal days), and other
+direct compensation for all services performed by them to the date hereof; and
+(ii) upon termination of the employment of any such employees, will not be
+liable to any of such employees for any specific "severance pay" or any other
+payments; (iii) have complied in all respects and are in compliance with all
+laws and regulations respecting employment and employment practices and have
+paid all payroll, social security and similar taxes; and (iv) have no unfair
+labor practice complaint against pending or threatened against it before the
+National Labor Relations Board or any similar state agency.
+<PAGE>
+
+CUSIP No. 257545103              SCHEDULE 13D                Page 13 of 17 Pages
+- --------------------------------------------------------------------------------
+
+            (b) Except as set forth in Section 3.7(b) of the Disclosure Schedule
+the Company is not party to any pension plan or profit sharing plan or other
+employee benefit plan of any nature (the "Plans") including, but not limited to
+any plans which would constitute a "Multiemployer Plan" as defined in Section
+3(37) of ERISA (a "Multiemployer Plan"). The Company has not, directly or
+indirectly, incurred any withdrawal liability with respect to a Multiemployer
+Plan nor does the Company expect to incur such liability.
+
+            3.8 ENVIRONMENTAL MATTERS.
+
+            (a) Except as set forth in Section 3.8(a) of the Disclosure
+Schedule, the Company has obtained all permits, licenses, and other
+authorizations, if any, which are required in connection with the conduct of the
+Company's Businesses under all federal, state or local rules, regulations and
+laws (collectively, the "Environmental Laws") relating to pollution or
+protection of the environment, including Environmental Laws relating to
+emissions, discharges, releases or threatened releases of pollutants,
+contaminants, chemicals, or industrial, toxic or hazardous substances or wastes
+into the environment (including, without limitation, ambient air, surface water,
+groundwater, or land), or otherwise relating to the manufacture, processing,
+distribution, use, treatment, storage, disposal, transport, or handling of
+pollutants, contaminants, chemicals, or industrial, toxic or hazardous
+substances or wastes.
+
+            (b) Except as set forth in Section 3.8(b) of the Disclosure
+Schedule, the Company is in full compliance in the conduct of the Company'
+Businesses with all Environmental Laws and is also in full compliance with all
+other limitations, restrictions, conditions, standards, prohibitions,
+requirements, obligations, schedules and timetables contained in such
+Environmental Laws or contained in any regulation, code, plan, order, decree,
+judgment, injunction, notice or demand letter issued, entered, promulgated or
+approved thereunder.
+
+            (c) Except as set forth in Section 3.8(c) of the Disclosure
+Schedule, the Company is not aware of, nor has the Company received notice of,
+any past, present or future events, conditions, circumstances, activities,
+practices, incidents, actions or plans which may interfere with or prevent
+compliance or continued compliance with the Environmental Laws or any
+regulations, code, plan, order, decree, judgment, injunction, notice or demand
+letter issued, entered, promulgated or approved thereunder, or which may give
+rise to any common law or legal liability, or otherwise form the basis of any
+claim, action, demand, suit, proceeding, hearing, study or investigation, based
+on or related to the manufacture, processing, distribution, use, treatment,
+storage, disposal, transport, or handling, or the emission, discharge, release
+or threatened release into the environment, of any pollutant, contaminant,
+chemical, or industrial, toxic or hazardous substance or waste.
+
+            (d) Except as set forth in Section 3.8(d) of the Disclosure
+Schedule, there is no civil, criminal or administrative action, suit, demand,
+claim, hearing, notice or demand letter, notice of violation, investigation, or
+proceeding pending or, to the knowledge of the Company, threatened against the
+Company in connection with the conduct of the Company's Businesses relating in
+any way to the Environmental Laws or any regulation, code, plan, order, decree,
+judgment, injunction, notice or demand letter issued, entered, promulgated or
+approved thereunder.
+
+            (e) Except as set forth in Section 3.8(e) of the Disclosure
+Schedule, the Company has not transported, stored, treated or disposed, nor have
+they allowed any third-party to transport, store, treat or dispose of fuel or
+hazardous waste to or at any location or in any manner in contravention of any
+Environmental Laws.
+
+            3.9 CONTRACTS.
+
+            (a) Except as set forth in Section 3.9 of the Disclosure Schedule
+neither the Company, nor any party thereto or bound thereby is in default under
+any contract to which the Company is subject (the "Contracts") and no act or
+event has occurred which with notice or lapse of time, or both, would constitute
+such a default;
+
+            (b) Except as set forth in Section 3.9(b) of the Disclosure
+Schedule, with respect to all Contracts (i) each will on the Closing Date be in
+full force and effect and legally binding upon the parties thereto; and (ii) the
+Company will not on the Closing Date have released any of its rights thereunder
+nor will any other party bound thereby have been released from its respective
+obligations nor will any obligations of any party have been affected as the
+result
+<PAGE>
+
+CUSIP No. 257545103              SCHEDULE 13D                Page 14 of 17 Pages
+- --------------------------------------------------------------------------------
+
+of the transfer contemplated hereby nor will the consent of any other party to
+any of the above be required with respect to the transfer contemplated hereby.
+
+            3.10 ACCOUNTS RECEIVABLE. Except as set forth in Section 3.10 of the
+Disclosure Schedule, the Company's accounts receivable are bona fide receivables
+as set forth in the aging schedule which the Company shall deliver to
+Diversified.
+
+            3.11 BANKRUPTCY. The Company is not, and has not been at any time,
+the subject of a petition, whether voluntary or involuntary, under Chapter 11 of
+the United States Bankruptcy Code, as amended from time to time.
+
+            3.12 COMPLETE DISCLOSURE. The information concerning the Company set
+forth in this Agreement is complete and correct and does not contain any untrue
+statement of a material fact or omit to state a material fact required to be
+stated herein or necessary to make the statements contained herein not false or
+misleading.
+
+            3.13 TRADENAMES. Schedule 3.13 of the Disclosure Schedule sets forth
+the only tradenames used by the Company in connection with the Company'
+Businesses. There are no adverse claims, liens or encumbrances upon or affecting
+such tradenames. The Company is the sole and exclusive owners of such
+tradenames. The Company has the unrestricted right to use such tradenames in
+connection with the Company's Businesses, and the Company has given no other
+party the right to use such tradenames. The Company's use of such tradenames
+does not violate or infringe upon the rights of any other person or entity nor
+is any other person or entity infringing upon or violating the Companies' rights
+to use such tradenames.
+
+            3.14 CONFORMITY TO LAWS.
+
+            (a) Except as set forth in Section 3.14(a) of the Disclosure
+Schedule, the Company has not been cited with respect to itself or its assets by
+any health department or other governmental body or agency or with respect to
+employment and occupational safety matters for any material violation of any
+license, permit, rule, regulation or order within the past three (3) years.
+
+            (b) Except as set forth in Section 3.14(b) of the Disclosure
+Schedule, no person or party (including, but not limited to, governmental
+agencies of any kind) has made any claim against the Companies or the Sellers
+with respect to Assets arising out of any federal, state or local statute,
+ordinance or regulation relating to discrimination in employment or employment
+practices or occupational safety and health standard within the past three (3)
+years.
+
+            3.15 RELATED PARTY TRANSACTIONS. Other than as described in Section
+3.15 of the Disclosure Schedule, none of the directors, officers, or the
+shareholders of the Company, or any member of any of their families, is
+presently a party to, or was a party to during the year preceding the date of
+this Agreement, any transaction, agreement or arrangement with the Company and
+none of the Company's officers, directors and shareholders, or members of their
+immediate family, have any interest in any property, real or personal, tangible
+or intangible, including inventions, copyrights, trademarks, or trade names,
+used in or pertaining to the Company's, or any supplier, distributor, or
+customer of the Company, except for ordinary rights of a shareholder, and except
+for rights under existing employee benefit plans.
+
+            4 REPRESENTATIONS AND WARRANTIES OF DIVERSIFIED.
+
+            Diversified hereby represents and warrants to the Company as
+follows:
+
+            4.1 DUE ORGANIZATION. Diversified is a limited liability company,
+duly organized, validly existing and in good standing under the laws of the
+state of Delaware and has all requisite power and authority to own, lease and
+operate its properties and carry its business in the places where such
+properties are now owned, leased or operated or where such business is now being
+conducted
+
+            4.2 POWER; BINDING AGREEMENT. Diversified has the legal capacity,
+power and authority to enter into and perform all of its obligations under this
+Agreement. The execution, delivery and performance of this Agreement by
+Diversified will not violate any other Agreement to which Diversified is a
+party. This Agreement has been duly and validly executed and delivered by
+Diversified and constitutes a valid and binding agreement of Diversified,
+enforceable
+<PAGE>
+
+CUSIP No. 257545103              SCHEDULE 13D                Page 15 of 17 Pages
+- --------------------------------------------------------------------------------
+
+against Diversified in accordance with its terms except that such enforceability
+(i) may be limited by bankruptcy, insolvency, moratorium or other similar laws
+relating to the enforcement of creditors' rights generally and (ii) is subject
+to general principles of equity and discretion of the court before which any
+pproceedings seeking injunctive relief or specific performance may be sought.
+
+            4.3 NO CONFLICTS. No filing with, and no permit, authorization,
+consent or approval of, any state, local or federal or foreign public body or
+authority or any other party is necessary for the execution of this Agreement by
+Diversified and the consummation by Diversified of the transactions contemplated
+hereby, provided that the parties understand that certain filings, including but
+not limited to a form 8-K, must be made to the Securities and Exchange
+Commission (the "Commission") in order to be in compliance with Federal
+securities laws.
+
+            4.4 BROKER'S FEES. The Purchaser represents and warrants that no
+agent, broker, investment banker, person or firm acting on behalf of or under
+the authority of such party hereto is or will be entitled to any broker's or
+finder's fee or any other commission directly or indirectly from the Purchaser
+in connection with the transactions contemlated herein.
+
+            5. MISCELLANEOUS.
+
+            5.1 GOVERNING LAW. This Agreement shall be governed in all respects
+by the laws of the State of New York as such laws are applied to agreements
+between New York residents entered into and performed entirely in New York.
+
+            5.2 PUBLIC ANNOUNCEMENTS. The Company will consult with Diversified
+before issuing any press release or otherwise making any public statements with
+respect to the transactions contemplated by this Agreement and shall not issue
+any such press release or make any such public statement prior to such
+consultation, except as may be required by applicable law or regulation.
+
+            5.3 SUCCESSORS AND ASSIGNS.
+
+            Except as otherwise expressly provided herein, the provisions hereof
+shall inure to the benefit of, and be binding upon, the successors, assigns,
+heirs, executors and administrators of the parties hereto.
+
+            5.4 ENTIRE AGREEMENT. This Agreement, the exhibits and schedules
+hereto, and the other documents delivered pursuant hereto constitute the full
+and entire understanding and agreement between the parties with regard to the
+subjects hereof and no party shall be liable or bound to any other in any manner
+by any representations, warranties, covenants and agreements except as
+specifically set forth herein and therein.
+
+            5.5 SEVERABILITY. In case any provision of the Agreement shall be
+invalid, illegal or unenforceable, the validity, legality and enforceability of
+the remaining provisions shall not in any way be affected or impaired thereby;
+provided that the overall intent of this Agreement is achieved.
+
+            5.6 AMENDMENT AND WAIVER.
+
+            (A) This Agreement may be amended or modified only upon the written
+consent of all the parties hereto.
+
+            (B) No waiver of the provisions hereof shall be effective unless in
+writing and signed by the party to be charged with such waiver.
+
+            5.7 DELAYS OR OMISSIONS. No delay or omission to exercise any right,
+power or remedy accruing to any party, upon any breach, default or noncompliance
+by another party under this Agreement, shall impair any such right, power or
+remedy, nor shall it be construed to be a waiver of any such breach, default or
+noncompliance, or any acquiescence therein, or of or in any similar breach,
+default or noncompliance thereafter occurring. Any waiver, consent or approval
+of any kind or character on the Purchaser's part in connection with any breach,
+default or
+<PAGE>
+
+CUSIP No. 257545103              SCHEDULE 13D                Page 16 of 17 Pages
+- --------------------------------------------------------------------------------
+
+noncompliance under this Agreement, or any waiver on such party's part of any
+provisions or conditions of this Agreement, shall be in writing and shall be
+effective only to the extent specifically set forth in such writing.
+
+            5.8 NOTICES. All offers, notices, acceptances, requests of other
+communications hereunder shall be in writing and shall be delivered (i) in
+person, (ii) by certified or registered mail, return receipt requested, (iii) by
+Federal Express or other nationally recognized overnight courier service which
+issues confirmation of delivery or (iv) by confirmed facsimile transmission, to
+the Company, each Seller and the Purchaser at the addresses or facsimile numbers
+set forth below or to such other addresses or facsimile number, as applicable,
+as any party hereto may designate to the others in writing. Any such notice
+shall be deemed to be given (i) when delivered, if delivered personally or by
+Federal Express or other nationally recognized overnight courier service, (ii)
+on the third Business Day after the date of mailing, if sent by certified or
+registered mail or (iii) upon confirmation of receipt, if delivered by facsimile
+transmission.
+
+            5.9 TITLES AND SUBTITLES. The titles of the sections and subsections
+of the Agreement are for convenience of reference only and are not to be
+considered in construing this Agreement.
+
+            5.10 COUNTERPARTS. This Agreement may be executed in any number of
+counterparts, each of which shall be an original, but all of which together
+shall constitute one instrument.
+
+            5.11 PRONOUNS. All pronouns contained herein, and any variations
+thereof, shall be deemed to refer to the masculine, feminine or neutral,
+singular or plural, as to the identity of the parties hereto may require.
+
+            5.12 FURTHER REMEDIES. In addition to those remedies specifically
+set forth herein, if any, either party hereto may proceed to protect and enforce
+its rights under this Agreement either by suit in equity and/or by action at
+law, including, but not limited to, an action for damages as a result of any
+such breach and/or an action for specific performance of any such covenant or
+agreement contained in this Agreement. No right or remedy conferred upon or
+reserved to either party or the holder of Shares under this Agreement is
+intended to be exclusive of any other right or remedy, and every right and
+remedy shall be cumulative and in addition to every other right and remedy given
+under this Agreement or now and hereafter existing under applicable law. Every
+right and remedy given by this Agreement or by applicable law to either party
+hereto or the holders of Shares may be exercised from time to time and as often
+as may be deemed expedient by the holders.
+
+            5.13 FURTHER ASSURANCES. At any time or from time to time for a
+reasonable period following the Closing, the Sellers and the Purchaser agree to
+cooperate with each other, and at the request of the other party, to execute and
+deliver any further instruments or documents and to take all such further action
+as the other party may reasonably request in order to evidence or effectuate the
+consummation of the Acquisition and the transactions contemplated hereby and to
+otherwise carry out the intent of the parties hereunder.
+
+            5.14 FACSIMILE SIGNATURES. Any signature page delivered by a fax
+machine shall be binding to the same extent as an original signature page, with
+regard to any agreement subject to the terms hereof or any amendment thereto.
+Any party who delivers such a signature page agrees to later deliver an original
+counterpart to any party which requires it.
+
+            5.15 ADJUSTMENT. All dollar amounts and share numbers set forth
+herein shall be subject to equitable adjustment in the event of any stock split,
+stock dividend, reverse stock split or similar event affecting the Company
+Common Stock and/or Preferred Stock, between the date of this Agreement and the
+Closing Date, to the extent appropriate.
+<PAGE>
+
+CUSIP No. 257545103              SCHEDULE 13D                Page 17 of 17 Pages
+- --------------------------------------------------------------------------------
+
+
+
+
+
+            IN WITNESS WHEREOF, the parties hereto have executed this AGREEMENT
+as of the date set forth in the first paragraph hereof.
+
+                                            Diversified Capital Holdings, LLC
+
+
+                                            By: /s/ James W. Zimbler
+                                                --------------------------------
+                                                James W. Zimbler, President
+
+                                            Dominix, Inc.
+
+
+                                            By: /s/ Enrique J. Abreu
+                                                --------------------------------
+                                                Enrique J. Abreu, President
+
+
+                                            As to Section 1.5 Only:
+
+
+
+                                                /s/ Enrique J. Abreu
+                                                --------------------------------
+                                                Enrique J. Abreu
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

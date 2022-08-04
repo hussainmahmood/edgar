@@ -1,0 +1,311 @@
+<SEC-DOCUMENT>0000753308-21-000115.txt : 20210512
+<SEC-HEADER>0000753308-21-000115.hdr.sgml : 20210512
+<ACCEPTANCE-DATETIME>20210512160636
+ACCESSION NUMBER:		0000753308-21-000115
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20210511
+FILED AS OF DATE:		20210512
+DATE AS OF CHANGE:		20210512
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			ROBO JAMES L
+		CENTRAL INDEX KEY:			0001183254
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08841
+		FILM NUMBER:		21915086
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O NEXTERA ENERGY, INC.
+		STREET 2:		700 UNIVERSE BLVD
+		CITY:			JUNO BEACH
+		STATE:			FL
+		ZIP:			33408
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NEXTERA ENERGY INC
+		CENTRAL INDEX KEY:			0000753308
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		IRS NUMBER:				592449419
+		STATE OF INCORPORATION:			FL
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		700 UNIVERSE BLVD
+		CITY:			JUNO BEACH
+		STATE:			FL
+		ZIP:			33408
+		BUSINESS PHONE:		5616944853
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 14000
+		CITY:			JUNO BEACH
+		STATE:			FL
+		ZIP:			33408
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FPL GROUP INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>edgar.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-05-11</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000753308</issuerCik>
+        <issuerName>NEXTERA ENERGY INC</issuerName>
+        <issuerTradingSymbol>NEE</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001183254</rptOwnerCik>
+            <rptOwnerName>ROBO JAMES L</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O NEXTERA ENERGY, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>700 UNIVERSE BLVD.</rptOwnerStreet2>
+            <rptOwnerCity>JUNO BEACH</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>33408</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>1</isOther>
+            <officerTitle>Chairman, President &amp; CEO</officerTitle>
+            <otherText>Director of Sub</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2021-05-11</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>62951</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>73.257</value>
+                    <footnoteId id="F4"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1184274</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2021-05-11</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>55049</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>73.89</value>
+                    <footnoteId id="F5"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1129225</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>430528</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>James L. Robo Gifting Trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>108960</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Spouse</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>294200</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Spouse's Gifting Trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>125168</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>2018 Spouse's Gifting Trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>304964</value>
+                    <footnoteId id="F6"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Rabbi Trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>19404</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Retirement Savings Plan Trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Sales effected pursuant to Rule 10b5-1 trading plan adopted by the reporting person on August 3, 2020.</footnote>
+        <footnote id="F2">Includes a total of 196,994 shares deferred pursuant to the terms of a deferred stock grant under Issuer's Amended and Restated 2011 Long Term Incentive Plan (the &quot;Deferred Shares Grant&quot;), including an aggregate of 999 deferred shares deemed acquired pursuant to a dividend reinvestment feature under the Deferred Shares Grant since the last report filed by the reporting person. Under the terms of the Deferred Shares Grant, shares are distributable in stock at the end of the deferral period.</footnote>
+        <footnote id="F3">Includes a total of  905,893 shares deferred until reporting person's termination of employment with the Issuer and its subsidiaries, including an aggregate of 4,722 deferred shares deemed acquired pursuant to a dividend reinvestment feature.</footnote>
+        <footnote id="F4">Weighted average sale price. Reporting person sold 62,951 shares through a trade order executed by a broker-dealer at prices ranging from $72.705 to $73.705 per share.  The reporting person hereby undertakes to provide full information regarding the number of shares sold at each separate price upon request by the U.S. Securities and Exchange Commission staff, the Issuer, or a security holder of the Issuer.</footnote>
+        <footnote id="F5">Weighted average sale price. Reporting person sold 55,049 shares through a trade order executed by a broker-dealer at prices ranging from $73.710 to $74.110 per share.  The reporting person hereby undertakes to provide full information regarding the number of shares sold at each separate price upon request by the U.S. Securities and Exchange Commission staff, the Issuer, or a security holder of the Issuer.</footnote>
+        <footnote id="F6">Deferred shares held by Trustee of grantor trust in which reporting person has a pecuniary interest only. Includes an aggregate of 1,536 shares acquired by the Trustee pursuant to a dividend reinvestment feature of the deferred shares grant since the last report filed by the reporting person.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>W. Scott Seeley (Attorney-in-Fact)</signatureName>
+        <signatureDate>2021-05-12</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

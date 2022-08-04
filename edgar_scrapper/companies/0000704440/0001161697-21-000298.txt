@@ -1,0 +1,173 @@
+<SEC-DOCUMENT>0001161697-21-000298.txt : 20210604
+<SEC-HEADER>0001161697-21-000298.hdr.sgml : 20210604
+<ACCEPTANCE-DATETIME>20210604203726
+ACCESSION NUMBER:		0001161697-21-000298
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20210602
+FILED AS OF DATE:		20210604
+DATE AS OF CHANGE:		20210604
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Beck James M
+		CENTRAL INDEX KEY:			0001761683
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39086
+		FILM NUMBER:		21997995
+
+	MAIL ADDRESS:	
+		STREET 1:		63 WOODLAND DRIVE #202
+		CITY:			VERO BEACH
+		STATE:			FL
+		ZIP:			32962
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			REPRO MED SYSTEMS INC
+		CENTRAL INDEX KEY:			0000704440
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		IRS NUMBER:				133044880
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		24 CARPENTER RD
+		CITY:			CHESTER
+		STATE:			NY
+		ZIP:			10918
+		BUSINESS PHONE:		845-469-2042
+
+	MAIL ADDRESS:	
+		STREET 1:		24 CARPENTER RD
+		CITY:			CHESTER
+		STATE:			NY
+		ZIP:			10918
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form_4.xml
+<DESCRIPTION>FORM 4 FOR 06-02-2021
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-06-02</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000704440</issuerCik>
+        <issuerName>REPRO MED SYSTEMS INC</issuerName>
+        <issuerTradingSymbol>KRMD</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001761683</rptOwnerCik>
+            <rptOwnerName>Beck James M</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O REPRO MED SYSTEMS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>24 CARPENTER ROAD</rptOwnerStreet2>
+            <rptOwnerCity>CHESTER</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10918</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2021-06-02</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>21275</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>4.63</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Trust</value>
+                    <footnoteId id="F1"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>49996</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Mr. Beck is co-trustee with his wife of the Ellen H Beck Revocable Trust, of which Mr. Beck and his children are beneficiaries.</footnote>
+        <footnote id="F2">Sold in lots at prices between $4.60 and $4.66. Full information regarding the number of shares sold at each separate price is available upon request. Price reported reflects a weighted-average price.</footnote>
+    </footnotes>
+
+    <remarks>The filing of this statement shall not be construed as an admission (a) that the person filing this statement is, for the purposes of Section 16 of the Securities Exchange Act of 1934, as amended, the beneficial owner of any equity securities covered by this statement, or (b) that this statement is legally required to be filed by such person. Power of Attorney has been previously filed.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Karen Fisher- Attorney-in-Fact</signatureName>
+        <signatureDate>2021-06-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

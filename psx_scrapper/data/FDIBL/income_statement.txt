@@ -1,0 +1,12 @@
+Year,2011,2010
+Revenue Excluding Capital,"115,117,370","302,028,552"
+Capital Gains,"-1,688,667","32,369,985"
+Administrative Cost,"88,027,391","99,622,885"
+Financial Charges,"18,403,423","123,891,205"
+Other Income,"80,381,328","-77,981,694"
+Other Expense,0,0
+Change In Value of Investment,"5,462,624","-75,329"
+EBT,"12,904,696","234,253,201"
+Tax,"56,928,911","-143,423,020"
+PAT,"-44,024,215","377,676,221"
+EPS,-1.16,6.03

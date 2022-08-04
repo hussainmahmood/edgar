@@ -1,0 +1,165 @@
+<SEC-DOCUMENT>0001072613-18-000480.txt : 20180918
+<SEC-HEADER>0001072613-18-000480.hdr.sgml : 20180918
+<ACCEPTANCE-DATETIME>20180918133701
+ACCESSION NUMBER:		0001072613-18-000480
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20180829
+FILED AS OF DATE:		20180918
+DATE AS OF CHANGE:		20180918
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			PUCKETT LAND CO
+		CENTRAL INDEX KEY:			0000870727
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-16653
+		FILM NUMBER:		181075265
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7800 E UNION AVE 130
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80237
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EMPIRE PETROLEUM CORP
+		CENTRAL INDEX KEY:			0000887396
+		STANDARD INDUSTRIAL CLASSIFICATION:	CRUDE PETROLEUM & NATURAL GAS [1311]
+		IRS NUMBER:				731238709
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1213
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2651 E. 21ST STREET
+		STREET 2:		SUITE 310
+		CITY:			TULSA
+		STATE:			OK
+		ZIP:			74114
+		BUSINESS PHONE:		(539) 444-8002
+
+	MAIL ADDRESS:	
+		STREET 1:		2651 E. 21ST STREET
+		STREET 2:		SUITE 310
+		CITY:			TULSA
+		STATE:			OK
+		ZIP:			74114
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AMERICOMM RESOURCES CORP
+		DATE OF NAME CHANGE:	19951115
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AMERICOMM CORP
+		DATE OF NAME CHANGE:	19930328
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>puckett-3_18252.xml
+<DESCRIPTION>OWNERSHIP DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2018-08-29</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0000887396</issuerCik>
+        <issuerName>EMPIRE PETROLEUM CORP</issuerName>
+        <issuerTradingSymbol>EMPR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000870727</rptOwnerCik>
+            <rptOwnerName>PUCKETT LAND CO</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>5460 SOUTH QUEBEC STREET</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 250</rptOwnerStreet2>
+            <rptOwnerCity>GREENWOOD VILLAGE</rptOwnerCity>
+            <rptOwnerState>CO</rptOwnerState>
+            <rptOwnerZipCode>80111</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3021191</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Common Stock Warrant</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.15</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2018-08-29</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2020-12-31</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>3021191</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <ownerSignature>
+        <signatureName>/s/ Eric R. Stearns, President</signatureName>
+        <signatureDate>2018-09-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,348 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ ImeWbiwtwTJxs+sv9AGekt5FZcaQhsk1mkfZ0ETjs47R8UAbQmy6xLqLpukUR88v
+ 4ATvcfwndn/I5SsVqbywGQ==
+
+<SEC-DOCUMENT>0001144204-04-008582.txt : 20040616
+<SEC-HEADER>0001144204-04-008582.hdr.sgml : 20040616
+<ACCEPTANCE-DATETIME>20040616153051
+ACCESSION NUMBER:		0001144204-04-008582
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20040616
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HOROWITZ STEVEN A
+		CENTRAL INDEX KEY:			0001208697
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		595 STEWART AVENUE STE 710
+		CITY:			GARDEN CITY
+		STATE:			NY
+		ZIP:			11530
+
+	MAIL ADDRESS:	
+		STREET 1:		595 STEWART AVENUE STE 710
+		CITY:			GARDEN CITY
+		STATE:			NY
+		ZIP:			11530
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DOMINIX INC
+		CENTRAL INDEX KEY:			0000824104
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMMUNICATION SERVICES, NEC [4899]
+		IRS NUMBER:				134127624
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-59467
+		FILM NUMBER:		04866254
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O BOOKDIGITAL.COM, INC.
+		STREET 2:		142 WEST 38TH STREET 2ND FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10018
+		BUSINESS PHONE:		2124806380
+
+	MAIL ADDRESS:	
+		STREET 1:		5459 SOUTH IRIS STREET
+		CITY:			LITTLETON
+		STATE:			CO
+		ZIP:			80123
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MEDICAL MANAGEMENT SYSTEMS INC
+		DATE OF NAME CHANGE:	19970814
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DOG WORLD INC
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	APACHE INVESTMENTS INC
+		DATE OF NAME CHANGE:	19911006
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<FILENAME>v04051_sc13d.txt
+<TEXT>
+                                                             OMB APPROVAL
+                                                      --------------------------
+                                                      OMB Number:      3235-0145
+                                                      Expires: December 31, 2005
+                                                      Estimated average
+                                                      burden hours
+                                                      per response            15
+                                                      --------------------------
+
+                                  SCHEDULE 13D
+                    UNDER THE SECURITIES EXCHANGE ACT OF 1934
+                             (AMENDMENT NO. _____)*
+
+
+                              110 MEDIA GROUP, INC.
+                              ---------------------
+                                (Name of Issuer)
+
+                               COMMON STOCK, $.001
+                         ------------------------------
+                         (Title of Class of Securities)
+
+                                   6824ID 10 7
+                                 --------------
+                                 (CUSIP Number)
+
+                               STEVEN A. HOROWITZ
+                        400 GARDEN CITY PLAZA, SUITE 202
+                              GARDEN CITY, NY 11530
+                                 (516) 873-2000
+           -----------------------------------------------------------
+           (Name, Address and Telephone Number of Person Authorized to
+                       Receive Notices and Communications)
+
+                                  JUNE 4, 2004
+             -------------------------------------------------------
+             (Date of Event which Requires Filing of this Statement)
+
+If the filing person has previously filed a statement on Schedule 13G to report
+the acquisition that is the subject of this Schedule 13D, and is filing this
+schedule because of ss.ss.240.13d-1(e), 240.13d-1(f) or 240.13d-1(g), check the
+following box. |_|
+
+NOTE: Schedules filed in paper format shall include a signed original and five
+copies of the schedule, including all exhibits. Seess.240.13d-7 for other
+parties to whom copies are to be sent.
+
+* The remainder of this cover page shall be filled out for a reporting person's
+initial filing on this form with respect to the subject class of securities, and
+for any subsequent amendment containing information which would alter
+disclosures provided in a prior cover page.
+
+The information required on the remainder of this cover page shall not be deemed
+to be "filed" for the purpose of Section 18 of the Securities Exchange Act of
+1934 ("Act") or otherwise subject to the liabilities of that section of the Act
+but shall be subject to all other provisions of the Act (however, see the
+Notes).
+
+PERSONS WHO RESPOND TO THE COLLECTION OF INFORMATION CONTAINED IN THIS FORM ARE
+NOT REQUIRED TO RESPOND UNLESS THE FORM DISPLAYS A CURRENTLY VALID OMB CONTROL
+NUMBER.
+
+<PAGE>
+
+Cusip No. 6824ID 10 7
+
+- --------------------------------------------------------------------------------
+ 1.  Names of Reporting Persons.
+     I.R.S. Identification Nos. of above persons (entities only).
+              Steven A. Horowitz
+
+- --------------------------------------------------------------------------------
+ 2.  Check the Appropriate Box if a Member of a Group (See Instructions)
+     (a)
+     (b)  X
+
+- --------------------------------------------------------------------------------
+ 3.  SEC Use Only
+
+- --------------------------------------------------------------------------------
+ 4.  Source of Funds (See Instructions)
+     PF
+
+- --------------------------------------------------------------------------------
+ 5.  Check if Disclosure of Legal Proceedings Is Required Pursuant to Items 2(d)
+     or 2(e)
+
+- --------------------------------------------------------------------------------
+ 6.  Citizenship or Place of Organization
+     United States
+
+- --------------------------------------------------------------------------------
+                       7.  Sole Voting Power         756,166
+
+ NUMBER OF           -----------------------------------------------------------
+   SHARES              8.  Shared Voting Power            --
+BENEFICIALLY
+   OWNED             -----------------------------------------------------------
+  BY EACH              9.  Sole Dispositive Power    756,166
+ REPORTING
+PERSON WITH          -----------------------------------------------------------
+                      10.  Shared Dispositive Power       --
+
+- --------------------------------------------------------------------------------
+11.  Aggregate Amount Beneficially Owned by Each Reporting Person
+     756,166
+
+- --------------------------------------------------------------------------------
+12.  Check if the Aggregate Amount in Row (11) Excludes Certain Shares
+     (See Instructions)
+
+- --------------------------------------------------------------------------------
+13.  Percent of Class Represented by Amount in Row (11)
+     7.87%
+- --------------------------------------------------------------------------------
+14.  Type of Reporting Person (See Instructions)
+     IN
+
+- --------------------------------------------------------------------------------
+
+
+                                       2
+<PAGE>
+
+Cusip No. 6824ID 10 7
+
+Item 1.  Security and Issuer.
+
+         This statement on Schedule 13D ("Schedule 13D") is being filed with
+respect to the common stock, $0.001 par value (the "Common Stock"), of 110 Media
+Group, Inc. (f/k/a Dominix, Inc.), a Delaware corporation (the "Company"). The
+Company's principal executive office is located at 95 Broadhollow Road,
+Melville, New York 11747.
+
+Item 2.  Identity and Background.
+
+           (a) This statement is filed by Steven A. Horowitz (the "Reporting
+Person") with respect to shares directly owned by him.
+
+           Any disclosures herein with respect to persons other than the
+Reporting Person is made on information and belief after making inquiry to the
+appropriate party.
+
+           (b) The business address of Steven A. Horowitz is 400 Garden City
+Plaza, Garden City, New York 11530.
+
+           (c) Mr. Horowitz is principally an attorney and a private investor.
+
+           (d) The Reporting Person has not, during the last five years, been
+convicted in a criminal proceeding (excluding traffic violations or similar
+misdemeanors).
+
+           (e) The Reporting Person has not, during the last five years, been a
+party to a civil proceeding of a judicial or administrative body of competent
+jurisdiction and as a result of such proceeding was or is subject to a judgment,
+decree or final order enjoining future violations of, or prohibiting or
+mandating activities subject to, federal or state securities laws or finding any
+violation with respect to such laws.
+
+           (f) Mr. Horowitz is a citizen of the United States of America.
+
+Item 3.  Source and Amount of Funds or Other Consideration.
+
+           On June 4, 2004 the Company amended its Certificate of Incorporation,
+which among other things effectuated a 1 for 200 reverse split and increased the
+number of authorized shares of common stock to 50,000,000. Mr. Horowitz owned
+693,666 shares of Series A Convertible Preferred Stock that converted on the
+basis of 1 share of Series A for 200 shares of the Company's pre-split common
+stock. The Company, prior to amending its Certificate of Incorporation, did not
+have a sufficient number of shares authorized to effectuate this conversion. As
+a result of the amendment, the Company authorized a sufficient number of shares
+to allow Mr. Horowitz to convert his Series A Shares. Accordingly, on June 4,
+2004 Mr. Horowitz converted his 693,666 shares into 693,666 post-split shares of
+common stock. In addition, Mr. Horowitz received 40,000 shares from the Company
+under its equity incentive plan and Mr. Horowitz previously owned 4,500,000
+(22,500 post-split) shares of common stock. Accordingly, Mr. Horowitz now owns
+an aggregate of 756,166 shares of the Company's common stock. The Preferred
+Shares and 4,500,000 pre-split shares of common stock were purchased from the
+Company utilizing Mr. Horowitz's personal funds.
+
+
+                                       3
+<PAGE>
+
+Cusip No. 6824ID 10 7
+
+
+Item 4.  Purpose of Transaction.
+
+           The shares of common stock deemed to be beneficially owned by Mr.
+Horowitz were acquired for, and are being held for, investment purposes.
+
+           The Reporting Person may in the future directly acquire shares of
+common stock in open market or private transactions, block purchases or
+otherwise. The Reporting Person may continue to hold or dispose of all or some
+of the securities reported herein from time to time, in each case in open market
+or private transactions, block sales or purchases or otherwise, subject to
+compliance with applicable law. Other than as set forth herein, the Reporting
+Person has no plans or proposals which relate to, or could result in, any of the
+matters referred to in paragraphs (b) through (j), inclusive, of Item 4 of the
+Schedule 13D. The Reporting Person may, at any time and from time to time,
+review or reconsider his or its position and formulate plans or proposals with
+respect thereto, but has no present intention of doing so.
+
+Item 5.  Interest in Securities of the Issuer.
+
+           (a) As of the close of business on June 4, 2004, the Reporting Person
+was the beneficial owner, within the meaning of Rule 13d-3 under the Exchange
+Act, of 756,166 shares of common stock. As of June 4, 2004, these shares
+represented 7.87% of the sum of the 9,605,399 total shares of common stock
+outstanding as reported.
+
+           (b) The sole or shared power to vote or dispose of, or to direct the
+vote or disposition of the common stock with respect to each Reporting Person
+noted in paragraph (a) of this Item 5 is as set forth on the cover sheets of
+this Schedule 13D.
+
+           (c) There have been no transactions involving the shares of common
+stock of the Company engaged in during the 60 day period prior to and including
+April 5, 2004 up to the present.
+
+Item 6.  Contracts, Arrangements, Understandings or Relationships with Respect
+         to Securities of the Issuer.
+
+           There are no contracts, arrangements, understandings or relationships
+(legal or otherwise) among the Reporting Persons named in Item 2 of this
+statement and between such Reporting Persons and any person with respect to any
+securities of the Issuer, including but not limited to transfer or voting of any
+of the securities, finder's fees, joint ventures, loan or option arrangements,
+puts or calls, guarantees of profits, division of profits or loss, or the giving
+or withholding of proxies.
+
+Item 7.  Material to be Filed as Exhibits.
+
+           None
+
+
+                                       4
+<PAGE>
+
+Cusip No. 6824ID 10 7
+
+
+                                   SIGNATURES
+
+         After reasonable inquiry and to the best of my knowledge and belief,
+the undersigned certifies that the information set forth in this statement is
+true, complete and correct.
+
+
+
+Dated:  June 8, 2004                                /s/  Steven A. Horowitz
+                                                    ----------------------------
+                                                    Steven A. Horowitz
+
+
+                                       5
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

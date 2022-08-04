@@ -1,0 +1,156 @@
+<SEC-DOCUMENT>0001403233-21-000001.txt : 20210525
+<SEC-HEADER>0001403233-21-000001.hdr.sgml : 20210525
+<ACCEPTANCE-DATETIME>20210525145257
+ACCESSION NUMBER:		0001403233-21-000001
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20210521
+FILED AS OF DATE:		20210525
+DATE AS OF CHANGE:		20210525
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Spaulding Ronald Nicholas
+		CENTRAL INDEX KEY:			0001403233
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32982
+		FILM NUMBER:		21959776
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE ALLENTOWN PARKWAY
+		CITY:			ALLEN
+		STATE:			TX
+		ZIP:			75002
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ATRION CORP
+		CENTRAL INDEX KEY:			0000701288
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		IRS NUMBER:				630821819
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE ALLENTOWN PARKWAY
+		CITY:			ALLEN
+		STATE:			TX
+		ZIP:			75002
+		BUSINESS PHONE:		9723909800
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE ALLENTOWN PARKWAY
+		CITY:			ALLEN
+		STATE:			TX
+		ZIP:			75002
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ALATENN RESOURCES INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-05-21</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000701288</issuerCik>
+        <issuerName>ATRION CORP</issuerName>
+        <issuerTradingSymbol>ATRI</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001403233</rptOwnerCik>
+            <rptOwnerName>Spaulding Ronald Nicholas</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>ONE ALLENTOWN PARKWAY</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>ALLEN</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>75002</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2021-05-21</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>154</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2282</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Issuer's director compensation policy provides for a grant to the Reporting Person of an award of common stock in an amount equal to $92,000.  On May 21, 2021 the Compensation Committee granted an award to each independent director in an annual amount equal to $92,000.</footnote>
+        <footnote id="F2">The number of shares of common stock granted for all of the awards described above was based on the closing price per share of the Issuer's common stock on May 21, 2021, or $594.69</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>s/Jeffery Strickland, Attorney-in-fact</signatureName>
+        <signatureDate>2021-05-25</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

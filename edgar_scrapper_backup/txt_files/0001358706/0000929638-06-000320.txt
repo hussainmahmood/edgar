@@ -1,0 +1,176 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Q17REuUsilL2Z2JONSzgYGFayho/WXLLQvBYeIVmWMKEEmQWIzsV/PadKwMlq5jA
+ tAJ4okCMszRT4qrMDMVv9A==
+
+<SEC-DOCUMENT>0000929638-06-000320.txt : 20060814
+<SEC-HEADER>0000929638-06-000320.hdr.sgml : 20060814
+<ACCEPTANCE-DATETIME>20060814100525
+ACCESSION NUMBER:		0000929638-06-000320
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20060630
+FILED AS OF DATE:		20060814
+DATE AS OF CHANGE:		20060814
+EFFECTIVENESS DATE:		20060814
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PAMET CAPITAL MANAGEMENT, LP
+		CENTRAL INDEX KEY:			0001358706
+		IRS NUMBER:				204043368
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-11903
+		FILM NUMBER:		061027282
+
+	BUSINESS ADDRESS:	
+		STREET 1:		222 BERKELEY STREET, 22ND FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+		BUSINESS PHONE:		617-646-6100
+
+	MAIL ADDRESS:	
+		STREET 1:		222 BERKELEY STREET, 22ND FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>pamet30jun06.txt
+<TEXT>
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    Form 13F
+
+                              Form 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended:     June 30, 2006
+
+Check here if Amendment [   ]; Amendment Number: ____
+        This Amendment (Check only one.):   [   ] is a restatement.
+                                            [   ] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+Name:                 Pamet Capital Management, L.P.
+Address:              222 Berkeley Street, 22nd Floor
+                      Boston, MA 02116
+
+
+Form 13F File Number:  028-11903
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+Name:                 Jason Price
+Title:                Chief Financial Officer
+Phone:                617-646-6100
+
+Signature, Place, and Date of Signing:
+
+
+/s/ Jason Price                  Boston, Massachusetts             8/14/2006
+    [Signature]                    [City, State]                   [Date]
+
+Report Type (Check only one.):
+
+[X]  13F HOLDINGS REPORT.  (Check here if all holdings of this reporting
+     manager are reported in this report).
+
+[ ]  13F NOTICE. (Check here if no holdings reported are in this report,
+     and all holdings are reported by other reporting manager(s).)
+
+[ ]  13F COMBINATION REPORT. (Check here if a portion of the holdings for
+     this reporting manager are reported in this report and a portion are
+     reported by other reporting manager(s).)
+
+
+
+
+<PAGE>
+
+                             Form 13F SUMMARY PAGE
+
+
+Report Summary:
+
+Number of Other Included Managers:          0
+
+Form 13F Information Table Entry Total:     19
+
+Form 13F Information Table Value Total:     $1,543,391
+                                            (thousands)
+
+List of Other Included Managers:            None
+
+Provide a numbered list of the name(s) and Form 13F file number(s) of all
+institutional investment managers with respect to which this report is filed,
+other than the manager filing this report.
+
+     None
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                       FORM 13F INFORMATION TABLE
+                       NAME OF REPORTING MANAGER: PAMET CAPITAL MANAGEMENT, L.P.
+                                           as of June 30, 2006
+
+
+  Column 1                    Column 2       Column 3   Column 4       Column 5           Column 6    Column 7      Column 8
+
+  Name of                     Title of        CUSIP      Value       Amount and Type     Investment    Other        Authority
+  Issuer                       Class          Number    ($1,000)       of Security       Discretion   Managers      (Shares)
+
+                                                                    Shares or
+                                                                    Principal SH/ PUT/
+                                                                     Amount   PRN CALL                          Sole    Shared  None
+
+<S>                           <C>            <C>        <C>         <C>       <C>           <C>                <C>
+Allegheny Energy Inc          COM            017361106   97,646     2,634,100 SH            SOLE               2,634,100
+Altria Group Inc              COM            02209S103  136,448     1,858,200 SH            SOLE               1,858,200
+Arbitron Inc                  COM            03875Q108   69,738     1,819,400 SH            SOLE               1,819,400
+Echostar Communications New   CL A           278762109  164,890     5,360,600 SH            SOLE               5,360,600
+Erie Indty Co                 CL A           29530P102   68,858     1,324,192 SH            SOLE               1,324,192
+Gentek Inc                    COM NEW        37245X203    6,408       238,674 SH            SOLE                 238,674
+Global Signal Inc             COM            37944Q103  350,953     7,576,703 SH            SOLE               7,576,703
+Golden West Finl Corp Del     COM            381317106   56,192       757,300 SH            SOLE                 757,300
+Hospira Inc                   COM            441060100   73,801     1,718,700 SH            SOLE               1,718,700
+Investors Bancorp Inc         COM            46146P102      942        69,500 SH            SOLE                  69,500
+Liberty Media Hldg Corp       INT COM SER A  53071M104   45,014     2,608,000 SH            SOLE               2,608,000
+Mastercard Inc                COM            57636Q104   25,680       535,000 SH            SOLE                 535,000
+NVR Inc                       COM            62944T105  209,034       425,515 SH            SOLE                 425,515
+Portland Gen Elec Co          COM NEW        736508847    6,583       263,622 SH            SOLE                 263,622
+SLM Corp                      COM            78442P106   82,079     1,551,000 SH            SOLE               1,551,000
+Sprint Nextel Corp            COM FON        852061100   19,990     1,000,000 SH            SOLE               1,000,000
+TAL Intl Group Inc            COM            874083108   41,119     1,706,200 SH            SOLE               1,706,200
+Tempur Pedic Intl Inc         COM            88023U101   46,106     3,412,700 SH            SOLE               3,412,700
+USA Mobility Inc              COM            90341G103   41,910     2,524,676 SH            SOLE               2,524,676
+
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

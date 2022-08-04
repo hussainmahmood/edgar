@@ -1,0 +1,171 @@
+<SEC-DOCUMENT>0001104659-21-121636.txt : 20211001
+<SEC-HEADER>0001104659-21-121636.hdr.sgml : 20211001
+<ACCEPTANCE-DATETIME>20211001081754
+ACCESSION NUMBER:		0001104659-21-121636
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20210927
+FILED AS OF DATE:		20211001
+DATE AS OF CHANGE:		20211001
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			ABRAMS MICHAEL S
+		CENTRAL INDEX KEY:			0001497702
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-54986
+		FILM NUMBER:		211297176
+
+	MAIL ADDRESS:	
+		STREET 1:		64 RAMSHEAD ROAD
+		CITY:			RAYNHAM
+		STATE:			MA
+		ZIP:			02767
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Arch Therapeutics, Inc.
+		CENTRAL INDEX KEY:			0001537561
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		IRS NUMBER:				460524102
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0930
+
+	BUSINESS ADDRESS:	
+		STREET 1:		235 WALNUT STREET, SUITE 6
+		CITY:			FRAMINGHAM
+		STATE:			MA
+		ZIP:			01702
+		BUSINESS PHONE:		617-431-2313
+
+	MAIL ADDRESS:	
+		STREET 1:		235 WALNUT STREET, SUITE 6
+		CITY:			FRAMINGHAM
+		STATE:			MA
+		ZIP:			01702
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ALMAH,INC
+		DATE OF NAME CHANGE:	20111216
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>tm2129012d4_4.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-09-27</periodOfReport>
+
+    <notSubjectToSection16>1</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001537561</issuerCik>
+        <issuerName>Arch Therapeutics, Inc.</issuerName>
+        <issuerTradingSymbol>ARTH</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001497702</rptOwnerCik>
+            <rptOwnerName>ABRAMS MICHAEL S</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O ARCH THERAPEUTICS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>235 WALNUT STREET, SUITE 6</rptOwnerStreet2>
+            <rptOwnerCity>FRAMINGHAM</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>01702</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.1028</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2021-09-27</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>350000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2031-09-26</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>350000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>350000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The option was granted pursuant to the Issuer's 2013 Stock Incentive Plan (the &quot;Plan&quot;). The option shall vest equally on each of the first 36 month anniversaries of the grant date, subject to continued service to the Issuer through each vesting date. In the event of a Change of Control (as such term is defined in the Plan), 100% of the number of unvested shares then subject to the option shall accelerate and become immediately exercisable.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Michael Abrams</signatureName>
+        <signatureDate>2021-09-30</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

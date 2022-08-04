@@ -1,0 +1,148 @@
+<SEC-DOCUMENT>0001654954-21-009666.txt : 20210901
+<SEC-HEADER>0001654954-21-009666.hdr.sgml : 20210901
+<ACCEPTANCE-DATETIME>20210901171006
+ACCESSION NUMBER:		0001654954-21-009666
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20210901
+FILED AS OF DATE:		20210901
+DATE AS OF CHANGE:		20210901
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Roegner Norman III
+		CENTRAL INDEX KEY:			0001864908
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-12697
+		FILM NUMBER:		211230972
+
+	BUSINESS ADDRESS:	
+		BUSINESS PHONE:		224-220-4628
+
+	MAIL ADDRESS:	
+		STREET 1:		1200 TRAPP ROAD
+		CITY:			EAGAN
+		STATE:			MN
+		ZIP:			55121
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DYNATRONICS CORP
+		CENTRAL INDEX KEY:			0000720875
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		IRS NUMBER:				870398434
+		STATE OF INCORPORATION:			UT
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7030 PARK CENTRE DRIVE
+		STREET 2:		BLDG D
+		CITY:			SALT LAKE CITY
+		STATE:			UT
+		ZIP:			84121
+		BUSINESS PHONE:		8015687000
+
+	MAIL ADDRESS:	
+		STREET 1:		7030 PARK CENTER DR
+		CITY:			SALT LAKE CITY
+		STATE:			UT
+		ZIP:			84121
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DYNATRONICS LASER CORP
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>section16.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-09-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000720875</issuerCik>
+        <issuerName>DYNATRONICS CORP</issuerName>
+        <issuerTradingSymbol>DYNT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001864908</rptOwnerCik>
+            <rptOwnerName>Roegner Norman III</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1200 TRAPP ROAD</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>EAGAN</rptOwnerCity>
+            <rptOwnerState>MN</rptOwnerState>
+            <rptOwnerZipCode>55121</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2021-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7680</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.26</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>7680</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>/s/ Norman Roegner III</signatureName>
+        <signatureDate>2021-09-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,211 @@
+<SEC-DOCUMENT>0001209191-21-035994.txt : 20210526
+<SEC-HEADER>0001209191-21-035994.hdr.sgml : 20210526
+<ACCEPTANCE-DATETIME>20210526172222
+ACCESSION NUMBER:		0001209191-21-035994
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20210524
+FILED AS OF DATE:		20210526
+DATE AS OF CHANGE:		20210526
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Sung Wen-Chi
+		CENTRAL INDEX KEY:			0001707312
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	002-25577
+		FILM NUMBER:		21967490
+
+	MAIL ADDRESS:	
+		STREET 1:		4949 HEDGCOXE ROAD
+		STREET 2:		#100
+		CITY:			PLANO
+		STATE:			TX
+		ZIP:			75024
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DIODES INC /DEL/
+		CENTRAL INDEX KEY:			0000029002
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				952039518
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4949 HEDGCOXE ROAD
+		STREET 2:		SUITE 200
+		CITY:			PLANO
+		STATE:			TX
+		ZIP:			75024
+		BUSINESS PHONE:		972-987-3900
+
+	MAIL ADDRESS:	
+		STREET 1:		4949 HEDGCOXE ROAD
+		STREET 2:		SUITE 200
+		CITY:			PLANO
+		STATE:			TX
+		ZIP:			75024
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-05-24</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000029002</issuerCik>
+        <issuerName>DIODES INC /DEL/</issuerName>
+        <issuerTradingSymbol>DIOD</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001707312</rptOwnerCik>
+            <rptOwnerName>Sung Wen-Chi</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>4949 HEDGCOXE ROAD</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 200</rptOwnerStreet2>
+            <rptOwnerCity>PLANO</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>75024</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Diodes Incorporated Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2021-05-24</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2520</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>18720</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Restricted stock units vest in four equal installments beginning 05/26/2022.</footnote>
+        <footnote id="F2">Granted under Rule 16b-3 Plan.</footnote>
+    </footnotes>
+
+    <remarks>Exhibit List
+     Exhibit 24 - Substitute Power of Attorney</remarks>
+
+    <ownerSignature>
+        <signatureName>Brett R. Whitmire as Power of Attorney for Wen-Chi Sung</signatureName>
+        <signatureDate>2021-05-26</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>attachment1.htm
+<DESCRIPTION>EX-24 DOCUMENT
+<TEXT>
+<HTML>
+<HEAD>
+</HEAD>
+<BODY>
+<PRE>
+SUBSTITUTE POWER OF ATTORNEY
+
+      Under terms of various powers of attorney ("POAs"), the undersigned,
+RICHARD D. WHITE, was appointed attorney-in-fact for certain officers and
+directors ("D&Os") of Diodes Incorporated ("Diodes") to act in connection with
+execution, delivery, and filing of all such documents and things, including,
+without limitation, reports and filings with the United States Securities and
+Exchange Commission, Internal Revenue Service, and Nasdaq Stock Exchange, as may
+be required to be executed, delivered, and filed by such D&Os in connection with
+the beneficial ownership by such D&Os of securities of Diodes.
+
+      In accordance with the authority granted under the POAs, including the
+power of substitution, the undersigned hereby appoints BRETT R. WHITMIRE, of
+5324 Seascape Lane, Plano, TX 75093, as substitute attorneys-in-fact, on behalf
+of the D&Os, with full power of substitution, to exercise and execute all of the
+powers granted or conferred in the original POAs. By his signature as attorney-
+in-fact to this Substitute Power of Attorney, BRETT R. WHITMIRE accepts such
+appointment and agrees to assume from the undersigned any and all duties and
+responsibilities attendant to his capacity as attorney-in-fact.
+
+Executed on December 4, 2020
+
+
+
+By: /s/Richard D. White
+Richard D. White, Attorney-in-Fact
+
+
+
+I ACCEPT THIS APPOINTMENT AND SUBSTITUTION:
+
+
+
+By: /s/Brett R. Whitmire
+Brett R. Whitmire
+
+</PRE>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

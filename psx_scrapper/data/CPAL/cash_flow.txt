@@ -1,0 +1,11 @@
+Year,2009,2008
+Income from Leasing,"6,999,173","10,851,624"
+Administrative Cost,"12,541,832","17,373,359"
+Financial Charges,"2,382,683","5,408,875"
+Other Income,"2,139,289","3,212,319"
+Other Expenses,"-2,945,660","12,341,889"
+Change in Value of Investment,0,0
+EBT,"-2,840,393","-21,060,108"
+Tax,0,"175,000"
+PAT,"-2,840,393","-21,235,108"
+EPS,-0.26,-1.98

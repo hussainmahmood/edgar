@@ -1,0 +1,186 @@
+<SEC-DOCUMENT>0000719135-21-000058.txt : 20210811
+<SEC-HEADER>0000719135-21-000058.hdr.sgml : 20210811
+<ACCEPTANCE-DATETIME>20210811153455
+ACCESSION NUMBER:		0000719135-21-000058
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20210806
+FILED AS OF DATE:		20210811
+DATE AS OF CHANGE:		20210811
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Baylor-Henry Minnie
+		CENTRAL INDEX KEY:			0001747260
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-31885
+		FILM NUMBER:		211163219
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O SCPHARMACUETICALS, INC.
+		STREET 2:		2400 DISTRICT AVENUE SUITE 310
+		CITY:			BURLINGTON
+		STATE:			MA
+		ZIP:			01803
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Apyx Medical Corp
+		CENTRAL INDEX KEY:			0000719135
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		IRS NUMBER:				112644611
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5115 ULMERTON ROAD
+		CITY:			CLEARWATER
+		STATE:			FL
+		ZIP:			33760
+		BUSINESS PHONE:		7273842323
+
+	MAIL ADDRESS:	
+		STREET 1:		5115 ULMERTON ROAD
+		CITY:			CLEARWATER
+		STATE:			FL
+		ZIP:			33760
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BOVIE MEDICAL Corp
+		DATE OF NAME CHANGE:	20150319
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BOVIE MEDICAL CORP
+		DATE OF NAME CHANGE:	19990216
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AN CON GENETICS INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wf-form4_162871048053719.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-08-06</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000719135</issuerCik>
+        <issuerName>Apyx Medical Corp</issuerName>
+        <issuerTradingSymbol>APYX</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001747260</rptOwnerCik>
+            <rptOwnerName>Baylor-Henry Minnie</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>5115 ULMERTON RD</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>CLEARWATER</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>33760</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (Option to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>9.42</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2021-08-06</value>
+            </transactionDate>
+            <deemedExecutionDate>
+                <value>2021-08-06</value>
+            </deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>17000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2022-08-06</value>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2031-08-06</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>17000.0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>17000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reporting person was granted a stock option which shall vest ratably over a twelve (12) month period and shall become fully vested and fully exercisable on the first anniversary of the date of grant.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>Minnie Baylor-Henry</signatureName>
+        <signatureDate>2021-08-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

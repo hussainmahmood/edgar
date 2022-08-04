@@ -1,0 +1,24 @@
+Year,2017,2009,2008
+Fixed Assets,"112,977,887","250,183,389","252,867,719"
+Investments,"33,998,580",0,0
+Cash in Hand and Bank,"901,825","1,844,312","5,370,921"
+Stores and Spares,"1,771,304","26,973,437","30,169,803"
+Stock in Trade,0,"31,454,892","10,998,581"
+Trade Debts,"1,877,812","84,487,995","64,142,273"
+Current Assets,"65,724,938","164,763,166","129,047,792"
+Quick Assets,"63,953,634","106,334,837","87,879,408"
+Total Assets,"184,226,133","416,269,055","381,915,511"
+Interest Bearing Long Term Liability,0,"5,298,382",0
+Non Interest Bearing Long Term Liability,0,0,0
+Interest Bearing Short Term Liability,0,"3,062,466","1,458,790"
+* Non Interest Bearing Short Term Liability,"3,222,473","18,287,157","30,093,749"
+Trades Payables,"3,222,473","17,064,216","28,870,808"
+Total Current Liabilities,"3,442,142","21,349,623","31,552,539"
+Total Liabilities,"4,446,975","32,616,391","36,543,973"
+Paid Up Capital,"126,000,000","126,000,000","120,000,000"
+Reserves,"53,779,158","257,652,664","225,371,538"
+Preferred Equity,0,0,0
+Surplus On Revaluation of Assets,0,0,0
+Shareholder Equity,"179,779,158","383,652,664","345,371,538"
+Paid Up Value,10,10,10
+Number of Shares,"12,600,000","12,600,000","12,000,000"

@@ -1,0 +1,277 @@
+<SEC-DOCUMENT>0000753308-21-000135.txt : 20210616
+<SEC-HEADER>0000753308-21-000135.hdr.sgml : 20210616
+<ACCEPTANCE-DATETIME>20210616180548
+ACCESSION NUMBER:		0000753308-21-000135
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20210614
+FILED AS OF DATE:		20210616
+DATE AS OF CHANGE:		20210616
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Coffey Robert
+		CENTRAL INDEX KEY:			0001867736
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08841
+		FILM NUMBER:		211022642
+
+	MAIL ADDRESS:	
+		STREET 1:		700 UNIVERSE BLVD
+		CITY:			JUNO BEACH
+		STATE:			FL
+		ZIP:			33408
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NEXTERA ENERGY INC
+		CENTRAL INDEX KEY:			0000753308
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		IRS NUMBER:				592449419
+		STATE OF INCORPORATION:			FL
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		700 UNIVERSE BLVD
+		CITY:			JUNO BEACH
+		STATE:			FL
+		ZIP:			33408
+		BUSINESS PHONE:		5616944853
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 14000
+		CITY:			JUNO BEACH
+		STATE:			FL
+		ZIP:			33408
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FPL GROUP INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>edgar.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2021-06-14</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0000753308</issuerCik>
+        <issuerName>NEXTERA ENERGY INC</issuerName>
+        <issuerTradingSymbol>NEE</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001867736</rptOwnerCik>
+            <rptOwnerName>Coffey Robert</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O NEXTERA ENERGY, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>700 UNIVERSE BLVD.</rptOwnerStreet2>
+            <rptOwnerCity>JUNO BEACH</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>33408</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>EVP, Nuclear Div &amp; CNO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>13148</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>14696</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Retirement Savings Plans Trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Phantom Shares</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>983</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Employee Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>45.65</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2029-02-14</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>7560</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Employee Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>68.87</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2030-02-13</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>5592</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Employee Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>83.95</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F4"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2031-02-13</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>4220</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Phantom shares credited to an unfunded Supplemental Matching Contribution Account (&quot;SMCA&quot;) for the reporting person pursuant to the NextEra Energy, Inc. Supplemental Executive Retirement Plan (&quot;SERP&quot;).  The value of the SMCA is payable in cash following the reporting person's termination of employment with the Issuer and its subsidiaries.</footnote>
+        <footnote id="F2">The option, representing a right to buy 7,560 shares, become exercisable in three substantially equal annual installments beginning on February 15, 2020.</footnote>
+        <footnote id="F3">The option, representing a right to buy 5,592 shares, become exercisable in three substantially equal annual installments beginning on February 15, 2021.</footnote>
+        <footnote id="F4">The option, representing a right to buy 4,220 shares, become exercisable in three substantially equal annual installments beginning on February 15, 2022.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>W. Scott Seeley (Attorney-in-Fact)</signatureName>
+        <signatureDate>2021-06-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>coffeypoa.htm
+<TEXT>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<!-- Document created using Wdesk -->
+<!-- Copyright 2021 Workiva -->
+<title>Document</title></head><body><div id="i10140b963ef74708b797cb8b95636647_1"></div><div style="min-height:54pt;width:100%"><div style="text-align:right"><font style="color:#000000;font-family:'Arial',sans-serif;font-size:12pt;font-weight:700;line-height:120%">Exhibit 24</font></div></div><div style="margin-bottom:6pt"><table style="border-collapse:collapse;display:inline-table;margin-bottom:5pt;vertical-align:text-bottom;width:100.000%"><tr><td style="width:1.0%"></td><td style="width:6.042%"></td><td style="width:0.1%"></td><td style="width:1.0%"></td><td style="width:32.868%"></td><td style="width:0.1%"></td><td style="width:1.0%"></td><td style="width:57.790%"></td><td style="width:0.1%"></td></tr><tr><td colspan="9" style="padding:2px 1pt;text-align:left;vertical-align:top"><div style="text-align:center"><font style="color:#000000;font-family:'Arial',sans-serif;font-size:12pt;font-weight:700;line-height:120%">NEXTERA ENERGY, INC.<br>FLORIDA POWER &#38; LIGHT COMPANY<br>POWER OF ATTORNEY<br></font><font style="color:#000000;font-family:'Arial',sans-serif;font-size:12pt;font-weight:400;line-height:120%">(For Executing Forms 3, 4 and 5)<br></font></div></td></tr><tr style="height:11pt"><td colspan="3" style="padding:0 1pt"></td><td colspan="3" style="padding:0 1pt"></td><td colspan="3" style="padding:0 1pt"></td></tr><tr><td colspan="9" style="padding:2px 1pt;text-align:justify;vertical-align:top"><font style="color:#000000;font-family:'Arial',sans-serif;font-size:11pt;font-weight:400;line-height:120%">Know all by these presents, that the undersigned hereby constitutes and appoints each of W.&#160;Scott&#160;Seeley, Charles E. Sieving, Charlotte B. Anderson, Sharon Sartor, Kevin K. Greenslade and Todd M. Aman, signing singly, the undersigned's true and lawful attorney-in-fact to&#58;</font></td></tr><tr style="height:10pt"><td colspan="9" style="padding:0 1pt"></td></tr><tr><td colspan="3" style="padding:2px 1pt;text-align:justify;vertical-align:top"><font style="color:#000000;font-family:'Arial',sans-serif;font-size:11pt;font-weight:400;line-height:120%">1.</font></td><td colspan="6" style="padding:2px 1pt;text-align:justify;vertical-align:top"><font style="color:#000000;font-family:'Arial',sans-serif;font-size:11pt;font-weight:400;line-height:120%">execute for and on behalf of the undersigned Forms 3, 4 and 5 in accordance with Section 16(a) of the Securities Exchange Act of 1934 and the rules thereunder&#59;</font></td></tr><tr style="height:10pt"><td colspan="3" style="padding:0 1pt"></td><td colspan="6" style="padding:0 1pt"></td></tr><tr><td colspan="3" style="padding:2px 1pt;text-align:justify;vertical-align:top"><font style="color:#000000;font-family:'Arial',sans-serif;font-size:11pt;font-weight:400;line-height:120%">2.</font></td><td colspan="6" style="padding:2px 1pt;text-align:justify;vertical-align:top"><font style="color:#000000;font-family:'Arial',sans-serif;font-size:11pt;font-weight:400;line-height:120%">do and perform any and all acts for and on behalf of the undersigned which may be necessary or desirable to complete and execute any such Form 3, 4 or 5, complete and execute any amendment or amendments thereto, and file such form with the United States Securities and Exchange Commission and any stock exchange or similar authority&#59; and</font></td></tr><tr style="height:11pt"><td colspan="3" style="padding:0 1pt"></td><td colspan="6" style="padding:0 1pt"></td></tr><tr><td colspan="3" style="padding:2px 1pt;text-align:justify;vertical-align:top"><font style="color:#000000;font-family:'Arial',sans-serif;font-size:11pt;font-weight:400;line-height:120%">3.</font></td><td colspan="6" style="padding:2px 1pt;text-align:justify;vertical-align:top"><font style="color:#000000;font-family:'Arial',sans-serif;font-size:11pt;font-weight:400;line-height:120%">take any other action of any type whatsoever in connection with the foregoing which, in the opinion of such attorney-in-fact, may be of benefit to, in the best interest of, or legally required by, the undersigned, it being understood that the documents executed by such attorney-in-fact on behalf of the undersigned pursuant to this Power of Attorney shall be in such form and shall contain such terms and conditions as such attorney-in-fact may approve in such attorney-in-fact's discretion.</font></td></tr><tr style="height:10pt"><td colspan="3" style="padding:0 1pt"></td><td colspan="6" style="padding:0 1pt"></td></tr><tr><td colspan="9" style="padding:2px 1pt;text-align:justify;vertical-align:top"><font style="color:#000000;font-family:'Arial',sans-serif;font-size:11pt;font-weight:400;line-height:120%">The undersigned hereby grants to each such attorney-in-fact full power and authority to do and perform any and every act and thing whatsoever requisite, necessary, or proper to be done in the exercise of any of the rights and powers herein granted, as fully to all intents and purposes as the undersigned might or could do if personally present, with full power of substitution or revocation, hereby ratifying and confirming all that such attorney-in-fact, or such attorney-in-fact's substitute or substitutes, shall lawfully do or cause to be done by virtue of this power of attorney and the rights and powers herein granted.  The undersigned acknowledges that the foregoing attorneys-in-fact, in serving in such capacity at the request of the undersigned, are not assuming, nor is NextEra Energy, Inc. (&#34;NextEra Energy&#34;) or any of its subsidiaries assuming, any of the undersigned's responsibilities to comply with Section 16 of the Securities Exchange Act of 1934.</font></td></tr><tr style="height:10pt"><td colspan="9" style="padding:0 1pt"></td></tr><tr><td colspan="9" style="padding:2px 1pt;text-align:justify;vertical-align:top"><font style="color:#000000;font-family:'Arial',sans-serif;font-size:11pt;font-weight:400;line-height:120%">This Power of Attorney shall remain in full force and effect until the undersigned is no longer required to file Forms 3, 4 and 5 with respect to the undersigned's holdings of and transactions in securities issued by NextEra Energy or Florida Power &#38; Light Company, unless earlier revoked by the undersigned in a signed writing delivered to the foregoing attorneys-in-fact.</font></td></tr><tr style="height:10pt"><td colspan="9" style="padding:0 1pt"></td></tr><tr><td colspan="9" style="padding:2px 1pt;text-align:justify;vertical-align:top"><font style="color:#000000;font-family:'Arial',sans-serif;font-size:11pt;font-weight:400;line-height:120%">IN WITNESS WHEREOF, the undersigned has caused this Power of Attorney to be executed as of this 9th day of June, 2021.</font></td></tr><tr style="height:10pt"><td colspan="9" style="padding:0 1pt"></td></tr><tr style="height:10pt"><td colspan="9" style="padding:0 1pt"></td></tr><tr><td colspan="6" style="padding:0 1pt"></td><td colspan="3" style="padding:2px 1pt;text-align:center;vertical-align:top"><font style="color:#000000;font-family:'Arial',sans-serif;font-size:10pt;font-weight:400;line-height:120%">&#47;s&#47; Robert Coffey</font></td></tr><tr><td colspan="6" style="padding:0 1pt"></td><td colspan="3" style="border-top:1pt solid #000000;padding:2px 1pt;text-align:center;vertical-align:top"><font style="color:#000000;font-family:'Arial',sans-serif;font-size:11pt;font-weight:400;line-height:120%">Signature</font></td></tr><tr style="height:14pt"><td colspan="6" style="padding:0 1pt"></td><td colspan="3" style="padding:0 1pt"></td></tr><tr><td colspan="6" style="padding:0 1pt"></td><td colspan="3" style="padding:2px 1pt;text-align:center;vertical-align:top"><font style="color:#000000;font-family:'Arial',sans-serif;font-size:10pt;font-weight:400;line-height:120%">ROBERT COFFEY</font></td></tr><tr><td colspan="6" style="padding:0 1pt"></td><td colspan="3" style="border-top:1pt solid #000000;padding:2px 1pt;text-align:center;vertical-align:top"><font style="color:#000000;font-family:'Arial',sans-serif;font-size:10pt;font-weight:400;line-height:120%">Print Name</font></td></tr></table></div><div style="height:18pt;position:relative;width:100%"><div style="bottom:0;position:absolute;width:100%"><div><font><br></font></div></div></div></body></html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

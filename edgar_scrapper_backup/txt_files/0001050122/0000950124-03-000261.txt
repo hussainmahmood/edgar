@@ -1,0 +1,3384 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ V3Paj0o4dFbSQvZwWdE/kdCSlVi2GJQnhCi1sTvay8O/d0zCbwIh3z8MEkRh8dBq
+ gNxAaaufyjURga67f00pxw==
+
+<SEC-DOCUMENT>0000950124-03-000261.txt : 20030210
+<SEC-HEADER>0000950124-03-000261.hdr.sgml : 20030210
+<ACCEPTANCE-DATETIME>20030210151435
+ACCESSION NUMBER:		0000950124-03-000261
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		5
+FILED AS OF DATE:		20030210
+GROUP MEMBERS:		CAMELOT VENTURES, L.L.C.
+GROUP MEMBERS:		CAMELOT VENTURES/CJ, L.L.C.
+GROUP MEMBERS:		DANIEL GILBERT
+GROUP MEMBERS:		LENS EXPRESS LLC
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			1 800 CONTACTS INC
+		CENTRAL INDEX KEY:			0001050122
+		STANDARD INDUSTRIAL CLASSIFICATION:	OPTICAL INSTRUMENTS & LENSES [3827]
+		IRS NUMBER:				870571643
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-54695
+		FILM NUMBER:		03547103
+
+	BUSINESS ADDRESS:	
+		STREET 1:		13751 S WADSWORTH PARK DR SUITE D-140
+		CITY:			DRAPER
+		STATE:			UT
+		ZIP:			84020
+		BUSINESS PHONE:		8015728225
+
+	MAIL ADDRESS:	
+		STREET 1:		13751 S WADSWORTH PARK DR SUITE D-140
+		CITY:			DRAPER
+		STATE:			UT
+		ZIP:			84020
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KATZMAN DAVID B
+		CENTRAL INDEX KEY:			0001216061
+		IRS NUMBER:				270035575
+		STATE OF INCORPORATION:			MI
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 GALLERIA OFFICECENTRE, SUITE 419
+		CITY:			SOUTHFIELD
+		STATE:			MI
+		ZIP:			48034
+		BUSINESS PHONE:		2488277799
+
+	MAIL ADDRESS:	
+		STREET 1:		100 GALLERIA OFFICECENTRE, SUITE 419
+		CITY:			SOUTHFIELD
+		STATE:			MI
+		ZIP:			48034
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<FILENAME>k74613sc13d.htm
+<DESCRIPTION>SCHEDULE 13D
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>sc13d</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<TABLE align="right" width="160" border="1" cellspacing="0" cellpadding="1">
+<TR><TD align="center" nowrap><FONT size="2">OMB APPROVAL</FONT></TD></TR>
+<TR><TD nowrap><FONT size="2">OMB Number: 3235-0145</FONT></TD></TR>
+<TR><TD nowrap><FONT size="2">Expires: December 31, 2005</FONT></TD></TR>
+<TR><TD nowrap><FONT size="2">Estimated average burden<BR>
+hours per response...11</FONT></TD></TR></TABLE>
+
+<BR clear="right">
+<BR clear="right">
+
+<P align="center"><FONT size="4">UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION</FONT><BR>
+<FONT size="3">Washington, D.C. 20549</FONT>
+
+<P align="center"><FONT size="5">SCHEDULE 13D</FONT>
+
+<P align="center"><FONT size="2">Under the Securities Exchange Act of 1934<BR>
+(Amendment No. )*</FONT>
+
+<P align="center"><FONT size="2">1-800 CONTACTS, INC.</FONT><BR>
+<HR size="1" noshade>
+<CENTER><FONT size="2">(Name of Issuer)</FONT></CENTER>
+
+<P align="center"><FONT size="2">Common Stock, par value $0.01 per
+share</FONT><BR>
+<HR size="1" noshade>
+<CENTER><FONT size="2">(Title of Class of Securities)</FONT></CENTER>
+
+<P align="center"><FONT size="2">681977104</FONT><BR>
+<HR size="1" noshade>
+<CENTER><FONT size="2">(Cusip Number)</FONT></CENTER>
+
+<P> <CENTER> <P align="center"><FONT size="2">David Katzman</FONT><BR>
+<FONT size="2">c/o Camelot Ventures, L.L.C.</FONT><BR>
+<FONT size="2">100 Galleria Officentre, Suite 419</FONT><BR>
+<FONT size="2">Southfield, Michigan 48034</FONT><BR>
+<FONT size="2">(248) 827-3397</FONT><BR>
+<HR size="1" noshade>
+<CENTER><FONT size="2">(Name, Address and Telephone Number of
+Person<BR>Authorized to Receive Notices and Communications)</FONT></CENTER>
+</CENTER>
+<P align="center"><FONT size="2">January 30, 2003</FONT><BR>
+<HR size="1" noshade>
+<CENTER><FONT size="2">(Date of Event Which Requires Filing of this
+Statement)</FONT></CENTER>
+<P>
+<FONT size="2">If the filing person has previously filed a statement on Schedule
+13G to report the acquisition that is the subject of this Schedule 13D, and is
+filing this schedule because of &#167;&#167;240.13d-1(e), 240.13d-1(f) or 240.13d-1(g),
+check the following box.</FONT> <FONT face="wingdings">&#111;</FONT>
+<P>
+<P><FONT size="2">Note: Schedules filed in paper format shall include a signed
+original and five copies of the schedule, including all exhibits. See &#167;240.13d-7
+for other parties to whom copies are to be sent.</FONT>
+<P>
+<P><FONT size="2"><SUP>*</SUP></FONT><FONT size="2"> The remainder of this cover
+page shall be filled out for a reporting person&#146;s initial filing on this form
+with respect to the subject class of securities, and for any subsequent
+amendment containing information which would alter disclosures provided in a
+prior cover page.</FONT>
+<P>
+<P><FONT size="2">The information required on the remainder of this cover page
+shall not be deemed to be "filed" for the purpose of Section 18 of the
+Securities Exchange Act of 1934 ("Act") or otherwise subject to the liabilities
+of that section of the Act but shall be subject to all other provisions of the
+Act (however, see the Notes).</FONT>
+
+<P align="center"><FONT size="2">&nbsp;</FONT>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="4">
+<TR>
+<TD width="4%"><FONT size="2">&nbsp;</FONT></TD>
+<TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+<TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+<TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+<TD width="28%"><FONT size="2">&nbsp;</FONT></TD>
+<TD width="14%"><FONT size="2">&nbsp;</FONT></TD>
+<TD width="45%"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+<TD colspan="7"><FONT size="2">CUSIP No. 681977104</FONT> </TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">1.</FONT></TD>
+<TD valign=top colspan=3><FONT size="2">Name of Reporting Person:<BR>David
+Katzman</FONT></TD>
+<TD valign=top colspan=2><FONT size="2">I.R.S. Identification Nos. of above
+persons (entities only):<BR>
+</FONT></TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">2.</FONT></TD>
+<TD valign=top colspan=5><FONT size="2">Check the Appropriate Box if a Member of
+a Group (See Instructions):</FONT></TD>
+</TR>
+
+<TR>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">(a)</FONT></TD>
+<TD valign=top><FONT face="wingdings">&#111;</FONT></TD>
+<TD valign=top colspan=3><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">(b)</FONT></TD>
+<TD valign=top><FONT face="wingdings">&#120;</FONT></TD>
+<TD valign=top colspan=3><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">3.</FONT></TD>
+<TD valign=top colspan=5><FONT size="2">SEC Use Only:</FONT></TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">4.</FONT></TD>
+<TD valign=top colspan=5><FONT size="2">Source of Funds (See
+Instructions):<BR>AF, WC, OO</FONT></TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+
+<TR>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">5.</FONT></TD>
+<TD valign=top colspan=5><FONT size="2">Check if Disclosure of Legal Proceedings
+Is Required Pursuant to Items 2(d) or 2(e): <FONT face="wingdings">&#111;</FONT>
+</FONT></TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">6.</FONT></TD>
+<TD valign=top colspan=5><FONT size="2">Citizenship or Place of
+Organization:<BR>United States of America</FONT></TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR><TD colspan="3" rowspan="8" align="center"><FONT size="2">Number
+of<BR>Shares<BR>Beneficially<BR>Owned by<BR> Each Reporting<BR>Person
+With</FONT></TD></TR>
+
+<TR><TD valign=top><FONT size="2">7.</FONT></TD>
+<TD valign=top colspan=3><FONT size="2">Sole Voting Power:<BR>0</FONT></TD></TR>
+
+<TR><TD colspan=4><hr noshade></TD></TR>
+
+<TR><TD valign=top><FONT size="2">8.</FONT></TD><TD valign=top colspan=3> <FONT
+size="2">Shared Voting Power:<BR>1,455,700</FONT></TD></TR>
+
+<TR><TD colspan=4><hr noshade></TD></TR>
+
+<TR><TD valign=top><FONT size="2">9.</FONT></TD><TD valign=top colspan=3> <FONT
+size="2">Sole Dispositive Power:<BR>0</FONT></TD></TR>
+
+<TR><TD colspan=4><hr noshade></TD></TR>
+
+<TR><TD valign=top><FONT size="2">10.</FONT></TD><TD valign=top colspan=3><FONT
+size="2">Shared Dispositive Power:<BR>1,455,700</FONT></TD></TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+
+<TR><TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">11.</FONT></TD><TD valign=top colspan=5><FONT
+size="2">Aggregate Amount Beneficially Owned by Each Reporting Person:
+<BR>1,455,700</FONT></TD>
+</TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+
+<TR><TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">12.</FONT></TD><TD valign=top colspan=5><FONT
+size="2">Check if the Aggregate Amount in Row (11) Excludes Certain Shares (See
+Instructions):<BR> <FONT face="wingdings">&#111;</FONT> </FONT></TD>
+</TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+
+<TR><TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">13.</FONT></TD><TD valign=top colspan=5><FONT
+size="2">Percent of Class Represented by Amount in Row
+(11):<BR>10.6%</FONT></TD></TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+
+<TR><TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">14.</FONT></TD><TD valign=top colspan=5><FONT
+size="2">Type of Reporting Person (See Instructions):<BR>IN</FONT></TD></TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+</TABLE>
+
+<P align="center"><FONT size="2">Page 2</FONT>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="4">
+<TR>
+<TD width="4%"><FONT size="2">&nbsp;</FONT></TD>
+<TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+<TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+<TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+<TD width="28%"><FONT size="2">&nbsp;</FONT></TD>
+<TD width="14%"><FONT size="2">&nbsp;</FONT></TD>
+<TD width="45%"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+<TD colspan="7"><FONT size="2">CUSIP No. 681977104</FONT> </TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">1.</FONT></TD>
+<TD valign=top colspan=3><FONT size="2">Name of Reporting Person:<BR>Daniel
+Gilbert</FONT></TD>
+<TD valign=top colspan=2><FONT size="2">I.R.S. Identification Nos. of above
+persons (entities only):<BR>
+</FONT></TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">2.</FONT></TD>
+<TD valign=top colspan=5><FONT size="2">Check the Appropriate Box if a Member of
+a Group (See Instructions):</FONT></TD>
+</TR>
+
+<TR>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">(a)</FONT></TD>
+<TD valign=top><FONT face="wingdings">&#111;</FONT></TD>
+<TD valign=top colspan=3><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">(b)</FONT></TD>
+<TD valign=top><FONT face="wingdings">&#120;</FONT></TD>
+<TD valign=top colspan=3><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">3.</FONT></TD>
+<TD valign=top colspan=5><FONT size="2">SEC Use Only:</FONT></TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">4.</FONT></TD>
+<TD valign=top colspan=5><FONT size="2">Source of Funds (See
+Instructions):<BR>AF, WC, OO</FONT></TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+
+<TR>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">5.</FONT></TD>
+<TD valign=top colspan=5><FONT size="2">Check if Disclosure of Legal Proceedings
+Is Required Pursuant to Items 2(d) or 2(e): <FONT face="wingdings">&#111;</FONT>
+</FONT></TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">6.</FONT></TD>
+<TD valign=top colspan=5><FONT size="2">Citizenship or Place of
+Organization:<BR>United States of America</FONT></TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR><TD colspan="3" rowspan="8" align="center"><FONT size="2">Number
+of<BR>Shares<BR>Beneficially<BR>Owned by<BR> Each Reporting<BR>Person
+With</FONT></TD></TR>
+
+<TR><TD valign=top><FONT size="2">7.</FONT></TD>
+<TD valign=top colspan=3><FONT size="2">Sole Voting Power:<BR>0</FONT></TD></TR>
+
+<TR><TD colspan=4><hr noshade></TD></TR>
+
+<TR><TD valign=top><FONT size="2">8.</FONT></TD><TD valign=top colspan=3> <FONT
+size="2">Shared Voting Power:<BR>1,455,700</FONT></TD></TR>
+
+<TR><TD colspan=4><hr noshade></TD></TR>
+
+<TR><TD valign=top><FONT size="2">9.</FONT></TD><TD valign=top colspan=3> <FONT
+size="2">Sole Dispositive Power:<BR>0</FONT></TD></TR>
+
+<TR><TD colspan=4><hr noshade></TD></TR>
+
+<TR><TD valign=top><FONT size="2">10.</FONT></TD><TD valign=top colspan=3><FONT
+size="2">Shared Dispositive Power:<BR>1,455,700</FONT></TD></TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+
+<TR><TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">11.</FONT></TD><TD valign=top colspan=5><FONT
+size="2">Aggregate Amount Beneficially Owned by Each Reporting Person:
+<BR>1,455,700</FONT></TD>
+</TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+
+<TR><TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">12.</FONT></TD><TD valign=top colspan=5><FONT
+size="2">Check if the Aggregate Amount in Row (11) Excludes Certain Shares (See
+Instructions):<BR> <FONT face="wingdings">&#111;</FONT> </FONT></TD>
+</TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+
+<TR><TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">13.</FONT></TD><TD valign=top colspan=5><FONT
+size="2">Percent of Class Represented by Amount in Row
+(11):<BR>10.6%</FONT></TD></TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+
+<TR><TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">14.</FONT></TD><TD valign=top colspan=5><FONT
+size="2">Type of Reporting Person (See Instructions):<BR>IN</FONT></TD></TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+</TABLE>
+
+<P align="center"><FONT size="2">Page 3</FONT>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="4">
+<TR>
+<TD width="4%"><FONT size="2">&nbsp;</FONT></TD>
+<TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+<TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+<TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+<TD width="28%"><FONT size="2">&nbsp;</FONT></TD>
+<TD width="14%"><FONT size="2">&nbsp;</FONT></TD>
+<TD width="45%"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+<TD colspan="7"><FONT size="2">CUSIP No. 681977104</FONT> </TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">1.</FONT></TD>
+<TD valign=top colspan=3><FONT size="2">Name of Reporting Person:<BR>Camelot
+Ventures/CJ, L.L.C.</FONT></TD>
+<TD valign=top colspan=2><FONT size="2">I.R.S. Identification Nos. of above
+persons (entities only):<BR>
+</FONT></TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">2.</FONT></TD>
+<TD valign=top colspan=5><FONT size="2">Check the Appropriate Box if a Member of
+a Group (See Instructions):</FONT></TD>
+</TR>
+
+<TR>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">(a)</FONT></TD>
+<TD valign=top><FONT face="wingdings">&#111;</FONT></TD>
+<TD valign=top colspan=3><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">(b)</FONT></TD>
+<TD valign=top><FONT face="wingdings">&#120;</FONT></TD>
+<TD valign=top colspan=3><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">3.</FONT></TD>
+<TD valign=top colspan=5><FONT size="2">SEC Use Only:</FONT></TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">4.</FONT></TD>
+<TD valign=top colspan=5><FONT size="2">Source of Funds (See
+Instructions):<BR>AF, WC, OO</FONT></TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+
+<TR>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">5.</FONT></TD>
+<TD valign=top colspan=5><FONT size="2">Check if Disclosure of Legal Proceedings
+Is Required Pursuant to Items 2(d) or 2(e): <FONT face="wingdings">&#111;</FONT>
+</FONT></TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">6.</FONT></TD>
+<TD valign=top colspan=5><FONT size="2">Citizenship or Place of
+Organization:<BR>State of Michigan</FONT></TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR><TD colspan="3" rowspan="8" align="center"><FONT size="2">Number
+of<BR>Shares<BR>Beneficially<BR>Owned by<BR> Each Reporting<BR>Person
+With</FONT></TD></TR>
+
+<TR><TD valign=top><FONT size="2">7.</FONT></TD>
+<TD valign=top colspan=3><FONT size="2">Sole Voting
+Power:<BR>725,000</FONT></TD></TR>
+
+<TR><TD colspan=4><hr noshade></TD></TR>
+
+<TR><TD valign=top><FONT size="2">8.</FONT></TD><TD valign=top colspan=3> <FONT
+size="2">Shared Voting Power:<BR>730,700</FONT></TD></TR>
+
+<TR><TD colspan=4><hr noshade></TD></TR>
+
+<TR><TD valign=top><FONT size="2">9.</FONT></TD><TD valign=top colspan=3> <FONT
+size="2">Sole Dispositive Power:<BR>725,000</FONT></TD></TR>
+
+<TR><TD colspan=4><hr noshade></TD></TR>
+
+<TR><TD valign=top><FONT size="2">10.</FONT></TD><TD valign=top colspan=3><FONT
+size="2">Shared Dispositive Power:<BR>730,700</FONT></TD></TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+
+<TR><TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">11.</FONT></TD><TD valign=top colspan=5><FONT
+size="2">Aggregate Amount Beneficially Owned by Each Reporting Person:
+<BR>1,455,700</FONT></TD>
+</TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+
+<TR><TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">12.</FONT></TD><TD valign=top colspan=5><FONT
+size="2">Check if the Aggregate Amount in Row (11) Excludes Certain Shares (See
+Instructions):<BR> <FONT face="wingdings">&#111;</FONT> </FONT></TD>
+</TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+
+<TR><TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">13.</FONT></TD><TD valign=top colspan=5><FONT
+size="2">Percent of Class Represented by Amount in Row
+(11):<BR>10.6%</FONT></TD></TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+
+<TR><TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">14.</FONT></TD><TD valign=top colspan=5><FONT
+size="2">Type of Reporting Person (See Instructions):<BR>OO</FONT></TD></TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+</TABLE>
+
+<P align="center"><FONT size="2">Page 4</FONT>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="4">
+<TR>
+<TD width="4%"><FONT size="2">&nbsp;</FONT></TD>
+<TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+<TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+<TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+<TD width="28%"><FONT size="2">&nbsp;</FONT></TD>
+<TD width="14%"><FONT size="2">&nbsp;</FONT></TD>
+<TD width="45%"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+<TD colspan="7"><FONT size="2">CUSIP No. 681977104</FONT> </TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">1.</FONT></TD>
+<TD valign=top colspan=3><FONT size="2">Name of Reporting Person:<BR>Camelot
+Ventures, L.L.C.</FONT></TD>
+<TD valign=top colspan=2><FONT size="2">I.R.S. Identification Nos. of above
+persons (entities only):<BR>
+</FONT></TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">2.</FONT></TD>
+<TD valign=top colspan=5><FONT size="2">Check the Appropriate Box if a Member of
+a Group (See Instructions):</FONT></TD>
+</TR>
+
+<TR>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">(a)</FONT></TD>
+<TD valign=top><FONT face="wingdings">&#111;</FONT></TD>
+<TD valign=top colspan=3><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">(b)</FONT></TD>
+<TD valign=top><FONT face="wingdings">&#120;</FONT></TD>
+<TD valign=top colspan=3><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">3.</FONT></TD>
+<TD valign=top colspan=5><FONT size="2">SEC Use Only:</FONT></TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">4.</FONT></TD>
+<TD valign=top colspan=5><FONT size="2">Source of Funds (See
+Instructions):<BR>AF, WC, OO</FONT></TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+
+<TR>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">5.</FONT></TD>
+<TD valign=top colspan=5><FONT size="2">Check if Disclosure of Legal Proceedings
+Is Required Pursuant to Items 2(d) or 2(e): <FONT face="wingdings">&#111;</FONT>
+</FONT></TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">6.</FONT></TD>
+<TD valign=top colspan=5><FONT size="2">Citizenship or Place of
+Organization:<BR>State of Michigan</FONT></TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR><TD colspan="3" rowspan="8" align="center"><FONT size="2">Number
+of<BR>Shares<BR>Beneficially<BR>Owned by<BR> Each Reporting<BR>Person
+With</FONT></TD></TR>
+
+<TR><TD valign=top><FONT size="2">7.</FONT></TD>
+<TD valign=top colspan=3><FONT size="2">Sole Voting
+Power:<BR>555,700</FONT></TD></TR>
+
+<TR><TD colspan=4><hr noshade></TD></TR>
+
+<TR><TD valign=top><FONT size="2">8.</FONT></TD><TD valign=top colspan=3> <FONT
+size="2">Shared Voting Power:<BR>900,000</FONT></TD></TR>
+
+<TR><TD colspan=4><hr noshade></TD></TR>
+
+<TR><TD valign=top><FONT size="2">9.</FONT></TD><TD valign=top colspan=3> <FONT
+size="2">Sole Dispositive Power:<BR>555,700</FONT></TD></TR>
+
+<TR><TD colspan=4><hr noshade></TD></TR>
+
+<TR><TD valign=top><FONT size="2">10.</FONT></TD><TD valign=top colspan=3><FONT
+size="2">Shared Dispositive Power:<BR>900,000</FONT></TD></TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+
+<TR><TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">11.</FONT></TD><TD valign=top colspan=5><FONT
+size="2">Aggregate Amount Beneficially Owned by Each Reporting Person:
+<BR>1,455,700</FONT></TD>
+</TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+
+<TR><TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">12.</FONT></TD><TD valign=top colspan=5><FONT
+size="2">Check if the Aggregate Amount in Row (11) Excludes Certain Shares (See
+Instructions):<BR> <FONT face="wingdings">&#111;</FONT> </FONT></TD>
+</TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+
+<TR><TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">13.</FONT></TD><TD valign=top colspan=5><FONT
+size="2">Percent of Class Represented by Amount in Row
+(11):<BR>10.6%</FONT></TD></TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+
+<TR><TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">14.</FONT></TD><TD valign=top colspan=5><FONT
+size="2">Type of Reporting Person (See Instructions):<BR>OO</FONT></TD></TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+</TABLE>
+
+<P align="center"><FONT size="2">Page 5</FONT>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="4">
+<TR>
+<TD width="4%"><FONT size="2">&nbsp;</FONT></TD>
+<TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+<TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+<TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+<TD width="28%"><FONT size="2">&nbsp;</FONT></TD>
+<TD width="14%"><FONT size="2">&nbsp;</FONT></TD>
+<TD width="45%"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+<TD colspan="7"><FONT size="2">CUSIP No. 681977104</FONT> </TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">1.</FONT></TD>
+<TD valign=top colspan=3><FONT size="2">Name of Reporting Person:<BR>Lens
+Express LLC</FONT></TD>
+<TD valign=top colspan=2><FONT size="2">I.R.S. Identification Nos. of above
+persons (entities only):<BR>
+</FONT></TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">2.</FONT></TD>
+<TD valign=top colspan=5><FONT size="2">Check the Appropriate Box if a Member of
+a Group (See Instructions):</FONT></TD>
+</TR>
+
+<TR>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">(a)</FONT></TD>
+<TD valign=top><FONT face="wingdings">&#111;</FONT></TD>
+<TD valign=top colspan=3><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">(b)</FONT></TD>
+<TD valign=top><FONT face="wingdings">&#120;</FONT></TD>
+<TD valign=top colspan=3><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">3.</FONT></TD>
+<TD valign=top colspan=5><FONT size="2">SEC Use Only:</FONT></TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">4.</FONT></TD>
+<TD valign=top colspan=5><FONT size="2">Source of Funds (See
+Instructions):<BR>AF, WC, OO</FONT></TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+
+<TR>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">5.</FONT></TD>
+<TD valign=top colspan=5><FONT size="2">Check if Disclosure of Legal Proceedings
+Is Required Pursuant to Items 2(d) or 2(e): <FONT face="wingdings">&#111;</FONT>
+</FONT></TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">6.</FONT></TD>
+<TD valign=top colspan=5><FONT size="2">Citizenship or Place of
+Organization:<BR>State of Michigan</FONT></TD>
+</TR>
+
+<TR><TD colspan=7><HR noshade></TD></TR>
+
+<TR><TD colspan="3" rowspan="8" align="center"><FONT size="2">Number
+of<BR>Shares<BR>Beneficially<BR>Owned by<BR> Each Reporting<BR>Person
+With</FONT></TD></TR>
+
+<TR><TD valign=top><FONT size="2">7.</FONT></TD>
+<TD valign=top colspan=3><FONT size="2">Sole Voting
+Power:<BR>175,000</FONT></TD></TR>
+
+<TR><TD colspan=4><hr noshade></TD></TR>
+
+<TR><TD valign=top><FONT size="2">8.</FONT></TD><TD valign=top colspan=3> <FONT
+size="2">Shared Voting Power:<BR>1,280,700</FONT></TD></TR>
+
+<TR><TD colspan=4><hr noshade></TD></TR>
+
+<TR><TD valign=top><FONT size="2">9.</FONT></TD><TD valign=top colspan=3> <FONT
+size="2">Sole Dispositive Power:<BR>175,000</FONT></TD></TR>
+
+<TR><TD colspan=4><hr noshade></TD></TR>
+
+<TR><TD valign=top><FONT size="2">10.</FONT></TD><TD valign=top colspan=3><FONT
+size="2">Shared Dispositive Power:<BR>1,280,700</FONT></TD></TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+
+<TR><TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">11.</FONT></TD><TD valign=top colspan=5><FONT
+size="2">Aggregate Amount Beneficially Owned by Each Reporting Person:
+<BR>1,455,700</FONT></TD>
+</TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+
+<TR><TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">12.</FONT></TD><TD valign=top colspan=5><FONT
+size="2">Check if the Aggregate Amount in Row (11) Excludes Certain Shares (See
+Instructions):<BR> <FONT face="wingdings">&#111;</FONT> </FONT></TD>
+</TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+
+<TR><TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">13.</FONT></TD><TD valign=top colspan=5><FONT
+size="2">Percent of Class Represented by Amount in Row
+(11):<BR>10.6%</FONT></TD></TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+
+<TR><TD><FONT size="2">&nbsp;</FONT></TD>
+<TD valign=top><FONT size="2">14.</FONT></TD><TD valign=top colspan=5><FONT
+size="2">Type of Reporting Person (See Instructions):<BR>OO</FONT></TD></TR>
+
+<TR><TD colspan=7><hr noshade></TD></TR>
+</TABLE>
+
+<P align="center"><FONT size="2">Page 6</FONT>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<P align="left"><FONT size="2"><B>Item&nbsp;1. Security and Issuer.</B>
+</FONT>
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The title of the class of equity securities to which this statement
+relates is Common Stock, par value $0.01 per share (&#147;Common Stock&#148;), of 1-800
+CONTACTS, INC., a Delaware corporation (&#147;1-800 Contacts&#148;). The address of
+1-800 Contacts&#146; principal executive offices is 66 E. Wadsworth Park Drive, 3rd
+Floor, Draper, Utah 84020.
+
+</FONT>
+
+
+<P align="left"><FONT size="2"><B>Item&nbsp;2. Identity and Background.</B>
+</FONT>
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This statement is being filed by David Katzman, Daniel Gilbert, Camelot
+Ventures/CJ, L.L.C., a manager-managed Michigan limited liability company d/b/a
+Lens 1st (&#147;Lens 1st&#148;), Camelot Ventures, L.L.C., a manager-managed Michigan
+limited liability company (&#147;Camelot&#148;), and Lens Express LLC, a manager-managed
+Michigan limited liability company (&#147;Lens Express&#148;), who are collectively
+referred to in this Schedule as the &#147;Reporting Persons&#148; and individually as a
+&#147;Reporting Person&#148;. David Katzman and Daniel Gilbert are the managers of Lens
+1st, Camelot and Lens Express. Each of David Katzman&#146;s and Daniel Gilbert&#146;s
+present principal occupation or employment is private investor. Lens 1st&#146;s and
+Lens Express&#146; principal business was supplying contact lenses, solutions,
+accessories and other vision care products directly to consumers and retailers,
+until that business was sold to 1-800 Contacts on January&nbsp;30, 2003. Currently,
+Lens 1st and Lens Express primarily hold for liquidation the assets and
+liabilities of their businesses not transferred to 1-800 Contacts and the
+proceeds of such sale. Camelot&#146;s principal business is being a private venture
+capital firm. David Katzman&#146;s, Lens 1st&#146;s, Camelot&#146;s and Lens Express&#146;
+principal business address is 100 Galleria Officentre, Suite&nbsp;419, Southfield,
+Michigan 48034. Daniel Gilbert&#146;s principal business address is 20555 Victor
+Parkway, Livonia, Michigan 48152.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;None of the Reporting Persons has, during the last five years, been
+convicted in a criminal proceeding (excluding traffic violations or similar
+misdemeanors). None of the Reporting Persons has, during the last five years,
+been a party to a civil proceeding of a judicial or administrative body of
+competent jurisdiction and as a result of such proceeding was or is subject to
+a judgment, decree or final order enjoining future violations of, or
+prohibiting or mandating activities subject to, federal or state securities
+laws or finding any violation with respect to such laws.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;David Katzman and Daniel Gilbert are citizens of the United States of
+America.
+
+</FONT>
+
+
+<P align="left"><FONT size="2"><B>Item&nbsp;3. Source and Amount of Funds or Other Consideration.</B>
+</FONT>
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to an Asset Purchase Agreement, dated as of January&nbsp;30, 2003,
+among 1-800 Contacts, Lens 1st, Lens Express, David Katzman and Daniel Gilbert
+(the &#147;Asset Purchase Agreement&#148;), 1-800 Contacts purchased from Lens 1st and
+Lens Express specified assets in exchange for the assumption of specified
+liabilities, the payment of cash and the issuance of 900,000 unregistered
+shares of Common Stock. At the closing of the Asset Purchase Agreement on
+January&nbsp;30, 2003, Lens 1st acquired 725,000 shares of Common Stock and Lens
+Express acquired 175,000 shares of Common Stock pursuant to the Asset Purchase
+Agreement. The closing sale price of the Common Stock on January&nbsp;30, 2003 was
+$20.92. At that time and for
+
+</FONT>
+
+
+<P align="center"><FONT size="2">Page 7</FONT>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<P><FONT size="2">more than 60&nbsp;days before the Reporting Persons became the beneficial owners of
+more than five percent of the outstanding Common Stock, Camelot owned 555,700
+shares of Common Stock that it had acquired in the open market for an aggregate
+of $6,602,174, using its working capital to fund the purchases.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Each of Camelot, Lens 1st and Lens Express had loans relating to its
+business from a commercial bank, and Lens 1st and Lens Express acquired their
+Common Stock as part of the purchase price for the assets they sold to 1-800
+Contacts. Lens 1st&#146;s remaining $3,000,000 revolving line of credit, however,
+is secured by the 725,000 shares of Common Stock it owns and the 175,000 shares
+of Common Stock owned by Lens Express.
+
+</FONT>
+
+
+<P align="left"><FONT size="2"><B>Item&nbsp;4. Purpose of Transaction.</B>
+</FONT>
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lens 1st and Lens Express acquired their shares of Common Stock as part of
+the purchase price for their assets sold to 1-800 Contacts pursuant to the
+Asset Purchase Agreement, as described in Item&nbsp;3. Camelot acquired the shares
+of Common Stock beneficially owned by it for investment purposes.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In connection with the Asset Purchase Agreement, 1-800 Contacts, Jonathan
+Coon, Stephen A. Yacktman, Jason Subotky and John F. Nichols (the &#147;Principal
+Stockholders&#148;), Lens 1st, Lens Express and David Katzman entered into a Voting
+Agreement, dated as of January&nbsp;30, 2003 (the &#147;Voting Agreement&#148;). Pursuant to
+the Voting Agreement, the size of 1-800 Contacts&#146; Board of Directors was
+increased, and David Katzman was elected as a Class&nbsp;II Director of 1-800
+Contacts on January&nbsp;31, 2003. In addition, 1-800 Contacts has agreed to
+nominate and recommend David Katzman for election as a Class&nbsp;II Director at the
+2003 Annual Meeting of Stockholders of 1-800 Contacts for a term expiring at
+the 2006 Annual Meeting of Stockholders, and the Principal Stockholders, Lens
+1st and Lens Express have agreed to vote for his election, subject to the terms
+and conditions of the Voting Agreement. The Reporting Persons disclaim
+beneficial ownership of the Common Stock owned by the Principal Stockholders.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Also in connection with the Asset Purchase Agreement, 1-800 Contacts, Lens
+1st, Lens Express, David Katzman and Daniel Gilbert entered into a Lock-Up
+Agreement, dated as of January&nbsp;30, 2003 (the &#147;Lock-Up Agreement&#148;). Pursuant to
+the Lock-Up Agreement, Lens 1st, Lens Express, David Katzman and Daniel Gilbert
+(collectively, the &#147;Shareholders&#148;) agreed not to sell or otherwise dispose of,
+directly or indirectly, the 900,000 shares of Common Stock issued pursuant to
+the Asset Purchase Agreement for 12&nbsp;months following January&nbsp;30, 2003, subject
+to various exceptions described in the Lock-Up Agreement that generally either
+(1)&nbsp;do not involve open market transactions without 1-800 Contacts&#146; consent or
+(2)&nbsp;involve business combinations.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Also in connection with the Asset Purchase Agreement, 1-800 Contacts, Lens
+1st and Lens Express entered into a Registration Rights Agreement, dated as of
+January&nbsp;30, 2003 (the &#147;Registration Rights Agreement&#148;). The Registration
+Rights Agreement generally provides Lens 1st, Lens Express and specified
+assignees with piggyback registration rights with respect to 900,000 shares of
+Common Stock.
+
+</FONT>
+
+
+<P align="center"><FONT size="2">Page 8</FONT>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Subject to market conditions, the Lock-Up Agreement, the Registration
+Rights Agreement and other factors that the Reporting Persons may deem material
+to their investment decisions, each of the Reporting Persons may, from time to
+time, acquire additional shares of Common Stock, or rights to purchase shares
+of Common Stock in the open market, in privately negotiated transactions, by
+receipt of director stock options or otherwise, depending upon the price and
+availability of such shares or rights. Each of the Reporting Persons intends
+to review on a continuing basis various factors relating to his or its
+investment in 1-800 Contacts, including 1-800 Contacts&#146; business and prospects,
+the price and availability of 1-800 Contacts&#146; securities, subsequent
+developments affecting 1-800 Contacts, other investment and business
+opportunities available to the Reporting Person, his or its general investment
+and trading policies, market conditions or other factors. Based on these
+factors, each of the Reporting Persons may determine to dispose of some or all
+of his or its Common Stock, periodically, by public or private sale (registered
+or unregistered and with or without the simultaneous sale of newly-issued
+Common Stock by 1-800 Contacts), distribution to members of Lens 1st, Lens
+Express and/or Camelot, gift, pledge, expiration of options or otherwise,
+including, without limitation, sales of Common Stock by the Reporting Persons
+pursuant to Rule&nbsp;144 under the Securities Act of 1933, as amended, or
+otherwise, subject to the Lock-Up Agreement and the Registration Rights
+Agreement. Each Reporting Person reserves the right not to acquire Common
+Stock or not to dispose of all or part of such Common Stock if he or it
+determines such acquisition or disposal is not in his or its best interests at
+that time.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Other than as described above, none of the Reporting Persons has any
+current plans or proposals which relate to, or would result in, (a)&nbsp;any
+acquisition or disposition by him or it of securities of 1-800 Contacts, (b)
+any extraordinary corporate transaction, such as a merger, reorganization or
+liquidation, involving 1-800 Contacts or any of its subsidiaries, (c)&nbsp;any sale
+or transfer of a material amount of assets of 1-800 Contacts or any of its
+subsidiaries, (d)&nbsp;any change in the present Board of Directors or management of
+1-800 Contacts, including any plans or proposals to change the number or term
+of directors or to fill any existing vacancies on the Board, (e)&nbsp;any material
+change in 1-800 Contacts&#146; present capitalization or dividend policy, (f)&nbsp;any
+other material change in 1-800 Contacts&#146; business or corporate structure, (g)
+any changes in 1-800 Contacts&#146; Certificate of Incorporation or Bylaws or other
+actions which may impede the acquisition of control of 1-800 Contacts by any
+person, (h)&nbsp;causing a class of securities of 1-800 Contacts to be delisted from
+a national securities exchange or to cease to be authorized to be quoted in an
+inter-dealer quotation system of a registered national securities association,
+(i)&nbsp;a class of 1-800 Contacts&#146; equity securities becoming eligible for
+termination of registration pursuant to Section&nbsp;12(g)(4) of the Securities
+Exchange Act of 1934, as amended, or (j)&nbsp;any action similar to those enumerated
+above.
+
+</FONT>
+
+
+<P align="left"><FONT size="2"><B>Item&nbsp;5. Interest in Securities of the Issuer.</B>
+</FONT>
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp; The number and percentage of shares of Common Stock beneficially owned
+by the Reporting Persons as of February&nbsp;7, 2003 are as follows:
+
+</FONT>
+
+
+<P align="center"><FONT size="2">Page 9</FONT>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<CENTER>
+<TABLE cellspacing="0" border="0" cellpadding="0" width="55%">
+<TR valign="bottom">
+    <TD width="44%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="12%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="13%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="6%">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD nowrap align="center" colspan="2"><FONT size="1"><B>Number</B></FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD nowrap align="center" colspan="2"><FONT size="1"><B>Percent*</B></FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+</TR>
+<TR valign="bottom">
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD colspan="2"><HR size="1" noshade></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD colspan="2"><HR size="1" noshade></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+</TR>
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">Lens 1st</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">1,455,700</FONT></TD>
+    <TD align="center"><FONT size="2">**</FONT></TD>
+
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD nowrap align="left"><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">10.6</FONT></TD>
+    <TD nowrap><FONT size="2">%</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">Camelot</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">1,455,700</FONT></TD>
+    <TD align="center"><FONT size="2">**</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD nowrap align="left"><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">10.6</FONT></TD>
+    <TD nowrap><FONT size="2">%</FONT></TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">Lens Express</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">1,455,700</FONT></TD>
+    <TD align="center"><FONT size="2">**</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD nowrap align="left"><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">10.6</FONT></TD>
+    <TD nowrap><FONT size="2">%</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">David Katzman</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">1,455,700</FONT></TD>
+    <TD align="center"><FONT size="2">**</FONT></TD>
+
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD nowrap align="left"><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">10.6</FONT></TD>
+    <TD nowrap><FONT size="2">%</FONT></TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">Daniel Gilbert</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">1,455,700</FONT></TD>
+    <TD align="center"><FONT size="2">**</FONT></TD>
+
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD nowrap align="left"><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">10.6</FONT></TD>
+    <TD nowrap><FONT size="2">%</FONT></TD>
+</TR>
+</TABLE>
+</CENTER>
+<P><FONT size="2">*Based on the 12,880,341 shares of Common Stock represented as outstanding as
+of December&nbsp;31, 2002 in the Asset Purchase Agreement, plus the 900,000 shares
+of Common Stock issued in pursuant to the Asset Purchase Agreement.
+
+</FONT>
+
+
+<P><FONT size="2">**Includes 725,000 shares of Common Stock acquired by Lens 1st pursuant to the
+Asset Purchase Agreement, 555,700 shares of Common Stock owned by Camelot
+before the closing of the Asset Purchase Agreement and 175,000 shares of Common
+Stock acquired by Lens Express pursuant to the Asset Purchase Agreement. David
+Katzman and Daniel Gilbert are the managers of Lens 1st, Camelot and Lens
+Express, and, therefore, share voting and investment power over the shares of
+Common Stock they hold. Because of the common managers of Lens 1st, Camelot
+and Lens Express, the Reporting Persons might constitute a group, although the
+Reporting Persons disclaim the existence of a group.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)&nbsp; Lens 1st, Camelot and Lens Express have sole voting and investment
+power over the 725,000, 555,700 and 175,000 shares of Common Stock respectively
+owned by them. David Katzman and Daniel Gilbert, as the managers of Lens 1st,
+Camelot and Lens Express, share voting and investment power over the 1,455,700
+shares of Common Stock owned by Lens 1st, Camelot and Lens Express.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)&nbsp; The Reporting Persons have not effected any transactions in shares of
+Common Stock during the sixty days before January&nbsp;30, 2003 or the date of this
+Schedule&nbsp;13D, except for the acquisition of 725,000 shares of Common Stock by
+Lens 1st and 175,000 shares of Common Stock by Lens Express pursuant to the
+Asset Purchase Agreement, as described in Item&nbsp;3.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(d)&nbsp; No other person is known to have the right to receive, or the power to
+direct the receipt of, dividends from, or the proceeds from the sale of, the
+shares of Common Stock beneficially owned by the Reporting Persons.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(e)&nbsp; Not applicable.
+
+</FONT>
+
+
+<P><FONT size="2"><B>Item&nbsp;6. Contracts, Arrangements, Understandings or Relationships with Respect to Securities of the Issuer.</B>
+</FONT>
+
+
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Reporting Persons are parties to the Voting Agreement, the
+Registration Rights Agreement and the Lock-Up Agreement described in Item&nbsp;4
+above.
+
+</FONT>
+
+
+<P align="center"><FONT size="2">Page 10</FONT>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<P align="left"><FONT size="2"><B>Item&nbsp;7. Material to be Filed as Exhibits.</B>
+</FONT>
+
+<CENTER>
+<TABLE cellspacing="0" border="0" cellpadding="0" width="85%">
+<TR valign="bottom">
+    <TD width="9%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="78%">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD nowrap align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="top"><FONT size="2">99.1
+</FONT></TD>
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">Agreement of Joint Filing among the Reporting Persons, dated
+as of February&nbsp;7, 2003.</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD nowrap align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD nowrap align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="top"><FONT size="2">
+99.2
+</FONT></TD>
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">Voting Agreement, dated as of January&nbsp;30, 2003, among 1-800
+Contacts, the Principal Stockholders, Lens 1st, Lens Express and
+David Katzman.</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD nowrap align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD nowrap align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="top"><FONT size="2">
+99.3
+</FONT></TD>
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">Lock-Up Agreement, dated as of January&nbsp;30, 2003, among 1-800
+Contacts, Lens 1st, Lens Express, David Katzman and Daniel Gilbert.</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD nowrap align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD nowrap align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="top"><FONT size="2">
+99.4
+</FONT></TD>
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">Registration Rights Agreement, dated as of January&nbsp;30, 2003,
+among 1-800 Contacts, Lens 1st and Lens Express.</FONT></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+
+<P align="center"><FONT size="2">Page 11</FONT>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<!-- link1 "SIGNATURES" -->
+<P align="center"><FONT size="2"><B>SIGNATURES</B>
+</FONT>
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After reasonable inquiry and to the best of my knowledge and belief, I
+certify that the information set forth in this statement is true, complete and
+correct.
+
+</FONT>
+
+
+<CENTER>
+<TABLE cellspacing="0" border="0" cellpadding="0" width="100%">
+<TR valign="bottom">
+    <TD width="7%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="49%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="26%">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">Dated:</FONT></TD>
+    <TD align="left" colspan="2" valign="top"><FONT size="2">
+February 7, 2003
+</FONT></TD>
+
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" colspan="3" valign="top"><FONT size="2">/s/ DAVID KATZMAN<BR>
+</FONT><HR size="1" noshade><FONT size="2">
+David Katzman</FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">Dated:</FONT></TD>
+    <TD align="left" valign="top" colspan="2"><FONT size="2">
+February 7, 2003
+</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left" valign="top"><FONT size="2">/s/ DANIEL GILBERT<BR>
+</FONT><HR size="1" noshade><FONT size="2">
+Daniel Gilbert</FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">Dated:</FONT></TD>
+    <TD align="left" valign="top" colspan="2"><FONT size="2">
+February 7, 2003
+</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" colspan="3" valign="top"><FONT size="2">CAMELOT VENTURES/CJ, L.L.C.</FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">By:
+</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">/s/ DAVID KATZMAN<BR>
+</FONT><HR size="1" noshade><FONT size="2">
+David Katzman</FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">Its:  President and Manager</FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">Dated:</FONT></TD>
+    <TD align="left" colspan="2" valign="top"><FONT size="2">
+February 7, 2003
+</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top" colspan="3"><FONT size="2">CAMELOT VENTURES, L.L.C.</FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">By:
+</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">/s/ DAVID KATZMAN<BR>
+</FONT><HR size="1" noshade><FONT size="2">
+David Katzman</FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">Its:  President and Manager</FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">Dated:</FONT></TD>
+    <TD align="left" valign="top" colspan="2"><FONT size="2">
+February 7, 2003
+</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" colspan="3" valign="top"><FONT size="2">LENS EXPRESS LLC</FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">By:
+</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">/s/ DAVID KATZMAN<BR>
+</FONT><HR size="1" noshade><FONT size="2">
+David Katzman</FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">Its:  President and Manager</FONT></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+
+<P align="center"><FONT size="2">Page 12</FONT>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<!-- link1 "EXHIBIT INDEX" -->
+<P align="center"><FONT size="2"><B>EXHIBIT INDEX</B>
+</FONT>
+
+<P><FONT size="2">Exhibit&nbsp;Number and Description
+</FONT>
+
+
+
+
+<CENTER>
+<TABLE cellspacing="0" border="0" cellpadding="0" width="75%">
+<TR valign="bottom">
+    <TD width="9%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="86%">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">99.1</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">
+Agreement of Joint Filing among the Reporting Persons, dated as of
+February&nbsp;7, 2003.</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">99.2</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">
+Voting Agreement, dated as of January&nbsp;30, 2003, among 1-800 Contacts, the
+Principal Stockholders, Lens 1st, Lens Express and David Katzman.</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">99.3</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">
+Lock-Up Agreement, dated as of January&nbsp;30, 2003, among 1-800 Contacts,
+Lens 1st, Lens Express, David Katzman and Daniel Gilbert.</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">99.4</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">
+Registration Rights Agreement, dated as of January&nbsp;30, 2003, among 1-800
+Contacts, Lens 1st and Lens Express.</FONT></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+
+<P align="center"><FONT size="2">Page 13</FONT>
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>3
+<FILENAME>k74613exv99w1.htm
+<DESCRIPTION>AGREEMENT OF JOINT FILING
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>exv99w1</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<P align="right"><FONT size="2"><B>EXHIBIT 99.1</B></FONT>
+
+<P align="center"><FONT size="2">AGREEMENT OF JOINT FILING
+</FONT>
+
+
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;David Katzman, Daniel Gilbert, Camelot Ventures/CJ, L.L.C., Camelot
+Ventures, L.L.C. and Lens Express LLC hereby agree that the Schedule&nbsp;13D to
+which this Agreement is attached as an exhibit and any amendment to such
+Schedule&nbsp;13D may be filed on behalf of each such person.
+
+</FONT>
+
+
+<CENTER>
+<TABLE cellspacing="0" border="0" cellpadding="0" width="100%">
+<TR valign="bottom">
+    <TD width="42%">&nbsp;</TD>
+    <TD width="13%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="38%">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">Dated:  February 7, 2003</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left"  colspan="3" valign="top"><FONT size="2">/s/ DAVID KATZMAN<BR>
+</FONT><HR size="1" noshade><FONT size="2">
+David Katzman</FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">Dated:  February 7, 2003</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" colspan="3" valign="top"><FONT size="2">/s/ DANIEL GILBERT<BR>
+</FONT><HR size="1" noshade><FONT size="2">
+Daniel Gilbert</FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">Dated:  February 7, 2003</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" colspan="3" valign="top"><FONT size="2">CAMELOT VENTURES/CJ, L.L.C.</FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+
+    <TD align="left" valign="top"><FONT size="2">By:
+</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+
+    <TD align="left" valign="top"><FONT size="2">/s/ DAVID KATZMAN<BR>
+</FONT><HR size="1" noshade><FONT size="2">
+David Katzman</FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">Its:  President and Manager</FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">Dated:  February 7, 2003</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left" valign="top"><FONT size="2">CAMELOT VENTURES, L.L.C.</FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+
+    <TD align="left" valign="top"><FONT size="2">By:
+</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+
+    <TD align="left" valign="top"><FONT size="2">/s/ DAVID KATZMAN<BR>
+</FONT><HR size="1" noshade><FONT size="2">
+David Katzman</FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">Its:  President and Manager</FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">Dated:  February 7, 2003</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">LENS EXPRESS LLC</FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+
+    <TD align="left" valign="top"><FONT size="2">By:
+</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+
+    <TD align="left" valign="top"><FONT size="2">/s/ DAVID KATZMAN<BR>
+</FONT><HR size="1" noshade><FONT size="2">
+David Katzman</FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">Its:  President and Manager</FONT></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+
+<P align="center"><FONT size="2">&nbsp;</FONT>
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>4
+<FILENAME>k74613exv99w2.htm
+<DESCRIPTION>VOTING AGREEMENT
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>exv99w2</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<P align="right"><FONT size="2"><B>EXHIBIT 99.2</B></FONT>
+
+<P align="center"><FONT size="2"><B>VOTING AGREEMENT</B>
+</FONT>
+
+
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;THIS VOTING AGREEMENT (the &#147;Agreement&#148;) is made as of the 30th day of
+January, 2003 by and among 1-800 CONTACTS, INC., a Delaware corporation (the
+&#147;Company&#148;), and Jonathan C. Coon, Stephen A. Yacktman, Jason S. Subotky and
+John F. Nichols (the &#147;Principal Stockholders&#148;), and CAMELOT VENTURES/CJ, L.L.C.
+d/b/a LENS 1st, a Michigan limited liability company, and LENS EXPRESS LLC, a
+Michigan limited liability company (the &#147;Investors&#148;), and David Katzman (&#147;Mr.
+Katzman&#148;).
+
+</FONT>
+
+
+<!-- link1 "RECITALS" -->
+<P align="center"><FONT size="2"><B>RECITALS</B>
+</FONT>
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company, the Investors and Mr.&nbsp;Katzman have entered into an Asset
+Purchase Agreement (the &#147;Purchase Agreement&#148;) of even date herewith pursuant to
+which the Company is delivering to the Investors, among other things, nine
+hundred thousand (900,000) shares of the Company&#146;s $0.01 par value common stock
+(the &#147;Closing Buyer Shares&#148;). A requirement under the Purchase Agreement is
+that the Company, the Principal Stockholders, the Investors and Mr.&nbsp;Katzman
+enter into this Agreement for the purpose of setting forth the terms and
+conditions pursuant to which the Principal Stockholders shall vote their shares
+of the Company&#146;s voting stock in favor of electing, and against removing, the
+Investors&#146; designee, Mr.&nbsp;Katzman, as a member of the Company&#146;s Board of
+Directors in accordance with the Company&#146;s certificate of incorporation and
+bylaws, as amended. The Company, the Investors, the Principal Stockholders and
+Mr.&nbsp;Katzman each desire to facilitate the voting arrangements set forth in this
+Agreement by agreeing to the terms and conditions set forth below. All terms
+not defined herein shall have the meaning ascribed to such terms in the
+Purchase Agreement.
+
+</FONT>
+
+
+<!-- link1 "AGREEMENT" -->
+<P align="center"><FONT size="2"><B>AGREEMENT</B>
+</FONT>
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The parties agree as follows:
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Election of Directors.</B>
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1 Board Representation. At the first meeting of the Board of Directors
+of the Company after the delivery of the Closing Buyer Shares, currently
+contemplated for January&nbsp;31, 2003, the Company&#146;s Board of Directors shall
+increase the number of Directors which shall constitute the Company&#146;s Board of
+Directors and the resulting vacancy shall be filled by the Company&#146;s Board of
+Directors electing Mr.&nbsp;Katzman as a Class&nbsp;II Director, with a term expiring at
+the 2003 Annual Meeting of Stockholders. The Company and its Board of
+Directors shall nominate and recommend Mr.&nbsp;Katzman for election as a Class&nbsp;II
+Director of the Company at the 2003 Annual Meeting of Stockholders for a term
+expiring at the 2006 Annual Meeting of Stockholders. At the 2003 Annual
+Meeting of Stockholders, the Principal Stockholders and the Investors agree to
+vote or act with respect to their shares of the Company&#146;s common stock so as to
+elect the Investors&#146; designee, currently Mr.&nbsp;Katzman, as a Class&nbsp;II member of
+the Company&#146;s Board of Directors for a term expiring at the 2006 Annual Meeting
+of Stockholders, unless this Agreement is terminated before the 2003 Annual
+Meeting of Stockholders pursuant to Section&nbsp;2
+
+</FONT>
+
+
+<P align="center"><FONT size="2">&nbsp;</FONT>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<P><FONT size="2">below; provided, however, that with respect to the foregoing sentence, if
+the Investors designate a person to serve as director other than Mr.&nbsp;Katzman,
+then the person so designated shall be subject to the reasonable approval of a
+majority of the directors of the Company then serving in such capacity, which
+directors shall not include the director or directors of the Company who is, or
+was, serving as the previous designee of the Investors on the Company&#146;s Board
+of Directors. At any other meeting or action by written consent of the
+Company&#146;s stockholders during the term of this Agreement at or by which the
+Investors&#146; designee is proposed to be removed as a member of the Company&#146;s
+Board of Directors, the Principal Stockholders and the Investors shall vote or
+act with respect to their shares of the Company&#146;s common stock so as to oppose
+the removal of the Investors&#146; designee as a member of the Company&#146;s Board of
+Directors, unless there is cause for such removal pursuant to Section&nbsp;1.3.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2 Appointment of Directors. In the event of the resignation or death,
+removal or disqualification of a director selected pursuant to Section&nbsp;1.1
+above, the Investors shall promptly nominate a new director, and, after written
+notice of the nomination has been given by the Investors to the other parties
+(and, with respect to a nominee designated by the Investors, other than Mr.
+Katzman, such nominee has been approved by the Company&#146;s directors as provided
+in Section&nbsp;1.1 above), each of the Investors and the Principal Stockholders
+shall vote its shares of capital stock of the Company to elect such nominee to
+the Board of Directors.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3 Removal. The Investors may change their designated director at any
+time and from time to time, with or without cause (subject to the Certificate
+of Incorporation and Bylaws of the Company as in effect from time to time and
+any requirements of law), in their sole discretion, and after written notice to
+each of the parties hereto of the new nominee to replace such director (and
+with respect to a nominee designated by the Investors, other than Mr.&nbsp;Katzman,
+after such nominee has been approved by the Company&#146;s directors in accordance
+with Section&nbsp;1.1 above), each of the Investors and the Principal Stockholders
+shall promptly vote its shares of capital stock of the Company to remove the
+former designee from, and to elect such nominee to, the Board of Directors.
+Notwithstanding the foregoing, however, the Company may remove the Investors&#146;
+designee to the Board of Directors of the Company, in the event such designee
+(a)&nbsp;is or becomes subject to an enforcement action, or is or becomes the only
+member of the Company&#146;s Board of Directors subject to a publicly announced
+investigation, brought by the U.S. Securities &#038; Exchange Commission or the
+NASD, or (b)&nbsp;is or becomes subject to a criminal investigation or other
+proceeding in which criminal activity is alleged. For purposes of this Section
+1.3, the Company shall not be entitled to remove the Investor&#146;s designee to the
+Board of Directors of the Company merely because such nominee does not
+constitute an &#147;independent&#148; director, as defined by the rules and regulations
+of The Nasdaq Stock Market, Inc.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.4 No Revocation. Except as expressly provided herein, the voting
+agreements contained herein are coupled with an interest and may not be revoked
+during the term of this Agreement.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.5 Successors to the Investors. If the Investors distribute the Closing
+Buyer Shares to their members, the holder of the largest number of Closing
+Buyer Shares, as identified in writing by the Investors, shall succeed to the
+Investors&#146; rights and obligations under this Agreement upon agreeing in writing
+to be bound by the terms of this Agreement.
+
+</FONT>
+
+
+<P align="center"><FONT size="2">2</FONT>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Termination.</B>
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1 Termination Events. This Agreement shall terminate upon the earlier
+of:
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;January&nbsp;30, 2006;
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)&nbsp;Investors, their members and Affiliates of the foregoing holding, in
+the aggregate, less than five percent (5%) of the issued and outstanding common
+stock of the Company; or
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)&nbsp;The sale, conveyance or disposal of all or substantially all of the
+Company&#146;s property or business to a third party not directly or indirectly
+owned at least 50% by the Company&#146;s stockholders before such sale, conveyance
+or disposal or the Company&#146;s merger with or into or consolidation with any
+other corporation (other than a wholly-owned subsidiary corporation) after
+which the Company&#146;s stockholders immediately before such merger or
+consolidation no longer own, directly or indirectly, at least 50% of the
+surviving entity, or if the Company effects any other transaction or series of
+related transactions in which more than fifty percent (50%) of the voting power
+of the Company is disposed of, provided that this Section&nbsp;2.1(b) shall not
+apply to a merger effected exclusively for the purpose of changing the domicile
+of the Company.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Miscellaneous.</B>
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.1 Successors and Assigns. The terms and conditions of this Agreement
+shall inure to the benefit of and be binding upon the respective successors and
+assigns of the parties. Nothing in this Agreement, express or implied, is
+intended to confer upon any party other than the parties hereto or their
+respective successors and assigns any rights, remedies, obligations, or
+liabilities under or by reason of this Agreement, except as expressly provided
+in this Agreement.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.2 Amendments and Waivers. Any term hereof may be amended or waived only
+with the written consent of the Company, the Investors, the Principal
+Stockholders and Mr.&nbsp;Katzman. Any amendment or waiver effected in accordance
+with this Section&nbsp;3.2 shall be binding upon the Company, the Investors and the
+Principal Stockholders and each of their respective successors and assigns.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.3 Notices. Any notice required or permitted by this Agreement shall be
+in writing and shall be deemed sufficient on the date of delivery, when
+delivered personally or by overnight courier or sent by telegram or fax, or
+seventy-two (72)&nbsp;hours after being deposited in the U.S. mail, as certified or
+registered mail, with postage prepaid, and addressed to the party to be
+notified at such party&#146;s address or fax number as set forth on the signature
+page hereto, or as subsequently modified by written notice.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.4 Severability. If one or more provisions of this Agreement are held to
+be unenforceable under applicable law, the parties agree to renegotiate such
+provision in good faith. In the event that the parties cannot reach a mutually
+agreeable and enforceable replacement for such provision, then (a)&nbsp;such
+provision shall be excluded from this Agreement, (b)&nbsp;the balance of
+
+</FONT>
+
+
+<P align="center"><FONT size="2">3</FONT>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<P><FONT size="2">the Agreement shall be interpreted as if such provision were so excluded
+and (c)&nbsp;the balance of the Agreement shall be enforceable in accordance with
+its terms.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.5 Governing Law and Jurisdiction. This Agreement and all acts and
+transactions pursuant hereto and the rights and obligations of the parties
+hereto shall be governed, construed and interpreted in accordance with the laws
+of the State of Utah without giving effect to principles of conflicts of law.
+The jurisdiction and venue of any legal action under this Agreement shall be as
+set forth in the Purchase Agreement.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.6 Counterparts. This Agreement may be executed by facsimile and in two
+or more counterparts, each of which shall be deemed an original and all of
+which together shall constitute one instrument.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.7 Titles and Subtitles. The titles and subtitles used in this Agreement
+are used for convenience only and are not to be considered in construing or
+interpreting this Agreement.
+
+</FONT>
+
+
+<P align="center"><FONT size="2">&#091;Signature Pages Follow&#093;
+</FONT>
+
+
+
+
+<P align="center"><FONT size="2">4</FONT>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The parties hereto have executed this Voting Agreement as of the date
+first written above.
+
+</FONT>
+
+
+<CENTER>
+<TABLE cellspacing="0" border="0" cellpadding="0" width="100%">
+<TR valign="bottom">
+    <TD width="3%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="20%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD colspan="3" valign="top"><FONT size="2"><B>COMPANY:</B></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left" valign="top"><FONT size="2">
+<B>INVESTORS:</B></FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD colspan="3" valign="top"><FONT size="2">1-800 CONTACTS, INC</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left" valign="top"><FONT size="2">CAMELOT VENTURES/CJ, L.L.C.<BR>
+d/b/a LENS 1st</FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">By:</FONT></TD>
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD valign="top"><FONT size="2">/s/</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD valign="top"><FONT size="2">By:</FONT></TD>
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD valign="top"><FONT size="2">/s/</FONT></TD>
+</TR>
+<TR valign="bottom">
+    <TD colspan="3" valign="top" align="left"><FONT size="2"><HR size="1" noshade></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left" valign="top"><FONT size="2"><HR size="1" noshade></FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">Its</FONT></TD>
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD valign="top"><FONT size="2">Its</FONT></TD>
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="bottom">
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="2" valign="top" align="left"><FONT size="2"><HR size="1" noshade></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="2" align="left" valign="top"><FONT size="2"><HR size="1" noshade></FONT></TD>
+</TR>
+
+
+
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD colspan="3" valign="top"><FONT size="2">Address:</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left" valign="top"><FONT size="2">
+Address:</FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD colspan="3" valign="top"><FONT size="2">66 East Wadsworth Park Drive, 3rd Floor<BR>
+Draper, UT 84020<BR>
+Fax:  (801) 924-9905</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left" valign="top"><FONT size="2">
+100 Galleria Officentre, Suite 419<BR>
+Livonia, Michigan 48034<BR>
+Fax:  (248) 352-5973</FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD colspan="3" valign="top"><FONT size="2"><B>PRINCIPAL STOCKHOLDERS:</B></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left" valign="top"><FONT size="2">
+LENS EXPRESS LLC</FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD colspan="3" valign="top"><FONT size="2">/s/</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD valign="top"><FONT size="2">By:</FONT></TD>
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD valign="top"><FONT size="2">/s/</FONT></TD>
+</TR>
+<TR valign="bottom">
+    <TD colspan="3" valign="top" align="left"><FONT size="2"><HR size="1" noshade></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left" valign="top"><FONT size="2"><HR size="1" noshade></FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top" colspan="3"><FONT size="2">Jonathan C. Coon</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD valign="top"><FONT size="2">Its</FONT></TD>
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="bottom">
+    <TD colspan="3" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="2" valign="top"><FONT size="2"><HR size="1" noshade></FONT></TD>
+</TR>
+
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD colspan="3" valign="top"><FONT size="2">
+Address:</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left" valign="top"><FONT size="2">Address:</FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD colspan="3" valign="top"><FONT size="2">1-800 CONTACTS, INC.<BR>
+66 East Wadsworth Park Drive, 3rd Floor<BR>
+Draper, UT  84020<BR>
+Fax:  (801) 924-9909</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left" valign="top"><FONT size="2">
+100 Galleria Officentre, Suite 419<BR>
+Livonia, Michigan 48034<BR>
+Fax:  (248) 352-5973</FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD colspan="3" valign="top"><FONT size="2">/s/</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left" valign="top"><FONT size="2"><B>MR. KATZMAN:</B></FONT></TD>
+</TR>
+<TR valign="bottom">
+    <TD colspan="3" valign="top"><FONT size="2"><HR size="1" noshade></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR><TD colspan="3"><FONT size="2">Stephen A. Yacktman</FONT></TD></TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD colspan="3" valign="top"><FONT size="2">Address:</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD colspan="3" valign="top"><FONT size="2">1-800 CONTACTS, INC.<BR>
+66 East Wadsworth Park Drive, 3rd Floor<BR>
+Draper, UT 84020<BR>
+Fax:  (801) 924-9905</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left" valign="top"><FONT size="2">/s/<BR>
+</FONT><HR size="1" noshade><FONT size="2">
+David Katzman<BR>
+Address:</FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD colspan="3" valign="top"><FONT size="2">/s/<BR>
+</FONT><HR size="1" noshade><FONT size="2">Jason S. Subotky</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left" valign="top"><FONT size="2">
+100 Galleria Officentre, Suite 419<BR>
+Southfield, Michigan 48034<BR>
+Fax:  (248) 352-5973</FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD colspan="3" valign="top"><FONT size="2">
+Address:</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD colspan="3" valign="top"><FONT size="2">1800 CONTACTS, INC.<BR>
+66 East Wadsworth Park Drive, 3rd Floor<BR>
+Draper, UT 84020<BR>
+Fax:  (801) 924-9905</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+
+<P align="center"><FONT size="2">S-1</FONT>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<CENTER>
+<TABLE cellspacing="0" border="0" cellpadding="0" width="65%">
+<TR valign="bottom">
+    <TD width="52%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="43%">&nbsp;</TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">/s/<BR>
+</FONT><HR size="1" noshade><FONT size="2">
+John F. Nichols<BR>
+Address:</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">1800 CONTACTS, INC.<BR>
+66 East Wadsworth Park Drive, 3rd Floor<BR>
+Draper, UT 84020<BR>
+Fax:  (801) 924-9905</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+
+<P align="center"><FONT size="2">2</FONT>
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.3
+<SEQUENCE>5
+<FILENAME>k74613exv99w3.htm
+<DESCRIPTION>LOCK-UP AGREEMENT
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>exv99w3</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<P align="right"><FONT size="2"><B>EXHIBIT 99.3</B></FONT>
+
+<P align="center"><FONT size="2"><B>LOCK-UP AGREEMENT</B>
+</FONT>
+
+
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;THIS LOCK-UP AGREEMENT (this &#147;Agreement&#148;), is made and entered into as of
+January&nbsp;30, 2003 (the &#147;Effective Date&#148;) by and among 1-800 CONTACTS, INC., a
+Delaware corporation (the &#147;Company&#148;), CAMELOT VENTURES/CJ, L.L.C. d/b/a LENS
+1st, a Michigan limited liability company (&#147;Lens 1st&#148;), LENS EXPRESS LLC, a
+Michigan limited liability company (&#147;Lens Express&#148;), Dan Gilbert, an individual
+(&#147;Gilbert&#148;), and David Katzman, an individual (&#147;Katzman&#148;). Lens 1st, Lens
+Express, Gilbert and Katzman are collectively referred to herein as the
+&#147;Shareholders.&#148;
+
+</FONT>
+
+
+<P align="center"><FONT size="2"><B>RECITALS</B>
+</FONT>
+
+
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lens 1st, Lens Express, Gilbert, Katzman and the Company have entered
+into an Asset Purchase Agreement, dated January&nbsp;30, 2003 (the &#147;Purchase
+Agreement&#148;), pursuant to which the Company is purchasing certain of the assets
+and is assuming certain of the liabilities of Lens 1st and Lens Express (the
+&#147;Transaction&#148;).
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As partial consideration for the Transaction, the Company will issue
+900,000 shares of its $0.01 par value common stock (the &#147;Common Stock&#148;) to Lens
+1st and Lens Express (the &#147;Shares&#148;).
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As a condition to the closing of the Transaction, each of the
+Shareholders is required to enter into a lock-up agreement covering the Shares
+(collectively, the &#147;Lock-up Shares&#148;).
+
+</FONT>
+
+
+<P align="center"><FONT size="2"><B>AGREEMENT</B>
+</FONT>
+
+
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The parties hereby agree as follows:
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lock-up</B>. The Shareholders agree that they will not offer, sell or
+contract to sell, trade, transfer or otherwise dispose of, directly or
+indirectly (including short sales, sales against the box and/or other hedging
+or derivative transactions) (collectively, &#147;Transfer&#148;), the Lock-Up Shares for
+a period of twelve (12)&nbsp;months following the Effective Date (the &#147;Lock-Up
+Period&#148;), except (1)&nbsp;Transfers with the Company&#146;s prior written consent , (2)
+Transfers by Lens 1st and/or Lens Express to any of their members (&#147;Members&#148;)
+who agree in writing to be bound by the terms of this Agreement as a
+Shareholder as provided in Section&nbsp;4 below, (3)&nbsp;Transfers to a Member&#146;s
+immediate family or blood relative (&#147;Relative&#148;) who agree to act through a
+single representative who agrees in writing to be bound by the terms of this
+Agreement as a Shareholder as provided in Section&nbsp;4 below, (4)&nbsp;Transfers to any
+trust which has as its only beneficiaries one or more Relatives, to the extent
+any such beneficiaries agree in writing to be bound by the terms of this
+Agreement as a Shareholder as provided in Section&nbsp;4 below, (5)&nbsp;Transfers to any
+entity controlled by one or more Members which agrees in writing to be bound by
+the terms of this Agreement as a Shareholder as provided in Section&nbsp;4 below,
+(6)&nbsp;Transfers by Members, upon death, by will, pursuant to the applicable laws
+of descent and distribution, by other applicable law, pursuant to the terms of
+the applicable trust, or by any combination of the foregoing, if the transferee
+agrees in writing to be
+
+</FONT>
+
+
+<P align="center"><FONT size="2">1</FONT>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<P><FONT size="2">bound by the terms of this Agreement as a Shareholder as provided in
+Section&nbsp;4 below, and (7)&nbsp;Transfers by bonafide gift if the transferee agrees in
+writing to be bound by the terms of this Agreement as a Shareholder as provided
+in Section&nbsp;4 below. In the event that any of the Shareholders breaches the
+restrictions on Transfer of the Lock-Up Shares provided herein, the Company,
+without prejudice to any other right or remedy that the Company might have
+under the Purchaser Agreement, in law or equity, shall be entitled to receive
+the total amount of proceeds that such breaching Shareholder received from the
+Transfer Notwithstanding anything to the contrary set forth above, no Transfer
+of the Lock-up Shares shall be permitted hereunder until the purchase price
+adjustment set forth in section 2(d) of the Purchase Agreement shall have
+occurred.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stock Transfer Instructions</B>. In furtherance of the restrictions
+imposed under this Agreement, the Shareholders hereby authorize the Company and
+its transfer agent to decline to make any transfer of Lock-up Shares if such
+transfer would constitute a violation or breach of this Agreement. The
+Shareholders also agree and consent to the entry of stock transfer instructions
+with the Company&#146;s transfer agent against the transfer of any Lock-up Shares.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stock Legend</B>. The Shareholders agree that all certificates
+representing all Lock-Up Shares will have endorsed upon them in bold-face type
+a legend in substantially the following form:
+
+</FONT>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+<TR valign="top">
+        <TD width="1%" align="left" nowrap><FONT size="2">&nbsp;</FONT></TD>
+        <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+        <TD width="96%"><FONT size="2">RESTRICTIONS ON THE SALE OR TRANSFER OF THE STOCK REPRESENTED BY
+THIS CERTIFICATE HAVE BEEN IMPOSED PURSUANT TO A LOCK-UP AGREEMENT
+DATED JANUARY 30, 2003. A COPY OF THE LOCK-UP AGREEMENT IS ON
+FILE AT THE PRINCIPAL OFFICE OF 1-800 CONTACTS, INC., A DELAWARE
+CORPORATION (THE &#147;COMPANY&#148;), AND WILL BE FURNISHED WITHOUT CHARGE
+TO THE HOLDER OF THIS CERTIFICATE UPON RECEIPT BY THE COMPANY AT
+ITS PRINCIPAL PLACE OF BUSINESS OR REGISTERED OFFICE OF A WRITTEN
+REQUEST FROM THE HOLDER REQUESTING SUCH COPY.</FONT></TD>
+</TR>
+</TABLE>
+<P><FONT size="2">The Company shall cause such legend to be removed and new certificates issued
+to the holders of the Lock-up Shares without such legend within three business
+days after the expiration of the Lock-Up Period.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Additional Shareholders. </B>The parties to this Agreement acknowledge and
+agree that the Transfers of the Lock-Up Shares set forth in Section&nbsp;1 above
+shall not constitute a breach of this Agreement only if the permitted
+transferees listed in Section&nbsp;1 above agree in writing to be bound by the terms
+of this Agreement by delivering an executed copy hereof to the Company upon
+such transfer. Upon execution of this Agreement, those transferees will become
+parties to, and bound by, this Agreement to the same extent as the shareholders
+listed in the introductory paragraph hereof and will be deemed to be
+&#147;Shareholders&#148; for all purposes of this Agreement.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exceptions. </B>The foregoing provisions of this Agreement shall not apply
+in the event of: (1)&nbsp;the sale, conveyance or disposal of all or substantially
+all of the Company&#146;s property or business, to a related or third party,or (2)
+the Company&#146;s merger with or into or consolidation with any other corporation,
+or (3)&nbsp;if the Company effects any other transaction or series of related
+transactions in which more than fifty percent (50%) of the voting power of the
+Company is disposed
+
+</FONT>
+
+
+<P align="center"><FONT size="2">2</FONT>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<P><FONT size="2">of; provided, however, that this Section&nbsp;5 shall not apply to a merger
+effected exclusively for the purpose of changing the domicile of the Company.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;General Provisions. </B>This Agreement will be enforced, governed and
+construed exclusively under the laws of the State of Utah. The jurisdiction
+and venue of any legal action under this Agreement shall be as set forth in the
+Purchase Agreement. This Agreement is binding upon the Shareholders, the
+Shareholders&#146; heirs, estates, legal representatives, successors and assigns,
+and is for the benefit of the Company and its successors and assigns. If any
+portion of this Agreement is held to be invalid by a court having jurisdiction,
+the remaining terms of this Agreement shall remain in full force and effect to
+the extent possible. This Agreement may be executed by facsimile and in two or
+more counterparts, all of which shall constitute but one and the same
+instrument.
+
+</FONT>
+
+
+<P align="center"><FONT size="2">&#091;Signature Page Follows&#093;
+</FONT>
+
+
+
+
+<P align="center"><FONT size="2">3</FONT>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Executed as the first date written above.
+
+</FONT>
+
+
+<CENTER>
+<TABLE cellspacing="0" border="0" cellpadding="0" width="55%">
+<TR valign="bottom">
+    <TD width="28%">&nbsp;</TD>
+    <TD width="10%">&nbsp;</TD>
+    <TD width="6%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="51%">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" colspan="3" valign="top"><FONT size="2"><B>THE COMPANY:</B></FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2"></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top" colspan="3"><FONT size="2">1-800 CONTACTS, INC.</FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">
+By:
+</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">/s/<BR>
+</FONT><HR size="1" noshade><FONT size="2">
+Jonathan C. Coon</FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">
+Title:
+</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">President and CEO</FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" colspan="3" valign="top"><FONT size="2"><B>THE SHAREHOLDERS:</B></FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" colspan="3" valign="top"><FONT size="2">CAMELOT VENTURES/CJ, L.L.C. d/b/a<BR>
+LENS 1st</FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">
+By:
+</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">/s/<BR>
+</FONT><HR size="1" noshade></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">
+Title:
+</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">Manager</FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" colspan="3" valign="top"><FONT size="2">LENS EXPRESS LLC</FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">By:
+</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">/s/<BR>
+</FONT><HR size="1" noshade></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">
+Title:
+</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">Manager</FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" colspan="3" valign="top"><FONT size="2">/s/<BR>
+</FONT><HR size="1" noshade><FONT size="2">
+Dan Gilbert</FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left" valign="top"><FONT size="2">/s/<BR>
+</FONT><HR size="1" noshade><FONT size="2">
+David Katzman</FONT></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+
+<P align="center"><FONT size="2">4</FONT>
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.4
+<SEQUENCE>6
+<FILENAME>k74613exv99w4.htm
+<DESCRIPTION>REGISTRATION RIGHTS AGREEMENT
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>exv99w4</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<P align="right"><FONT size="2"><B>EXHIBIT 99.4</B></FONT>
+
+<P align="center"><FONT size="2"><B>REGISTRATION RIGHTS AGREEMENT</B>
+</FONT>
+
+
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;THIS REGISTRATION RIGHTS AGREEMENT (the &#147;Agreement&#148;) is made and entered
+into effective as of the 30th day of January, 2003, by and among 1-800
+CONTACTS, INC., a Delaware corporation (the &#147;Company&#148;), and CAMELOT
+VENTURES/CJ, L.L.C. d/b/a LENS 1st, a Michigan limited liability company, and
+LENS EXPRESS LLC, a Michigan limited liability company (collectively the
+&#147;Investors&#148;).
+
+</FONT>
+
+
+<P align="center"><FONT size="2"><B>RECITALS</B>
+</FONT>
+
+
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company and the Investors have entered into an Asset Purchase
+Agreement of even date herewith (the &#147;Purchase Agreement&#148;), whereby the Company
+will purchase certain of the assets and assume certain of the liabilities of
+the Investors.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the Purchase Agreement, the purchase price for the Acquired
+Assets will be paid by the Company by the delivery to the Investors of (1)
+cash, (2)&nbsp;the Closing Buyer Shares, and (3)&nbsp;by the assumption by the Company of
+the Assumed Liabilities. Pursuant to the Purchase Agreement, the Company has
+agreed to grant to each of the Investors certain registration rights, to enable
+the Investors to participate, under certain specified circumstances, in
+registrations of the Common Stock of the Company with the Securities and
+Exchange Commission, pursuant to the Securities Act of 1933, as amended.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The purpose of this Agreement is to document and establish the terms of
+the registration rights granted to each of the Investors.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Terms not otherwise defined in this Agreement shall have the meanings
+ascribed to them in the Purchase Agreement.
+
+</FONT>
+
+
+<P align="center"><FONT size="2"><B>AGREEMENT</B>
+</FONT>
+
+
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NOW, THEREFORE, the parties hereto agree as follows:
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Definitions.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#147;Act&#148; shall mean the Securities Act of 1933, as amended.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#147;Closing Buyer Shares&#148; shall mean nine hundred thousand (900,000) shares
+of the Company&#146;s Common Stock.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#147;Commission&#148; shall mean the Securities and Exchange Commission.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#147;Common Stock&#148; shall mean the Company&#146;s $0.01 par value common stock.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#147;Exchange Act&#148; shall mean the Securities Exchange Act of 1934, as amended.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#147;Holder&#148; or &#147;Holders&#148; shall mean any Investor or Investors holding
+Registrable Securities (including shares of Common Stock convertible into
+Registrable Securities) and any
+
+</FONT>
+
+
+<P align="center"><FONT size="2">&nbsp;</FONT>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<P><FONT size="2">person holding Registrable Securities to whom
+the rights under this Agreement have been transferred, in accordance with
+Section&nbsp;9 hereof.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The terms &#147;register,&#148; &#147;registered,&#148; and &#147;registration&#148; refer to a
+registration effected by preparing and filing a registration statement in
+compliance with the requirements of the Act and the declaration or ordering of
+the effectiveness of such registration statement.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#147;Piggyback Registration&#148; shall have the meaning set forth in Section&nbsp;2(a)
+hereof.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#147;Registrable Securities&#148; shall mean the Closing Buyer Shares and any
+shares of Common Stock issued in respect of the Closing Buyer Shares, as a
+result of a stock split, stock dividend, recapitalization or otherwise;
+provided, however, that shares of Common Stock shall only be treated as
+Registrable Securities if and so long as they have not been (i)&nbsp;sold to or
+through a broker, dealer or underwriter in a public distribution or a public
+securities transaction, or (ii)&nbsp;sold or all of the otherwise Registrable
+Securities are available for sale in the opinion of counsel to the Company in a
+transaction exempt from the registration and prospectus delivery requirements
+of the Act so that all transfer restrictions and restrictive legends with
+respect thereto are removed upon the consummation of the sale.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#147;Registration Expenses&#148; shall mean all expenses incurred in complying with
+Sections&nbsp;2 and 4 hereof, including all registration and filing fees, fees and
+disbursements of counsel for the Company, blue sky fees and expenses, and the
+reasonable fees and disbursements of one counsel for all Holders of Registrable
+Securities participating in the registration, but excluding Selling Expenses.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#147;Selling Expenses&#148; shall mean all underwriting discounts, selling
+commissions and stock transfer taxes applicable to any securities registered or
+sold by the Holders and all fees and disbursements of counsel or consultants
+for the Holders (except for fees and disbursements of counsel included within
+the definition of Registration Expenses).
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grant of Piggyback Registration Rights.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Right to Piggyback. Subject to Section&nbsp;2(e) below, whenever the
+Company proposes to register any of its securities under the Act in connection
+with a public offering of such securities solely for cash (but not including
+any registration relating solely to employee benefit plans or a registration
+relating solely to a Commission Rule&nbsp;145 transaction), and the registration
+form to be used may be used for the registration of Registrable Securities (a
+&#147;Piggyback Registration&#148;), the Company shall give prompt written notice (before
+the initial filing of the registration statement relating to such public
+offering and at least twenty (20)&nbsp;days before the effective date of such
+registration statement) to all Holders of Registrable Securities of its
+intention to effect such a registration and shall use its best efforts, in
+accordance with the terms and conditions of this Agreement, to include in such
+registration all Registrable Securities with respect to which the Company has
+received written requests for inclusion therein before the effective date of
+the related registration statement. In the event that any Piggyback
+Registration shall be an underwritten offering of securities of the Company,
+any requests by the Holders pursuant to this Section&nbsp;2(a) to register
+Registrable Securities must specify that such shares are to
+
+</FONT>
+
+
+<P align="center"><FONT size="2">2</FONT>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<P><FONT size="2">be included in the
+underwriting on the same terms as the shares of Common Stock otherwise being
+sold through such registration.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Expenses Relating to Piggyback Registrations. The Registration
+Expenses incidental to the Company&#146;s performance of, or compliance with, this
+Agreement in connection with each Piggyback Registration shall be paid by the
+Company. Except for the reasonable fees and disbursements of one counsel for
+the Holders included in the Registration Expenses, each participating Holder
+shall bear the fees and costs of its own counsel. All Selling Expenses
+relating to the Registrable Securities being sold by a Holder in a Piggyback
+Registration shall be paid by such selling Holder.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Priority on Primary Registrations. If a Piggyback Registration is an
+underwritten primary registration on behalf of the Company, and the managing
+underwriters advise the Company in writing that, in their opinion, the number
+of securities requested to be included in such registration exceeds the number
+which can be sold in an orderly manner in such offering within a price range
+acceptable to the Company, the Company shall be entitled to cut-back the number
+of securities to be included in such registration. In such event, securities
+shall be included in the Piggyback Registration in accordance with the
+following priority: (i)&nbsp;first, the securities the Company proposes to sell;
+(ii)&nbsp;second, any securities proposed to be sold by shareholders of the Company
+exercising any existing demand registration rights; and (iii)&nbsp;third, all
+shareholders of the Company exercising piggyback registration rights, including
+the Holders requesting that Registrable Securities be included in the
+registration pursuant to the terms of this Agreement. In the event of a
+cut-back of the number of securities that may be included in a Piggyback
+Registration, the number of Registrable Securities and other securities of the
+Company that may be included in the registration upon the exercise of piggyback
+registration rights shall be allocated among all of the Company&#146;s shareholders
+(including the Holders) who are exercising such Piggyback Registration rights,
+in proportion, as nearly as practicable, to the respective amounts of
+Registrable Securities and other securities which each such Holder requests to
+be included in such registration.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. Priority on Secondary Registrations. If a Piggyback Registration is an
+underwritten secondary registration of the Company&#146;s securities, and the
+managing underwriters advise the Company in writing that, in their opinion, the
+number of securities requested to be included in such registration exceeds the
+number which can be sold in an orderly manner in such offering within a price
+range acceptable to the Company and the Holders initially requesting such
+registration, the Company shall be entitled to cut-back the number of
+securities in such registration and include in such registration (i)&nbsp;first, any
+securities proposed to be sold by any shareholders of the Company exercising
+any existing demand registration rights; and (ii)&nbsp;second, the Registrable
+Securities and other securities of the Company requested to be included therein
+by the Holders and other shareholders of the Company exercising Piggyback
+Registration rights. The number of Registrable Securities and other securities
+of the Company that may be included in the registration on behalf of the
+Holders and other shareholders exercising Piggyback Registration rights shall
+be allocated among all of such Holders and other shareholders who are
+exercising Piggyback Registration rights, in proportion, as nearly as
+practicable, to the respective amounts of Registrable Securities and other
+securities which each such Holder requests to be included in such registration.
+
+</FONT>
+
+
+<P align="center"><FONT size="2">3</FONT>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. Exception. Notwithstanding any of the foregoing provisions of this
+Section&nbsp;2, the Holders of Registrable Securities shall not be entitled to
+participate in, and the Company shall have no obligation to register any
+Holders&#146; Registrable Securities in connection with the filing of the
+registration statement covering the shares of the Company&#146;s Common Stock issued
+in connection with the Company&#146;s acquisition of the assets of IGEL C.M.
+Laboratory Pte Ltd, International Vision Laboratories Pte Ltd and IGEL
+Visioncare Pte Ltd.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Holdback Agreements. In consideration for the grant of the Piggyback
+Registration rights described in this Agreement, no Investor or Holder shall
+effect any public sale or distribution (including sales pursuant to Rule&nbsp;144)
+of any equity securities of the Company during the seven (7)&nbsp;business days
+prior to and the one hundred eighty (180)&nbsp;day period beginning on the effective
+date of any underwritten Piggyback Registration in which such Investor&#146;s or
+Holder&#146;s Registrable Securities are included (except as part of such
+underwritten registration), unless the underwriters managing the public
+offering otherwise agree. Moreover, each Investor and each Holder agrees, if
+requested by the Company and any underwriter of the Common Stock of the
+Company, to execute such agreements and instruments as are necessary, in the
+Company&#146;s and underwriter&#146;s reasonable opinion, to effect the foregoing.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Registration Procedures. Whenever Holders of Registrable Securities
+have requested that any Registrable Securities be included in and covered by
+any Piggyback Registration pursuant to this Agreement, such Holders shall
+furnish to the Company in writing such information as may be reasonably
+requested by the Company for inclusion in, or relating to, such Piggyback
+Registration, and the Company shall use its best efforts to include such
+Registrable Securities in such Piggyback Registration, consistent with the
+terms of this Agreement. In furtherance of this obligation, the Company shall:
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. subject to the Company&#146;s right to reduce the number of Registrable
+Securities to be included in a Piggyback Registration, use its best efforts to
+include in the Piggyback Registration those Registrable Securities as to which
+the Company has received written requests for inclusion pursuant to Section
+2(a) above, consistent with the terms of this Agreement (provided, however,
+that the Company shall not be precluded from abandoning any Piggyback
+Registration that it determines not to be in the best interests of the
+Company);
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. notify each Holder of Registrable Securities of the effectiveness of
+each Piggyback Registration filed hereunder and prepare and file with the
+Commission such amendments and supplements to such registration statement and
+the prospectus used in connection therewith as may be necessary to keep such
+registration statement effective for a period of not less than one hundred and
+eighty (180)&nbsp;days and to comply with the provisions of the Act with respect to
+the disposition of all securities covered by such registration statement during
+such period in accordance with the terms applicable to such registration
+statement and any related underwriting agreements;
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. furnish to each Holder who intends to sell Registrable Securities such
+number of copies of such registration statement, each amendment and supplement
+thereto, the prospectus included in such registration statement (including each
+preliminary prospectus) and such other documents as such Holder of Registrable
+Securities may reasonably request in order to facilitate the disposition of the
+Registrable Securities owned by such Holder;
+
+</FONT>
+
+
+<P align="center"><FONT size="2">4</FONT>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. use its best efforts to register or qualify such Registrable Securities
+under such other securities or blue sky laws of such jurisdictions as any
+Holder reasonably requests and do any and all other acts and things which may
+be reasonably necessary or advisable to enable such Holder of Registrable
+Securities to consummate the disposition in such jurisdictions of the
+Registrable Securities owned by such Holder (provided that the Company shall
+not be required to (i)&nbsp;qualify generally to do business in any jurisdiction
+where it would not otherwise be required to qualify but for this Section&nbsp;4,
+(ii)&nbsp;subject itself to taxation in any such jurisdiction or (iii)&nbsp;consent to
+general service of process in any such jurisdiction); and
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. otherwise use its best efforts to comply with all applicable rules and
+regulations of the Commission; and
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f. cooperate with the Holder of Registrable Securities and any underwriter
+to prepare and deliver timely certificates representing Registrable Securities
+to be sold and not bearing any restrictive legends.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exchange Act Reports. Notwithstanding the registration rights set
+forth herein, the Company acknowledges that, in the event such registration
+statement shall not become effective, or, in the event there shall be a default
+in the undertaking by the Company of its obligations pursuant to this
+Agreement, the Holders may be required to rely upon an exemption under the Act
+for the purpose of disposing of the Registrable Securities. Accordingly, with
+a view to making available to the Holders the benefits of Rule&nbsp;144 promulgated
+under the Act, and any other rule or regulation of the Commission that may at
+any time permit the Holders to sell the Registrable Securities to the public
+without registration, the Company shall (a)&nbsp;make and keep &#147;public information&#148;
+available, as such terms are contemplated and defined in Rule&nbsp;144, (b)&nbsp;file
+with the Commission in a timely manner all reports and other documents required
+of the Company under the Act (if any) and the Exchange Act, and (c)&nbsp;furnish to
+each Holder, so long as each Holder owns any of the Registrable Securities,
+forthwith upon request (i)&nbsp;a written statement by the Company that it has
+complied with the Commission&#146;s reporting requirements necessary to enable the
+Holders to sell the Registrable Securities pursuant to Rule&nbsp;144, (ii)&nbsp;a copy of
+the most recent annual or quarterly report of the Company, and (iii)&nbsp;such other
+reports and documents so filed by the Company as may be reasonably requested
+and necessary in availing a Holder of any rule or regulation of the Commission
+permitting the selling of any such securities without registration.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indemnification.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. The Company agrees to indemnify, defend and hold harmless, to the
+extent permitted by law, each Holder of Registrable Securities and their
+members, managers, officers and control persons (within the meaning of the Act)
+from and against all losses, claims, damages, liabilities and expenses
+(including reasonable attorneys&#146; fees and expenses) caused by any untrue or
+alleged untrue statement of material fact contained in any registration
+statement, prospectus or preliminary prospectus or any amendment thereof or
+supplement thereto or any omission or alleged omission of a material fact
+required to be stated therein or necessary to make the statements therein not
+misleading, except insofar as the same are caused by or contained in any
+information furnished in writing to the Company by such Holder expressly for
+use therein or by such Holder&#146;s failure to deliver a copy of the registration
+statement or prospectus or any
+
+</FONT>
+
+
+<P align="center"><FONT size="2">5</FONT>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<P><FONT size="2">amendments or supplements thereto after the
+Company has furnished such Holder with a sufficient number of copies of the
+same.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. In connection with any Piggyback Registration in which a Holder of
+Registrable Securities is participating, each such Holder shall furnish to the
+Company in writing such information and affidavits as the Company reasonably
+requests for use in connection with any such registration statement or
+prospectus and, to the extent permitted by law, shall indemnify, defend and
+hold harmless the Company, its directors, officers and control persons (within
+the meaning of the Act) from and against all losses, claims, damages,
+liabilities and expenses resulting from any untrue or alleged untrue statement
+of material fact contained in any registration statement, prospectus or
+preliminary prospectus or any amendment thereof or supplement thereto or any
+omission or alleged omission of a material fact required to be stated therein
+or necessary to make the statements therein not misleading, but only to the
+extent that such untrue statement or omission is cause by or contained in any
+information or affidavit so furnished in writing to the Company by such Holder
+expressly for use therein, provided that the obligation to indemnify shall be
+individual and not joint and several for each Holder and shall be limited to
+the net amount of proceeds received by such Holder from the sale of Registrable
+Securities pursuant to such Piggyback Registration.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Any party entitled to indemnification hereunder shall (i)&nbsp;give prompt
+written notice to the indemnifying party of any claim with respect to which it
+seeks indemnification (provided that the failure to give prompt notice shall
+not impair any person&#146;s right to indemnification hereunder to the extent such
+failure has not prejudiced the indemnifying party) and (ii)&nbsp;unless in such
+indemnified party&#146;s reasonable judgment a conflict of interest between such
+indemnified and indemnifying parties may exist with respect to such claim,
+permit such indemnifying party to assume the defense of such claim with the
+assistance of counsel reasonably satisfactory to the indemnified party. If
+such defense is assumed, the indemnifying party shall not be subject to any
+liability for any settlement made by the indemnified party without its consent,
+which consent shall not be unreasonably withheld. An indemnifying party that
+is not entitled to, or elects not to, assume the defense of a claim shall not
+be obligated to pay the fees and expenses of more than one counsel for all
+parties indemnified by such indemnifying party with respect to such claim,
+unless, in the reasonable judgment of any indemnified party, a conflict of
+interest may exist between such indemnified party and any other of such
+indemnified parties with respect to such claim.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. The indemnification provided for under this Agreement shall remain in
+full force and effect regardless of any investigation made by or on behalf of
+the indemnified party and shall survive the transfer of any Registrable
+Securities.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Participation in Underwritten Registrations. No Holder may participate
+in any Piggyback Registration hereunder which is underwritten unless such
+Holder (i)&nbsp;agrees to sell any Registrable Securities to be included in such
+registration on the basis provided in any underwriting arrangements applicable
+to the registration, as approved by the Company and to the extent they are the
+same as those applied to the other sellers in connection with such
+registration, and (ii)&nbsp;completes and executes all questionnaires, powers of
+attorney, indemnities, underwriting agreements and other documents required
+under the terms of such underwriting arrangements to the extent they are the
+same as those applied to the other sellers in connection with such
+
+</FONT>
+
+
+<P align="center"><FONT size="2">6</FONT>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<P><FONT size="2">registration. The Company shall be entitled to select and approve the managing
+underwriter involved in any Piggyback Registration, in its sole and absolute
+discretion.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Contribution. If for any reason the indemnification provided for in
+Sections&nbsp;6(a) and (b)&nbsp;is unavailable to an indemnified party or insufficient to
+hold it harmless as contemplated by the preceding Sections&nbsp;6(a) and (b), then
+the indemnifying party shall contribute to the amount paid or payable by the
+indemnified party as a result of the loss, claim, damage, liability or expense
+in the proportion as is appropriate to reflect (1)&nbsp;the relative benefits
+received by the indemnified party and the indemnifying party, (2)&nbsp;the relative
+fault of the indemnified party and the indemnifying party, and (3)&nbsp;any other
+relevant equitable considerations.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Transfer of Registration Rights. The rights to cause the Company to
+include Registrable Securities in Piggyback Registrations as provided in this
+Agreement may be assigned or transferred to any transferee who: (i)&nbsp;acquires at
+least one hundred thousand (100,000) shares (as currently constituted, and to
+be appropriately adjusted for stock splits, combinations, stock dividends and
+the like) of Registrable Securities (including shares of Registrable Securities
+into which Shares are transferable); or (ii)&nbsp;who is (1)&nbsp;a member of an
+Investor, (2)&nbsp;an immediate family member of one or more members of an Investor
+who agree to act through a single representative, or (3)&nbsp;an affiliate
+controlled by one or more members of an Investor, provided that any transfer of
+rights shall not be effective until: (x)&nbsp;the Company is given written notice
+of the transfer, which notice shall state the name and address of the
+transferee and identify the number of securities with respect to which the
+rights under this Section&nbsp;9 are being assigned; (y)&nbsp;the transfer of the
+securities to which the registration rights relate has been effected in
+compliance with any legend requirements or other requirements reasonably
+imposed by the Company to ensure compliance with applicable securities laws;
+and (z)&nbsp;the transferee has executed an agreement in a form approved by the
+Company, agreeing to be bound by the obligations imposed on the Investors and
+Holders under this Agreement. Any transfer pursuant to clause (ii)&nbsp;to one or
+more persons who own less than 100,000 shares of Registrable Securities shall
+be conditioned upon such transferees appointing a representative, representing
+holders of at least 100,000 shares of Registrable Securities, to exercise all
+of such transferee&#146;s rights under this Agreement.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Miscellaneous. This Agreement may be executed by facsimile in any
+number of counterparts, and different Investors may execute different
+counterparts. Each executed counterpart shall be deemed an original, and all
+executed counterparts together shall constitute one and the same agreement.
+This Agreement shall be governed by, and construed in accordance with, the laws
+of the State of Utah. The jurisdiction and venue of any legal action under
+this Agreement shall be as set forth in the Purchase Agreement.
+
+</FONT>
+
+
+<P><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IN WITNESS WHEREOF, this Agreement is executed by the undersigned,
+effective as of the date first set forth above.
+
+</FONT>
+
+
+<P align="center"><FONT size="2">7</FONT>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<CENTER>
+<TABLE cellspacing="0" border="0" cellpadding="0" width="100%">
+<TR valign="bottom">
+    <TD width="40%">&nbsp;</TD>
+    <TD width="20%">&nbsp;</TD>
+    <TD width="40%">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">THE COMPANY:</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">
+INVESTORS:</FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">1-800 CONTACTS, INC</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">
+CAMELOT VENTURES/CJ, L.L.C. d/b/a<BR>
+LENS 1st</FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">/s/<BR>
+</FONT><HR size="1" noshade><FONT size="2">
+Jonathan C. Coon</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">
+By:   /s/<BR>
+</FONT><HR size="1" noshade><FONT size="2">
+Its:</FONT></TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">
+President and Chief Executive Officer</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2"><HR size="1" noshade></FONT></TD>
+</TR>
+
+
+
+
+
+
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">
+LENS EXPRESS LLC</FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">
+By:   /s/<BR>
+</FONT><HR size="1" noshade></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">
+Its:
+</FONT><HR size="1" noshade></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+
+<P align="center"><FONT size="2">8</FONT>
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

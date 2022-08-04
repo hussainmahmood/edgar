@@ -1,0 +1,11 @@
+Year,2020,2019,2011,2010,2009
+Net Working Capital to Total Asseets,0.52,0.58,0.60,0.58,0.44
+Current Ratio,2.27,2.72,3.03,3.67,2.22
+Time Interest Earn,1.40,0.17,18.28,14.72,-0.14
+Return on Capital Employed,0.11,0.02,0.09,0.27,-0.03
+Payout,0.00,0.00,0.00,0.00,0.00
+Plow Back,100.00,100.00,100.00,100.00,100.00
+Return on Equity,1.22,-36.55,7.82,24.50,-29.89
+Return on Assets,0.19,-6.27,5.51,19.14,-15.20
+Book Value per Share,6.79,6.52,10.32,11.70,8.83
+Earning Per Share,0.08,-2.38,0.81,2.87,-2.64

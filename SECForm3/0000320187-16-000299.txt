@@ -1,0 +1,171 @@
+<SEC-DOCUMENT>0000320187-16-000299.txt : 20160616
+<SEC-HEADER>0000320187-16-000299.hdr.sgml : 20160616
+<ACCEPTANCE-DATETIME>20160616194727
+ACCESSION NUMBER:		0000320187-16-000299
+CONFORMED SUBMISSION TYPE:	3/A
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20160616
+FILED AS OF DATE:		20160616
+DATE AS OF CHANGE:		20160616
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NIKE INC
+		CENTRAL INDEX KEY:			0000320187
+		STANDARD INDUSTRIAL CLASSIFICATION:	RUBBER & PLASTICS FOOTWEAR [3021]
+		IRS NUMBER:				930584541
+		STATE OF INCORPORATION:			OR
+		FISCAL YEAR END:			0531
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE BOWERMAN DR
+		CITY:			BEAVERTON
+		STATE:			OR
+		ZIP:			97005-6453
+		BUSINESS PHONE:		5036713173
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE BOWERMAN DR
+		CITY:			BEAVERTON
+		STATE:			OR
+		ZIP:			97005-6453
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Spillane Michael
+		CENTRAL INDEX KEY:			0001676318
+
+	FILING VALUES:
+		FORM TYPE:		3/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-10635
+		FILM NUMBER:		161718677
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE BOWERMAN DRIVE
+		CITY:			BEAVERTON
+		STATE:			X1
+		ZIP:			97005
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3/A</documentType>
+
+    <periodOfReport>2016-06-16</periodOfReport>
+
+    <dateOfOriginalSubmission>2016-06-06</dateOfOriginalSubmission>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0000320187</issuerCik>
+        <issuerName>NIKE INC</issuerName>
+        <issuerTradingSymbol>NKE</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001676318</rptOwnerCik>
+            <rptOwnerName>Spillane Michael</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>ONE BOWERMAN DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>BEAVERTON</rptOwnerCity>
+            <rptOwnerState>X1</rptOwnerState>
+            <rptOwnerZipCode>97005</rptOwnerZipCode>
+            <rptOwnerStateDescription>UNITED STATES</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Pres: Product &amp; Merchandising</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class B Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>102560</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The purpose of this amendment is to correct the Amount of Securities Beneficially Owned to include a Restricted Stock Unit that was unintentionally omitted from the original Form 3 filing. There are no other changes to the original filing.</footnote>
+    </footnotes>
+
+    <remarks>This amendment includes the Power of Attorney, attached as an Exhibit hereto.</remarks>
+
+    <ownerSignature>
+        <signatureName>Adrian L. Bell For: Michael Spillane</signatureName>
+        <signatureDate>2016-06-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>sec_poa.txt
+<DESCRIPTION>POA
+<TEXT>
+
+
+
+
+
+                                       Power of Attorney
+                                      _________________
+
+     KNOW ALL MEN BY THESE PRESENTS, that the undersigned
+does hereby constitute and appoint John F. Coburn III, Ann M. Miller and
+Adrian L. Bell, and any one of them, his true and lawful attorney and agent
+to execute in his name any and all reports required to be filed under
+Section 16(a) of the Securities Exchange Act of 1934 with respect to
+equity securities of the Company; and to file the same with the
+Securities and Exchange Commission and any applicable stock
+exchange; and the undersigned does hereby ratify and confirm all that
+said attorneys and agents, or any of them, shall do or cause to be done
+by virtue hereof.
+
+     This Power of Attorney revokes all prior powers of attorney relating
+to reporting under Section 16(a) and shall remain in effect until
+revoked by a subsequently filed instrument.
+
+
+DATED:  05/20/2016
+
+
+/s/ Michael Spillane
+____________________
+By: Michael Spillane
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

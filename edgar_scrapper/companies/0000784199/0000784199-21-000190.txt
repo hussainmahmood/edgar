@@ -1,0 +1,152 @@
+<SEC-DOCUMENT>0000784199-21-000190.txt : 20210824
+<SEC-HEADER>0000784199-21-000190.hdr.sgml : 20210824
+<ACCEPTANCE-DATETIME>20210824171522
+ACCESSION NUMBER:		0000784199-21-000190
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20210823
+FILED AS OF DATE:		20210824
+DATE AS OF CHANGE:		20210824
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Maier Dennis B
+		CENTRAL INDEX KEY:			0001742150
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-13165
+		FILM NUMBER:		211202936
+
+	MAIL ADDRESS:	
+		STREET 1:		1655 ROBERTS BLVD, NW
+		CITY:			KENNESAW
+		STATE:			GA
+		ZIP:			30144
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CRYOLIFE INC
+		CENTRAL INDEX KEY:			0000784199
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		IRS NUMBER:				592417093
+		STATE OF INCORPORATION:			FL
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1655 ROBERTS BOULEVARD N W
+		CITY:			KENNESAW
+		STATE:			GA
+		ZIP:			30144
+		BUSINESS PHONE:		7704193355
+
+	MAIL ADDRESS:	
+		STREET 1:		1655 ROBERTS BOULEVARD N W
+		CITY:			KENNESAW
+		STATE:			GA
+		ZIP:			30144
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>certent-form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-08-23</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000784199</issuerCik>
+        <issuerName>CRYOLIFE INC</issuerName>
+        <issuerTradingSymbol>CRY</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001742150</rptOwnerCik>
+            <rptOwnerName>Maier Dennis B</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1655 ROBERTS BLVD, NW</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>KENNESAW</rptOwnerCity>
+            <rptOwnerState>GA</rptOwnerState>
+            <rptOwnerZipCode>30144</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Vice President, Operations</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2021-08-23</value>
+            </transactionDate>
+            <deemedExecutionDate>
+                <value>2021-08-23</value>
+            </deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2715</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>25.6402</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>17677</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reflects weighted average price. Range of prices were between $25.64 to $25.69. The reporting person will provide upon request by the Commission staff, the issuer, or a security holder of the issuer, full information regarding the number of shares sold at each separate price.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Dennis Maier</signatureName>
+        <signatureDate>2021-08-24</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

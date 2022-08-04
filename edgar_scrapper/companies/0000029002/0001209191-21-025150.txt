@@ -1,0 +1,179 @@
+<SEC-DOCUMENT>0001209191-21-025150.txt : 20210405
+<SEC-HEADER>0001209191-21-025150.hdr.sgml : 20210405
+<ACCEPTANCE-DATETIME>20210405163453
+ACCESSION NUMBER:		0001209191-21-025150
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20210401
+FILED AS OF DATE:		20210405
+DATE AS OF CHANGE:		20210405
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Chen Button Angie
+		CENTRAL INDEX KEY:			0001848133
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	002-25577
+		FILM NUMBER:		21805900
+
+	MAIL ADDRESS:	
+		STREET 1:		4949 HEDGCOXE ROAD
+		STREET 2:		SUITE 200
+		CITY:			PLANO
+		STATE:			TX
+		ZIP:			75024
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DIODES INC /DEL/
+		CENTRAL INDEX KEY:			0000029002
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				952039518
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4949 HEDGCOXE ROAD
+		STREET 2:		SUITE 200
+		CITY:			PLANO
+		STATE:			TX
+		ZIP:			75024
+		BUSINESS PHONE:		972-987-3900
+
+	MAIL ADDRESS:	
+		STREET 1:		4949 HEDGCOXE ROAD
+		STREET 2:		SUITE 200
+		CITY:			PLANO
+		STATE:			TX
+		ZIP:			75024
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>doc3.xml
+<DESCRIPTION>FORM 3 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2021-04-01</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0000029002</issuerCik>
+        <issuerName>DIODES INC /DEL/</issuerName>
+        <issuerTradingSymbol>DIOD</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001848133</rptOwnerCik>
+            <rptOwnerName>Chen Button Angie</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>4949 HEDGCOXE ROAD</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 200</rptOwnerStreet2>
+            <rptOwnerCity>PLANO</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>75024</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Diodes Incorporated Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes></footnotes>
+
+    <remarks>Exhibit List
+     Exhibit 24 - Power of Attorney</remarks>
+
+    <ownerSignature>
+        <signatureName>Brett R. Whitmire as Power of Attorney for Angie Chen Button</signatureName>
+        <signatureDate>2021-04-05</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>attachment1.htm
+<DESCRIPTION>EX-24 DOCUMENT
+<TEXT>
+<HTML>
+<HEAD>
+</HEAD>
+<BODY>
+<PRE>
+SPECIAL POWER OF ATTORNEY					Exhibit 24
+
+	The undersigned, ANGIE CHEN BUTTON, does hereby constitute and appoint
+BRETT R. WHITMIRE, of 5324 Seascape Lane, Plano, TX 75093, as her Attorney in
+Fact to act for and in the name, place, and stead of ANGIE CHEN BUTTON, to make,
+
+execute, and deliver any and all documents or instruments, and do and perform
+any and
+all things and actions, which ANGIE CHEN BUTTON might have done if personally
+present, which may be necessary or advisable in connection with the following:
+	To execute, deliver, and file all such documents and things, including, without
+
+limitation, reports and filings with the United States Securities and Exchange
+Commission, Internal Revenue Service, and Nasdaq Stock Exchange, as may be
+required
+to be executed, delivered, and filed by ANGIE CHEN BUTTON in connection with the
+
+beneficial ownership by ANGIE CHEN BUTTON of securities of Diodes Incorporated.
+	The undersigned further grants to the attorney in fact full authority to act in
+any
+manner both proper and necessary to the exercise of the foregoing powers,
+including the
+full power of substitution or revocation, and ratifies every act that he may
+lawfully do or
+purport to do, or may have done or purported to have done, in connection with
+any of the
+foregoing.
+
+Executed on MARCH 1, 2021
+
+/s/Angie Chen Button
+
+</PRE>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,259 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ IuMlKM3mxlFoF/L91YHfPwXuZor0hzVEF9WNHg6uxw2o9jOS+BW8poOJGgBmYHYE
+ VHK264P5fPbSnjHhYm3ozg==
+
+<SEC-DOCUMENT>0000837581-98-000015.txt : 19980217
+<SEC-HEADER>0000837581-98-000015.hdr.sgml : 19980217
+ACCESSION NUMBER:		0000837581-98-000015
+CONFORMED SUBMISSION TYPE:	SC 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19980212
+SROS:			NYSE
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MERITOR AUTOMOTIVE INC
+		CENTRAL INDEX KEY:			0001040616
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLE PARTS & ACCESSORIES [3714]
+		IRS NUMBER:				383354643
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+		SEC ACT:		
+		SEC FILE NUMBER:	005-53047
+		FILM NUMBER:		98534651
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2135 W MAPLE RD
+		CITY:			TROY
+		STATE:			MI
+		ZIP:			48084-7186
+		BUSINESS PHONE:		2484351000
+
+	MAIL ADDRESS:	
+		STREET 1:		2135 WEST MAPLE ROAD
+		CITY:			TROY
+		STATE:			MI
+		ZIP:			48084-7186
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	111 HOLDINGS INC
+		DATE OF NAME CHANGE:	19970609
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SCUDDER KEMPER INVESTMENTS INC
+		CENTRAL INDEX KEY:			0000837581
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		IRS NUMBER:				133241232
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		345 PARK AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154-0010
+		BUSINESS PHONE:		8005336704
+
+	MAIL ADDRESS:	
+		STREET 1:		SCUDDER, STEVENS & CLARK INC
+		STREET 2:		TWO INTERNATIONAL PLACE
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02110
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SCUDDER STEVENS & CLARK INC
+		DATE OF NAME CHANGE:	19930715
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<DESCRIPTION>INITIAL 13G FILING
+<TEXT>
+
+SCHEDULE 13G
+PAGE 1 of 4
+
+Type of Filing: Initial
+Amendment No.:  inapplicable
+
+Name of Issuer: Meritor Automotive, Inc
+Title of Class of Securities: Common
+
+CUSIP Number: 59000G100
+
+Is a fee being paid with this statement:   ( )Yes    (X)No
+1)   Name of Reporting Person:  Scudder Kemper Investments, Inc.
+1a)  S.S. or I.R.S. Identification No. of above person:  13 3241232
+2)   Check the appropriate box if member of a group: (  )a (  )b
+
+3)   SEC Use Only:
+
+4)   Citizenship or Place of Organization:  Delaware
+Number of shares beneficially owned by each reporting person with:
+
+5)   Sole Voting Power: 1,507,079
+6)   Shared Voting Power: 4,857,997
+7)   Sole Dispositive Power: 6,781,623
+
+8)   Shared Dispositive Power:  1
+
+9)   Aggregate amount beneficially owned by each reporting person:  6,781,624
+10)  Does aggregate amount (Item #9) exclude certain shares: ( ) Yes    (N) No
+11)  Percent of Class represented by amount in Item No. 9:  9.8%
+
+12)  Type of Reporting Person:  IA
+
+
+<PAGE>
+
+
+<PAGE>
+SCHEDULE 13G
+PAGE 2 of 4
+CUSIP No.: 59000G100
+
+Item 1a) Name of Issuer: Meritor Automotive, Inc
+
+Item 1b) Address of Issuer's Principal Executive Offices:
+2135 W Maple Rd, Troy, MI  48084-7186
+
+Item 2a) Name of Person Filing:  Scudder Kemper Investments, Inc.
+
+Item 2b) Address of Principal Business Office or, if none, Residence:
+345 Park Avenue, New York, New York 10154
+
+Item 2c) Citizenship:  Delaware
+
+Item 2d) Title of Class of Securities: Common
+
+Item 2e) CUSIP Number: 59000G100
+
+Item 3) If this statement is filed pursuant to Rules 13d 1(b), or 13d-2(b),
+check whether the person filing is a: 
+(a) __ Broker of Dealer registered under Section 15 of the Act 
+(b) __ Bank as defined in Section 3(a)(6) of the Act 
+(c) __ Insurance Company as defined in Section 3(a)(19) of the Act
+(d) __ Investment Company registered under Section 8 of the Investment
+            Company Act
+(e) XX Investment Adviser registered under Section 203 of the Investment
+            Advisers Act of 1940
+(f)  __  Employee Benefit Plan, Pension Fund which is subject to the
+         provisions of the Employee Retirement Income Security Act of 1974 or
+         Endowment Fund; see 240.13d-1(b)(1)(ii)(F)
+(g) __  Parent Holding Company, in accordance with 240.13d-1(b)(1)(ii)(G)
+         (Note: See Item 7)
+(h) __  Group, in accordance with 240.13d-1(b)(1)(ii)(H)
+
+
+<PAGE>
+
+
+<PAGE>
+SCHEDULE 13G
+PAGE 3 of 4
+CUSIP No.: 59000G100
+
+Item 4)   OWNERSHIP: If the percent of the class owned, as of December 31 of the
+year covered by the statement, or as of the last day of any month described in
+Rule 13d-1(b)(2), if applicable, exceeds five percent, provide the following
+information as of the date and identify those shares which there is a right to
+acquire.
+a)   Amount Beneficially Owned:  6,781,624
+b)   Percent of Class: 9.8%
+c)   Number of shares as to which each person has:
+      Sole power to vote or to direct the vote: 1,507,079
+      Shared power to vote or to direct the vote: 4,857,997
+      Sole power to dispose or to direct the disposition of: 6,781,623
+      Shared power to dispose or to direct the disposition of:  1
+
+Item 5) OWNERSHIP OF FIVE PERCENT OR LESS OF A CLASS: If this statement is being
+filed to report the fact that as of the date hereof the reporting person has
+ceased to be the beneficial owner of more than five percent of the class of
+securities, check ( )Yes (X)No
+
+Item 6) OWNERSHIP OF MORE THAN FIVE PERCENT ON BEHALF OF ANOTHER PERSON: If any
+other person is known to have the right to receive or the power to direct the
+receipt of dividends from, or the proceeds from the sale of, such securities, a
+statement to the effect should be included in response to this item and, if such
+interest relates to more than five percent of the class, such person should be
+identified. A listing of the shareholders of an Investment Company registered
+under the Investment Company Act of 1940 or the beneficiaries of any employee
+benefit plan, pension fund or endowment fund is not required.
+
+Item 7) IDENTIFICATION AND CLASSIFICATION OF THE SUBSIDIARY WHICH ACQUIRED THE
+SECURITY BEING REPORTED ON BY THE PARENT HOLDING COMPANY: If a parent holding
+company has filed this schedule, pursuant to Rule 13d1(b)(ii)(G), so indicate
+under Item 3(g) and attach an exhibit stating the identity and the Item 3
+classification of the relevant subsidiary. If a parent holding company has filed
+this schedule pursuant to Rule 13d-1(c), attach an exhibit stating the
+identification of the relevant subsidiary.
+
+inapplicable
+
+
+<PAGE>
+
+
+<PAGE>
+SCHEDULE 13G
+PAGE 4 of 4
+CUSIP No.: 59000G100
+
+Item 8) IDENTIFICATION AND CLASSIFICATION OF MEMBERS OF THE GROUP: If a group
+has filed this schedule pursuant to Rule 13d-1(b)(ii)(H), so indicate under Item
+3(h) and attach an exhibit stating the identity and Item 3 classification of
+each member of the group. If a group has filed this schedule pursuant to Rule
+13d1(c), attach an exhibit stating the identity of each member of the group.
+
+inapplicable
+
+Item 9) NOTICE OF DISSOLUTION OF GROUP: Notice of dissolution of a group may be
+furnished as an exhibit stating the date of the dissolution and that all further
+filings with respect to transactions in the security reported on will be filed,
+if required, by members of the group, in their individual capacity.
+
+inapplicable
+
+Item 10) CERTIFICATION: The following certification shall be included if the
+statement is filed pursuant to Rule 13d-1(b):
+
+By signing below I certify that, to the best of my knowledge and belief, the
+securities referred to above were acquired in the ordinary course of business
+and were not acquired for the purpose of and do not have the effect of changing
+or influencing the control of the issuer of such securities and were not
+acquired in connection with or as a participant in any transaction having such
+purposes or effect.
+
+SIGNATURE: After reasonable inquiry and to the best of my knowledge and belief,
+I certify that the information set forth in this statement is true, complete and
+correct.
+
+DATE:  February 12, 1998
+
+ SIGNATURE:
+
+
+NAME/TITLE:  Stephen R. Beckwith, Chief Financial Officer
+
+<PAGE>
+</TEXT>
+
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

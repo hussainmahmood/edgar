@@ -1,0 +1,295 @@
+<SEC-DOCUMENT>0000899243-21-022614.txt : 20210608
+<SEC-HEADER>0000899243-21-022614.hdr.sgml : 20210608
+<ACCEPTANCE-DATETIME>20210608192221
+ACCESSION NUMBER:		0000899243-21-022614
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20210604
+FILED AS OF DATE:		20210608
+DATE AS OF CHANGE:		20210608
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Martell Frank
+		CENTRAL INDEX KEY:			0001387655
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-13585
+		FILM NUMBER:		211003548
+
+	MAIL ADDRESS:	
+		STREET 1:		10 GASTON FARMS ROAD
+		CITY:			GREENWICH
+		STATE:			CT
+		ZIP:			06831
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CORELOGIC, INC.
+		CENTRAL INDEX KEY:			0000036047
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		IRS NUMBER:				951068610
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		40 PACIFICA
+		STREET 2:		SUITE 900
+		CITY:			IRVINE
+		STATE:			CA
+		ZIP:			92618
+		BUSINESS PHONE:		(949) 214-1000
+
+	MAIL ADDRESS:	
+		STREET 1:		40 PACIFICA
+		STREET 2:		SUITE 900
+		CITY:			IRVINE
+		STATE:			CA
+		ZIP:			92618
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FIRST AMERICAN CORP
+		DATE OF NAME CHANGE:	20020628
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FIRST AMERICAN FINANCIAL CORP
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FIRST AMERICAN TITLE INSURANCE & TRUST C
+		DATE OF NAME CHANGE:	19690515
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-06-04</periodOfReport>
+
+    <notSubjectToSection16>1</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000036047</issuerCik>
+        <issuerName>CORELOGIC, INC.</issuerName>
+        <issuerTradingSymbol>CLGX</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001387655</rptOwnerCik>
+            <rptOwnerName>Martell Frank</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>CORELOGIC, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>40 PACIFICA, SUITE 900</rptOwnerStreet2>
+            <rptOwnerCity>IRVINE</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>92618</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>President/CEO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2021-06-04</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>578766.982</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>80.00</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Employee Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>25.95</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2021-06-04</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>33318</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>54.05</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F5"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2023-02-26</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>33318</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Employee Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>32.49</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2021-06-04</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>20313</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>47.51</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F6"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2024-03-02</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>20313</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Includes (i) 325.182 shares acquired under the CoreLogic, (&quot;CoreLogic&quot;) employee stock purchase plan on March 31, 2021, (ii)  49,501.038 restricted stock units of CoreLogic subject to time-based vesting (&quot;RSUs&quot;), and (iii) 202,590.105 performance-based restricted stock units of CoreLogic subject to both time-based and performance-based vesting (&quot;PSUs&quot;).  Each RSU and PSU is settled by the delivery of the underlying shares of CoreLogic common stock.</footnote>
+        <footnote id="F2">On June 4, 2021, pursuant to that certain Agreement and Plan of Merger (the &quot;Merger Agreement&quot;), dated February 4, 2021, by and among CoreLogic, Celestial-Saturn Parent Inc., a Delaware corporation (&quot;Parent&quot;), and Celestial-Saturn Acquisition Sub Inc., a Delaware corporation (&quot;Acquisition Sub&quot;), Acquisition Sub merged with and into CoreLogic, with CoreLogic surviving as a wholly owned subsidiary of Parent (the &quot;Merger&quot;).  Pursuant to the Merger Agreement and by virtue of the Merger, in which each issued and outstanding share of CoreLogic common stock, par value $0.00001 per share, was converted into the right to receive $80 in cash, without interest (the &quot;Merger Consideration&quot;): (i) each option that was outstanding immediately prior to the effective time of the Merger automatically vested (if unvested) and was cancelled and converted into the right to receive an amount in cash, without interest,</footnote>
+        <footnote id="F3">(continued from footnote 2) equal to the product of (A) the excess, if any, of (x) the Merger Consideration over (y) the per-share exercise price for such option multiplied by (B) the total number of shares of CoreLogic common stock underlying such option; (ii) each RSU that was outstanding immediately prior to the effective time of the Merger automatically vested (if unvested) and was cancelled and converted into the right to receive an amount in cash, without interest, equal to the product of (A) the total number of shares of CoreLogic common stock underlying such RSU (including any shares of CoreLogic common stock in respect of dividend equivalent units credited thereon) (or, for RSUs granted in 2021, a prorated number of shares of CoreLogic common stock based on the period elapsed prior to the effective time of the Merger) multiplied by (B) the Merger Consideration; and (iii) each PSU that was outstanding immediately prior to the effective time of the Merger automatically vested</footnote>
+        <footnote id="F4">(continued from footnote 3) (if unvested) and was cancelled and converted into the right to receive an amount in cash, without interest, equal to the product of (A) the number of shares of CoreLogic common stock underlying such PSU (including any shares of CoreLogic common stock in respect of dividend equivalent units credited thereon) with performance measured in accordance with the terms of the applicable governing documents, as determined by the board of directors of CoreLogic or a committee thereof after consultation with Parent prior to the effective time of the Merger (or, for PSUs granted in 2021, a prorated number of shares of CoreLogic common stock based on the period elapsed prior to the effective time of the Merger and measured at the target level of performance) multiplied by (B) the Merger Consideration.</footnote>
+        <footnote id="F5">The option became exercisable in three equal annual installments beginning February 27, 2014.</footnote>
+        <footnote id="F6">The option became exercisable in three equal annual installments beginning March 3, 2015.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Jan S. Morris, attorney-in-fact</signatureName>
+        <signatureDate>2021-06-08</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

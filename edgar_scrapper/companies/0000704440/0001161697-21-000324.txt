@@ -1,0 +1,148 @@
+<SEC-DOCUMENT>0001161697-21-000324.txt : 20210706
+<SEC-HEADER>0001161697-21-000324.hdr.sgml : 20210706
+<ACCEPTANCE-DATETIME>20210706191208
+ACCESSION NUMBER:		0001161697-21-000324
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20210630
+FILED AS OF DATE:		20210706
+DATE AS OF CHANGE:		20210706
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Anderson David W
+		CENTRAL INDEX KEY:			0001304554
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39086
+		FILM NUMBER:		211075749
+
+	MAIL ADDRESS:	
+		STREET 1:		514 LYNMERE ROAD
+		CITY:			BRYN MAWR
+		STATE:			PA
+		ZIP:			19010
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			REPRO MED SYSTEMS INC
+		CENTRAL INDEX KEY:			0000704440
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		IRS NUMBER:				133044880
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		24 CARPENTER RD
+		CITY:			CHESTER
+		STATE:			NY
+		ZIP:			10918
+		BUSINESS PHONE:		845-469-2042
+
+	MAIL ADDRESS:	
+		STREET 1:		24 CARPENTER RD
+		CITY:			CHESTER
+		STATE:			NY
+		ZIP:			10918
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form_4.xml
+<DESCRIPTION>FORM 4 FOR 06-30-2021
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-06-30</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000704440</issuerCik>
+        <issuerName>REPRO MED SYSTEMS INC</issuerName>
+        <issuerTradingSymbol>KRMD</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001304554</rptOwnerCik>
+            <rptOwnerName>Anderson David W</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O REPRO MED SYSTEMS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>24 CARPENTER ROAD</rptOwnerStreet2>
+            <rptOwnerCity>CHESTER</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10918</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2021-06-30</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2263</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>4.63</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>43262</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <remarks>The filing of this statement shall not be construed as an admission (a) that the person filing this statement is, for the purposes of Section 16 of the Securities Exchange Act of 1934, as amended, the beneficial owner of any equity securities covered by this statement, or (b) that this statement is legally required to be filed by such person. Power of Attorney has been previously filed.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Karen Fisher- Attorney-in-Fact</signatureName>
+        <signatureDate>2021-07-06</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

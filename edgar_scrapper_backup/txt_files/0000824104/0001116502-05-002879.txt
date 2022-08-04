@@ -1,0 +1,349 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ L0+L1jGp3Bflo3ELn4HRQjt5/72UONJk1a8PiRviJUdSmDnGk9yqjQSI4spQK1dE
+ N4KIog+flBfoiZeDRb1g3A==
+
+<SEC-DOCUMENT>0001116502-05-002879.txt : 20051229
+<SEC-HEADER>0001116502-05-002879.hdr.sgml : 20051229
+<ACCEPTANCE-DATETIME>20051229103343
+ACCESSION NUMBER:		0001116502-05-002879
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20051229
+DATE AS OF CHANGE:		20051229
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			110 MEDIA GROUP, INC.
+		CENTRAL INDEX KEY:			0000824104
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMMUNICATION SERVICES, NEC [4899]
+		IRS NUMBER:				134127624
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-59467
+		FILM NUMBER:		051290172
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O BOOKDIGITAL.COM, INC.
+		STREET 2:		142 WEST 38TH STREET 2ND FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10018
+		BUSINESS PHONE:		6313850007
+
+	MAIL ADDRESS:	
+		STREET 1:		95 BROADHOLLOW ROAD, SUITE 101
+		CITY:			MELVILLE
+		STATE:			NY
+		ZIP:			11747
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DOMINIX INC
+		DATE OF NAME CHANGE:	20001030
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MEDICAL MANAGEMENT SYSTEMS INC
+		DATE OF NAME CHANGE:	19970814
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DOG WORLD INC
+		DATE OF NAME CHANGE:	19920703
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Nextelligence, Inc.
+		CENTRAL INDEX KEY:			0001348108
+		IRS NUMBER:				311752868
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		612 EAST CENTRAL BLVD.
+		CITY:			ORLANDO
+		STATE:			FL
+		ZIP:			32801
+		BUSINESS PHONE:		407-316-8906
+
+	MAIL ADDRESS:	
+		STREET 1:		612 EAST CENTRAL BLVD.
+		CITY:			ORLANDO
+		STATE:			FL
+		ZIP:			32801
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<FILENAME>mediagrpnextelligence-sc13d.txt
+<DESCRIPTION>SCHEDULE 13D
+<TEXT>
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+
+                                                    ---------------------------
+                                                           OMB APPROVAL
+                                                    ---------------------------
+                                                     OMB Number:     3235-0104
+                                                     Expires:  December 31, 2005
+                                                     Estimated average burden
+                                                     hours per response......0.5
+                                                    ---------------------------
+
+
+                                 SCHEDULE 13D
+                    Under the Securities Exchange Act of 1934
+
+
+                              110 MEDIA GROUP, INC.
+- -------------------------------------------------------------------------------
+                                (Name of Issuer)
+
+
+                                  COMMON STOCK
+- -------------------------------------------------------------------------------
+                         (Title of Class of Securities)
+
+
+                                    68241D206
+- -------------------------------------------------------------------------------
+                                 (CUSIP Number)
+
+
+                              Gary D. Lipson, Esq.
+                   Winderweedle, Haines, Ward & Woodman, P.A.
+                          390 N. Orange Ave, Suite 1500
+                             Orlando, Florida 32801
+                                 (407) 423-4246
+- -------------------------------------------------------------------------------
+                  (Name, Address and Telephone Number of Person
+                Authorized to Receive Notices and Communications)
+
+
+                                December 22, 2005
+- -------------------------------------------------------------------------------
+             (Date of Event which Requires Filing of this Statement)
+
+
+If the filing person has previously filed a statement on Schedule 13G to report
+the acquisition which is the subject of this Schedule 13D, and is filing this
+schedule because of Rule 13d-1(b)(3) or (4), check the following box [ ].
+
+
+<PAGE>
+
+CUSIP No. 68241D206                    13D                     PAGE 2 of 3 PAGES
+
+
+________________________________________________________________________________
+1)       Name of Reporting Person:  Nextelligence, Inc.
+         S.S. or I.R.S. Identification No. of Above Person:
+
+
+________________________________________________________________________________
+2)   Check the Appropriate Box if a Member of a Group (See Instructions):
+
+                                                                  (a) [ ]
+                                                                  (b) [ ]
+
+________________________________________________________________________________
+3)   SEC Use Only
+
+
+________________________________________________________________________________
+4)   Source of Funds (See Instructions): OO
+
+
+________________________________________________________________________________
+5)   Check if Disclosure of Legal Proceeding is Required
+     Pursuant to Items 2(d) or 2(e)                                   [ ]
+
+
+________________________________________________________________________________
+6)   Citizenship or Place of Organization: United States of America
+
+
+________________________________________________________________________________
+                7)  Sole Voting Power:
+                       2,858,734
+  Number of
+
+   Shares       ________________________________________________________________
+                8)   Shared Voting Power:
+Beneficially          0
+
+ Owned by
+                ________________________________________________________________
+   Each         9)   Sole Dispositive Power:
+                      2,858,734
+Reporting
+
+ Person         ________________________________________________________________
+                10)  Shared Dispositive Power:
+ With                 0
+
+
+________________________________________________________________________________
+11)  Aggregate Amount Beneficially Owned by Each Reporting Person:
+        2,858,734 shares
+
+
+________________________________________________________________________________
+12)  Check if the Aggregate Amount in Row (11) Excludes Certain Shares (See
+     Instructions)                                                   [ ]
+
+
+________________________________________________________________________________
+13)  Percent of Class Represented by Amount in Row (11):  17.18
+
+
+
+________________________________________________________________________________
+14)  Type of Reporting Person (See Instructions):
+      CO
+
+
+<PAGE>
+
+CUSIP No. 68241D206                    13D                     PAGE 2 of 3 PAGES
+
+
+________________________________________________________________________________
+ITEM 1.    SECURITY AND ISSUER.
+
+Securities acquired:       Common Stock
+
+Issuer:                    110 Media Group, Inc.
+
+Address of Issuer:         31 West Main Street, Suite 312
+                           Patchogue, NY 11772
+
+
+________________________________________________________________________________
+ITEM 2.  IDENTITY AND BACKGROUND.
+
+Reporting Person:          Nextelligence, Inc.
+
+State of Incorporation:    Delaware
+
+Principal Business:                 Technology Development
+
+Address of Business and
+Principal Office:          612 East Central Blvd.
+                                    Orlando, Florida  32801
+
+         During the last five years, Nextelligence, Inc. has not (i) been
+convicted in a criminal proceeding (excluding traffic violations or similar
+misdemeanors), or (ii) been a party to a civil proceeding of a judicial or
+administrative body of competent jurisdiction and as a result of such
+proceedings was or is subject to a judgment, decree or final order enjoining
+future violations of, or prohibiting or mandating activities subject to, federal
+or state securities laws or finding any violations with respect to such laws.
+
+
+________________________________________________________________________________
+ITEM 3.  SOURCE AND AMOUNT OF FUNDS.
+
+         The shares of Common Stock of the Issuer were acquired by
+Nextelligence, Inc. in exchange for all of its shares of common stock of Global
+Portals Online, Inc. No funds were borrowed by Nextelligence, Inc., to acquire
+shares of Common Stock of the Issuer.
+
+
+________________________________________________________________________________
+ITEM 4.  PURPOSE OF THE TRANSACTION.
+
+         Nextelligence, Inc. acquired its shares of Common Stock of the Issuer
+in connection with the exchange of all of its shares of common stock of Global
+Portals Online, Inc. for shares of Common Stock of the Issuer. Nextelligence,
+Inc. does not at present have any plans or proposals which relate to or would
+result in any of the actions specified in clauses (a) through (j) of Item 4 of
+Schedule 13D. Nextelligence, Inc. reserves the right from time to time to
+acquire additional shares of Common Stock of the Issuer, to dispose of shares of
+Common Stock of the Issuer, and to engage in any or all of the actions specified
+in clauses (a) through (j) of Item 4 of Schedule 13D.
+
+
+
+<PAGE>
+
+CUSIP No. 68241D206                    13D                     PAGE 3 of 3 PAGES
+
+
+________________________________________________________________________________
+ITEM 5.    INTEREST IN SECURITIES OF THE ISSUER.
+
+         (a) As of the date hereof, Nextelligence, Inc. directly or indirectly
+holds 2,858,734 shares of Common Stock of the Issuer. Nextelligence, Inc.
+believes that, based upon information available to it, these shares represent
+approximately 17.18% of the aggregate number of issued and outstanding shares of
+Common Stock of the Issuer.
+
+         (b) Nextelligence, Inc. has the sole power to vote and to dispose of
+2,858,734 shares of Common Stock of the Issuer.
+
+         (c) On December 22, 2005, the Issuer acquired all of the issued and
+outstanding shares of Common Stock of Global Portals Online, Inc. pursuant to
+the provisions of an Agreement and Plan of Share Exchange dated as of December
+1, 2005 and shares of Common Stock of the Issuer were issued to Nextelligence,
+Inc.
+
+         (d) Not Applicable.
+
+         (e) Not Applicable.
+
+
+________________________________________________________________________________
+ITEM 6.  CONTRACTS, ARRANGEMENTS, UNDERSTANDINGS AND RELATIONSHIPS WITH RESPECT
+         TO SECURITIES OF THE ISSUER.
+
+         Not Applicable.
+
+
+________________________________________________________________________________
+
+ITEM 7.  MATERIAL TO BE FILED AS EXHIBITS.
+
+         Agreement and Plan of Share Exchange dated as of December 1, 2005 by
+and between 110 Media Group, Inc. and Global Portals Online, Inc. is
+incorporated by reference to the Issuer's Current Report on Form 8-K filed on
+December 28, 2005.
+
+
+_______________________________________________________________________________
+
+<PAGE>
+
+                                    SIGNATURE
+
+         After reasonable inquiry and to the best of my knowledge and belief, I
+certify that the information set forth in this statement is true, complete and
+correct.
+
+
+                                               Nextelligence, Inc.
+
+                                               By /s/ William A. Mobley, Jr.
+                                                  ------------------------------
+                                                  William A. Mobley, Jr.
+                                                  Chairman and Chief
+                                                  Executive Officer
+
+Date:    December 29, 2005
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

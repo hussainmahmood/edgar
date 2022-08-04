@@ -1,0 +1,160 @@
+<SEC-DOCUMENT>0001712314-21-000004.txt : 20210414
+<SEC-HEADER>0001712314-21-000004.hdr.sgml : 20210414
+<ACCEPTANCE-DATETIME>20210414160425
+ACCESSION NUMBER:		0001712314-21-000004
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20210412
+FILED AS OF DATE:		20210414
+DATE AS OF CHANGE:		20210414
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Frye Andrew
+		CENTRAL INDEX KEY:			0001712314
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04448
+		FILM NUMBER:		21825745
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE BAXTER PARKWAY
+		CITY:			DEERFIELD
+		STATE:			IL
+		ZIP:			60015
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BAXTER INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000010456
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		IRS NUMBER:				360781620
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE BAXTER PKWY
+		STREET 2:		DF2-1W
+		CITY:			DEERFIELD
+		STATE:			IL
+		ZIP:			60015
+		BUSINESS PHONE:		8479482000
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE BAXTER PARKWAY
+		STREET 2:		DF2-1W
+		CITY:			DEERFIELD
+		STATE:			IL
+		ZIP:			60015
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BAXTER TRAVENOL LABORATORIES INC
+		DATE OF NAME CHANGE:	19880522
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BAXTER LABORATORIES INC
+		DATE OF NAME CHANGE:	19760608
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>edgar.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-04-12</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000010456</issuerCik>
+        <issuerName>BAXTER INTERNATIONAL INC</issuerName>
+        <issuerTradingSymbol>BAX</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001712314</rptOwnerCik>
+            <rptOwnerName>Frye Andrew</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>ONE BAXTER PARKWAY</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>DEERFIELD</rptOwnerCity>
+            <rptOwnerState>IL</rptOwnerState>
+            <rptOwnerZipCode>60015</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>SVP, President, APAC</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, $1 par value</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2021-04-12</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10999</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>84.79</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>9041</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Transaction effected pursuant to a Rule 10b5-1 trading plan entered into by Mr. Frye with respect to certain vested restricted stock units previously granted by Baxter International Inc. (&quot;BII&quot;)  to Mr. Frye.</footnote>
+        <footnote id="F2">Price reflects weighted average sales price. Range of prices for transactions are $84.38 through $85.02.  Full information regarding the number of shares sold at each separate price will be provided by BII upon request.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Matthew Rice, as attorney in-fact for Andrew Frye</signatureName>
+        <signatureDate>2021-04-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

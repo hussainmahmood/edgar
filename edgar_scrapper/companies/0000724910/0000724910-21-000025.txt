@@ -1,0 +1,192 @@
+<SEC-DOCUMENT>0000724910-21-000025.txt : 20210831
+<SEC-HEADER>0000724910-21-000025.hdr.sgml : 20210831
+<ACCEPTANCE-DATETIME>20210831161845
+ACCESSION NUMBER:		0000724910-21-000025
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20210805
+FILED AS OF DATE:		20210831
+DATE AS OF CHANGE:		20210831
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BRACKE JAMES W
+		CENTRAL INDEX KEY:			0001265843
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-12196
+		FILM NUMBER:		211227234
+
+	MAIL ADDRESS:	
+		STREET 1:		15411 MASON POINTE
+		CITY:			EDEN PRAIRIE
+		STATE:			MN
+		ZIP:			55347
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NVE CORP /NEW/
+		CENTRAL INDEX KEY:			0000724910
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				411424202
+		STATE OF INCORPORATION:			MN
+		FISCAL YEAR END:			0331
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11409 VALLEY VIEW ROAD
+		CITY:			EDEN PRAIRIE
+		STATE:			MN
+		ZIP:			55344
+		BUSINESS PHONE:		9528299217
+
+	MAIL ADDRESS:	
+		STREET 1:		11409 VALLEY VIEW ROAD
+		CITY:			EDEN PRAIRIE
+		STATE:			MN
+		ZIP:			55344
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PREMIS CORP
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2021-08-05</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0000724910</issuerCik>
+        <issuerName>NVE CORP /NEW/</issuerName>
+        <issuerTradingSymbol>NVEC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001265843</rptOwnerCik>
+            <rptOwnerName>BRACKE JAMES W</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>15411 MASON POINTE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>EDEN PRAIRIE</rptOwnerCity>
+            <rptOwnerState>MN</rptOwnerState>
+            <rptOwnerZipCode>55347</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Non-Qualified Stock Option</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>72.2</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2021-08-05</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2031-08-05</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <ownerSignature>
+        <signatureName>/s/ Daniel A. Baker, by power of attorney</signatureName>
+        <signatureDate>2021-08-31</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>jwb-poa.htm
+<DESCRIPTION>POWER OF ATTORNEY
+<TEXT>
+<html> <div style="font-size: 10pt; font-family: Times New Roman;">
+<div align="center"><b>POWER OF ATTORNEY</b></div><br>I hereby constitute and appoint Daniel A. Baker and Curt A. Reynders, and each
+of them, acting alone without any of the others, my true and lawful attorneys-in-fact
+and agents, with full power of substitution and resubstitution, for me and in
+my name, place and stead, in any and all capacities, to prepare, sign and file
+any and all Forms 3, 4, 5 and 144 and any successor Forms (and any amendments
+or corrections to all such forms, and any related documents or items) which they
+deem needed or desirable with the Securities and Exchange Commission and any and
+all stock exchanges, granting unto said attorneys-in-fact and agents full power
+and authority to do and perform each and every act and thing necessary or appropriate
+in connection with this power and authority, hereby ratifying and confirming all
+that said attorneys-in-fact and agents, or their substitute or substitutes, may
+lawfully do or cause to be done by virtue thereof. <br>
+<br>
+</div>
+<table style="font-size: 10pt; font-family: Times New Roman;" border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td valign="top" style="padding:0in 0in 0in 0in;" align="right" width="20%">by:&nbsp;&nbsp;
+</td>
+<td valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;" width="25%">
+/s/ James W. Bracke&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td valign="top" rowspan="5">&nbsp;</td>
+</tr>
+<tr>
+<td style="padding:0in 0in 0in 0in;">&nbsp;</td>
+<td valign="top" style="padding:0in 0in 0in 0in;">&nbsp;</td>
+</tr>
+<tr>
+<td valign="top" style="padding:0in 0in 0in 0in;" align="right">Printed
+Name:&nbsp; </td>
+<td valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;">
+JAMES W. BRACKE</td>
+</tr>
+<tr>
+<td style="padding:0in 0in 0in 0in;">&nbsp;</td>
+<td valign="top" style="padding:0in 0in 0in 0in;">&nbsp;</td>
+</tr>
+<tr>
+<td valign="top" style="padding:0in 0in 0in 0in;" align="right">Date:&nbsp;
+</td>
+<td valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;">8/24/21
+</td>
+</tr>
+</table>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,331 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ SMhbPE+1xmtvRXgKrjNyGi86gOeaLfSjUmWPj5tS4NB/m6QuKKaHEIsxWvkLkgO7
+ GgIFwEvVXRUcdLOcFZpyqw==
+
+<SEC-DOCUMENT>0000950131-99-001008.txt : 19990219
+<SEC-HEADER>0000950131-99-001008.hdr.sgml : 19990219
+ACCESSION NUMBER:		0000950131-99-001008
+CONFORMED SUBMISSION TYPE:	SC 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19990218
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			1 800 CONTACTS INC
+		CENTRAL INDEX KEY:			0001050122
+		STANDARD INDUSTRIAL CLASSIFICATION:	OPTICAL INSTRUMENTS & LENSES [3827]
+		IRS NUMBER:				870571643
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+		SEC ACT:		
+		SEC FILE NUMBER:	005-54695
+		FILM NUMBER:		99545129
+
+	BUSINESS ADDRESS:	
+		STREET 1:		13751 S WADSWORTH PARK DR SUITE D-140
+		CITY:			DRAPER
+		STATE:			UT
+		ZIP:			84020
+		BUSINESS PHONE:		8015728225
+
+	MAIL ADDRESS:	
+		STREET 1:		13751 S WADSWORTH PARK DR SUITE D-140
+		CITY:			DRAPER
+		STATE:			UT
+		ZIP:			84020
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NICHOLS JOHN E
+		CENTRAL INDEX KEY:			0001079426
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O 1-800 CONTACTS INC
+		STREET 2:		66 E WADSWORTH PARK DRIVE 3RD FLOOR
+		CITY:			DRAPER
+		STATE:			UT
+		ZIP:			84020
+		BUSINESS PHONE:		8015728225
+
+	MAIL ADDRESS:	
+		STREET 1:		66 E WADSWORTH PARK DRIVE 3RD FLOOR
+		CITY:			DRAPER
+		STATE:			UT
+		ZIP:			84020
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<DESCRIPTION>SCHEDULE 13G
+<TEXT>
+
+<PAGE>
+ 
+
+                      SECURITIES AND EXCHANGE COMMISSION
+                            WASHINGTON, D.C. 20549
+
+                                 -------------
+
+                                 SCHEDULE 13G
+                                (Rule 13d-102)
+
+            INFORMATION TO BE INCLUDED IN STATEMENTS FILED PURSUANT
+                 TO RULES 13d-1(b), (c) AND (d) AND AMENDMENTS
+                    THERETO FILED PURSUANT TO RULE 13d-2(b)
+                           (Amendment No. _)/1/
+
+
+
+                             1-800 CONTACTS, INC.
+- --------------------------------------------------------------------------------
+                               (Name of Issuer)
+
+                    Common Stock, par value $0.01 per share
+- --------------------------------------------------------------------------------
+                        (Title of Class of Securities)
+
+                                  681977 10 4
+- --------------------------------------------------------------------------------
+                                (CUSIP Number)
+
+Check the appropriate box to designate the rule pursuant to which this Schedule
+is filed:
+
+[_]  Rule 13d-1(b)
+
+[_]  Rule 13d-(c)
+
+[_]  Rule 13d-1(d)
+
+
+                                 ------------
+                               Page 1 of 6 Pages
+
+- ---------------
+  /1/The remainder of this cover page shall be filled out for a reporting
+person's initial filing on this form with respect to the subject class of
+securities, and for any subsequent amendment containing information which would
+alter disclosures provided in a prior cover page.
+
+     The information required in the remainder of this cover page shall not be
+deemed to be "filed" for the purpose of Section 18 of the Securities Exchange
+Act of 1934 ("Act") or otherwise subject to the liabilities of that section of
+the Act but shall be subject to all other provisions of the Act (however, see
+the Notes).
+<PAGE>
+ 
+- ---------------------------                                --------------------
+CUSIP NO. 681977 10 4                    13G                 Page 2 of 6 Pages
+- ---------------------------                                --------------------
+ 
+===============================================================================
+      NAME OF REPORTING PERSON
+ 1    
+      John F. Nichols                                                           
+                                                                               
+      I.R.S. IDENTIFICATION NO. OF ABOVE PERSON (ENTITIES ONLY):
+- ------------------------------------------------------------------------------
+      CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*
+ 2                                                              (a) [_]
+                                                                (b) [X]
+                                                 
+- ------------------------------------------------------------------------------
+      SEC USE ONLY
+ 3
+ 
+
+- ------------------------------------------------------------------------------
+      CITIZENSHIP OR PLACE OF ORGANIZATION
+ 4                                 
+
+      United States of America
+- ------------------------------------------------------------------------------
+                          SOLE VOTING POWER
+                     5                                                       
+     NUMBER OF            
+                          931,940
+      SHARES       -----------------------------------------------------------
+                          SHARED VOTING POWER
+   BENEFICIALLY      6       
+                          None
+     OWNED BY
+                   -----------------------------------------------------------
+       EACH               SOLE DISPOSITIVE POWER
+                     7       
+    REPORTING             
+                          931,940
+      PERSON       -----------------------------------------------------------
+                          SHARED DISPOSITIVE POWER
+       WITH          8       
+                          None
+- ------------------------------------------------------------------------------
+      AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+ 9                           
+      931,940
+- ------------------------------------------------------------------------------
+      CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES*
+10
+                                                                    [_]
+ 
+- ------------------------------------------------------------------------------
+      PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+11           
+      14.5%                                                              
+
+- ------------------------------------------------------------------------------
+      TYPE OF REPORTING PERSON*
+12           
+      Individual
+
+- ------------------------------------------------------------------------------
+
+                    * SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+                               Page 2 of 6 Pages
+<PAGE>
+ 
+                                  SCHEDULE 13G
+
+Item 1(a). Name of Issuer:
+
+           1-800 CONTACTS, Inc.
+
+Item 1(b). Address of Issuer's Principal Executive Offices:
+
+           66 E. Wadsworth Park Drive, 3rd Floor
+           Draper, Utah 84020
+
+Item 2(a). Name of Person Filing:
+
+           This Schedule 13G is being filed by John F. Nichols, an individual
+           (the "Reporting Person"). As of December 31, 1998, the Reporting
+           Person had direct beneficial ownership of 931,940 shares of common
+           stock, par value $.01 per share (the "Common Stock"), of 1-800
+           CONTACTS, Inc., a Delaware corporation (the "Company").
+
+Item 2(b). Address of Principal Business Office or, if none, Residence:
+
+           The address of the principal business office of the Reporting Person
+           is c/o 1-800 CONTACTS, Inc., 66 E. Wadsworth Park Drive, 3rd Floor,
+           Draper, Utah 84020.
+
+Item 2(c). Citizenship:
+
+           The Reporting Person is a citizen of the United States.
+
+Item 2(d). Title of Class of Securities:
+
+           Common Stock, par value $.01 per share.
+
+Item 2(e). CUSIP No.:
+
+           681977 10 4
+
+Item 3.   If this statement is filed pursuant to Rules 13d-1(b), or 13d-2(b) or
+          (c), check whether the person filing is a:
+
+          Not Applicable.
+
+Item 4.   Ownership:
+
+          As of December 31, 1998, the Reporting Person had the sole power to
+          vote or to direct the vote and sole power to dispose or to direct the
+          disposition of shares of Common Stock as follows:
+
+                               Page 3 of 6 Pages
+<PAGE>
+ 
+          (a)  Amount beneficially owned: 931,940
+
+          (b)  Percent of class: 14.5%
+
+          (c)  Number of shares as to which such person has:
+
+               (i)   Sole power to vote or to direct the vote: 931,940
+
+               (ii)  Shared power to vote or to direct the vote:  None.
+
+               (iii) Sole power to dispose or to direct the disposition of:
+                     931,940
+
+               (iv)  Shared power to dispose or to direct the disposition of:
+                     None.
+
+          As of December 31, 1998, the Reporting Person had direct beneficial
+          ownership of 931,940 shares of Common Stock.
+
+          All percentages calculated in this Schedule 13G are based upon an
+          aggregate of 6,415,568 shares of Common Stock outstanding as of
+          November 17, 1998, as disclosed in the Company's Quarterly Report on
+          Form 10-Q for the Quarterly Period ended September 30, 1998.
+
+Item 5.   Ownership of Five Percent or Less of a Class:
+
+          If this statement is being filed to report the fact that as of the
+          date hereof, the Reporting Person has ceased to be the beneficial
+          owner of more than five percent of the class of securities, check the
+          following [ ].
+
+Item 6.   Ownership of More Than Five Percent on Behalf of Another Person:
+
+          No other person has the right to receive or the power to direct the
+          receipt of dividends from, or the proceeds from the sale of, the
+          shares of Common Stock listed herein.
+
+Item 7.   Identification and Classification of the Subsidiary Which Acquired the
+          Security Being Reported on By the Parent Holding Company:
+
+          Not Applicable.
+
+Item 8.   Identification and Classification of Members of the Group:
+
+          Not Applicable.
+
+Item 9.   Notice of Dissolution of Group:
+
+          Not Applicable.
+
+                               Page 4 of 6 Pages
+<PAGE>
+ 
+Item 10.  Certification:
+
+          Not Applicable.
+
+                               Page 5 of 6 Pages
+<PAGE>
+ 
+                                   SIGNATURE
+
+     After reasonable inquiry and to the best of my knowledge and belief,
+the undersigned certifies that the information set forth in this statement is
+true, complete and correct.
+
+
+ 
+ 
+Date: February 18, 1999                           /s/ John F. Nichols
+                                                  ------------------------ 
+                                                  Name: John F. Nichols
+
+                               Page 6 of 6 Pages
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

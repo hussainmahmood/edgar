@@ -1,0 +1,145 @@
+<SEC-DOCUMENT>0001172661-12-000550.txt : 20120514
+<SEC-HEADER>0001172661-12-000550.hdr.sgml : 20120514
+<ACCEPTANCE-DATETIME>20120514161245
+ACCESSION NUMBER:		0001172661-12-000550
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20120331
+FILED AS OF DATE:		20120514
+DATE AS OF CHANGE:		20120514
+EFFECTIVENESS DATE:		20120514
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ABRAMS CAPITAL MANAGEMENT, L.P.
+		CENTRAL INDEX KEY:			0001358706
+		IRS NUMBER:				204043368
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-11903
+		FILM NUMBER:		12838840
+
+	BUSINESS ADDRESS:	
+		STREET 1:		222 BERKELEY STREET, 22ND FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+		BUSINESS PHONE:		617-646-6100
+
+	MAIL ADDRESS:	
+		STREET 1:		222 BERKELEY STREET, 22ND FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PAMET CAPITAL MANAGEMENT, LP
+		DATE OF NAME CHANGE:	20060407
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>AbramsCapital1Q12.txt
+<DESCRIPTION>FORM 13F HOLDINGS REPORT
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C.  20549
+
+                                    Form 13F
+
+                              Form 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended: March 31, 2012
+
+Check here if Amendment [  ]; Amendment Number:
+This Amendment (Check only one.): [  ] is a restatement.
+                                  [  ] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name:    Abrams Capital Management, L.P.
+Address: 222 Berkeley Street
+         22nd Floor
+         Boston, MA  02116
+
+13F File Number:  028-11903
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:      Fred Leif
+Title:     Chief Financial Officer
+Phone:     617-646-6100
+
+Signature, Place, and Date of Signing:
+
+ /s/      Fred Leif     Boston, MA     May 14, 2012
+
+Report Type (Check only one.):
+
+[ X]         13F HOLDINGS REPORT.
+
+[  ]         13F NOTICE.
+
+[  ]         13F COMBINATION REPORT.
+
+<PAGE>
+
+                              FORM 13F SUMMARY PAGE
+
+Report Summary:
+
+Number of Other Included Managers:         0
+
+Form 13F Information Table Entry Total:    18
+
+Form 13F Information Table Value Total:    $1,143,740 (thousands)
+
+List of Other Included Managers:
+
+Provide a numbered list of the name(s) and Form 13F file number(s) of all
+institutional managers with respect to which this report is filed, other
+than the manager filing this report.
+
+NONE
+
+<PAGE>
+
+<TABLE>                       <C>             <C>
+                                                     FORM 13F INFORMATION TABLE
+                                                             VALUE  SHARES/ SH/ PUT/ INVSTMT  OTHER            VOTING AUTHORITY
+NAME OF ISSUER                 TITLE OF CLASS   CUSIP     (x$1000)  PRN AMT PRN CALL DSCRETN MANAGERS         SOLE   SHARED     NONE
+------------------------------ ---------------- --------- -------- -------- --- ---- ------- ------------ -------- -------- --------
+ARBITRON INC                   COM              03875Q108   108853  2943558 SH       SOLE                  2943558        0        0
+BLOCK H & R INC                COM              093671105   208892 12683174 SH       SOLE                 12683174        0        0
+CLEAR CHANNEL OUTDOOR HLDGS    CL A             18451C109    26768  3354390 SH       SOLE                  3354390        0        0
+COMMONWEALTH REIT              COM SH BEN INT   203233101    16438   882792 SH       SOLE                   882792        0        0
+GOOGLE INC                     CL A             38259P508    69457   108316 SH       SOLE                   108316        0        0
+LAMAR ADVERTISING CO           CL A             512815101   301612  9306141 SH       SOLE                  9306141        0        0
+OMEGA HEALTHCARE INVS INC      COM              681936100    14790   695673 SH       SOLE                   695673        0        0
+ROYAL BK SCOTLAND GROUP PLC    SP ADR PREF T    780097713    16283   857018 SH       SOLE                   857018        0        0
+ROYAL BK SCOTLAND GROUP PLC    SP ADR PREF S    780097739    15554   931375 SH       SOLE                   931375        0        0
+ROYAL BK SCOTLAND GROUP PLC    ADR PREF SHS R   780097747     5304   325401 SH       SOLE                   325401        0        0
+ROYAL BK SCOTLAND GROUP PLC    ADR PFD SER P    780097762     5808   356299 SH       SOLE                   356299        0        0
+ROYAL BK SCOTLAND GROUP PLC    ADR PREF SER N   780097770     9730   602100 SH       SOLE                   602100        0        0
+ROYAL BK SCOTLAND GROUP PLC    SP ADR PREF M    780097796    11506   699900 SH       SOLE                   699900        0        0
+SANOFI                         RIGHT 12/31/2020 80105N113    29430 21800000 SH       SOLE                 21800000        0        0
+SLM CORP                       COM              78442P106   196399 12461892 SH       SOLE                 12461892        0        0
+SUNCOKE ENERGY INC             COM              86722A103      236    16619 SH       SOLE                    16619        0        0
+TEVA PHARMACEUTICAL INDS LTD   ADR              881624209   106116  2355000 SH       SOLE                  2355000        0        0
+WESCO AIRCRAFT HLDGS INC       COM              950814103      564    34801 SH       SOLE                    34801        0        0
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

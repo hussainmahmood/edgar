@@ -1,0 +1,373 @@
+<SEC-DOCUMENT>0001140361-21-015771.txt : 20210504
+<SEC-HEADER>0001140361-21-015771.hdr.sgml : 20210504
+<ACCEPTANCE-DATETIME>20210504171640
+ACCESSION NUMBER:		0001140361-21-015771
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20210503
+FILED AS OF DATE:		20210504
+DATE AS OF CHANGE:		20210504
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			KKR 2006 GP LLC
+		CENTRAL INDEX KEY:			0001432740
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38962
+		FILM NUMBER:		21889829
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O KOHLBERG KRAVIS ROBERTS & CO. L.P.
+		STREET 2:		30 HUDSON YARDS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+		BUSINESS PHONE:		212-230-9742
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O KOHLBERG KRAVIS ROBERTS & CO. L.P.
+		STREET 2:		30 HUDSON YARDS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			KKR Associates 2006 LP
+		CENTRAL INDEX KEY:			0001432739
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38962
+		FILM NUMBER:		21889830
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O KOHLBERG KRAVIS ROBERTS & CO. L.P.
+		STREET 2:		30 HUDSON YARDS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+		BUSINESS PHONE:		212-230-9742
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O KOHLBERG KRAVIS ROBERTS & CO. L.P.
+		STREET 2:		30 HUDSON YARDS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			New Omaha Holdings L.P.
+		CENTRAL INDEX KEY:			0001654991
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38962
+		FILM NUMBER:		21889833
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O KOHLBERG KRAVIS ROBERTS & CO. L.P.
+		STREET 2:		30 HUDSON YARDS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+		BUSINESS PHONE:		212-750-8300
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O KOHLBERG KRAVIS ROBERTS & CO. L.P.
+		STREET 2:		30 HUDSON YARDS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			KKR 2006 Fund L.P.
+		CENTRAL INDEX KEY:			0001432741
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38962
+		FILM NUMBER:		21889831
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O KOHLBERG KRAVIS ROBERTS & CO. L.P.
+		STREET 2:		30 HUDSON YARDS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+		BUSINESS PHONE:		212-230-9742
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O KOHLBERG KRAVIS ROBERTS & CO. L.P.
+		STREET 2:		30 HUDSON YARDS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			New Omaha Holdings LLC
+		CENTRAL INDEX KEY:			0001654990
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38962
+		FILM NUMBER:		21889832
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O KOHLBERG KRAVIS ROBERTS & CO. L.P.
+		STREET 2:		30 HUDSON YARDS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+		BUSINESS PHONE:		212-750-8300
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O KOHLBERG KRAVIS ROBERTS & CO. L.P.
+		STREET 2:		30 HUDSON YARDS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FISERV INC
+		CENTRAL INDEX KEY:			0000798354
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		IRS NUMBER:				391506125
+		STATE OF INCORPORATION:			WI
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		255 FISERV DR
+		STREET 2:		PO BOX 979
+		CITY:			BROOKFIELD
+		STATE:			WI
+		ZIP:			53045
+		BUSINESS PHONE:		4148795000
+
+	MAIL ADDRESS:	
+		STREET 1:		255 FISERV DRIVE
+		CITY:			BROOKFIELD
+		STATE:			WI
+		ZIP:			53045
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-05-03</periodOfReport>
+
+    <notSubjectToSection16>true</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000798354</issuerCik>
+        <issuerName>FISERV INC</issuerName>
+        <issuerTradingSymbol>FISV</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001654991</rptOwnerCik>
+            <rptOwnerName>New Omaha Holdings L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O KOHLBERG KRAVIS ROBERTS &amp; CO. L.P.</rptOwnerStreet1>
+            <rptOwnerStreet2>30 HUDSON YARDS</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10001</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isTenPercentOwner>true</isTenPercentOwner>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001654990</rptOwnerCik>
+            <rptOwnerName>New Omaha Holdings LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O KOHLBERG KRAVIS ROBERTS &amp; CO. L.P.</rptOwnerStreet1>
+            <rptOwnerStreet2>30 HUDSON YARDS</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10001</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isTenPercentOwner>true</isTenPercentOwner>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001432741</rptOwnerCik>
+            <rptOwnerName>KKR 2006 Fund L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O KOHLBERG KRAVIS ROBERTS &amp; CO. L.P.</rptOwnerStreet1>
+            <rptOwnerStreet2>30 HUDSON YARDS</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10001</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isTenPercentOwner>true</isTenPercentOwner>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001432739</rptOwnerCik>
+            <rptOwnerName>KKR Associates 2006 LP</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O KOHLBERG KRAVIS ROBERTS &amp; CO. L.P.</rptOwnerStreet1>
+            <rptOwnerStreet2>30 HUDSON YARDS</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10001</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isTenPercentOwner>true</isTenPercentOwner>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001432740</rptOwnerCik>
+            <rptOwnerName>KKR 2006 GP LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O KOHLBERG KRAVIS ROBERTS &amp; CO. L.P.</rptOwnerStreet1>
+            <rptOwnerStreet2>30 HUDSON YARDS</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10001</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isTenPercentOwner>true</isTenPercentOwner>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2021-05-03</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>23000000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>117.7</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>62300667</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnotes</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This amount represents the $118.30 secondary public offering price per share of common stock, par value $0.01 per share (&quot;Common Stock&quot;), of Fiserv, Inc. less the underwriting discount of $0.60 per share.</footnote>
+        <footnote id="F2">Shares of Common Stock of Fiserv, Inc. are held by New Omaha Holdings L.P. New Omaha Holdings LLC is the general partner of New Omaha Holdings L.P. KKR 2006 Fund L.P. is the sole member of New Omaha Holdings LLC. KKR Associates 2006 L.P. is the general partner of KKR 2006 Fund L.P. KKR 2006 GP LLC is the general partner of KKR Associates 2006 L.P. KKR Group Partnership L.P. is the designated member of KKR 2006 GP LLC. KKR Group Holdings Corp. is the general partner of KKR Group Partnership L.P. KKR &amp; Co. Inc. is the sole shareholder of KKR Group Holdings Corp. KKR Management LLP is the Series I preferred stockholder of KKR &amp; Co. Inc. Messrs. Henry R. Kravis and George R. Roberts are the founding partners of KKR Management LLP.</footnote>
+        <footnote id="F3">Each of the Reporting Persons may be deemed to be the beneficial owner of all or a portion of the securities reported herein. The filing of this statement shall not be deemed to be an admission that, for purposes of Section 16 of the Securities Exchange Act of 1934 or otherwise, the Reporting Persons are the beneficial owners of any securities reported herein, and the Reporting Persons disclaim beneficial ownership of such securities except to the extent of their pecuniary interest therein.</footnote>
+    </footnotes>
+
+    <remarks>Following the sale reported herein, New Omaha Holdings L.P. holds shares of Common Stock representing less than 10% of the outstanding Common Stock of the Issuer.  However, New Omaha Holdings L.P. may be deemed to beneficially own 23,000,000 shares sold after the record date for the Issuer's annual meeting of shareholders to be held on May 19, 2021 solely with respect to the right to vote such shares of Common Stock at the annual meeting.
+
+Because no more than 10 reporting persons can file any one Form 4 through the Securities and Exchange Commission's EDGAR system, certain affiliates of the Reporting Persons have filed a separate Form 4.</remarks>
+
+    <ownerSignature>
+        <signatureName>NEW OMAHA HOLDINGS L.P. By: New Omaha Holdings LLC, its general partner By: /s/ Scott C. Nuttall Name: Scott C. Nuttall Title: President</signatureName>
+        <signatureDate>2021-05-04</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>NEW OMAHA HOLDINGS LLC By: /s/ Scott C. Nuttall Name: Scott C. Nuttall Title: President</signatureName>
+        <signatureDate>2021-05-04</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>KKR 2006 FUND L.P. By: KKR Associates 2006 L.P., its general partner By: KKR 2006 GP LLC, its general partner By: /s/ Terence Gallagher Name: Terence Gallagher Title: Attorney-in-fact for Robert H. Lewin, Chief Financial Officer</signatureName>
+        <signatureDate>2021-05-04</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>KKR ASSOCIATES 2006 L.P. By: KKR 2006 GP LLC, its general partner By: /s/ Terence Gallagher Name: Terence Gallagher, Title: Attorney-in-fact for Robert H. Lewin, Chief Financial Officer</signatureName>
+        <signatureDate>2021-05-04</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>KKR 2006 GP LLC By: /s/ Terence Gallagher Name: Terence Gallagher Title: Attorney-in-fact for Robert H. Lewin, Chief Financial Officer</signatureName>
+        <signatureDate>2021-05-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

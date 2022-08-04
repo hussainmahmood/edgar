@@ -1,0 +1,10 @@
+Year,2012,2011
+Operating Cash Flow,"-11,204,400","-3,786,790"
+Captial Expenditure,"1,161,757","748,737"
+Cashflow from Investing,"20,271,128","169,069"
+Cash Flow from Financing,0,0
+Net Change,"9,066,728","-3,617,721"
+Opening Cash,"405,356","4,023,077"
+Closing Cash,"9,472,084","405,356"
+FCFF,"-12,366,157","-4,535,527"
+FCFE,"-12,366,157","-4,535,527"

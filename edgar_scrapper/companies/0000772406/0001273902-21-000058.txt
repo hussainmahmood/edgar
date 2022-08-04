@@ -1,0 +1,154 @@
+<SEC-DOCUMENT>0001273902-21-000058.txt : 20210706
+<SEC-HEADER>0001273902-21-000058.hdr.sgml : 20210706
+<ACCEPTANCE-DATETIME>20210706161636
+ACCESSION NUMBER:		0001273902-21-000058
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20210701
+FILED AS OF DATE:		20210706
+DATE AS OF CHANGE:		20210706
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			DEHNE TIMOTHY R
+		CENTRAL INDEX KEY:			0001192889
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-17795
+		FILM NUMBER:		211074279
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O NATIONAL INSTRUMENTS
+		STREET 2:		11500 MOPAC BLDG B
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78759
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CIRRUS LOGIC, INC.
+		CENTRAL INDEX KEY:			0000772406
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				770024818
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0327
+
+	BUSINESS ADDRESS:	
+		STREET 1:		800 WEST 6TH STREET
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78701
+		BUSINESS PHONE:		512-851-4000
+
+	MAIL ADDRESS:	
+		STREET 1:		800 WEST 6TH STREET
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78701
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CIRRUS LOGIC INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>edgardoc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-07-01</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000772406</issuerCik>
+        <issuerName>CIRRUS LOGIC, INC.</issuerName>
+        <issuerTradingSymbol>CRUS</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001192889</rptOwnerCik>
+            <rptOwnerName>DEHNE TIMOTHY R</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>800 WEST 6TH STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>AUSTIN</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>78701</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2021-07-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>84.2132</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>15014</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This transaction was made pursuant to a Rule 10b5-1 Plan adopted by the reporting person on November 23, 2020.</footnote>
+        <footnote id="F2">The price reported in Table I - Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $83.885 to $84.935. The reporting person will provide full information regarding the number of shares sold at each separate price within the ranges set forth in this footnote to any security holder of Cirrus Logic, Inc. or the staff of the SEC upon request.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>By: Gregory Scott Thomas attorney-in-fact		 For: Tim R. Dehne</signatureName>
+        <signatureDate>2021-07-06</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

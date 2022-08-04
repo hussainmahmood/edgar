@@ -1,0 +1,190 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ SAgv/YF+7/+pMHUHFnotj2Jc8KlTYCg2NIGdpnAiwc2kelB0sNKH6T6ejiS1H18t
+ TFVD7tKMKCw9wZJuAhM9RQ==
+
+<SEC-DOCUMENT>0000919574-08-004681.txt : 20080814
+<SEC-HEADER>0000919574-08-004681.hdr.sgml : 20080814
+<ACCEPTANCE-DATETIME>20080814125726
+ACCESSION NUMBER:		0000919574-08-004681
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20080630
+FILED AS OF DATE:		20080814
+DATE AS OF CHANGE:		20080814
+EFFECTIVENESS DATE:		20080814
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ABRAMS BISON INVESTMENTS, LLC
+		CENTRAL INDEX KEY:			0001317588
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-11161
+		FILM NUMBER:		081017002
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4800 HAMPDEN LANE
+		STREET 2:		SUITE 1050
+		CITY:			BETHESDA
+		STATE:			MD
+		ZIP:			20814
+		BUSINESS PHONE:		301-657-5925
+
+	MAIL ADDRESS:	
+		STREET 1:		4800 HAMPDEN LANE
+		STREET 2:		SUITE 1050
+		CITY:			BETHESDA
+		STATE:			MD
+		ZIP:			20814
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>d903075_13f-hr.txt
+<TEXT>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 13F
+                               FORM 13F Cover Page
+
+
+
+           Report for the Calendar Year or Quarter Ended June 30, 2008
+
+Check here if Amendment:           |_|; Amendment Number: ____
+
+This Amendment (Check only one):   |_| is a restatement
+                                   |_| adds new holding entries.
+
+Institutional Manager Filing this Report:
+
+Name:     Abrams Bison Investments, L.L.C.
+
+Address:  4800 Hampden Lane, Suite 1050
+          Bethesda, MD 20814
+
+
+13F File Number: 028- 11161
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby  represent that the person signing the report is authorized
+to submit it, that all information contained  herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:     Gavin M. Abrams
+Title:    Managing Member
+Phone:    (301) 657 5925
+
+
+Signature, Place and Date of Signing:
+
+   /s/ Gavin M. Abrams         Bethesda, Maryland            August 14, 2008
+- -----------------------     --------------------------    ----------------------
+     [Signature]                   [City, State]                   [Date]
+
+
+<PAGE>
+
+
+Report Type:  (Check only one):
+
+[x]      13F HOLDINGS REPORT.  (Check here if all holdings of this reporting
+         manager are reported in this report).
+
+[_]      13F NOTICE.  (Check here if no holdings reported are in this report,
+         and all holdings are reported by other reporting managers(s).)
+
+[_]      13F COMBINATION REPORT.  (Check here if a portion of the holdings for
+         this reporting manager are reported in this report and a portion are
+         reported by other reporting manager(s).)
+
+
+List of Other Managers Reporting for this Manager:
+
+NONE
+
+
+
+<PAGE>
+
+
+                             Form 13F SUMMARY PAGE
+
+
+Report Summary:
+
+
+Number of Other Included Managers:       1
+Form 13F Information Table Entry Total:  15
+Form 13F Information Table Value Total:  $566,729
+                                       (thousands)
+
+List of Other Included Managers:
+
+Provide a numbered list of the name(s) and Form 13F file number(s) of all
+institutional investment managers with respect to which this report is filed,
+other than the manager filing this report.
+
+
+No.        Form 13F File Number               Name
+
+1.         028-11159                          Abrams Bison Partners, L.P.
+
+
+<PAGE>
+
+<TABLE>
+
+                                                      FORM 13F INFORMATION TABLE
+
+<CAPTION>
+
+
+COLUMN 1                       COLUMN  2   COLUMN 3   COLUMN 4        COLUMN 5         COLUMN 6        COLUMN 7       COLUMN 8
+
+                               TITLE                    VALUE    SHRS OR    SH/  PUT/  INVESTMENT      OTHER      VOTING AUTHORITY
+NAME OF ISSUER                 OF CLASS    CUSIP      (X$1000)   PRN AMT    PRN  CALL  DISCRETION      MANAGERS  SOLE SHARED    NONE
+- --------------                 --------    -----      --------   -------    ---  ----  ----------      --------  ---- ------    ----
+<S>                            <C>         <C>        <C>        <C>        <C>  <C>   <C>             <C>       <C>  <C>       <C>
+ARBITRON INC                   COM         03875Q108    6,798      143,113  SH         SHARED-DEFINED  1                143,113
+AUTOZONE INC                   COM         053332102   37,210      307,493  SH         SHARED-DEFINED  1                307,493
+BED BATH & BEYOND INC          COM         075896100   65,895    2,345,000  SH         SHARED-DEFINED  1              2,345,000
+CBS CORP NEW                   CL B        124857202   19,626    1,007,000  SH         SHARED-DEFINED  1              1,007,000
+FREEPORT-MCMORAN COPPER & GO   COM         35671D857   42,821      365,400  SH         SHARED-DEFINED  1                365,400
+HASBRO INC                     COM         418056107   27,901      781,100  SH         SHARED-DEFINED  1                781,100
+HEIDRICK & STRUGGLES INTL IN   COM         422819102   40,369    1,460,526  SH         SHARED-DEFINED  1              1,460,526
+NVR INC                        COM         62944T105   43,063       86,112  SH         SHARED-DEFINED  1                 86,112
+PIONEER NAT RES CO             COM         723787107  112,701    1,439,715  SH         SHARED-DEFINED  1              1,439,715
+PIONEER NAT RES CO             COM         723787107   54,796      700,000  SH   CALL  SHARED-DEFINED  1                700,000
+SUNOCO INC                     COM         86764P109    1,967       48,330  SH         SHARED-DEFINED  1                 48,330
+UNITEDHEALTH GROUP INC         COM         91324P102   22,635      862,300  SH         SHARED-DEFINED  1                862,300
+VALERO ENERGY CORP NEW         COM         91913Y100   17,396      422,450  SH         SHARED-DEFINED  1                422,450
+VALERO ENERGY CORP NEW         COM         91913Y100   37,062      900,000  SH   CALL  SHARED-DEFINED  1                900,000
+RENAISSANCERE HOLDINGS LTD     COM         G7496G103   36,489      816,855  SH         SHARED-DEFINED  1                816,855
+
+</TABLE>
+
+
+
+SK 02802 0004 903075
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

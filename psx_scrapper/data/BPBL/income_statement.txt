@@ -1,0 +1,16 @@
+Year,2010,2009
+Sales,0,0
+COGS,0,0
+Gross Profit,0,0
+Administrative Expenses,"1,489,000","1,671,000"
+Selling & Distributive Expenses,0,0
+Financial Charges,0,0
+Other Income,"2,728,000","2,426,000"
+Change In Value of Investment,0,0
+Other Expenses,"24,000","12,000"
+EBITDA,"1,583,000","1,152,000"
+EBIT,"1,215,000","743,000"
+EBT,"1,215,000","743,000"
+Tax,"281,000","215,000"
+PAT,"934,000","528,000"
+EPS,0.16,0.09

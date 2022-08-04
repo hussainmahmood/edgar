@@ -1,0 +1,20 @@
+Year,2009,2008
+Cash in Hand and Bank,"16,235,207","28,814,468"
+Current Assets,"783,349,794","674,005,188"
+Fixed Assets,"89,373,230","97,397,083"
+Investment In Lease,"189,313,058","773,432,369"
+Non Current Assets,"11,160,468","11,054,468"
+Total Assets,"1,073,196,550","1,555,889,108"
+Total Current Liabilities,"589,382,450","494,945,128"
+Long Term Deposits,"141,555,117","369,897,867"
+Redeemable Capital,0,0
+Long Term Certificates of Investment,"1,500,000","2,000,000"
+Other Non Current Liabilities,"119,677,507","426,444,575"
+Total Liabilities,"852,115,074","1,293,287,570"
+Paid Up Capital,"215,000,000","200,000,000"
+Preferred Equity,0,0
+Reserves,"-12,888,703","42,632,928"
+Shareholder Equity,"221,081,476","262,601,538"
+Paid Up Value,10,10
+Number of Share,"21,500,000","20,000,000"
+Surplus On Revaluation of Assets,"18,970,179","19,968,610"

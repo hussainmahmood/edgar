@@ -1,0 +1,1251 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ HbKBhCoET61rRSmh6ArJ2cwBu4Ly2NjOPTSk2Og8QzRyvJNF8bbk4LSe9Tb9kSYw
+ 7M6lRMRxXSnVS8MN+7UqEA==
+
+<SEC-DOCUMENT>0001011438-07-000336.txt : 20070613
+<SEC-HEADER>0001011438-07-000336.hdr.sgml : 20070613
+<ACCEPTANCE-DATETIME>20070613170520
+ACCESSION NUMBER:		0001011438-07-000336
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20070613
+DATE AS OF CHANGE:		20070613
+GROUP MEMBERS:		RICHARD C. PERRY
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			1 800 CONTACTS INC
+		CENTRAL INDEX KEY:			0001050122
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-CATALOG & MAIL-ORDER HOUSES [5961]
+		IRS NUMBER:				870571643
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-54695
+		FILM NUMBER:		07917963
+
+	BUSINESS ADDRESS:	
+		STREET 1:		66 E. WADSWORTH PARK DR
+		CITY:			DRAPER
+		STATE:			UT
+		ZIP:			84020
+		BUSINESS PHONE:		801-316-5000
+
+	MAIL ADDRESS:	
+		STREET 1:		66 E. WADSWORTH PARK DR
+		CITY:			DRAPER
+		STATE:			UT
+		ZIP:			84020
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PERRY CORP
+		CENTRAL INDEX KEY:			0000919085
+		IRS NUMBER:				000000000
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		599 LEXINGTON AVE
+		STREET 2:		36TH FL
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		2125834100
+
+	MAIL ADDRESS:	
+		STREET 1:		599 LEXINGTON
+		STREET 2:		36TH FL
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<FILENAME>form_13d-800contacts.htm
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE> </TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" STYLE='FONT-FAMILY:"TIMES NEW ROMAN"'>
+
+<DIV STYLE='WIDTH:600;'>
+
+
+
+<P STYLE=' MARGIN-BOTTOM:0PT; MARGIN-TOP:0PT;TEXT-ALIGN:LEFT;'><FONT SIZE=2>&nbsp;</FONT></P>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><B><font SIZE=2>UNITED STATES</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><B><font SIZE=2>SECURITIES AND EXCHANGE COMMISSION</font></B></p>
+
+<p style=' margin-bottom:12pt; margin-top:0pt;text-align:center;'><b><font size=2>Washington, D.C. 20549</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><B><font SIZE=2>SCHEDULE 13D</font></B></p>
+
+<p style=' margin-bottom:12pt; margin-top:0pt;text-align:center;'><b><font size=2>(Amendment No. ___)*</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=2>Under the Securities Exchange Act of 1934</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><u><font size=2>1-800 CONTACTS, INC.</font></u></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>(Name of Issuer)</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><u><font size=2>Common Stock, par value $0.01 per share</font></u></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>(Title of Class of Securities)</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><u><font size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;681977104</font><font size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></u><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>(CUSIP Number)</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>Michael C. Neus</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>Perry Corp.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>767 Fifth Avenue, 19<sup>th</sup> Floor</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>New York, New York 10153</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><u><font size=2>(212) 583-4000</font></u></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>(Name, Address and Telephone Number of Person</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>Authorized to Receive Notices and Communications)</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><u><font size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;June 4, 2007&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></u><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>(Date of Event which Requires Filing</font></p>
+
+<p style=' margin-bottom:12pt; margin-top:0pt;text-align:center;'><font size=2>of this Statement)</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:justify;'><font size=2>If the filing person has previously filed a statement on Schedule 13G to report the acquisition that is the subject of this Schedule 13D, and is filing this schedule because of &sect;&sect;240.13d-1(e), 240.13d-1(f) or 240.13d-1(g), check the following box </font><font face=Wingdings>x</font><font size=2>.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:12pt;text-align:justify;'><b><font size=2>Note</font></b><font size=2>:  Schedules filed in paper format shall include a signed original and five copies of the schedule, including all exhibits.  See Rule &sect;240.13d-7 for other parties to whom copies are to be sent.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>*The remainder of this cover page shall be filled out for a reporting person's initial filing on this form with respect to the subject class of securities, and for any subsequent amendment containing information which would alter disclosures provided in a prior cover page.  </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:justify;'><font size=2>The information required on the remainder of this cover page shall not be deemed to be "filed" for the purpose of Section 18 of the Securities Exchange Act of 1934 ("Act") or otherwise subject to the liabilities of that section of the Act but shall be subject to all other provisions of the Act (however, see the Notes).</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:justify;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>Continued on following page(s)</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>Page 1 of 10 Pages</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>Exhibit Index:  Page 7</font></p>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+<br>
+<HR noshade align="center" width="100%" size="2">
+<p style='page-break-before:always'></p>
+
+
+<table border="0" cellspacing=0 cellpadding=0 width="644" style='border-collapse:collapse'>
+    <tr >
+        <td width="511" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>CUSIP No. 681977104</font></b></p> </td>
+        <td width="133" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Page </font><b><font size=2>2</font></b><font size=2> </font><b><font size=2>of 10 Pages</font></b></p> </td> </tr></table>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<table border="0" cellspacing=0 cellpadding=0 width="221" style='border-collapse:collapse'>
+    <tr >
+        <td width="48" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>1</font></b></p> </td>
+        <td width="173" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Names of Reporting Persons</font></p> </td> </tr></table>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;'><font size=2>I.R.S. Identification Nos. of above persons (entities only)</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:12pt; margin-top:0pt; margin-left:1in;text-align:left;'><font size=2>Perry Corp.</font></p>
+
+
+<table border="0" cellspacing=0 cellpadding=0 width="481" style='border-collapse:collapse'>
+    <tr >
+        <td width="48" nowrap valign=top style='padding:3.0pt 0in 3.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>2</font></b></p> </td>
+        <td  nowrap colspan="6" valign=top style='padding:3.0pt 0in 3.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Check the Appropriate Box If a Member of a Group (See Instructions)</font></p> </td> </tr>
+    <tr >
+        <td  nowrap colspan="4" valign=top style='padding:3.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:3.0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="48" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>a.</font></p> </td>
+        <td width="37" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2><font face=Wingdings>o</font></font></p> </td>
+        <td  width="108">
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></td> </tr>
+    <tr >
+        <td  nowrap colspan="4" valign=top style='padding:0in 0in 3.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:3.0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="48" nowrap valign=top style='padding:0in 0in 3.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>b.</font></p> </td>
+        <td width="37" nowrap valign=top style='padding:0in 0in 3.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2><font face=Wingdings>o</font></font></p> </td>
+        <td  width="108">
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></td> </tr>
+    <tr >
+        <td width="48" nowrap valign=top style='padding:3.0pt 0in 3.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>3</font></b></p> </td>
+        <td width="107" nowrap valign=top style='padding:3.0pt 0in 3.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>SEC Use Only</font></p> </td>
+        <td   colspan="5">
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></td> </tr>
+    <tr >
+        <td width="48" nowrap valign=top style='padding:3.0pt 0in 3.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>4</font></b></p> </td>
+        <td  nowrap colspan="2" valign=top style='padding:3.0pt 0in 3.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Source of Funds (See Instructions)</font></p> </td>
+        <td   colspan="4">
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></td> </tr>
+    <tr>
+        <td width="60" ></td>
+
+        <td width="133" ></td>
+
+        <td width="145" ></td>
+
+        <td width="22" ></td>
+
+        <td width="60" ></td>
+
+        <td width="47" ></td>
+
+        <td width="135" ></td> </tr> </table>
+
+<p style=' margin-bottom:6pt; margin-top:6pt; margin-left:0.5in; text-indent:0.5in;text-align:left;'><font SIZE=2>WC</font></p>
+
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="48" valign=top style='padding:0in 0in 6.0pt 0in'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>5</font></b></p> </td>
+        <td  valign=top style='padding:0in 0in 6.0pt 0in'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Check Box If Disclosure of Legal Proceedings Is Required Pursuant to Items 2(d) or 2(e) </font></p> </td> </tr></table>
+
+
+<p style=' margin-bottom:6pt; margin-top:0pt; margin-left:0.5in; text-indent:0.5in;text-align:left;'><font size=2><font face=Wingdings>o</font></font></p>
+
+
+<table border="0" cellspacing=0 cellpadding=0 width="281" style='border-collapse:collapse'>
+    <tr >
+        <td width="48" nowrap valign=top style='padding:3.0pt 0in 6.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>6</font></b></p> </td>
+        <td width="233" nowrap valign=top style='padding:3.0pt 0in 6.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Citizenship or Place of Organization</font></p> </td> </tr></table>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:1in;text-align:left;'><font size=2>New York</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<table width="600" border="0" cellspacing=0 cellpadding=0 style='border-collapse:collapse'>
+    <tr >
+        <td width="139" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="78" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>7</font></b></p> </td>
+        <td width="421" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:17.1pt;text-indent:-17.1pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Sole Voting Power</font></p> </td> </tr>
+    <tr >
+        <td width="139" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Number of</font></p>
+<p style='margin-left:0pt;text-indent:6.0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Shares</font></p> </td>
+        <td width="78" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="421" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:17.1pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>1,540,658</font></p> </td> </tr>
+    <tr >
+        <td width="139" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Beneficially</font></p>
+<p style='margin-left:0pt;text-indent:6.0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Owned By</font></p>
+<p style='margin-left:0pt;text-indent:6.0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Each</font></p> </td>
+        <td width="78" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>8</font></b></p> </td>
+        <td width="421" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Shared Voting Power</font></p>
+<p style='margin-left:17.1pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>0</font></p> </td> </tr>
+    <tr >
+        <td width="139" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Reporting</font></p>
+<p style='margin-left:0pt;text-indent:5.25pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Person</font></p>
+<p style='margin-left:0pt;text-indent:6.0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>With</font></p> </td>
+        <td width="78" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>9</font></b></p> </td>
+        <td width="421" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Sole Dispositive Power</font></p>
+<p style='margin-left:17.1pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>1,540,658</font></p> </td> </tr>
+    <tr >
+        <td width="139" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="78" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>10</font></b></p> </td>
+        <td width="421" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Shared Dispositive Power</font></p> </td> </tr>
+    <tr >
+        <td width="139" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="78" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="421" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:17.1pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>0</font></p> </td> </tr></table>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<table border="0" cellspacing=0 cellpadding=0 width="460" style='border-collapse:collapse'>
+    <tr >
+        <td width="48" nowrap valign=top style='padding:3.0pt 0in 6.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>11</font></b></p> </td>
+        <td width="412" nowrap valign=top style='padding:3.0pt 0in 6.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Aggregate Amount Beneficially Owned by Each Reporting Person</font></p> </td> </tr></table>
+
+<p style=' margin-bottom:6pt; margin-top:3pt; margin-left:2.5in;text-align:left;'><font size=2>1,540,658</font></p>
+
+
+<table border="0" cellspacing=0 cellpadding=0 width="613" style='border-collapse:collapse'>
+    <tr >
+        <td width="48" nowrap valign=top style='padding:3.0pt 0in 6.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>12</font></b></p> </td>
+        <td width="565" nowrap valign=top style='padding:3.0pt 0in 6.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Check Box If the Aggregate Amount in Row (11) Excludes Certain Shares (See Instructions)</font></p> </td> </tr></table>
+
+<p style=' margin-bottom:6pt; margin-top:0pt; margin-left:3in; text-indent:-0.5in;text-align:left;'><font size=2><font face=Wingdings>o</font></font></p>
+
+
+<table border="0" cellspacing=0 cellpadding=0 width="387" style='border-collapse:collapse'>
+    <tr >
+        <td width="48" nowrap valign=top style='padding:3.0pt 0in 6.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>13</font></b></p> </td>
+        <td width="339" nowrap valign=top style='padding:3.0pt 0in 6.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Percent of Class Represented By Amount in Row (11)</font></p> </td> </tr></table>
+
+<p style=' margin-bottom:6pt; margin-top:3pt; margin-left:2in; text-indent:0.5in;text-align:left;'><font size=2>11.0%</font></p>
+
+
+<table border="0" cellspacing=0 cellpadding=0 width="327" style='border-collapse:collapse'>
+    <tr >
+        <td width="48" nowrap valign=top style='padding:3.0pt 0in 6.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>14</font></b></p> </td>
+        <td width="279" nowrap valign=top style='padding:3.0pt 0in 6.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Type of Reporting Person (See Instructions)</font></p> </td> </tr></table>
+
+<p style=' margin-bottom:6pt; margin-top:3pt; margin-left:2.5in;text-align:left;'><font SIZE=2>IA, CO</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+<br>
+<HR noshade align="center" width="100%" size="2">
+<p style='page-break-before:always'></p>
+
+
+<table border="0" cellspacing=0 cellpadding=0 width="644" style='border-collapse:collapse'>
+    <tr >
+        <td width="511" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>CUSIP No. 681977104</font></b></p> </td>
+        <td width="133" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Page </font><b><font size=2>3</font></b><font size=2> </font><b><font size=2>of 10 Pages</font></b></p> </td> </tr></table>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'>
+</p>
+
+
+<table width="600" border="0" cellspacing=0 cellpadding=0 style='border-collapse:collapse'>
+    <tr >
+        <td width="47" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>1</font></b></p> </td>
+        <td width="591" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Names of Reporting Persons</font></p> </td> </tr>
+    <tr >
+        <td width="47" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="591" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td> </tr>
+    <tr >
+        <td width="47" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="591" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>I.R.S. Identification Nos. of above persons (entities only)</font></p> </td> </tr></table>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:12pt; margin-top:0pt; margin-left:1in;text-align:left;'><font size=2>Richard C. Perry</font></p>
+
+
+<table border="0" cellspacing=0 cellpadding=0 width="481" style='border-collapse:collapse'>
+    <tr >
+        <td width="48" nowrap valign=top style='padding:3.0pt 0in 3.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>2</font></b></p> </td>
+        <td  nowrap colspan="6" valign=top style='padding:3.0pt 0in 3.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Check the Appropriate Box If a Member of a Group (See Instructions)</font></p> </td> </tr>
+    <tr >
+        <td  nowrap colspan="4" valign=top style='padding:3.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:3.0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="48" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>a.</font></p> </td>
+        <td width="37" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2><font face=Wingdings>o</font></font></p> </td>
+        <td  width="108">
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></td> </tr>
+    <tr >
+        <td  nowrap colspan="4" valign=top style='padding:0in 0in 3.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:3.0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="48" nowrap valign=top style='padding:0in 0in 3.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>b.</font></p> </td>
+        <td width="37" nowrap valign=top style='padding:0in 0in 3.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2><font face=Wingdings>o</font></font></p> </td>
+        <td  width="108">
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></td> </tr>
+    <tr >
+        <td width="48" nowrap valign=top style='padding:3.0pt 0in 3.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>3</font></b></p> </td>
+        <td width="107" nowrap valign=top style='padding:3.0pt 0in 3.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>SEC Use Only</font></p> </td>
+        <td   colspan="5">
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></td> </tr>
+    <tr >
+        <td width="48" nowrap valign=top style='padding:3.0pt 0in 3.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>4</font></b></p> </td>
+        <td  nowrap colspan="2" valign=top style='padding:3.0pt 0in 3.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Source of Funds (See Instructions)</font></p> </td>
+        <td   colspan="4">
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></td> </tr>
+    <tr>
+        <td width="60" ></td>
+
+        <td width="133" ></td>
+
+        <td width="145" ></td>
+
+        <td width="22" ></td>
+
+        <td width="60" ></td>
+
+        <td width="47" ></td>
+
+        <td width="135" ></td> </tr> </table>
+
+<p style=' margin-bottom:6pt; margin-top:6pt; margin-left:0.5in; text-indent:0.5in;text-align:left;'><font SIZE=2>WC</font></p>
+
+
+<table border="0" cellspacing=0 cellpadding=0 width="592" style='border-collapse:collapse'>
+    <tr >
+        <td width="48" nowrap valign=top style='padding:0in 0in 6.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>5</font></b></p> </td>
+        <td width="544" nowrap valign=top style='padding:0in 0in 6.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Check Box If Disclosure of Legal Proceedings Is Required Pursuant to Items 2(d) or 2(e)</font></p> </td> </tr></table>
+
+<p style=' margin-bottom:6pt; margin-top:0pt; margin-left:0.5in; text-indent:0.5in;text-align:left;'><font size=2><font face=Wingdings>o</font></font></p>
+
+
+<table border="0" cellspacing=0 cellpadding=0 width="281" style='border-collapse:collapse'>
+    <tr >
+        <td width="48" nowrap valign=top style='padding:3.0pt 0in 6.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>6</font></b></p> </td>
+        <td width="233" nowrap valign=top style='padding:3.0pt 0in 6.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Citizenship or Place of Organization</font></p> </td> </tr></table>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:1in;text-align:left;'><font size=2>United States</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<table width="600" border="0" cellspacing=0 cellpadding=0 style='border-collapse:collapse'>
+    <tr >
+        <td width="139" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="78" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>7</font></b></p> </td>
+        <td width="421" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:17.1pt;text-indent:-17.1pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Sole Voting Power</font></p> </td> </tr>
+    <tr >
+        <td width="139" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Number of</font></p>
+<p style='margin-left:0pt;text-indent:6.0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Shares</font></p> </td>
+        <td width="78" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="421" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:17.1pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>1,540,658 (all shares beneficially owned by Perry Corp.)</font></p> </td> </tr>
+    <tr >
+        <td width="139" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Beneficially</font></p>
+<p style='margin-left:0pt;text-indent:6.0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Owned By</font></p>
+<p style='margin-left:0pt;text-indent:6.0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Each</font></p> </td>
+        <td width="78" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>8</font></b></p> </td>
+        <td width="421" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Shared Voting Power</font></p>
+<p style='margin-left:17.1pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>0</font></p> </td> </tr>
+    <tr >
+        <td width="139" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Reporting</font></p>
+<p style='margin-left:0pt;text-indent:5.25pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Person</font></p>
+<p style='margin-left:0pt;text-indent:6.0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>With</font></p> </td>
+        <td width="78" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>9</font></b></p> </td>
+        <td width="421" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Sole Dispositive Power</font></p>
+<p style='margin-left:17.1pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>1,540,658 (all shares beneficially owned by Perry Corp.)</font></p> </td> </tr>
+    <tr >
+        <td width="139" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="78" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>10</font></b></p> </td>
+        <td width="421" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Shared Dispositive Power</font></p> </td> </tr>
+    <tr >
+        <td width="139" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="78" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="421" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:17.1pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>0</font></p> </td> </tr></table>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<table border="0" cellspacing=0 cellpadding=0 width="460" style='border-collapse:collapse'>
+    <tr >
+        <td width="48" nowrap valign=top style='padding:3.0pt 0in 6.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>11</font></b></p> </td>
+        <td width="412" nowrap valign=top style='padding:3.0pt 0in 6.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Aggregate Amount Beneficially Owned by Each Reporting Person</font></p> </td> </tr></table>
+
+<p style=' margin-bottom:6pt; margin-top:3pt; margin-left:2.5in;text-align:left;'><font size=2>1,540,658</font></p>
+
+
+<table border="0" cellspacing=0 cellpadding=0 width="613" style='border-collapse:collapse'>
+    <tr >
+        <td width="48" nowrap valign=top style='padding:3.0pt 0in 6.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>12</font></b></p> </td>
+        <td width="565" nowrap valign=top style='padding:3.0pt 0in 6.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Check Box If the Aggregate Amount in Row (11) Excludes Certain Shares (See Instructions)</font></p> </td> </tr></table>
+
+<p style=' margin-bottom:6pt; margin-top:0pt; margin-left:3in; text-indent:-0.5in;text-align:left;'><font size=2><font face=Wingdings>o</font></font></p>
+
+
+<table border="0" cellspacing=0 cellpadding=0 width="387" style='border-collapse:collapse'>
+    <tr >
+        <td width="48" nowrap valign=top style='padding:3.0pt 0in 6.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>13</font></b></p> </td>
+        <td width="339" nowrap valign=top style='padding:3.0pt 0in 6.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Percent of Class Represented By Amount in Row (11)</font></p> </td> </tr></table>
+
+<p style=' margin-bottom:6pt; margin-top:3pt; margin-left:2in; text-indent:0.5in;text-align:left;'><font size=2>11.0%</font></p>
+
+
+<table border="0" cellspacing=0 cellpadding=0 width="327" style='border-collapse:collapse'>
+    <tr >
+        <td width="48" nowrap valign=top style='padding:3.0pt 0in 6.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>14</font></b></p> </td>
+        <td width="279" nowrap valign=top style='padding:3.0pt 0in 6.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Type of Reporting Person (See Instructions)</font></p> </td> </tr></table>
+
+<p style=' margin-bottom:6pt; margin-top:3pt; margin-left:2.5in;text-align:left;'><font SIZE=2>IN, HC</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:3pt; margin-left:2.5in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+<br>
+<HR noshade align="center" width="100%" size="2">
+<p style='page-break-before:always'></p>
+
+
+<table border="0" cellspacing=0 cellpadding=0 width="644" style='border-collapse:collapse'>
+    <tr >
+        <td width="511" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>CUSIP No. 681977104</font></b></p> </td>
+        <td width="133" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Page </font><b><font size=2>4</font></b><font size=2> </font><b><font size=2>of 10 Pages</font></b></p> </td> </tr></table>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<table border="0" cellspacing=0 cellpadding=0 width="243" style='border-collapse:collapse'>
+    <tr >
+        <td width="96" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Item 1.</font></b></p> </td>
+        <td width="147" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Security and Issuer.</font></b></p> </td> </tr></table>
+
+<p style=' margin-bottom:12pt; margin-top:0pt; text-indent:1in;text-align:justify;'><font size=2>This Statement on Schedule 13D relates to shares of common stock, par value $0.01 per of 1-800 Contacts, Inc., a Delaware corporation (the &#147;Issuer&#148;) acquired by private investment funds managed by Perry Corp. (the &#147;Shares&#148;).   The Shares herein were previously reported on a Schedule 13G filed on February 10, 2003, and amendments thereto.  The address of the principal executive office of the Issuer is 66 E. Wadsworth Park Drive, Draper, UT 84020.</font></p>
+
+
+<table border="0" cellspacing=0 cellpadding=0 width="279" style='border-collapse:collapse'>
+    <tr >
+        <td width="96" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Item 2.</font></b></p> </td>
+        <td width="183" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Identity and Background.</font></b></p> </td> </tr></table>
+
+<p style=' margin-bottom:12pt; margin-top:0pt; text-indent:1in;text-align:justify;'><font size=2>This statement is filed on behalf of each of the following persons (collectively, the "Reporting Persons"):</font></p>
+
+<p style=' margin-bottom:12pt; margin-top:0pt; text-indent:1in;text-align:justify;'><font size=2>This statement on Schedule 13D is filed on behalf of Perry Corp., a New York corporation, and Richard C. Perry, an American citizen.  Perry Corp. is a registered investment adviser that provides investment management services to private investment funds.  Richard C. Perry is the President, sole director, and sole stockholder of Perry Corp.  The principal business address of Perry Corp. and Richard C. Perry is 767 Fifth Avenue, 19<sup>th</sup> Floor, New York, NY 10153.  A joint filing agreement of Perry Corp. and Richard C. Perry is attached hereto as Exhibit A.</font></p>
+
+<p style=' margin-bottom:12pt; margin-top:0pt; text-indent:1in;text-align:justify;'><font size=2>The names, citizenship, business addresses and principal occupations of each of the directors and executive officers of Perry Corp. (other than Richard C. Perry) are set forth in Exhibit B, which is incorporated herein by reference.</font></p>
+
+<p style=' margin-bottom:12pt; margin-top:0pt; text-indent:1in;text-align:justify;'><font size=2>During the last five years, neither Perry Corp., Richard C. Perry, nor any of the persons listed in Exhibit B has been convicted in a criminal proceeding (excluding traffic violations or similar misdemeanors) or has been a party to a civil proceeding of a judicial or administrative body of competent jurisdiction and as a result of such proceeding was or is subject to a judgment, decree or final order enjoining future violations of, or prohibiting or mandating activities subject to, federal or state securities laws of finding any violation with respect to such laws.</font></p>
+
+
+<table border="0" cellspacing=0 cellpadding=0 width="456" style='border-collapse:collapse'>
+    <tr >
+        <td width="96" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Item 3.</font></b></p> </td>
+        <td width="360" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Source and Amount of Funds or Other Consideration.</font></b></p> </td> </tr></table>
+
+<p style=' margin-bottom:12pt; margin-top:0pt; text-indent:1in;text-align:justify;'><font size=2>The Shares were acquired by two or more private investment funds for which Perry Corp. acts as a general partner and/or investment adviser.  The source of funds for the purchase of the Shares was the working capital of such investment funds.  The total purchase price for the Shares was $26,137,917.60.  The Shares may be held in margin accounts established with various brokers by two or more private investment funds for which Perry Corp. acts as a general partner and/or investment adviser.</font></p>
+
+
+<table border="0" cellspacing=0 cellpadding=0 width="267" style='border-collapse:collapse'>
+    <tr >
+        <td width="96" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Item 4.</font></b></p> </td>
+        <td width="171" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Purpose of Transaction.</font></b></p> </td> </tr></table>
+
+<p style=' margin-bottom:12pt; margin-top:0pt; text-indent:1in;text-align:justify;'><font size=2>The Shares were acquired in the ordinary course of business by two or more private investment funds for which Perry Corp. acts as a general partner and/or investment adviser, and were not acquired with the purpose or intent of changing or influencing the control of the Issuer.  This Schedule 13D is being filed as a result of the June 4, 2007 (the &#147;Date of Event&#148;) announcement of a proposed acquisition by a party unrelated to Perry Corp., which if consummated would result in a change in control of the Issuer.  Although the proposed acquisition involves a party unrelated to Perry Corp., as a result of the announcement, Perry Corp. could be deemed, as of the Date of Event, to hold the Shares with the effect of changing or influencing control of the Issuer.  Perry Corp. may engage in communications with respect to the terms and conditions of the proposed acquisition with the Issuer
+and other stockholders of the Issuer or with other third parties, including the Issuer&#146;s proposed acquirer or its affiliates.  </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+<br>
+<HR noshade align="center" width="100%" size="2">
+<p style='page-break-before:always'></p>
+
+
+<table border="0" cellspacing=0 cellpadding=0 width="644" style='border-collapse:collapse'>
+    <tr >
+        <td width="511" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>CUSIP No. 681977104</font></b></p> </td>
+        <td width="133" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Page </font><b><font size=2>5</font></b><font size=2> </font><b><font size=2>of 10 Pages</font></b></p> </td> </tr></table>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:12pt; margin-top:0pt; text-indent:1in;text-align:justify;'><font size=2>Perry Corp. reviews its holdings of the Issuer on an ongoing basis.  Depending on such review, Perry Corp. may make additional purchases or sales of the Shares in the future and/or may seek to retain an investment in the Issuer after consummation of the acquisition.  Except as otherwise described herein, none of Perry Corp., Richard C. Perry or the persons listed on Exhibit B have any current plans or proposals which relate to or would result in any of the transactions or changes contemplated in Items 4(a) through 4(j) of Schedule 13D.  Such person may, at any time and from time to time, review or reconsider their position and formulate such plans or proposals.</font></p>
+
+
+<table border="0" cellspacing=0 cellpadding=0 width="331" style='border-collapse:collapse'>
+    <tr >
+        <td width="96" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Item 5.</font></b></p> </td>
+        <td width="235" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Interest in Securities of the Issuer.</font></b></p> </td> </tr></table>
+
+<p style=' margin-bottom:12pt; margin-top:0pt; text-indent:1in;text-align:justify;'><font size=2>(a) &#150; (b)  As of the Date of Event, Perry Corp. is the indirect beneficial owner of 1,540,658 Shares, which constitutes 11.0% of the Issuer&#146;s outstanding Shares, based upon 14,009,591 Shares outstanding as of May 3, 2007.  Perry Corp. has sole power to vote and sole power to dispose of the 1,540,658 Shares.  By virtue of his position as President and sole stockholder of Perry Corp., Richard C. Perry may be considered to indirectly beneficially own such Shares.</font></p>
+
+<p style=' margin-bottom:12pt; margin-top:0pt; text-indent:1in;text-align:justify;'><font size=2>(c)</font><font size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font size=2>There have been no transactions with respect to the Shares during the sixty days prior to the Date of Event by either Perry Corp. or Richard C. Perry.</font></p>
+
+<p style=' margin-bottom:12pt; margin-top:0pt; text-indent:1in;text-align:justify;'><font size=2>(d)</font><font size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font size=2>The limited partners of (or investors in) each of two or more private investment funds for which Perry Corp. acts as general partner and/or investment adviser have the right to participate in the receipt of dividends from, or proceeds from the sale of, the Shares held for the accounts of their respective funds in accordance with their respective limited partnership interests (or investment percentages) in their respective funds.</font></p>
+
+
+<table border="0" cellspacing=0 cellpadding=0 width="253" style='border-collapse:collapse'>
+    <tr >
+        <td width="96" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0in;text-align:justify;margin-top:0pt;margin-bottom:12pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="48" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>(e)</font></p> </td>
+        <td width="109" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Not applicable.</font></p> </td> </tr></table>
+
+
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="96" valign=top style='padding:0in 0in 12.0pt 0in'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Item 6.</font></b></p> </td>
+        <td  valign=top style='padding:0in 0in 12.0pt 0in'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Contracts, Arrangements, Understandings or Relationships with Respect to Securities of the Issuer. </font></b></p> </td> </tr></table>
+
+
+<p style=' margin-bottom:12pt; margin-top:0pt; text-indent:1in;text-align:justify;'><font size=2>Except for the arrangements described in Item 5(d) above, to the best knowledge of Perry Corp., there are no contracts, arrangements, understandings or relationships (legal or otherwise) between the persons enumerated in Item 2 and any other person with respect to any securities of the Issuer, including but not limited to, transfer or voting of any of the Shares, finder's fees, joint ventures, loan or option arrangements, puts or calls, guarantees of profits, division of profits or loss, or the giving or withholding of proxies.</font></p>
+
+
+<table border="0" cellspacing=0 cellpadding=0 width="317" style='border-collapse:collapse'>
+    <tr >
+        <td width="96" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Item 7.</font></b></p> </td>
+        <td width="221" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Material to be Filed as Exhibits.</font></b></p> </td> </tr></table>
+
+<p style=' margin-bottom:12pt; margin-top:0pt; text-indent:1in;text-align:justify;'><font size=2>Exhibit A - Joint Filing Agreement, dated as of June 13, 2007, by and among Perry Corp. and Richard C. Perry.</font></p>
+
+<p style=' margin-bottom:12pt; margin-top:0pt; text-indent:1in;text-align:justify;'><font size=2>Exhibit B &#150; Executive Officers and Directors of Perry Corp. (other than Richard C. Perry).</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:1in;text-align:justify;'><font size=2>Exhibit C &#150;  Power of Attorney, dated June 21, 2005.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+<br>
+<HR noshade align="center" width="100%" size="2">
+<p style='page-break-before:always'></p>
+
+
+<table border="0" cellspacing=0 cellpadding=0 width="644" style='border-collapse:collapse'>
+    <tr >
+        <td width="511" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>CUSIP No. 681977104</font></b></p> </td>
+        <td width="133" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Page </font><b><font size=2>6</font></b><font size=2> </font><b><font size=2>of 10 Pages</font></b></p> </td> </tr></table>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><B><font SIZE=2>SIGNATURES</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:12pt; margin-top:0pt; text-indent:0.5in;text-align:justify;'><font size=2>After reasonable inquiry and to the best of my knowledge and belief, the undersigned certifies that the information set forth in this statement is true, complete and correct.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<table border="0" cellspacing=0 cellpadding=0 width="563" style='border-collapse:collapse'>
+    <tr >
+        <td width="240" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Date:  June 13, 2007</font></p> </td>
+        <td  nowrap colspan="2" valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font SIZE=2>PERRY CORP.</font></p> </td>
+        <td   colspan="3">
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></td> </tr>
+    <tr >
+        <td width="240" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="48" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>By:</font></p> </td>
+        <td  nowrap colspan="4" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><u><font size=2>/s/ Michael Neus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*</font></u></p> </td> </tr>
+    <tr >
+        <td width="240" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="48" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Name:</font></p> </td>
+        <td  nowrap colspan="3" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Richard C. Perry</font></p> </td>
+        <td  width="155">
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></td> </tr>
+    <tr >
+        <td width="240" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="48" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Title:</font></p> </td>
+        <td  nowrap colspan="2" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>President</font></p> </td>
+        <td   colspan="2">
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></td> </tr>
+    <tr>
+        <td width="300" ></td>
+
+        <td width="60" ></td>
+
+        <td width="83" ></td>
+
+        <td width="10" ></td>
+
+        <td width="57" ></td>
+
+        <td width="193" ></td> </tr> </table>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:2.5in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:2.5in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<table border="0" cellspacing=0 cellpadding=0 width="563" style='border-collapse:collapse'>
+    <tr >
+        <td width="240" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Date:  June 13, 2007</font></p> </td>
+        <td  nowrap colspan="2" valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font SIZE=2>RICHARD C. PERRY</font></p> </td>
+        <td  width="168">
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></td> </tr>
+    <tr >
+        <td width="240" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="48" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>By:</font></p> </td>
+        <td  nowrap colspan="2" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><u><font size=2>/s/ Michael Neus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*</font></u></p> </td> </tr>
+    <tr>
+        <td width="300" ></td>
+
+        <td width="60" ></td>
+
+        <td width="133" ></td>
+
+        <td width="210" ></td> </tr> </table>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>*By Michael Neus, attorney-in-fact</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+<br>
+<HR noshade align="center" width="100%" size="2">
+<p style='page-break-before:always'></p>
+
+
+<table border="0" cellspacing=0 cellpadding=0 width="644" style='border-collapse:collapse'>
+    <tr >
+        <td width="511" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>CUSIP No. 681977104</font></b></p> </td>
+        <td width="133" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Page </font><b><font size=2>7</font></b><font size=2> </font><b><font size=2>of 10 Pages</font></b></p> </td> </tr></table>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:12pt; margin-top:12pt;text-align:center;'>
+<B><font SIZE=2>EXHIBIT INDEX</font></B></p>
+
+<p style=' margin-bottom:12pt; margin-top:0pt;text-align:right;'><u><font size=2>Page No.</font></u></p>
+
+
+<table width="600" border="0" cellspacing=0 cellpadding=0 style='border-collapse:collapse'>
+    <tr >
+        <td width="43" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:12.0pt'><font SIZE=2>A.</font></p> </td>
+        <td width="504" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Joint Filing Agreement, dated as of June 13, 2007, by and among Perry Corp. and Richard C. Perry</font>                                           <u></u></p> </td>
+        <td width="91" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0in;text-indent:0pt;text-align:center;margin-top:12.0pt;margin-bottom:12.0pt'><font size=2>8</font></p> </td> </tr>
+    <tr >
+        <td width="43" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:12.0pt'><br> <font SIZE=2>B.</font></p> </td>
+        <td width="504" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><br> <font size=2>Executive Officers and Directors of Perry Corp. (other than Richard C. Perry)</font>                 <u></u></p> </td>
+        <td width="91" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0in;text-indent:0pt;text-align:center;margin-top:12.0pt;margin-bottom:12.0pt'><font size=2>9</font></p> </td> </tr>
+    <tr >
+        <td width="43" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:12.0pt'><br> <font SIZE=2>C.</font></p> </td>
+        <td width="504" style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Power of Attorney, dated June 21, 2005</font>      </p> </td>
+        <td width="91" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0in;text-indent:0pt;text-align:center;margin-top:12.0pt;margin-bottom:12.0pt'><font size=2>10</font></p> </td> </tr></table>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+<br>
+<HR noshade align="center" width="100%" size="2">
+<p style='page-break-before:always'></p>
+
+
+<table border="0" cellspacing=0 cellpadding=0 width="644" style='border-collapse:collapse'>
+    <tr >
+        <td width="511" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>CUSIP No. 681977104</font></b></p> </td>
+        <td width="133" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Page </font><b><font size=2>8</font></b><font size=2> </font><b><font size=2>of 10 Pages</font></b></p> </td> </tr></table>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'>
+<B><font SIZE=2>EXHIBIT A</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><B><font SIZE=2>JOINT FILING AGREEMENT</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:12pt; margin-top:0pt; text-indent:0.5in;text-align:justify;'><font size=2>The undersigned hereby agree to jointly prepare and file with regulatory authorities a Schedule 13D and any future amendments thereto reporting each of the undersigned's ownership of securities of 1-800 Contacts, Inc., and hereby affirm that such Schedule 13D is being filed on behalf of each of the undersigned pursuant to and in accordance with the provisions of Rule 13d-1(k) under the Securities Exchange Act of 1934.  The undersigned acknowledge that each shall be responsible for the timely filing of such amendments, and for the completeness and accuracy of the information concerning him or it contained therein, but shall not be responsible for the completeness and accuracy of the information concerning the other, except to the extent that he or it knows or has reason to believe that such information is inaccurate.</font></p>
+
+
+<table border="0" cellspacing=0 cellpadding=0 width="563" style='border-collapse:collapse'>
+    <tr >
+        <td width="240" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Date:  June 13, 2007</font></p> </td>
+        <td  nowrap colspan="2" valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font SIZE=2>PERRY CORP.</font></p> </td>
+        <td   colspan="3">
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></td> </tr>
+    <tr >
+        <td width="240" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="48" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>By:</font></p> </td>
+        <td  nowrap colspan="4" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><u><font size=2>/s/ Michael Neus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*</font></u></p> </td> </tr>
+    <tr >
+        <td width="240" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="48" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Name:</font></p> </td>
+        <td  nowrap colspan="3" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Richard C. Perry</font></p> </td>
+        <td  width="155">
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></td> </tr>
+    <tr >
+        <td width="240" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="48" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Title:</font></p> </td>
+        <td  nowrap colspan="2" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>President</font></p> </td>
+        <td   colspan="2">
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></td> </tr>
+    <tr>
+        <td width="240" ></td>
+
+        <td width="48" ></td>
+
+        <td width="67" ></td>
+
+        <td width="8" ></td>
+
+        <td width="45" ></td>
+
+        <td width="155" ></td> </tr> </table>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:2.5in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:2.5in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<table border="0" cellspacing=0 cellpadding=0 width="563" style='border-collapse:collapse'>
+    <tr >
+        <td width="240" nowrap valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Date:  June 13, 2007</font></p> </td>
+        <td  nowrap colspan="2" valign=top style='padding:0in 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font SIZE=2>RICHARD C. PERRY</font></p> </td>
+        <td  width="168">
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></td> </tr>
+    <tr >
+        <td width="240" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="48" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>By:</font></p> </td>
+        <td  nowrap colspan="2" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><u><font size=2>/s/ Michael Neus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*</font></u></p> </td> </tr>
+    <tr>
+        <td width="240" ></td>
+
+        <td width="48" ></td>
+
+        <td width="107" ></td>
+
+        <td width="168" ></td> </tr> </table>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>*By Michael Neus, attorney-in-fact</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+<br>
+<HR noshade align="center" width="100%" size="2">
+<p style='page-break-before:always'></p>
+
+
+<table border="0" cellspacing=0 cellpadding=0 width="644" style='border-collapse:collapse'>
+    <tr >
+        <td width="511" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>CUSIP No. 681977104</font></b></p> </td>
+        <td width="133" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Page </font><b><font size=2>9</font></b><font size=2> </font><b><font size=2>of 10 Pages</font></b></p> </td> </tr></table>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><B><font SIZE=2>EXHIBIT B</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=2>Executive Officers and Directors of Perry Corp. (other than Richard C. Perry)</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+
+<table border="0" cellspacing=0 cellpadding=0 width="608" style='margin-left:5.4pt;border-collapse:collapse'>
+    <tr style='height:12.75pt'>
+        <td width="168" nowrap valign=top style='padding:0in 5.4pt 0in 5.4pt; height:12.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Name</font></p> </td>
+        <td width="96" valign=top style='padding:0in 5.4pt 0in 5.4pt; height:12.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="344" nowrap valign=top style='padding:0in 5.4pt 0in 5.4pt; height:12.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><font size=2>Title</font></p> </td> </tr>
+    <tr style='height:12.75pt'>
+        <td width="168" nowrap valign=top style='padding:0in 5.4pt 0in 5.4pt; height:12.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Randall Borkenstein</font><font size=2>&nbsp;</font></p> </td>
+        <td width="96" valign=top style='padding:0in 5.4pt 0in 5.4pt; height:12.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="344" nowrap valign=top style='padding:0in 5.4pt 0in 5.4pt; height:12.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><font size=2>Chief Financial Officer and Treasurer</font><font size=2>&nbsp;</font></p> </td> </tr>
+    <tr style='height:12.75pt'>
+        <td width="168" nowrap valign=top style='padding:0in 5.4pt 0in 5.4pt; height:12.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Michael C. Neus</font></p> </td>
+        <td width="96" valign=top style='padding:0in 5.4pt 0in 5.4pt; height:12.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="344" nowrap valign=top style='padding:0in 5.4pt 0in 5.4pt; height:12.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><font size=2>General Counsel and Secretary</font><font size=2>&nbsp;&nbsp;</font></p> </td> </tr>
+    <tr style='height:12.75pt'>
+        <td width="168" nowrap valign=top style='padding:0in 5.4pt 0in 5.4pt; height:12.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Paul Leff</font><font size=2>&nbsp;</font></p> </td>
+        <td width="96" valign=top style='padding:0in 5.4pt 0in 5.4pt; height:12.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="344" nowrap valign=top style='padding:0in 5.4pt 0in 5.4pt; height:12.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><font size=2>Managing Director and Chief Investment Officer</font><font size=2>&nbsp;</font></p> </td> </tr>
+    <tr style='height:12.75pt'>
+        <td width="168" nowrap valign=top style='padding:0in 5.4pt 0in 5.4pt; height:12.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Carl Berg</font></p> </td>
+        <td width="96" valign=top style='padding:0in 5.4pt 0in 5.4pt; height:12.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="344" nowrap valign=top style='padding:0in 5.4pt 0in 5.4pt; height:12.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><font size=2>Managing Director</font></p> </td> </tr>
+    <tr style='height:12.75pt'>
+        <td width="168" nowrap valign=top style='padding:0in 5.4pt 0in 5.4pt; height:12.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Lance Rosen</font></p> </td>
+        <td width="96" valign=top style='padding:0in 5.4pt 0in 5.4pt; height:12.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="344" nowrap valign=top style='padding:0in 5.4pt 0in 5.4pt; height:12.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><font size=2>Managing Director</font></p> </td> </tr>
+    <tr style='height:12.75pt'>
+        <td width="168" nowrap valign=top style='padding:0in 5.4pt 0in 5.4pt; height:12.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Elizabeth Haase</font></p> </td>
+        <td width="96" valign=top style='padding:0in 5.4pt 0in 5.4pt; height:12.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="344" nowrap valign=top style='padding:0in 5.4pt 0in 5.4pt; height:12.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><font size=2>Managing Director</font></p> </td> </tr>
+    <tr style='height:12.75pt'>
+        <td width="168" nowrap valign=top style='padding:0in 5.4pt 0in 5.4pt; height:12.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Daniel Goldring</font></p> </td>
+        <td width="96" valign=top style='padding:0in 5.4pt 0in 5.4pt; height:12.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="344" nowrap valign=top style='padding:0in 5.4pt 0in 5.4pt; height:12.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><font size=2>Managing Director</font></p> </td> </tr>
+    <tr style='height:12.75pt'>
+        <td width="168" nowrap valign=top style='padding:0in 5.4pt 0in 5.4pt; height:12.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Alp Ercil</font><font size=2>&nbsp;</font></p> </td>
+        <td width="96" valign=top style='padding:0in 5.4pt 0in 5.4pt; height:12.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="344" nowrap valign=top style='padding:0in 5.4pt 0in 5.4pt; height:12.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><font size=2>Managing Director</font></p> </td> </tr>
+    <tr style='height:12.75pt'>
+        <td width="168" nowrap valign=top style='padding:0in 5.4pt 0in 5.4pt; height:12.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Ori Uziel</font></p> </td>
+        <td width="96" valign=top style='padding:0in 5.4pt 0in 5.4pt; height:12.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="344" nowrap valign=top style='padding:0in 5.4pt 0in 5.4pt; height:12.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><font size=2>Managing Director</font></p> </td> </tr>
+    <tr style='height:12.75pt'>
+        <td width="168" nowrap valign=top style='padding:0in 5.4pt 0in 5.4pt; height:12.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Matthew Etheridge</font><font size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></p> </td>
+        <td width="96" valign=top style='padding:0in 5.4pt 0in 5.4pt; height:12.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="344" nowrap valign=top style='padding:0in 5.4pt 0in 5.4pt; height:12.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><font size=2>Managing Director</font></p> </td> </tr>
+    <tr style='height:12.75pt'>
+        <td width="168" nowrap valign=top style='padding:0in 5.4pt 0in 5.4pt; height:12.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Andy Isikoff</font></p> </td>
+        <td width="96" valign=top style='padding:0in 5.4pt 0in 5.4pt; height:12.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="344" nowrap valign=top style='padding:0in 5.4pt 0in 5.4pt; height:12.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><font size=2>Managing Director</font></p> </td> </tr>
+    <tr style='height:12.75pt'>
+        <td width="168" nowrap valign=top style='padding:0in 5.4pt 0in 5.4pt; height:12.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Dave Russekoff&nbsp;</font></p> </td>
+        <td width="96" valign=top style='padding:0in 5.4pt 0in 5.4pt; height:12.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="344" nowrap valign=top style='padding:0in 5.4pt 0in 5.4pt; height:12.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><font size=2>Managing Director</font></p> </td> </tr>
+    <tr style='height:12.75pt'>
+        <td width="168" nowrap valign=top style='padding:0in 5.4pt 0in 5.4pt; height:12.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Rob Stern</font><font size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></p> </td>
+        <td width="96" valign=top style='padding:0in 5.4pt 0in 5.4pt; height:12.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="344" nowrap valign=top style='padding:0in 5.4pt 0in 5.4pt; height:12.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><font size=2>Managing Director</font></p> </td> </tr>
+    <tr style='height:12.75pt'>
+        <td width="168" nowrap valign=top style='padding:0in 5.4pt 0in 5.4pt; height:12.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Emma Warson</font><font size=2>&nbsp;&nbsp;&nbsp;&nbsp;</font></p> </td>
+        <td width="96" valign=top style='padding:0in 5.4pt 0in 5.4pt; height:12.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="344" nowrap valign=top style='padding:0in 5.4pt 0in 5.4pt; height:12.75pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:center;margin-top:0pt;margin-bottom:0pt'><font size=2>Managing Director</font></p> </td> </tr></table>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:justify;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>Each of the persons listed above is a citizen of the United States of America, except for Emma Warson, who is a citizen of the United Kingdom.&nbsp;&nbsp;The business address for each of the persons listed above is: c/o Perry Corp., 767 Fifth Avenue, 19th Floor, New York, NY 10153.</font><font size=2> </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>As of June 4, 2007, Ori Uziel was the beneficial owner of 23,000 shares of 1-800 Contacts, Inc. common stock, par value $0.01 per share.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:justify;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+<br>
+<HR noshade align="center" width="100%" size="2">
+<p style='page-break-before:always'></p>
+
+
+<table border="0" cellspacing=0 cellpadding=0 width="644" style='border-collapse:collapse'>
+    <tr >
+        <td width="504" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>CUSIP No. 681977104</font></b></p> </td>
+        <td width="140" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Page </font><b><font size=2>10</font></b><font size=2> </font><b><font size=2>of 10 Pages</font></b></p> </td> </tr></table>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'>
+<B><font SIZE=2>EXHIBIT C</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><B><font SIZE=2>POWER OF ATTORNEY</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:justify;'><font size=2>KNOW ALL MEN BY THESE PRESENT, that I, RICHARD Perry, hereby make, constitute and appoint each of PAUL LEFF and MICHAEL NEUS acting individually, as my agent and attorney-in-fact for the purpose of executing in my name, (a) in my personal capacity  or (b) in my capacity as an officer of, shareholder of or in other capacities with Perry Corp. ("Perry") and each of its affiliates or entities advised by me or Perry, all documents, certificates, instruments, statements, filings and agreements ("documents") to be filed with or delivered to any foreign or domestic governmental or regulatory body or required or requested by any other person or entity pursuant to any legal or regulatory requirement relating to the acquisition, ownership, management or disposition of securities, futures contracts or other investments, and any other documents relating or ancillary thereto, including without
+limitation all documents relating to filings with the Commodity Futures Trading Commission and National Futures Association, the United States Securities and Exchange Commission (the "SEC") pursuant to the Securities Act of 1933 or the Securities Exchange Act of 1934 (the "Act") and the rules and regulations promulgated thereunder, including all documents relating to the beneficial ownership of securities required to be filed with the SEC pursuant to Section 13(d) or Section 16(a) of the Act and any information statements on Form 13F required to be filed with the SEC pursuant to Section 13(f) of the Act.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:justify;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:justify;'><font size=2>All past acts of these attorneys-in-fact in furtherance of the foregoing are hereby ratified and confirmed.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:justify;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:justify;'><font size=2>This power of attorney shall be valid from the date hereof until revoked by me.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;'><font size=2>IN WITNESS WHEREOF, I have executed this instrument as of the 21st day of June 2005.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:3.5in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:3.5in;text-align:left;'><u><font size=2>/s/ Richard Perry&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></u></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:3.5in;text-align:left;'><font size=2>Richard Perry</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:2.5in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:justify;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+</div>
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

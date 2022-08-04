@@ -1,0 +1,19 @@
+Year,2012,2011
+Payout,0.00,0.00
+Plow Back,100.00,100.00
+Return on Equity,0.00,0.00
+Return on Assets,-24.01,-24.01
+Book Value per Share,-79.06,-73.09
+Earning Per Share,-9.01,-9.72
+Net Working Capital to Total Asseets,-1.67,-1.50
+Current Ratio,0.21,0.21
+Acid Test,0.12,0.12
+Times Interest Earned,-0.64,-0.84
+Total Debt Ratio,3.11,2.81
+Debt To Equity,-1.47,-1.55
+Return on Capital Employed,0.08,0.12
+Average Collection Period,0.00,375.51
+Days sales Inventory,1443.11,803.09
+Total Assets Turnover,0.00,0.01
+Gross Profit Margin,0.00,-470.37
+Net Profit Margin,0.00,-1669.25

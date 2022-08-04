@@ -1,0 +1,507 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ GIYaT5Nkj/aKJhplZaGX93TbMQ11vLjwEQCoNDsU+Q6XnNro3I97IX91dEvFBdZz
+ shleEEe9eqn5kdbW9D6NtA==
+
+<SEC-DOCUMENT>/in/edgar/work/20000818/0000893838-00-000202/0000893838-00-000202.txt : 20000922
+<SEC-HEADER>0000893838-00-000202.hdr.sgml : 20000922
+ACCESSION NUMBER:		0000893838-00-000202
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20000818
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MEDICAL MANAGEMENT SYSTEMS INC
+		CENTRAL INDEX KEY:			0000824104
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [6770
+]		IRS NUMBER:				954121451
+		STATE OF INCORPORATION:			CO
+		FISCAL YEAR END:			1231
+</COMPANY-DATA>
+
+		FILING VALUES:
+			FORM TYPE:		SC 13D
+			SEC ACT:		
+			SEC FILE NUMBER:	005-59467
+			FILM NUMBER:		705666
+</FILING-VALUES>
+
+			BUSINESS ADDRESS:	
+				STREET 1:		C/O BOOKDIGITAL.COM, INC.
+				STREET 2:		65 BROADWAY - 5TH FLOOR
+				CITY:			NEW YORK
+				STATE:			NY
+				ZIP:			10004
+				BUSINESS PHONE:		2124806380
+</BUSINESS-ADDRESS>
+
+				MAIL ADDRESS:	
+					STREET 1:		5459 SOUTH IRIS STREET
+					CITY:			LITTLETON
+					STATE:			CO
+					ZIP:			80123
+</MAIL-ADDRESS>
+
+					FORMER COMPANY:	
+						FORMER CONFORMED NAME:	DOG WORLD INC
+						DATE OF NAME CHANGE:	19920703
+</FORMER-COMPANY>
+
+						FORMER COMPANY:	
+							FORMER CONFORMED NAME:	APACHE INVESTMENTS INC
+							DATE OF NAME CHANGE:	19911006
+</FORMER-COMPANY>
+</SUBJECT-COMPANY>
+
+							FILED BY:		
+
+								COMPANY DATA:	
+									COMPANY CONFORMED NAME:			HOMEWORK911 COM INC
+									CENTRAL INDEX KEY:			0001122094
+									STANDARD INDUSTRIAL CLASSIFICATION:	 [
+]									IRS NUMBER:				134071186
+									STATE OF INCORPORATION:			DE
+									FISCAL YEAR END:			1231
+</COMPANY-DATA>
+
+									FILING VALUES:
+										FORM TYPE:		SC 13D
+</FILING-VALUES>
+
+										BUSINESS ADDRESS:	
+											STREET 1:		1675 BROADWAY 35TH FLOOR
+											CITY:			NEW YORK
+											STATE:			NY
+											ZIP:			10019
+											BUSINESS PHONE:		2122612061
+</BUSINESS-ADDRESS>
+</FILED-BY>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<FILENAME>0001.txt
+<TEXT>
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                              WASHINGTON, DC 20549
+
+                               ------------------
+
+                                  SCHEDULE 13D
+
+                    UNDER THE SECURITIES EXCHANGE ACT OF 1934
+                               (AMENDMENT NO. __)*
+
+                                  DOMINIX, INC.
+                                (Name of Issuer)
+
+                    COMMON STOCK, PAR VALUE $0.0001 PER SHARE
+                         (Title of Class of Securities)
+
+                                    257545103
+                                 (CUSIP Number)
+
+                              Mr. Carl S. Heringer
+                              Homework911.com, Inc.
+                              1675 Broadway, 35th Floor
+                              New York, NY 10019
+                                 (212) 261-2061
+                  (Name, Address and Telephone Number of Person
+                Authorized to Receive Notices and Communications)
+
+                                  JUNE 2, 2000
+             (Date of Event Which Requires Filing of this Statement)
+
+     If the filing person has previously filed a statement on Schedule 13G to
+report the acquisition that is the subject of this Schedule 13D, and is filing
+this schedule because of Sections 240.13d-1(e), 240.13d-1(f) or 240.13d-1(g),
+check the following box |_|
+
+     NOTE. Schedules filed in paper format shall include a signed original and
+five copies of the Schedule, including all exhibits. SEE Section 240.13d-7(b)
+for other parties to whom copies are to be sent.
+
+* The remainder of this cover page shall be filled out for a reporting person's
+initial filing on this form with respect to the subject class of securities, and
+for any subsequent amendment containing information which would alter
+disclosures provided in a prior cover page.
+
+     The information required on the remainder of this cover page shall not be
+deemed to be "filed" for the purpose of Section 18 of the Securities Exchange
+Act of 1934 (the "Act") or otherwise subject to the liabilities of that section
+of the Act but shall be subject to all other provisions of the Act (however, see
+the notes).
+
+
+<PAGE>
+
+
+- ---------------------------
+   CUSIP No. 257545103
+- ---------------------------
+
+- --------------------------------------------------------------------------------
+
+1         NAME OF REPORTING PERSONS
+          I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)
+                            Homework911.com, Inc.
+                             TIN:  13-4071186
+
+- --------------------------------------------------------------------------------
+
+2         CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*           (a)|_|
+                                                                      (b)|_|
+
+- --------------------------------------------------------------------------------
+
+3         SEC USE ONLY
+- --------------------------------------------------------------------------------
+
+4         SOURCE OF FUNDS*
+          WC
+- --------------------------------------------------------------------------------
+
+5         CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS                 |_|
+          IS REQUIRED PURSUANT TO ITEM 2(d) or 2(e)
+- --------------------------------------------------------------------------------
+
+6         CITIZENSHIP OR PLACE OF ORGANIZATION
+          Delaware
+
+- --------------------------------------------------------------------------------
+
+ NUMBER OF SHARES   7       SOLE VOTING POWER
+BENEFICIALLY OWNED          965,123
+         BY
+        EACH        ------------------------------------------------------------
+     REPORTING              SHARED VOTING POWER
+      PERSON        8       -0-
+       WITH
+- --------------------------------------------------------------------------------
+
+                    9       SOLE DISPOSITIVE POWER
+                            965,123
+                    ------------------------------------------------------------
+
+                    10      SHARED DISPOSITIVE POWER
+                            -0-
+- --------------------------------------------------------------------------------
+
+11        AGGREGATE AMOUNT  BENEFICIALLY  OWNED BY EACH REPORTING PERSON
+
+          965,123
+          (see Item 5).
+- --------------------------------------------------------------------------------
+
+12        CHECK BOX IF THE AGGREGATE AMOUNT IN ROW                         |_|
+          (11) EXCLUDES CERTAIN SHARES*
+- --------------------------------------------------------------------------------
+
+13        PERCENT  OF CLASS  REPRESENTED  BY  AMOUNT  IN ROW (11)
+
+          25.6%
+- --------------------------------------------------------------------------------
+
+14        TYPE OF REPORTING PERSON*
+          CO
+- --------------------------------------------------------------------------------
+
+
+
+
+                                       2
+<PAGE>
+
+
+ITEM 1.     SECURITY AND ISSUER.
+            --------------------
+
+     This statement relates to the Common Stock, par value $0.0001 per share
+(the "Common Stock"), of Dominix, Inc. (formerly Medical Management Systems,
+Inc.) (the "Issuer"). The principal executive office of the Issuer is located at
+65 Broadway, 5th Floor, New York, NY 10006.
+
+ITEM 2.    IDENTITY AND BACKGROUND.
+           -----------------------
+
+     This Statement is being filed by Homework911.com, Inc., a corporation
+incorporated under the laws of Delaware (the "Reporting Person"), whose
+principal office is located at 1675 Broadway, 35th Floor, New York, New York
+10019. The Reporting Person is in the business of providing interactive distant
+learning.
+
+     Attached as Schedule A is a list of all executive officers and directors of
+the Reporting Person, stating each such individual's business or residence
+address, principal occupation or employment, and his or her citizenship. During
+the last five years, the Reporting Person has not been, and, to the best
+knowledge of the Reporting Person, none of the persons listed on Schedule A
+hereto has been, (i) convicted in a criminal proceeding (excluding traffic
+violations or similar misdemeanors) or (ii) a party to a civil proceeding of a
+judicial or administrative body of competent jurisdiction as a result of which
+such person was or is subject to a judgment, decree or final order enjoining
+future violations of, or prohibiting or mandating activities subject to, federal
+or state securities laws or finding any violation with respect to such laws.
+
+ITEM 3.   SOURCE AND AMOUNT OF FUNDS OR OTHER CONSIDERATION.
+          -------------------------------------------------
+
+     On April 17, 2000, the Reporting Person purchased 3,100,000 shares of
+common stock of Bookdigital.com, Inc. ("Bookdigital"), pursuant to a Stock
+Purchase Agreement among the Reporting Person, Bookdigital, Don Rose and
+American Equity Financing Inc. The source of funds used to purchase such shares
+of common stock of Bookdigital was working capital of the Reporting Person.
+
+     On June 2, 2000, Bookdigital and Medical Management Systems, Inc. ("Medical
+Management") completed an exchange offer pursuant to which each share of
+Bookdigital common stock was exchanged for 0.31133 share of common stock of
+Medical Management. As a result of the exchange offer, the Reporting Person
+holds 965,123 shares of common stock of Medical Management.
+
+     On July 27, 2000, Medical Management changed its name to Dominix, Inc.
+
+ITEM 4.   PURPOSE OF TRANSACTION.
+          ----------------------
+
+     The Reporting Person acquired the shares of Common Stock of the Issuer in
+the ordinary course of business for investment purposes only. The Reporting
+Person expects that it will, from time to time, review its investment position
+in the Issuer and may, depending on market and other conditions, increase or
+decrease such investment position. The Reporting Person does not have any plans
+or proposals with respect to any extraordinary corporate transaction involving
+the Issuer or any sale of its assets or any change in its Board of Directors,
+management, capitalization, dividend policy, charter or by-laws, or other change
+in its business or corporate structure or with respect to the delisting or
+deregistration of any of its securities, including, without limitation, those
+matters described in subparagraphs (a) through (j) of Item 4 of Schedule 13D.
+
+ITEM 5.    INTEREST IN SECURITIES OF THE ISSUER
+           ------------------------------------
+
+     As of the date hereof, the Reporting Person is the beneficial owner of
+965,123 shares, or 25.6% of the Common Stock of the Issuer. The Reporting Person
+has the sole power to vote or to direct the vote, and the sole power to dispose
+or to direct the disposition of, all shares of Common Stock of the Issuer held
+by it. Except as otherwise described herein, neither the Reporting Person, nor,
+to the best knowledge of the Reporting Person, any of the persons listed on
+Schedule A hereto, beneficially owns any shares of Common Stock of the Issuer.
+Except as otherwise described herein, no transactions were effected by the
+Reporting Person or, to the best knowledge of the Reporting Person, any of the
+persons listed on Schedule A attached hereto, in the Common Stock during the 60
+days prior to the date of this Schedule 13D.
+
+
+
+
+                                       3
+<PAGE>
+
+
+ITEM 6.   CONTRACTS, ARRANGEMENTS, UNDERSTANDINGS OR RELATIONSHIPS WITH RESPECT
+          ---------------------------------------------------------------------
+          TO SECURITIES OF THE ISSUER
+          ---------------------------
+
+         None.
+
+ITEM 7.   MATERIALS TO BE FILED AS EXHIBITS.
+          ---------------------------------
+
+       Exhibit A:  Non-Negotiable Promissory Note dated April 17, 2000
+
+
+
+
+                                       4
+<PAGE>
+
+
+                                   SCHEDULE A
+                                   ----------
+
+     The following table sets forth the names, addresses and principal
+occupations of the executive officers and directors of the Reporting Person.
+Except for Ng Eng Ho who is a citizen of Singapore, each of the following
+individuals is a citizen of the United States. In addition, each of Philip
+Friedman and Victor Friedman (in his individual capacity and in his capacity as
+Trustee of certain grantor retained annuity trusts) is the beneficial owner of
+40% of the Common Stock of the Issuer.
+
+<TABLE>
+<CAPTION>
+- ------------------------------------------------------------------------------------------
+         NAME                   ADDRESS                     PRINCIPAL OCCUPATION
+         ----                   -------                     --------------------
+- ------------------------------------------------------------------------------------------
+<S>                         <C>                            <C>
+Philip Friedman             Homework911.com, Inc.          President, CEO and Chairman
+                            1675 Broadway, 35th Floor      Homework911.com, Inc.
+                            New York, New York 10019
+- ------------------------------------------------------------------------------------------
+Victor Friedman             Homework911.com, Inc.          Executive Vice President and
+                            1675 Broadway, 35th Floor      Vice Chairman
+                            New York, New York 10019       Homework911.com, Inc.
+- ------------------------------------------------------------------------------------------
+Carl S. Heringer           Homework911.com, Inc.           Vice President, General
+                           1675 Broadway, 35th Floor       Counsel and Secretary
+                           New York, New York 10119        Homework911.com, Inc.
+- ------------------------------------------------------------------------------------------
+Abraham Zelkin             Homework911.com, Inc.           Chief Operating Officer
+                           1675 Broadway, 35th Floor       Homework911.com, Inc.
+                           New York, New York 10019
+- ------------------------------------------------------------------------------------------
+Don Rose                   Homework911.com, Inc.           Vice President - Business
+                           1675 Broadway, 35th Floor       Development
+                           New York, New York 10119        Homework911.com, Inc.
+- ------------------------------------------------------------------------------------------
+Ng Eng Ho                  Keppel T&T Limited              Managing Director
+                           27 Benoi Sector                 Keppel T&T Limited
+                           Singapore 629859
+- ------------------------------------------------------------------------------------------
+</TABLE>
+
+
+
+
+                                       5
+<PAGE>
+
+
+                                    SIGNATURE
+
+     After reasonable inquiry and to the best of my knowledge and belief, I
+certify that the information set forth in this statement is true, complete and
+correct.
+
+Date:  August 18, 2000
+
+                            HOMEWORK911.COM, INC.
+
+
+                            By:  /s/ Carl S. Heringer
+                                 ------------------------------------
+                                  Carl S. Heringer
+                                  Vice President, General Counsel and Secretary
+
+
+
+
+                                       6
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>0002.txt
+<DESCRIPTION>EXHIBIT A
+<TEXT>
+
+
+
+                                    EXHIBIT A
+
+                         NON-NEGOTIABLE PROMISSORY NOTE
+
+$        100,000.00                                      Date:   April 17, 2000
+- -------------------                                             ----------------
+
+
+         FOR VALUE RECEIVED, the undersigned Homework9l1.com, Inc., a
+corporation organized and existing under the laws of the State of Delaware
+("Maker"), hereby promises to pay Don Rose, of 5 Groton Drive, Port Jefferson
+Station, NY 11776 ("Payee") the principal sum of one hundred thousand dollars
+($100,000), together with simple interest on the unpaid balance of such
+principal from the date hereof until this obligation shall be paid in full in
+accordance with the following:
+
+1.       The principal sum shall be payable in the following increments - on
+         demand the sum of $34,000, on demand but no earlier than the first
+         anniversary date of this Note the sum of $33,000, and paid in full, to
+         the extent not otherwise previously paid, on the second anniversary
+         date of this Note.
+
+2.       Simple interest on the unpaid principal balance hereof shall be payable
+         in arrears on each payment date at a rate per annum of eight percent
+         (8%) until the principal amount and all interest shall have been paid
+         in full.
+
+3.       Payments of principal and interest shall be made in lawful money of the
+         United States of America at the office of the Maker, or at such other
+         place as the Payee shall designate to Maker in writing.
+
+4.       All payments shall first be applied to the payment of accrued and
+         unpaid interest on this Note and shall thereafter be applied to the
+         payment of the principal of this Note.
+
+5.       Maker may, at its option, at any time and from time to time, prepay all
+         or any part of this Note together with all unpaid interest on this Note
+         accrued to the date of prepayment, without penalty. Prepayments of this
+         Note shall first be applied to any unpaid but accrued interest and then
+         to the unpaid principal balance of this Note, unless otherwise agreed
+         in writing by the parties hereto.
+
+6.       This Note is subject to the claims of Maker against Payee, and Maker
+         hereby reserves the right, at any time and from time to time, to set
+         off against its obligations hereunder, any amounts to which Maker may
+         be entitled in accordance with the provisions of that certain Stock
+         Purchase Agreement between the parties dated April 17, 2000, including,
+         without limitation, any claims under such
+
+
+
+
+                                  Page 1 of 2
+<PAGE>
+
+
+         Agreement with respect to Payee's indemnification obligations. This
+         Note shall not be negotiated, assigned or otherwise transferred by
+         Payee (except as to his immediate family and/or estate).
+
+7.       The laws of the State of New York, without giving effect to its
+         conflict of laws provision,  shall govern all questions  concerning the
+         construction,   validity  and  interpretation  of  this  Note  and  the
+         performance of the obligations hereunder.
+
+8.       The terms and conditions of this Note constitute the entire agreement
+         between Maker and Payee with respect to the subject matter hereof and
+         supersede any prior representations, agreements or understandings by or
+         between Maker and Payee, whether written or oral. There are no
+         representations, warranties, agreements or understandings between Maker
+         and Payee of any kind whatsoever, except as expressly set forth herein,
+         with regard to the subject matter herein. No amendment or modification
+         of this Note or waiver of the terms or conditions hereof shall be
+         binding upon Maker or Payee, unless approved in writing by such party.
+
+IN WITNESS WHEREOF, Maker has caused this Note to be executed in its behalf by a
+duly authorized officer as of the day and year first set forth above.
+
+No.  HW 2000-1
+   -----------
+
+ATTEST:                                                HOMEWORK911.COM, INC.
+
+
+/S/ Lois Shapiro                                     By: /s/ Philip Friedman
+- -------------------------                                -------------------
+Lois Shapiro, Notary Public                          Print Name & Title:
+                                                     Philip Friedman, CEO
+                                                     -----------------------
+
+
+
+
+                                  Page 2 of 2
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

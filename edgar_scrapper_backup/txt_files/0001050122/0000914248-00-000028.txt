@@ -1,0 +1,510 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Al2YrRGQ32ie9hLpeIWgpt06c9FQtp0416Q3SssVF5zRuOaaQWos3+DTFYb4ucLa
+ a0eAgRm1Sguf9+J6ZjP1mQ==
+
+<SEC-DOCUMENT>0000914248-00-000028.txt : 20000307
+<SEC-HEADER>0000914248-00-000028.hdr.sgml : 20000307
+ACCESSION NUMBER:		0000914248-00-000028
+CONFORMED SUBMISSION TYPE:	SC 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20000302
+GROUP MEMBERS:		AUSTIN W. MARXE
+GROUP MEMBERS:		AWM INVESTMENT COMPANY, INC.
+GROUP MEMBERS:		DAVID M. GREENHOUSE
+GROUP MEMBERS:		MGP ADVISERS LIMITED PARTNERSHIP
+GROUP MEMBERS:		SPECIAL SITUATIONS CAYMAN FUND, L.P.
+GROUP MEMBERS:		SPECIAL SITUATIONS FUND III L P
+GROUP MEMBERS:		SPECIAL SITUATIONS FUND III, L.P.
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			1 800 CONTACTS INC
+		CENTRAL INDEX KEY:			0001050122
+		STANDARD INDUSTRIAL CLASSIFICATION:	OPTICAL INSTRUMENTS & LENSES [3827]
+		IRS NUMBER:				870571643
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+		SEC ACT:		
+		SEC FILE NUMBER:	005-54695
+		FILM NUMBER:		560099
+
+	BUSINESS ADDRESS:	
+		STREET 1:		13751 S WADSWORTH PARK DR SUITE D-140
+		CITY:			DRAPER
+		STATE:			UT
+		ZIP:			84020
+		BUSINESS PHONE:		8015728225
+
+	MAIL ADDRESS:	
+		STREET 1:		13751 S WADSWORTH PARK DR SUITE D-140
+		CITY:			DRAPER
+		STATE:			UT
+		ZIP:			84020
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SPECIAL SITUATIONS FUND III L P
+		CENTRAL INDEX KEY:			0000914248
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+		IRS NUMBER:				133737427
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		153 E 53 ST 51ST FL
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		2128325300
+
+	MAIL ADDRESS:	
+		STREET 1:		153 EAST 53RD STREET 51ST FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<TEXT>
+
+                         UNITED STATES
+              SECURITIES AND EXCHANGE COMMISSION
+                    Washington, D.C.  20549
+
+
+                          SCHEDULE 13G
+
+
+            Under the Securities Exchange Act of 1934
+                    (Amendment No. ____)*
+
+                    1 800 Contacts, Inc.
+      ______________________________________________________
+                        (Name of Issuer)
+
+               Common Stock, $ .01 Par Value
+      ______________________________________________________
+                 (Title of Class of Securities)
+
+                         681977104
+               ____________________________________
+                         (CUSIP Number)
+
+                    December 31, 1999
+     -------------------------------------------------------
+     (Date of Event Which Requires Filing of this Statement)
+
+
+Check the appropriate box to designate the rule pursuant to which
+this Schedule is filed:
+
+     -x--      Rule 13d-1(b)
+     ----      Rule 13d-1(c)
+     ----      Rule 13d-1(d)
+
+
+*The remainder of this cover page shall be filled out for a
+reporting person's initial filing on this form with respect to
+the subject class of securities, and for any subsequent amendment
+containing information which would alter the disclosures provided
+in a prior cover page.
+
+The information required in the remainder of this cover page
+shall not be deemed to be "filed" for the purpose of Section 18
+of the Securities Exchange Act of 1934 ("Act") or otherwise
+subject to the liabilities of that section of the Act but shall
+be subject to all other provisions of the Act (however, see the
+Notes).
+
+
+
+
+
+
+CUSIP No. 681977104                13G         Page  2   of   11
+- ----------------------------------------------------------------
+(1)  NAME OF REPORTING PERSONS
+     I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)
+
+     Special Situations Fund III, L.P. ("The Fund") F13-3737427
+     MGP Advisers Limited Partnership* ("MGP") F13-3263120
+- ----------------------------------------------------------------
+(2)  CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP (See
+     Instructions)
+  (a) | |
+  (b) |X|
+- ----------------------------------------------------------------
+(3)  SEC USE ONLY
+- ----------------------------------------------------------------
+(4)  CITIZENSHIP OR PLACE OF ORGANIZATION
+
+     Delaware
+- ----------------------------------------------------------------
+ NUMBER OF     (5) SOLE VOTING POWER   See Marxe/Greenhouse
+   SHARES       -------------------------------------------------
+BENEFICIALLY   (6) SHARED VOTING POWER             None
+ OWNED BY      -------------------------------------------------
+   EACH        (7) SOLE DISPOSITIVE POWER  See Marxe/Greenhouse
+ REPORTING     -------------------------------------------------
+PERSON WITH:   (8) SHARED DISPOSITIVE POWER        None
+- ----------------------------------------------------------------
+(9)  AGGREGATE AMOUNT BENEFICALLY OWNED BY EACH REPORTING PERSON
+
+     242,500
+- ----------------------------------------------------------------
+(10) CHECK IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES
+     CERTAIN SHARES (See Instructions)
+
+- ----------------------------------------------------------------
+(11) PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 9
+
+      3.9
+- ----------------------------------------------------------------
+(12) TYPE OF REPORTING PERSON (See Instructions)
+
+     IV/IA
+- ----------------------------------------------------------------
+
+* AWM Investment Company, Inc., a Delaware corporaiton is the
+General Partner of this entity.
+
+
+
+
+
+
+
+
+CUSIP No. 681977104           13G             Page  3  of  11
+- ----------------------------------------------------------------
+(1)  NAME OF REPORTING PERSON
+     I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)
+
+     Special Situations Cayman Fund, L.P. ("CAY") 98-0132442
+     AWM Investment Comapny, Inc.  ("AWM") 11-3086452
+- ----------------------------------------------------------------
+(2)  CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP (See
+     Instructions)
+
+  (a) | |
+  (b) |X|
+- ----------------------------------------------------------------
+(3)  SEC USE ONLY
+
+- ----------------------------------------------------------------
+(4)  CITIZENSHIP OR PLACE OF ORGANIZATION
+
+     Delaware
+- ----------------------------------------------------------------
+ NUMBER OF     (5) SOLE VOTING POWER   See Marxe/Greenhouse
+  SHARES       -------------------------------------------------
+BENEFICIALLY   (6) SHARED VOTING POWER            None
+ OWNED BY      -------------------------------------------------
+   EACH        (7) SOLE DISPOSITIVE POWER  See Marxe/Greenhouse
+ REPORTING     -------------------------------------------------
+PERSON WITH:   (8) SHARED DISPOSITIVE POWER       None
+- ----------------------------------------------------------------
+(9)  AGGREGATE AMOUNT BENEFICALLY OWNED BY EACH REPORTING PERSON
+    78,500
+- ----------------------------------------------------------------
+(10) CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES
+     CERTAIN SHARES (See Instructions)
+
+- ----------------------------------------------------------------
+(11) PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 9
+
+   1.3
+- ----------------------------------------------------------------
+(12) TYPE OF REPORTING PERSON*
+
+     IV/IA
+- ----------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+CUSIP No. 681977104             13G         Page  4  of  11
+- ----------------------------------------------------------------
+(1)  NAME OF REPORTING PERSON
+     I.R.S. IDENTIFICATION NO. OF ABOVE PERSONS (ENTITIES ONLY).
+
+     Austin W. Marxe
+     David M. Greenhouse
+- ----------------------------------------------------------------
+(2)  CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP (See
+     Instructions)
+
+  (a) | |
+  (b) |X|
+- ----------------------------------------------------------------
+(3)  SEC USE ONLY
+
+- ----------------------------------------------------------------
+(4)  CITIZENSHIP OR PLACE OF ORGANIZATION
+
+     United States of America
+- ----------------------------------------------------------------
+ NUMBER OF     (5) SOLE VOTING POWER         321,000
+  SHARES       -------------------------------------------------
+BENEFICIALLY   (6) SHARED VOTING POWER           None
+ OWNED BY      -------------------------------------------------
+   EACH        (7) SOLE DISPOSITIVE POWER    321,000
+ REPORTING     -------------------------------------------------
+PERSON WITH:    (8) SHARED DISPOSITIVE POWER      None
+- ----------------------------------------------------------------
+(9)  AGGREGATE AMOUNT BENEFICALLY OWNED BY EACH REPORTING PERSON
+
+     321,000
+- ----------------------------------------------------------------
+(10) CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES
+     CERTAIN SHARES (See Instructions)
+
+- ----------------------------------------------------------------
+(11) PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 9
+
+     5.1
+- ----------------------------------------------------------------
+(12) TYPE OF REPORTING PERSON*
+
+     IN
+- ----------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+                                        Page 5 of 11 Pages
+Item 1.
+(a)  Name of Issuer:  1 800 Contacts, Inc.
+(b)  Address of Issuer's Principal Executive Offices:
+66 E. Wadsworth Park Drive, 3rd floor,  Draper, UT  84020
+Item 2.
+(a)  Name of Person Filing:  This statement is filed on behalf
+of (i) Special Situations Fund III , L.P., a Delaware limited
+partnership ("SSF III"); (ii) Special Situations Cayman Fund,
+L.P. , a Cayman Islands limited partnership (the "Cayman
+Fund"); (iii) MGP Advisers Limited Partnership, a Delaware
+limited partnership,("MGP"); (iv) AWM Investment Company,
+Inc., a Delaware corporation ("AWM"); (v) Austin W. Marxe and
+(vi) David Greenhouse.  Each of the foregoing is hereinafter
+individually referred to as a "Reporting Person" and
+collectively as the "Reporting Persons."
+(b)  Address of Principal Business Office or, if none,
+Residence:   The principal office and business address of the
+Reporting Persons, other than the Cayman Fund, is 153 East 53
+Street, New York, New York 10022.  The principal office and
+business address of the Cayman Fund is c/o CIBC Bank and Trust
+Company (Cayman) Limited, CIBC Bank Building, P.O. Box 694,
+Grand Cayman, Cayman Islands,  British West Indies.
+(c) Citizenship:  SSF III and MGP are Delaware limited
+partnerships.  The Cayman Fund was formed under the laws of
+the Cayman Islands and AWM is a Delaware corporation.   Austin
+W. Marxe and David M. Greenhouse are United States citizens.
+
+                                        Page 6 of 11 Pages
+The principal business of SSF III and the Cayman Fund
+(individually, a "Fund" and, collectively, the "Funds") is to
+invest in, sell, convey, transfer, exchange and otherwise
+trade in principally equity and equity related securities.
+The principal business of MGP is to act as general partner of
+and investment adviser to SSF III.   The principal business of
+AWM is to act as the general partner of MGP and as the general
+partner of and the investment adviser to the Cayman Fund.  MGP
+and AWM are referred to herein, individually, as an "Adviser"
+and, collectively, as the "Advisers."   The principal
+occupation of Austin W. Marxe and David Greenhouse is to serve
+as officers, directors and members or principal shareholders
+of the Advisers.
+2(d)      Title of Class of Securities: See cover sheets.
+2(e)      CUSIP Number:  See cover sheets.
+Item 3.   If this statement is filed pursuant to $240.13d-1(b)
+          or 240.13d-2(b), check whether the person filing is
+          a:
+(a) ( )   Broker or Dealer registered under section 15 of the
+          Act;
+(b) ( )   Bank as defined in section 3(a) (6) of the Act;
+(c) ( )   Insurance Company as defined in section 3(a) (19) of
+          the Act;
+(d) (x)   Investment Company registered under section 8 of the
+          Investment Company Act of 1940;
+(e) (x)   An Investment Adviser in accordance with $240.13d
+                                   Page 7 of 11 Pages
+          -1(b)(I)(ii)(E);
+(f) ( )   An employee benefit plan or endowment fund in
+          accordance with $240.13d-1(b)(I)(ii)(F);
+(g) (x)   A parent holding company or control person in
+          accordance with $240.13d-1(b)(1)(ii)(G);
+(h) ( )   A savings association as defined in Section 3(b) of
+          the Federal Deposit Insurance Act;
+(i) ( )   A church plan that is excluded from the definition
+          of an investment company under section 3(c)(14) of
+          the Investment Company Act of 1940;
+(j) ( )   Group, in accordance with $240.13d-1(b)(1)(ii)(J).
+See Exhibit A attached hereto.
+Item 4.   Ownership:
+(a)  Amount Beneficially Owned: 321,000 shares of Common Stock
+     are beneficially owned by Austin W. Marxe and David
+     Greenhouse; of which 242,500 shares of common stock are
+     owned by SSF III and  78,500 shares of common stock are
+     owned by the Cayman Fund.
+(b)  Percent of Class:  5.1 percent of the Common Stock are
+     beneficially owned by Austin Marxe and David Greenhouse.
+     3.9 percent of the Common Stock are beneficially owned by
+     SSF III and 1.3 percent are beneficially owned by the
+     Cayman Fund.
+(c)  Number of Shares as to which the person has Rights to
+      Vote and/or Dispose of Securities:  SSF III, MGP, the
+     Cayman Fund and AWM have sole power to vote or to direct
+                                   Page 8 of 11 Pages
+     the vote and to dispose or to direct the disposition of
+     all securities reported hereby which are respectively
+     beneficially owned by each Fund and its Adviser.
+     Austin Marxe and David Greenhouse have shared power to
+     vote or to direct the vote of and to dispose or to direct
+     the disposition of securities reported hereby which are
+     beneficially owned by Austin Marxe and David Greenhouse
+     by virtue of being Executive Officers of the Investment
+     Advisers.
+Item 5. Ownership of Five Percent or Less of a Class:  If this
+     statement is being filed to report the fact that as of
+     the date hereof the reporting person has ceased to be the
+     beneficial owner of more that five percent of the class
+     of securities, check the following     .
+     Item 6.Ownership of More than Five Percent on Behalf of
+     Another Person:  SSF III and the Cayman Fund as owners of
+     the securities in question, have the right to receive any
+     dividends from, or proceeds from the sale of, such
+     securities.
+Item 7. Identification and Classification of the Subsidiary
+     Which Acquired the Security being Reported on By the
+     Parent Holding Company:  See Exhibit A attached hereto.
+Item 8. Identification and Classification of Members of the
+      Group:  Not applicable
+Item 9. Notices of Dissolution of Group:  Not applicable.
+
+                                   Page 9 of 11 Pages
+
+Item 10.  Certification:
+               By signing below I certify that, to the best of
+my knowledge and belief, the securities referred to above were
+acquired and are held in the ordinary course of business and
+were not acquired and are not held for the purpose of or with
+the effect of changing or influencing the control of the
+issuer of the securities and were not acquired and are not
+held in connection with or as a participant in any transaction
+having that purpose or effect.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   Page 10 of 11 Pages
+                          SIGNATURE
+
+     After reasonable inquiry and to the best of my knowledge
+and belief, I certify that the information set forth in this
+statement is true, complete and correct.
+
+Dated: March 1, 2000
+
+
+               SPECIAL SITUATIONS FUND III, L.P.
+
+
+               By:/s/ Austin W. Marxe
+                  Austin W. Marxe
+                  Managing Director
+
+               MGP ADVISERS LIMITED PARTERSHIP
+
+
+               By:/s/ Austin W. Marxe
+                   Austin W. Marxe
+                   President and Chief Executive Officer
+
+               SPECIAL SITUATIONS CAYMAN FUND, L.P.
+
+
+               By: /s/ Austin W. Marxe
+                   Austin W. Marxe
+                   Managing Director
+
+
+               AWM INVESTMENT COMPANY, INC.
+
+
+               By: /s/ Austin W. Marxe
+                   Austin W. Marxe
+                   President and CEO
+
+
+
+                    /s/ Austin W. Marxe
+                    AUSTIN W. MARXE
+
+
+
+                    /s/David M Greenhouse
+
+                                   Page 11 of 11 Pages
+
+
+
+
+
+                          EXHIBIT A
+
+
+     This Exhibit explains the relationship between the
+Reporting Persons.  MGP Advisers Limited Partnership (MGP), a
+Delaware limited partnership, is the general partner of the
+Special Situations Fund III, l.P., a Delaware Limited
+Partnership.  AWM Investment Company, Inc., a Delaware
+corporation, is the general partner of MGP and the general
+partner of and investment adviser to the Cayman Fund.  Austin
+W. Marxe and David M. Greenhouse are the principal owners of
+MGP and AWM and are principally responsible for the selection,
+acquisition and disposition of the portfolios securities by
+the investment advisers on behalf of their Fund.
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

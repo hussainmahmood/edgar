@@ -1,0 +1,790 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Hu0GjfC3CeS/IY9+kvifj0OIluHFn2M30/8563z5EetxnXuWDOwSyLJkX2UTbFB2
+ OF+9E6mXzHfYiZu9My/EZg==
+
+<SEC-DOCUMENT>0000919574-02-001273.txt : 20020801
+<SEC-HEADER>0000919574-02-001273.hdr.sgml : 20020801
+<ACCEPTANCE-DATETIME>20020801145820
+ACCESSION NUMBER:		0000919574-02-001273
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20020801
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			1-800 ATTORNEY INC
+		CENTRAL INDEX KEY:			0001010615
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS PUBLISHING [2741]
+		IRS NUMBER:				593203301
+		STATE OF INCORPORATION:			FL
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-50068
+		FILM NUMBER:		02717275
+
+	BUSINESS ADDRESS:	
+		STREET 1:		P O BOX 280
+		STREET 2:		186 P C N A PARKWAY
+		CITY:			LAKE HELEN
+		STATE:			FL
+		ZIP:			32744
+		BUSINESS PHONE:		9042281000
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 280
+		STREET 2:		186 P C N A PARKWAY
+		CITY:			LAKE HELEN
+		STATE:			FL
+		ZIP:			32744
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PUBLISHING CO OF NORTH AMERICA INC
+		DATE OF NAME CHANGE:	19960321
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ATTORNEYS COM INC
+		DATE OF NAME CHANGE:	20000607
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TIEDEMAN INVESTMENT GROUP
+		CENTRAL INDEX KEY:			0001172147
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		535 MADISON AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		2127590340
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<FILENAME>d337846_13-d.txt
+<DESCRIPTION>TIEDEMANN (1-800-ATTORNEY, INC. (ATTY)
+<TEXT>
+                      SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, DC 20549
+
+                               ----------------
+
+                                 SCHEDULE 13D
+                                (Rule 13d-101)
+
+            INFORMATION TO BE INCLUDED IN STATEMENTS FILED PURSUANT
+           TO RULE 13d-1(a) AND AMENDMENTS THERETO FILED PURSUANT TO
+                                 RULE 13d-2(a)
+
+                        (Amendment No. __________ )(1)
+
+
+                          1-800-ATTORNEY, INC. (ATTY)
+- --------------------------------------------------------------------------------
+                                (Name of Issuer)
+
+
+                     Common Stock, No Par Value per share
+- --------------------------------------------------------------------------------
+                        (Title of Class of Securities)
+
+
+                                  744654-10-4
+- --------------------------------------------------------------------------------
+                                 (CUSIP Number)
+
+
+  Tiedemann Investment Group c/o 535 Madison Avenue, 37th Floor, New York, NY
+                10022-4212; (212) 759-0340; Attn: Barbara Warga
+- --------------------------------------------------------------------------------
+                 (Name, Address and Telephone Number of Person
+               Authorized to Receive Notices and Communications)
+
+
+                                 July 23, 2002
+- --------------------------------------------------------------------------------
+             (Date of Event which Requires Filing of This Statement)
+
+     If the filing person has previously filed a statement on Schedule 13G to
+report the acquisition that is the subject of this Schedule 13D, and is filing
+this schedule because of Rule 13d-1(e), 13d-1(f) or 13d-1(g), check the
+following box [X].
+
+
+          Note: Schedules filed in paper format shall include a signed
+     original and five copies of the schedule, including all exhibits. See
+     Rule 13d-7 for other parties to whom copies are to be sent.
+
+
+- ----------
+(1)  The remainder of this cover page shall be filled out for a reporting
+     person's initial filing on this form with respect to the subject class of
+     securities, and for any subsequent amendment containing information which
+     would alter disclosures provided in a prior cover page.
+
+     The information required on the remainder of this cover page shall not be
+deemed to be "filed" for the purpose of Section 18 of the Securities Exchange
+Act of 1934 or otherwise subject to the liabilities of that section of the Act
+but shall be subject to all other provisions of the Act (however, see the
+Notes).
+
+<PAGE>
+
+CUSIP No.: 744654-10-4
+
+- --------------------------------------------------------------------------------
+1    NAME OF REPORTING PERSONS
+
+     Carl Tiedemann
+
+I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)
+- --------------------------------------------------------------------------------
+2  CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP* (a)  [ ]
+                                                     (b)  [X]
+- --------------------------------------------------------------------------------
+3  SEC USE ONLY
+- --------------------------------------------------------------------------------
+4  SOURCE OF FUNDS*
+
+   AF, WC, PF
+- --------------------------------------------------------------------------------
+5  CHECK BOX IF DISCLOSURE OF LEGAL  PROCEEDINGS IS REQUIRED  PURSUANT TO ITEMS
+   2(d) OR 2(e)
+- --------------------------------------------------------------------------------
+6  CITIZENSHIP OR PLACE OF ORGANIZATION
+
+   United States of America
+- --------------------------------------------------------------------------------
+7  NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH SOLE
+   VOTING POWER
+
+   98,814
+- --------------------------------------------------------------------------------
+8  NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH SHARED
+   VOTING POWER
+
+   553,359
+- --------------------------------------------------------------------------------
+9  NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH SOLE
+   DISPOSITIVE POWER
+
+   98,814
+- --------------------------------------------------------------------------------
+10  NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH SHARED
+    DISPOSITIVE POWER
+
+    553,359
+- --------------------------------------------------------------------------------
+11  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+    652,173
+- --------------------------------------------------------------------------------
+12  CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES*
+
+- --------------------------------------------------------------------------------
+13  PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+
+    12.14%
+- --------------------------------------------------------------------------------
+14  TYPE OF REPORTING PERSON*
+
+    IN
+- --------------------------------------------------------------------------------
+                     *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+<PAGE>
+
+CUSIP No.: 744654-10-4
+
+- --------------------------------------------------------------------------------
+1  NAME OF REPORTING PERSONS
+
+   Hans Tiedemann
+
+I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)
+- --------------------------------------------------------------------------------
+2  CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*  (a)  [ ]
+                                                      (b)  [X]
+- --------------------------------------------------------------------------------
+3  SEC USE ONLY
+- --------------------------------------------------------------------------------
+4  SOURCE OF FUNDS*
+
+   AF, WC, PF
+- --------------------------------------------------------------------------------
+5  CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT TO
+   ITEMS 2(d) OR 2(e)
+
+- --------------------------------------------------------------------------------
+6  CITIZENSHIP OR PLACE OF ORGANIZATION
+
+   United States of America
+- --------------------------------------------------------------------------------
+7  NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH SOLE
+   VOTING POWER
+
+   39,526
+- --------------------------------------------------------------------------------
+8  NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH SHARED
+   VOTING POWER
+
+   553,359
+- --------------------------------------------------------------------------------
+9  NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH SOLE
+   DISPOSITIVE POWER
+
+   39,526
+- --------------------------------------------------------------------------------
+10 NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH SHARED
+   DISPOSITIVE POWER
+
+   553,359
+- --------------------------------------------------------------------------------
+11 AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+   592,885
+- ----------------------------------------------------------------------
+12 CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES*
+
+- --------------------------------------------------------------------------------
+13 PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+
+   11.04%
+- --------------------------------------------------------------------------------
+14 TYPE OF REPORTING PERSON*
+
+   IN
+- --------------------------------------------------------------------------------
+                     *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+<PAGE>
+
+CUSIP No.: 744654-10-4
+
+- --------------------------------------------------------------------------------
+1  NAME OF REPORTING PERSONS
+
+   Tiedemann Investment Group
+
+I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)
+- --------------------------------------------------------------------------------
+2  CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*  (a)  [_]
+                                                      (b)  [X]
+- --------------------------------------------------------------------------------
+3  SEC USE ONLY
+- --------------------------------------------------------------------------------
+4  SOURCE OF FUNDS*
+
+   AF, WC, PF
+- --------------------------------------------------------------------------------
+5  CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT TO
+   ITEMS 2(d) OR 2(e)  [_]
+
+- --------------------------------------------------------------------------------
+6  CITIZENSHIP OR PLACE OF ORGANIZATION
+
+   New York
+- --------------------------------------------------------------------------------
+7  NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH SOLE
+   VOTING POWER
+
+   158,102
+- --------------------------------------------------------------------------------
+8  NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH SHARED
+   VOTING POWER
+
+   394,257
+- --------------------------------------------------------------------------------
+9  NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH SOLE
+   DISPOSITIVE POWER
+
+   158,102
+- --------------------------------------------------------------------------------
+10 NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH SHARED
+   DISPOSITIVE POWER
+
+   394,257
+- --------------------------------------------------------------------------------
+11 AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+   553,359
+- --------------------------------------------------------------------------------
+12 CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES*
+- --------------------------------------------------------------------------------
+13 PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+
+   10.03%
+- --------------------------------------------------------------------------------
+14 TYPE OF REPORTING PERSON*
+
+   PN
+- --------------------------------------------------------------------------------
+                     *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+<PAGE>
+
+CUSIP No.: 744654-10-4
+
+- --------------------------------------------------------------------------------
+1  NAME OF REPORTING PERSONS
+
+   George Boltres
+
+I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)
+- --------------------------------------------------------------------------------
+2  CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP* (a)  [ ]
+                                                     (b)  [X]
+- --------------------------------------------------------------------------------
+3  SEC USE ONLY
+- --------------------------------------------------------------------------------
+4  SOURCE OF FUNDS*
+
+   AF, WC, PF
+- --------------------------------------------------------------------------------
+5  CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT TO
+   ITEMS 2(d) OR 2(e)
+- --------------------------------------------------------------------------------
+6  CITIZENSHIP OR PLACE OF ORGANIZATION
+
+   United States of America
+- --------------------------------------------------------------------------------
+7  NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH SOLE
+   VOTING POWER
+
+   98,814
+- --------------------------------------------------------------------------------
+8  NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH SHARED
+   VOTING POWER
+
+   395,257
+- --------------------------------------------------------------------------------
+9  NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH SOLE
+   DISPOSITIVE POWER
+
+   98,814
+- --------------------------------------------------------------------------------
+10  NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH SHARED
+    DISPOSITIVE POWER
+
+    395,257
+- --------------------------------------------------------------------------------
+11  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+    494,071
+- --------------------------------------------------------------------------------
+12  CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES* [_]
+- --------------------------------------------------------------------------------
+13  PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+
+    9.19%
+- --------------------------------------------------------------------------------
+14  TYPE OF REPORTING PERSON*
+
+    IN
+- --------------------------------------------------------------------------------
+                     *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+<PAGE>
+
+This Schedule 13D is being filed for the purpose of disclosing the current
+number of shares of Common Stock, no par value of 1-800-Attorney, INC. (ATTY)
+that may be deemed to be beneficially owned by Carl Tiedemann, Hans Tiedemann,
+Tiedemann Investment Group and George Boltres and to disclose the intent of
+the foregoing persons and entity as discussed in Items 4 and 5 below.
+
+CUSIP No.: 744654-10-4
+
+- --------------------------------------------------------------------------------
+Item 1.  Security and Issuer.
+
+The name of the issuer is 1-800-ATTORNEY, INC., a Florida corporation (the
+"Issuer"). The address of the Issuer's offices is P.O. Box 280, 186 P.C.N.A.
+Parkway, Lake Helen, FL 32744. This Schedule 13D relates to the Issuer's
+Common Stock, no par value (the "Shares").
+
+- --------------------------------------------------------------------------------
+Item 2.  Identity and Background.
+
+     (a-c, f) This Schedule 13D is being filed by Carl Tiedemann, a United
+States citizen, Hans Tiedemann, a United States citizen, Tiedemann Investment
+Group, a New York partnership and George Boltres, a United States citizen
+(collectively the "Reporting Persons"), whose business addresses are located
+at c/o Tiedemann Investment Group, 535 Madison Avenue, 37th Floor, New York,
+NY 10022-4212.
+
+     (d) None of the Reporting Persons, during the last five years, have been
+convicted in a criminal proceeding (excluding traffic violations or similar
+misdemeanors).
+
+     (e) None of the Reporting Persons, during the last five years, have been
+a party to a civil proceeding of a judicial or administrative body of
+competent jurisdiction and as a result of such proceeding was or is subject to
+a judgment, decree or final order enjoining future violations of, or
+prohibiting or mandating activities subject to, Federal or state securities
+laws or finding any violation with respect to such laws.
+
+- --------------------------------------------------------------------------------
+Item 3.  Source and Amount of Funds or Other Consideration.
+
+A) As of the date hereof, Carl Tiedemann may be deemed to beneficially own
+652,173 Shares. Of the 652,173 Shares Mr. Tiedemann may be deemed to
+beneficially own, 553,359 of the Shares are held in the account of Tiedemann
+Investment Group, an entity of which Mr. Tiedemann is a controlling member,
+and/or client accounts managed by Tiedemann Investment Group (the "Clients").
+The funds for the purchase of the Shares held by Tiedemann Investment Group
+came from that entity's funds. The funds for the purchase of the Shares held
+in the Clients' accounts came from the Clients' respective funds. Mr.
+Tiedemann is also the beneficial owner of the 98,814 Shares held in his
+personal accounts, which were purchased using his personal funds.
+
+The total cost of the Shares Mr. Tiedemann is deemed to beneficially own is
+$1,649,999.43.
+
+B) As of the date hereof, Hans Tiedemann may be deemed to beneficially own
+592,885 Shares. Of the 592,885 Shares Mr. Tiedemann may be deemed to
+beneficially own, 553,359 of the Shares are held in the account of Tiedemann
+Investment Group, an entity of which Mr. Tiedemann is a controlling member,
+and/or the Clients' accounts. The funds for the purchase of the Shares held by
+Tiedemann Investment Group came from that entity's funds. The funds for the
+purchase of the Shares held in the Clients' accounts came from the Clients'
+respective funds. Mr. Tiedemann is also the beneficial owner of the 39,526
+Shares held in his personal accounts, which were purchased using his personal
+funds.
+
+The total cost of the Shares Mr. Tiedemann is deemed to beneficially own is
+$1,500,000.63.
+
+C) As of the date hereof, Tiedemann Investment Group may be deemed to
+beneficially own 553,359 Shares, of which 158,102 Shares are held in Tiedemann
+Investment Group's account and 394,257 Shares are held in the Clients'
+accounts.  The funds for the purchase of the Shares held by Tiedemann
+Investment Group came from Tiedemann Investment Group's funds. The funds for
+the purchase of the Shares held in the Clients' accounts came from the
+Clients' respective funds.
+
+The total cost of the Shares Tiedemann Investment Group is deemed to
+beneficially own is $1,399,999.75.
+
+D) As of the date hereof, George Boltres may be deemed to beneficially own
+494,071 Shares. Of the 494,071 Shares Mr. Boltres is deemed to beneficially
+own, 395,257 Shares are held in Clients' accounts of Tiedemann Investment
+Group over which Mr. Boltres may be deemed to have investment discretion as
+well as another account over which Mr. Boltres may also be deemed to have
+investment discretion.
+
+The funds for the purchase of the Shares held in the Clients' accounts and
+which Mr. Boltres has investment discretion came from the Clients' respective
+funds. Mr. Boltres is also the beneficial owner of the 98,814 Shares held in
+his personal accounts, which were purchased using his personal funds.
+
+The total cost of the Shares George Boltres may be deemed to beneficially own
+is $1,250,000.95.
+
+No borrowed funds were used to purchase the Shares, other than any borrowed
+funds used for working capital purposes in the ordinary course of business.
+
+- --------------------------------------------------------------------------------
+Item 4.  Purpose of Transaction.
+
+The Shares beneficially owned by the Reporting Persons were acquired for
+investment purposes on the Clients' and the Reporting Persons' behalf. The
+acquisitions of the Shares were made in the ordinary course of the Reporting
+Persons' business or investment activities, as the case may be.
+
+However in an effort to protect their investment and the investments made on
+behalf of their Clients as well as to maximize shareholder value, the
+Reporting Persons and/or the Reporting Persons on behalf of the Clients may
+acquire additional Shares, dispose of all or some of these Shares from time to
+time, in each case in open market or private transactions, block sales or
+purchases or otherwise, or may continue to hold the Shares, depending on
+business and market conditions, its continuing evaluation of the business and
+prospects of the Issuer and other factors.
+
+     Although it has no current plans to do so, the Reporting Persons may also
+engage in:
+
+          (1)  the acquisition of additional Shares of the Issuer, or the
+               disposition of Shares of the Issuer;
+
+          (2)  an extraordinary corporate transaction, such as a merger,
+               reorganization or liquidation, involving the Issuer;
+
+          (3)  a sale or transfer of a material amount of assets of the
+               Issuer;
+
+          (4)  any change in the present board of directors or management of
+               the Issuer, including any plans or proposals to change the
+               number or term of directors or to fill any existing vacancies
+               on the board;
+
+          (5)  any material change in the present capitalization or dividend
+               policy of the Issuer;
+
+          (6)  any other material change in the Issuer's business or corporate
+               structure;
+
+          (7)  changes in the Issuer's charter, by-laws or instruments
+               corresponding thereto or other actions which may impede the
+               acquisition of control of the Issuer by any person;
+
+          (8)  causing a class of securities of the Issuer to be delisted from
+               a national securities exchange or to cease to be authorized to
+               be quoted on an inter-dealer quotation system of a registered
+               national securities association;
+
+          (9)  a class of equity securities of the Issuer becoming eligible
+               for termination of registration pursuant to Section 12(g)(4) of
+               the Act; and/or
+
+          (10) any action similar to those enumerated above.
+
+     Any future decision of the Reporting Persons to take any such actions
+with respect to the Issuer or its securities will take into account various
+factors, including the prospects of the Issuer, general market and economic
+conditions and other factors deemed relevant.
+
+- --------------------------------------------------------------------------------
+Item 5.  Interest in Securities of the Issuer.
+
+A) As of the date hereof, Hans Tiedemann may be deemed to be the beneficial
+owner of 652,173 Shares, constituting 12.14% of the 5,374,715 Shares
+outstanding as of May 10, 2002, according to the Issuer's most recently filed
+Form 10-QSB.
+
+     Mr. Tiedemann has the power to vote or direct the vote of 652,173 Shares
+to which this filing relates.
+
+     Mr. Tiedemann specifically disclaims beneficial ownership in the Shares
+reported herein except to the extent of his pecuniary interest therein.
+
+     The trading dates, number of Shares purchased and sold and price per
+share for all transactions in the Shares that may be deemed to be beneficially
+owned by Mr. Tiedemann during the past 60 days are set forth in Schedule B and
+were all effected in broker transactions.
+
+     The 652,173 Shares were acquired for investment purposes.
+
+B) As of the date hereof, Hans Tiedemann may be deemed to be the beneficial
+owner of 592,885 Shares, constituting 11.04% of the 5,374,715 Shares
+outstanding as of May 10, 2002, according to the Issuer's most recently filed
+Form 10-QSB.
+
+     Mr. Tiedemann has the power to vote or direct the vote of 592,885 Shares
+to which this filing relates.
+
+     Mr. Tiedemann specifically disclaims beneficial ownership in the Shares
+reported herein except to the extent of his pecuniary interest therein.
+
+     The trading dates, number of Shares purchased and sold and price per
+share for all transactions in the Shares that may be deemed to be beneficially
+owned by Mr. Tiedemann during the past 60 days are set forth in Schedule B and
+were all effected in broker transactions.
+
+     The 592,885 Shares were acquired for investment purposes.
+
+C) As of the date hereof, Tiedemann Investment Group may be deemed to be the
+beneficial owner of 553,359 Shares, constituting 10.03% of the 5,374,715
+Shares outstanding as of May 10, 2002, according to the Issuer's most recently
+filed Form 10-QSB.
+
+     Tiedemann Investment Group has the power to vote or direct the vote of
+553,359 Shares to which this filing relates.
+
+     Tiedemann Investment Group specifically disclaims beneficial ownership in
+the Shares reported herein except to the extent of his pecuniary interest
+therein.
+
+     The trading dates, number of Shares purchased and sold and price per
+share for all transactions in the Shares that may be deemed to be beneficially
+owned by Tiedemann Investment Group on behalf of the Clients during the past
+60 days are set forth in Schedule B and were all effected in broker
+transactions.
+
+     The 553,359 Shares were acquired for investment purposes.
+
+D) As of the date hereof, George Boltres may be deemed to be the beneficial
+owner of 494,071 Shares, constituting 9.19% of the 5,374,715 Shares
+outstanding as of May 10, 2002, according to the Issuer's most recently filed
+Form 10-QSB.
+
+     Mr. Boltres has the power to vote or direct the vote of 493,071 Shares to
+which this filing relates.
+
+     Mr. Boltres specifically disclaims beneficial ownership in the Shares
+reported herein except to the extent of his pecuniary interest therein.
+
+     The trading dates, number of Shares purchased and sold and price per
+share for all transactions in the Shares that may be deemed to be beneficially
+owned by Mr. Boltres during the past 60 days are set forth in Schedule B and
+were all effected in broker transactions.
+
+     The 493,071 Shares were acquired for investment purposes.
+
+     The Reporting Persons and/or the Reporting Persons on behalf of the
+Clients may acquire additional Shares, dispose of all or some of these Shares
+from time to time, in each case in open market or private transactions, block
+sales or purchases or otherwise, or may continue to hold the Shares.
+
+     The Reporting Persons do not have any present plans or proposals that
+relate to, or would result in, any of the actions enumerated in Item 4 of this
+Schedule 13D. However, the Reporting Persons reserve the right to engage in
+any or all actions contained in Item 4 in the future as they deem appropriate.
+
+- --------------------------------------------------------------------------------
+Item 6.  Contracts, Arrangements, Understandings or Relationships with Respect
+         to Securities of the Issuer.
+
+The Reporting Persons do not have any contract, arrangement, understanding or
+relationship with any person with respect to the Shares.
+- --------------------------------------------------------------------------------
+Item 7.  Material to be Filed as Exhibits.
+
+None.
+- --------------------------------------------------------------------------------
+
+<PAGE>
+
+                                   SIGNATURE
+
+
+     After reasonable inquiry and to the best of my knowledge and belief, I
+certify that the information set forth in this statement is true, complete and
+correct.
+
+
+                                                           July 23, 2002
+                                               ---------------------------------
+                                                         (Date)
+
+
+                                                   /s/ Carl Tiedemann
+                                                   --------------------------
+                                                   Carl Tiedemann
+
+
+                                                   /s/ Hans Tiedemann
+                                                   --------------------------
+                                                   Hans Tiedemann
+
+
+                                                   /s/  George Boltres
+                                                   --------------------------
+                                                   George Boltres
+
+
+                                                   Tiedmann Investment Group
+
+                                                   By:  /s/  Carl Tiedemann
+                                                     --------------------------
+                                                   Carl Tiedemann
+                                                   Senior Partner
+
+Attention. Intentional misstatements or omissions of fact constitute federal
+criminal violations (see 18 U.S.C. 1001).
+
+
+<PAGE>
+
+
+                                                                    Exhibit A
+
+
+                                   AGREEMENT
+
+     The undersigned agree that this Schedule 13D dated July 23, 2002 relating
+to the Common Stock, no par value of 1-800-ATTORNEY, INC. (ATTY) shall be
+filed on behalf of the undersigned.
+
+                                                   /s/  Carl Tiedemann
+                                                   --------------------------
+                                                   Carl Tiedemann
+
+                                                   /s/  Hans Tiedemann
+                                                   --------------------------
+                                                   Hans Tiedemann
+
+
+                                                   /s/  George Boltres
+                                                   --------------------------
+                                                   George Boltres
+
+
+                                                   Tiedmann Investment Group
+
+                                                   By:  /s/  Carl Tiedemann
+                                                   --------------------------
+                                                   Carl Tiedemann
+                                                   Senior Partner
+
+
+<PAGE>
+                                  Schedule B
+                                  ----------
+
+                          Transactions in the Shares
+
+
+                                Carl Tiedemann
+                                --------------
+
+
+Date of                Number of Shares            Price Per
+Transaction            Purchase/(SOLD)             Share
+
+None                   None                        None
+
+
+
+                                Hans Tiedemann
+                                --------------
+
+Date of                Number of Shares            Price Per
+Transaction            Purchase/(SOLD)             Share
+
+None                   None                        None
+
+
+
+                          Tiedemann Investment Group
+                          --------------------------
+
+
+Date of                Number of Shares            Price Per
+Transaction            Purchase/(SOLD)             Share
+
+None                   None                        None
+
+
+
+                                George Boltres
+                                --------------
+
+Date of                Number of Shares            Price Per
+Transaction            Purchase/(SOLD)             Share
+
+None                   None                        None
+
+
+
+79575.0050 #337846
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

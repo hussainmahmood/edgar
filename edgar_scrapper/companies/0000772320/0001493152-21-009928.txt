@@ -1,0 +1,143 @@
+<SEC-DOCUMENT>0001493152-21-009928.txt : 20210428
+<SEC-HEADER>0001493152-21-009928.hdr.sgml : 20210428
+<ACCEPTANCE-DATETIME>20210428161602
+ACCESSION NUMBER:		0001493152-21-009928
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20210331
+FILED AS OF DATE:		20210428
+DATE AS OF CHANGE:		20210428
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Jemapete Christopher J
+		CENTRAL INDEX KEY:			0001741021
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33635
+		FILM NUMBER:		21864427
+
+	MAIL ADDRESS:	
+		STREET 1:		6888 SOUTH IRVINGTON COURT
+		CITY:			AURORA
+		STATE:			CO
+		ZIP:			80016
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Gene Biotherapeutics, Inc.
+		CENTRAL INDEX KEY:			0000772320
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		IRS NUMBER:				840635673
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11750 SORRENTO VALLEY ROAD
+		STREET 2:		SUITE 250
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92121
+		BUSINESS PHONE:		(858) 436-1000
+
+	MAIL ADDRESS:	
+		STREET 1:		11750 SORRENTO VALLEY ROAD
+		STREET 2:		SUITE 250
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92121
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Taxus Cardium Pharmaceuticals Group Inc.
+		DATE OF NAME CHANGE:	20140318
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Cardium Therapeutics, Inc.
+		DATE OF NAME CHANGE:	20060118
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Cadium Therapeutics, Inc.
+		DATE OF NAME CHANGE:	20060118
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-03-31</periodOfReport>
+
+    <notSubjectToSection16>1</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000772320</issuerCik>
+        <issuerName>Gene Biotherapeutics, Inc.</issuerName>
+        <issuerTradingSymbol>CRXM</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001741021</rptOwnerCik>
+            <rptOwnerName>Jemapete Christopher J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>6888 S. IRVINGTON COURT</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>AURORA</rptOwnerCity>
+            <rptOwnerState>CO</rptOwnerState>
+            <rptOwnerZipCode>80016</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4000000</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Based on the issuer's annual report on Form 10-K, filed with the Securities and Exchange Commission on April 23, 2020, there were 49,622,154 shares of the issuer's common stock outstanding as of March 31, 2021. Accordingly, as of March 31, 2021, the reporting person beneficially owned less than 10% of the issuer's outstanding common stock.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Christopher J. Jemapete</signatureName>
+        <signatureDate>2021-04-28</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

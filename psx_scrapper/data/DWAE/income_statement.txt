@@ -1,0 +1,16 @@
+Year,2012,2011
+Sales,0,"12,465,000"
+COGS,"39,565,000","71,096,000"
+Gross Profit,"-39,565,000","-58,631,000"
+Administrative Expenses,"18,941,000","34,970,000"
+Selling & Distributive Expenses,"2,054,000","3,030,000"
+Financial Charges,"111,932,000","114,460,000"
+Other Income,"-10,600,000","6,000"
+Change In Value of Investment,0,0
+Other Expenses,0,0
+EBITDA,"-25,565,000","-46,980,000"
+EBIT,"-71,160,000","-96,625,000"
+EBT,"-183,092,000","-211,085,000"
+Tax,"9,777,000","-3,013,000"
+PAT,"-192,869,000","-208,072,000"
+EPS,-9.01,-9.72

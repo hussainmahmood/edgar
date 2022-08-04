@@ -1,0 +1,765 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Qpo6DPtkbjvPccXBwr/B8CfNCRwrOeegdQdVxg+0ZWNPyiSz5TcXoYs/HJRf7/ro
+ EmC76N6IosUEkJxPebUNbg==
+
+<SEC-DOCUMENT>0001202486-02-000002.txt : 20021105
+<SEC-HEADER>0001202486-02-000002.hdr.sgml : 20021105
+<ACCEPTANCE-DATETIME>20021105102218
+ACCESSION NUMBER:		0001202486-02-000002
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20021105
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			1-800 ATTORNEY INC
+		CENTRAL INDEX KEY:			0001010615
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS PUBLISHING [2741]
+		IRS NUMBER:				593203301
+		STATE OF INCORPORATION:			FL
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-50068
+		FILM NUMBER:		02809141
+
+	BUSINESS ADDRESS:	
+		STREET 1:		P O BOX 280
+		STREET 2:		186 P C N A PARKWAY
+		CITY:			LAKE HELEN
+		STATE:			FL
+		ZIP:			32744
+		BUSINESS PHONE:		9042281000
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 280
+		STREET 2:		186 P C N A PARKWAY
+		CITY:			LAKE HELEN
+		STATE:			FL
+		ZIP:			32744
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PUBLISHING CO OF NORTH AMERICA INC
+		DATE OF NAME CHANGE:	19960321
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ATTORNEYS COM INC
+		DATE OF NAME CHANGE:	20000607
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LYSZCZARZ ROBERT J
+		CENTRAL INDEX KEY:			0001202486
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O ATTORNEYS.COM COURT
+		STREET 2:		PO BOX 186
+		CITY:			LAKE HELEN
+		STATE:			FL
+		ZIP:			32744
+		BUSINESS PHONE:		3862281000X357
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O ATTORNEYS.COM COURT
+		STREET 2:		PO BOX 186
+		CITY:			LAKE HELEN
+		STATE:			FL
+		ZIP:			32744
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<FILENAME>form13d110402.txt
+<TEXT>
+- -------------------------------------------------------------------------------
+
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                  SCHEDULE 13D
+                    Under the Securities Exchange Act of 1934
+                            (Amendment No. ________)*
+
+                              1-800-ATTORNEY, INC.
+- -------------------------------------------------------------------------------
+                                (Name of Issuer)
+
+                      Common Stock, no par value per share
+- -------------------------------------------------------------------------------
+                         (Title of Class of Securities)
+
+                                   68231A-20-4
+- -------------------------------------------------------------------------------
+                                 (CUSIP Number)
+
+                               Robert J. Lyszczarz
+                                 61 Heather Lane
+                              Princeton, NJ  08540
+                                 (609) 720-4198
+- -------------------------------------------------------------------------------
+                  (Name, Address and Telephone Number of Person
+                Authorized to Receive Notices and Communications)
+
+                                October 24, 2002
+- -------------------------------------------------------------------------------
+              (Date of Event which Requires Filing of this Statement)
+
+If the filing person has previously filed a statement on Schedule 13G to report
+the acquisition that is the subject of this Schedule 13D, and is filing this
+schedule because of ss.ss.240.13d-1(e), 240.13d-1(f) or 240.13d-1(g), check the
+following box.                                                              [_]
+
+Note: Schedules filed in paper format shall include a signed original and five
+copies of the schedule, including all exhibits. See ss.240.13d-7 for other
+parties to whom copies are to be sent.
+
+* The remainder of this cover page shall be filled out for a reporting person's
+initial filing on this form with respect to the subject class of securities, and
+for any subsequent amendment containing information which would alter
+disclosures provided in a prior cover page.
+
+The information required on the remainder of this cover page shall not be deemed
+to be "filed" for the purpose of Section 18 of the Securities Exchange Act of
+1934 ("Act") or otherwise subject to the liabilities of that section of the Act
+but shall be subject to all other provisions of the Act (however, see the
+Notes).
+================================================================================
+
+<PAGE>
+
+CUSIP No. 68231A-20-4
+
+================================================================================
+  1    Names of Reporting Persons.
+       I.R.S. Identification Nos. of above persons (entities only).
+
+       Robert J. Lyszczarz
+- -----  -------------------------------------------------------------------------
+  2    Check the Appropriate Box if a Member of a Group(See Instructions) (a)[_]
+                                                                          (b)[X]
+
+- -----  -------------------------------------------------------------------------
+  3    SEC Use Only
+
+- -----  -------------------------------------------------------------------------
+  4    Source of Funds (See Instructions)
+       PF
+
+- -----  -------------------------------------------------------------------------
+  5    Check if Disclosure of Legal Proceedings Is Required Pursuant to Items
+       2(d) or 2(e)                                                          [_]
+
+- -----  -------------------------------------------------------------------------
+  6    Citizenship or Place of Organization
+       United States of America
+
+- --------------------------------------------------------------------------------
+
+ NUMBER OF     7      SOLE VOTING POWER
+
+  SHARES              136,465
+             -----    ----------------------------------------------------------
+BENEFICIALLY   8      SHARED VOTING POWER
+
+ OWNED BY
+             -----    ----------------------------------------------------------
+   EACH        9      SOLE DISPOSITIVE POWER
+
+ REPORTING            136,465
+             -----    ----------------------------------------------------------
+  PERSON       10     SHARED DISPOSITIVE POWER
+
+   WITH
+- --------------------------------------------------------------------------------
+  11   Aggregate Amount Beneficially Owned by Each Reporting Person
+
+       136,465
+- -----  -------------------------------------------------------------------------
+  12   Check if the Aggregate Amount in Row (11) Excludes Certain Shares
+       (See Instructions)                                                    [_]
+
+- -----  -------------------------------------------------------------------------
+  13   Percent of Class Represented by Amount in Row (11)
+
+       14.29%
+- -----  -------------------------------------------------------------------------
+  14   Type of Reporting Person (See Instructions)
+
+       IN
+================================================================================
+
+<PAGE>
+
+Item 1.  Security and Issuer
+
+The name of the issuer is 1-800-Attorney, Inc., a Florida corporation (the
+"Issuer").  The principal executive office address is 186 Attorneys.com Court,
+Lake Helen, Florida 32744.  This Schedule 13D relates to the Issuer's common
+stock, no par value (the "Shares").
+
+Item 2.  Identity and Background
+
+(a-c, f)  This Schedule 13D is being filed by Robert J. Lyszczarz, a U.S.
+citizen.  Mr. Lyszczarz is the president of real estate sales firm with
+multiple office locations in New Jersey.  His business address is 600 Alexander
+Road, Princeton, New Jersey, 08540. became a member of the board of directors
+of the Issuer approximately concurrently with his purchase of the shares being
+reported herein in a private transaction.
+
+          (d) During the last five years, the Reporting Person has not been
+              convicted in a criminal proceeding (excluding traffic violations
+              or similar misdemeanors).
+
+          (e) During the last five years, the Reporting Person has not been a
+              party to a civil proceeding of a judicial or administrative body
+              of competent jurisdiction and as a result of such proceeding was
+              or is subject to a judgment, decree or final order enjoining
+              future violations of, or prohibiting or mandating activities
+              subject to, federal or state securities laws or finding any
+              violation with respect to such laws.
+
+Item 3.  Source and Amount of Funds or Other Consideration
+
+         A. The funds for the purchase of the shares held by Mr. Lyszczarz were
+            his funds.  The total cost of the shares purchased by Mr. Lyszczarz
+            is $52,402.56.  No borrowed funds were used to purchase the shares.
+
+Item 4.  Purpose of Transaction
+
+         (a) The Shares beneficially owned by the Reporting Person were
+             acquired for investment purposes.  Mr. Lyszczarz has also entered
+             into a Subscription Agreement and Common Stock Purchase Agreement
+             with the issuer to purchase an additional 88,535 shares.  The sale
+             by the Issuer of these shares is subject to approval of the
+             Issuer's shareholders.  The Issuer is scheduling a Special Meeting
+             of its shareholders to vote on the proposed sale.
+
+         (d) Mr. Lyszczarz has been appointed to the Issuer's Board of
+             Directors to replace Mr. Larry Twersky, a former director who
+             resigned from the Board.
+
+         (e and g)  The Issuer has proposed an increase in its authorized
+                    common stock from 1,875,000 shares to 10,000,000 shares.
+                    The Amendment to the Issuer's Articles of Incorporation
+                    to perfect this change is subject to the approval of the
+                    Issuer's shareholders.  A vote on that proposed change
+                    is scheduled for the same shareholders meeting at which
+                    the shareholders will vote on the proposed sale of 88,535
+                    shares to Mr. Lyszczarz.
+
+<PAGE>
+
+         (j)  Although he has no current plans to do so, the Reporting Person
+              as a member of the Issuer's board of directors may also engage
+              in:
+
+               (1)  The acquisition of additional Shares of the Issuer, or
+                    the disposition of Shares of the Issuer;
+
+               (2)  An extraordinary corporate transaction, such as a merger,
+                    reorganization or liquidation, involving the Issuer;
+
+               (3)  a sale or transfer of a material amount of assets of
+                    the Issuer;
+
+               (4)  any change in the present board of directors or
+                    management of the Issuer, including any plans or
+                    proposals to change the number or term of directors
+                    or to fill any existing vacancies on the board;
+
+               (5)  any material change in the present capitalization or
+                    dividend policy of the Issuer;
+
+               (6)  any other material change in the Issuer's business or
+                    corporate structure;
+
+               (7)  changes in the Issuer's charter, by-laws or instruments
+                    corresponding thereto or other actions which may impede
+                    the acquisition of control of the Issuer by any person;
+
+               (8)  causing a class of securities of the Issuer to be
+                    delisted from a national securities exchange or to
+                    cease to be authorized to be quoted on an inter-dealer
+                    quotation  system of a registered national securities
+                    association;
+
+               (9)  a class of equity securities of the Issuer becoming
+                    eligible for termination of registration pursuant to
+                    Section 12(g)(4) of the Act; and/or
+
+               (10) any action similar to those enumerated above.
+                    Any future decision of the Reporting Person to take any
+                    such actions with respect to the Issuer or its securities
+                    will take into account various factors, including the
+                    prospects of the Issuer, general market and economic
+                    conditions and other factors deemed relevant.
+
+<PAGE>
+
+Item 5. Interest in Securities of the Issuer
+
+        (a)  As of the date hereof, Mr. Lyszczarz may be deemed to be the
+             beneficial owner of 136,465 Shares, constituting 14.29% of
+             the 955,268 shares outstanding as of October 31, 2002,
+             according to the Issuer's records.
+
+        (b)  As of the date hereof, Mr. Lyszczarz may be deemed to have
+             the sole power to vote or to direct the vote of the 136,465
+             shares.
+
+        (c)  The trading dates, number of shares purchased and the price
+             per share for all transactions in the Shares that may be
+             deemed to be beneficially owned by Mr. Lyszczarz during the
+             past sixty (60) days are set forth in Schedule B and were all
+             effected in a single private transaction.
+
+             The 136,465 Shares were acquired for investment purposes.
+
+Item 6.  Contracts, Arrangements, Understandings or Relationships
+         with Respect to Securities of the Issuer
+
+Other than the Agreement to purchase 88,535 shares by Mr. Lyszczarz,
+(a copy of that Purchase Agreement is attached as Exhibit C), the Reporting
+Person does not have any contract, arrangement, understandings or
+relationships with respect to securities of the Issuer.
+
+Item 7. Material to Be Filed as Exhibits
+
+Exhibit A         Agreement
+
+Exhibit B         Trading Transactions in the Shares in the past 60 days
+
+Exhibit C         Common Stock Purchase Agreement between the Issuer
+                  and Robert J. Lyszczarz
+
+
+                                    Signature
+
+After reasonable inquiry and to the best of my knowledge and belief, I certify
+that the information set forth in this statement is true, complete and correct.
+
+                                                        November 2, 2002
+                                                        ----------------
+                                                              (Date)
+
+                                                        /s/ Robert J. Lyszczarz
+                                                        -----------------------
+                                                        Robert J. Lyszczarz
+
+
+
+
+
+            Attention: Intentional misstatements or omissions of fact
+           constitute Federal criminal violations (See 18 U.S.C. 1001)
+
+<PAGE>
+
+                                                                      Exhibit A
+                                                                      ---------
+
+                                    AGREEMENT
+
+     The undersigned agree that this Schedule 13D dated November 2, 2002
+relating to the Common Stock, no par value of 1-800-ATTORNEY, INC. (ATTY) shall
+be filed on behalf of the undersigned.
+
+
+                                                        November 2, 2002
+                                                        ----------------
+                                                             (Date)
+
+                                                        /s/ Robert J. Lyszczarz
+                                                        -----------------------
+                                                        Robert J. Lyszczarz
+
+
+
+<PAGE>
+                                                                      Exhibit B
+                                                                      ---------
+
+                           Transactions in the Shares
+                           In the Last Sixty (60) Days
+
+
+
+<TABLE>
+<CAPTION>
+                                                              TOTAL               TOTAL
+Transaction Date                    Quantity    Price        w/o FEE      FEE     w/FEE
+- -------------------------------------------------------------------------------------------
+<S>                                 <C>         <C>         <C>           <C>     <C>
+Private transaction on 10/21/02     136,465     0.38400     52,402.56      -      52,402.56
+</TABLE>
+
+
+
+
+
+
+<PAGE>
+                                                                       Exhibit C
+                                                                       ---------
+                         COMMON STOCK PURCHASE AGREEMENT
+                         -------------------------------
+
+    This Common Stock Purchase Agreement (the "Agreement"), is entered into as
+of October 21st, 2002 by and among 1-800-ATTORNEY, Inc., a Florida corporation
+(the "Company") and Robert J. Lyszczarz (the "Purchaser").
+
+                                  Background
+                                  ----------
+
+    The Company desires to sell to Purchaser, and Purchaser desires to purchase
+from the Company, shares of the Common Stock of the Company, on the terms and
+conditions set forth in this Agreement.  Therefore, in consideration of the
+promises and mutual covenants set forth herein, and for other good and valuable
+consideration, the receipt and sufficiency of which is hereby acknowledged, the
+parties agree as follows:
+
+                                    Terms
+                                    -----
+
+1.    Authorization and Sale of Shares.
+      ---------------------------------
+
+      1.1   Authorization.  The Company has authorized the issuance and sale
+            pursuant to this Agreement of Two Hundred Twenty-Five Thousand
+            (225,000) shares of its Common Stock (the "Shares").  The Shares
+            have the rights, restrictions, privileges and preferences set
+            forth in the Articles of Amendment to the Articles of Incorporation
+            attached hereto as Exhibit A (the "Amendment").
+
+      1.2   Sale.  Subject to the terms and conditions set forth herein and in
+            the Subscription Agreement (as defined below), the Company hereby
+            agrees to issue and sell to the Purchaser, and the Purchaser hereby
+            agrees to purchase from the Company, Two Hundred Twenty-Five
+            Thousand (225,000) Shares at the purchase price of Thirty-Eight and
+            Four Tenths Cents ($0.384) per Share.
+
+      1.3   Subscription Agreement.  Purchaser is executing and delivering to
+            the Company a Subscription Agreement in the form attached hereto as
+            Exhibit B (the "Subscription Agreement") simultaneously with the
+            execution and delivery of this Agreement.
+
+2.    Sale, Purchase and Delivery of Shares.
+      --------------------------------------
+
+      2.1   Sale and Purchase of the Shares.  The sale and purchase of the
+            Shares shall occur concurrently with the execution of this Agreement
+            and the execution and delivery of the Subscription Agreement.
+
+      2.2   Delivery of the Shares.  Subject to the terms and conditions hereof
+            and of the Subscription Agreement, the Company will deliver to the
+            Purchaser, concurrent with the execution of this Agreement,
+            certificates, in such denominations and registered in such name or
+            names as the Purchaser may designate by notice to the Company,
+            representing the Shares to be purchased by the Purchaser from the
+            Company, dated as of the date of this Agreement.
+
+<PAGE>
+
+3.    Registration Rights.
+      --------------------
+
+      3.1   Demand Registration.  If the Company shall receive from Purchaser,
+            at any time beginning on first (1st) anniversary date of the
+            execution of this Agreement and concluding on the fifth (5th)
+            anniversary of the execution of this Agreement, a written request
+            that the Company effect any registration with respect to all, but
+            not less than all, of the Shares in an offering to be firmly
+            underwritten by underwriter(s) selected by the Purchaser (which
+            underwriter(s) shall be reasonably acceptable to the Company) the
+            Company shall, as soon as practicable, use its best efforts to file
+            a registration statement covering the Shares so requested to be
+            registered and to effect such registration (including, without
+            limitation, filing post-effective amendments, appropriate
+            qualifications under applicable blue sky or other state securities
+            laws, and appropriate compliance with the Securities Act of 1933
+            (the "Securities Act") and as would permit or facilitate the sale
+            and distribution of all of such Shares as are specified in such
+            request.  The registration statement filed pursuant to the request
+            of the Purchaser may include other securities of the Company, with
+            respect to which registration rights have been granted, and may
+            include securities of the Company being sold for the account of
+            the Company.
+
+      3.2   Piggyback Registration.  If the Company proposes to register any of
+            its Common Stock either for its own account or the account of a
+            security holder or holders exercising their respective demand
+            registration rights (other than pursuant to Section 3.1 hereof), the
+            Company shall use its best efforts to include in such registration
+            (and any related qualification under blue sky laws or other
+            compliance) all the Shares specified in a written request or
+            requests, made by the Purchaser and received by the Company within
+            fifteen (15) days after the Purchaser's receipt of written notice
+            from the Company regarding the proposed registration, which written
+            request may specify the inclusion of all or a part of Purchaser's
+            Shares.
+
+      3.3   Expenses of Registration.  All registration expenses incurred in
+            connection with any registration, qualification or compliance
+            pursuant to Sections 3.1 and 3.2 hereof, shall be borne by the
+            Company; provided, however, that the Purchaser shall bear the
+            registration expenses for any registration proceeding begun pursuant
+            to Section 3.1 and subsequently withdrawn by the Purchaser.  All
+            selling expenses relating to securities registered pursuant to
+            Sections 3.1 and 3.2 hereof, shall be borne by the holders of such
+            securities pro rata on the basis of the number of shares of
+            securities so registered on their behalf.
+
+4.    Appointment to Board of Directors.
+      ----------------------------------
+      Immediately following the sale and purchase of the Shares, Purchaser
+      shall be appointed as a member of the Company's Board of Directors.
+
+<PAGE>
+
+5.    Representations and Warranties of the Company.
+      ----------------------------------------------
+      The Company hereby represents and warrants to each Purchaser the
+      following:
+
+      5.1   Organization and Standing; Articles of Incorporation and Bylaws.
+            The Company is a corporation duly organized, validly existing, and
+            in good standing under the laws of the State of Florida, and has
+            full power and authority to own and operate its properties and
+            assets and to carry on its business as presently conducted.  The
+            Company is duly qualified and authorized to do business, and is in
+            good standing as a foreign corporation, in each jurisdiction where
+            the nature of its activities and of its properties (both owned and
+            leased) makes such qualification necessary and where a failure to so
+            qualify would have a material adverse effect on its business or
+            properties.  The Amendment has been filed with the Florida Secretary
+            of State on or before the date hereof.
+
+      5.2   Corporate Power.  The Company has all requisite legal and corporate
+            power to execute and deliver this Agreement, to sell and issue the
+            Shares hereunder and to carry out and perform its obligations under
+            the terms of this Agreement.
+
+      5.3   Authorization.  All corporate action on the part of the Company, its
+            officers, directors and shareholders necessary for the
+            authorization, execution and delivery of this Agreement, the
+            performance of all the Company's obligations hereunder and
+            thereunder, and for the authorization, issuance, sale and delivery
+            of the Shares has been taken.  This Agreement, when executed and
+            delivered, shall constitute valid and legally binding obligations of
+            the Company enforceable in accordance with its terms, subject to
+            laws of general application relating to bankruptcy, insolvency and
+            the relief of debtors and rules of law governing specific
+            performance, injunctive relief or other equitable remedies.
+
+      5.4   Validity of Shares.  The Shares, when issued or sold and delivered
+            in compliance with the provisions of this Agreement or the Articles
+            of Incorporation, as amended, as applicable, the Shares will be
+            validly issued, fully paid, and nonassessable, and will be free of
+            any liens or encumbrances; provided, however, that the Shares may be
+            subject to restrictions on transfer imposed by the Bylaws of the
+            Company or under state and/or federal securities laws as set forth
+            herein or as otherwise required by such laws at the time a transfer
+            is proposed.
+
+<PAGE>
+
+6.    Representations and Warranties of the Purchaser.
+      ------------------------------------------------
+      The Purchaser hereby represents and warrants to the Company as follows:
+
+      6.1   Legal Power.  The Purchaser has the requisite legal power to enter
+            into this Agreement and the Subscription Agreement, to purchase the
+            Shares hereunder and thereunder, and to carry out and perform its
+            obligations under the terms of this Agreement and the Subscription
+            Agreement.
+
+      6.2   Due Execution.  This Agreement has been duly authorized, executed
+            and delivered by the Purchaser, and, upon due execution and
+            delivery by the Company, this Agreement will be a valid and binding
+            agreement of the Purchaser enforceable in accordance with its
+            terms, subject to laws of general application relating to
+            bankruptcy, insolvency and the relief of debtors and rules of law
+            governing specific performance, injunctive relief or other
+            equitable remedies.
+
+7.    Miscellaneous.
+      --------------
+
+      7.1   Governing Law.  This Agreement shall be governed by and construed
+            in accordance with the laws of the State of Florida without regard
+            to the conflicts of laws provisions thereof.
+
+      7.2   Survival.  The representations, warranties, covenants, and
+            agreements made herein or in the Subscription Agreement shall
+            survive the closing of the transactions contemplated hereby.
+
+      7.3   Successors and Assigns.  Except as otherwise expressly provided
+            herein, the provisions hereof shall inure to the benefit of, and be
+            binding upon, the successors, assigns, heirs, executors, and
+            administrators of the parties hereto.
+
+      7.4   Entire Agreement.  This Agreement, the Exhibits hereto, the
+            Subscription Agreement and the other documents required to be
+            delivered pursuant hereto constitute the full and entire
+            understanding and agreement between the parties with regard to the
+            subject matter hereof and no party shall be liable or bound to the
+            other party in any manner by any representations, warranties,
+            covenants, or agreements except as specifically set forth herein or
+            therein.  Nothing in this Agreement, express or implied, is intended
+            to confer upon any party, other than the parties hereto and their
+            respective successors and assigns, any rights, remedies,
+            obligations, or liabilities under or by reason of this Agreement,
+            except as expressly provided herein.
+
+      7.5   Separability.  In case any provision of this Agreement shall be
+            invalid, illegal, or unenforceable, it shall to the extent
+            practicable, be modified so as to make it valid, legal and
+            enforceable and to retain as nearly as practicable the intent of the
+            parties, and the validity, legality, and enforceability of the
+            remaining provisions shall not in any way be affected or impaired
+            thereby.
+
+<PAGE>
+
+      7.6   Notices.  Except as otherwise expressly provided in this
+            Agreement, any notice or request to be given hereunder by either
+            party to the other shall be in writing and may be affected either
+            by personal delivery or by mail, registered or certified, postage
+            prepaid with return receipt requested. Mailed notices shall be
+            addressed to the parties at the following addresses, but either
+            party may change its notice address by providing written notice
+            to the other in accordance with this Subsection.
+
+            If to the Company:      1-800-Attorney, Inc.
+                                    186 Attorneys.com Court
+                                    Lake Helen, Florida 32744
+                                    Facsimile:  (386) 228-0276
+                                    Attn:  William J. Wrigley
+
+            with a copy to:         Holland & Knight LLP
+                                    200 South Orange Avenue, Suite 2600
+                                    Orlando, Florida 32801
+                                    Facsimile: (407) 244-5288
+                                    Attn:  Louis T.M. Conti, Esq.
+
+            If to the Purchaser:    Robert J. Lyszczarz
+                                    61 Heather Lane
+                                    Princeton, New Jersey 08540
+                                    Facsimile: (___) ___-____
+
+      7.7   Fees and Expenses.  Each party shall pay its own legal expenses
+            relating to this Agreement.  If legal action is brought to
+            enforce or interpret this Agreement, the prevailing party shall
+            be entitled to recover its attorneys' fees and legal costs in
+            connection therewith.
+
+      7.8   Titles and Subtitles.  The titles of the Sections and Subsections
+            of this Agreement are for convenience of reference only and are not
+            to be considered in construing this Agreement.
+
+      7.9   Counterparts.  This Agreement may be executed in two or more
+            counterparts, each of which shall be deemed an original, but all of
+            which together shall constitute one instrument.
+
+      7.10  Gender.  All references to "Purchaser," "it" or "he" herein shall
+            be deemed to include the masculine and the feminine with reference
+            to any individuals and the neuter with reference to any artificial
+            persons.
+
+      IN WITNESS WHEREOF, the parties have executed this Agreement as of the
+date first above written.
+
+                                                    "COMPANY"
+
+                                                    1-800-ATTORNEY, INC.
+
+                                                    By: /s/ J. William Wrigley
+                                                        ----------------------
+                                                    Name: J. William Wrigley
+                                                          ------------------
+                                                    Title: President
+                                                           ---------
+
+                                                    "PURCHASER"
+
+                                                    ROBERT J. LYSZCZARZ
+
+                                                    /s/ Robert J. Lyszczarz
+                                                    -----------------------
+
+<PAGE>
+
+                                                                       Exhibit C
+                                                                       ---------
+                                  AMENDMENT TO
+                                  ------------
+                     COMMON STOCK PURCHASE AGREEMENT BETWEEN
+                     ---------------------------------------
+                      THE REGISTRANT AND ROBERT J. LYSZCZARZ
+                      --------------------------------------
+
+
+      WHEREAS, Robert J. Lyszczarz. and the Company entered into a Common Stock
+Purchase Agreement dated October 21, 2002 for the purchase of 225,000 shares of
+common stock of 1-800 Attorney, Inc. at $0.384 per share; and
+
+      WHEREAS, the 225,000 shares of common stock were issued to Robert J.
+Lyszczarz on October 21, 2002; and
+
+      WHEREAS, the Company has retracted 88,535 shares of the 225,000 shares on
+October 24, 2002;  now therefore
+
+      The parties agree to amend the Common Stock Purchase Agreement to provide
+as follows:
+
+      1.   Robert J. Lyszczarz reaffirms his agreement to purchase the retracted
+           88,535 shares but understands and acknowledges that issuance of said
+           shares is subject to the approval of the Company's shareholders,
+           which approval will be subject to a vote of the shareholders to be
+           held at a meeting of the shareholders which is currently scheduled
+           for mid-November, 2002; and
+
+      2.   Upon approval of the shareholders, and upon payment of the purchase
+           price for said shares, the Company will issue 88,535 shares to Robert
+           J. Lyszczarz; and
+
+      3.   All other terms, representations and provisions of the Common Stock
+           Purchase Agreement will remain in full force and effect as of the
+           date of this Amendment.
+
+
+      The parties hereby execute this Amendment effective October 24, 2002.
+
+
+                                                       1-800-ATTORNEY, INC.
+
+
+                                                       /s/ Bill Wrigley
+                                                       -----------------------
+                                                       Chief Operating Officer
+
+
+                                                       /s/ Robert J. Lyszczarz
+
+Page 14
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

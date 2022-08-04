@@ -1,0 +1,218 @@
+<SEC-DOCUMENT>0001209191-21-028134.txt : 20210423
+<SEC-HEADER>0001209191-21-028134.hdr.sgml : 20210423
+<ACCEPTANCE-DATETIME>20210423165046
+ACCESSION NUMBER:		0001209191-21-028134
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20210419
+FILED AS OF DATE:		20210423
+DATE AS OF CHANGE:		20210423
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			DAVIS MARTIN BERNARD
+		CENTRAL INDEX KEY:			0001674959
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-03526
+		FILM NUMBER:		21850476
+
+	MAIL ADDRESS:	
+		STREET 1:		520 GERVAIS STREET
+		STREET 2:		C/O SOUTH STATE CORP
+		CITY:			COLUMBIA
+		STATE:			SC
+		ZIP:			29201
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SOUTHERN CO
+		CENTRAL INDEX KEY:			0000092122
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		IRS NUMBER:				580690070
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		30 IVAN ALLEN JR. BLVD., N.W.
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30308
+		BUSINESS PHONE:		4045065000
+
+	MAIL ADDRESS:	
+		STREET 1:		30 IVAN ALLEN JR. BLVD., N.W.
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30308
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>doc3.xml
+<DESCRIPTION>FORM 3 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2021-04-19</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0000092122</issuerCik>
+        <issuerName>SOUTHERN CO</issuerName>
+        <issuerTradingSymbol>SO</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001674959</rptOwnerCik>
+            <rptOwnerName>DAVIS MARTIN BERNARD</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>30 IVAN ALLEN JR BLVD NW BINSC1104</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>ATLANTA</rptOwnerCity>
+            <rptOwnerState>GA</rptOwnerState>
+            <rptOwnerZipCode>30308</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>EVP and CIO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Southern Company Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>35089</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Southern Co Restricted Stock Units</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.00</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Southern Company Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1433</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Southern Co Restricted Stock Units</value>
+                <footnoteId id="F2"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.00</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Southern Company Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>2119</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents restricted stock units granted on February 11, 2019. The remaining 1/3 of the award will vest in 2022. Each restricted stock unit represents the right to receive, at statement, one share of common stock.</footnote>
+        <footnote id="F2">Represents restricted stock units granted on February 11, 2020. The remaining award will vest 1/3 in 2022 and 1/3 in 2023. Each restricted stock unit represents the right to receive, at statement, one share of common stock.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Marcia R. DeMar, Attorney-in-Fact for Martin B. Davis</signatureName>
+        <signatureDate>2021-04-23</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.3_980635
+<SEQUENCE>2
+<FILENAME>poa.txt
+<DESCRIPTION>POA DOCUMENT
+<TEXT>
+The undersigned, an executive officer of The Southern Company, hereby makes,
+constitutes, and appoints Myra C. Bierria, Sarah E. Cash, Marcia R. DeMar and
+Laura O. Hewett, my agents and attorneys-in-fact, for the limited purpose of
+signing on my behalf, and causing to be filed with the Securities and Exchange
+Commission Form ID and Initial Statement of Beneficial Ownership of Securities,
+Statement of Changes in Beneficial Ownership, and Annual Statement of Changes in
+Beneficial Ownership, on Forms 3, 4, and 5, respectively, and any appropriate
+amendment or amendments thereto.
+
+	This power of attorney shall remain in effect until my obligation to file the
+aforementioned reports as an executive officer of The Southern Company ceases,
+unless earlier revoked by me by written document delivered to the Corporate
+Secretary of The Southern Company.
+
+	Effective the 20th day of April, 2021.
+
+
+
+			/s/ Martin B. Davis
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

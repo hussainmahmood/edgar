@@ -1,0 +1,115 @@
+<SEC-DOCUMENT>0000899243-21-018100.txt : 20210504
+<SEC-HEADER>0000899243-21-018100.hdr.sgml : 20210504
+<ACCEPTANCE-DATETIME>20210504161915
+ACCESSION NUMBER:		0000899243-21-018100
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20210504
+FILED AS OF DATE:		20210504
+DATE AS OF CHANGE:		20210504
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Carter Charles Ross
+		CENTRAL INDEX KEY:			0001779359
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-09341
+		FILM NUMBER:		21888747
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O GI DYNAMICS, INC.
+		STREET 2:		745 ATLANTIC AVENUE
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02111
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ICAD INC
+		CENTRAL INDEX KEY:			0000749660
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		IRS NUMBER:				020377419
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		98 SPIT BROOK ROAD, SUITE 100
+		CITY:			NASHUA
+		STATE:			NH
+		ZIP:			03062
+		BUSINESS PHONE:		603-882-5200
+
+	MAIL ADDRESS:	
+		STREET 1:		98 SPIT BROOK ROAD, SUITE 100
+		CITY:			NASHUA
+		STATE:			NH
+		ZIP:			03062
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HOWTEK INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>doc3.xml
+<DESCRIPTION>FORM 3 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2021-05-04</periodOfReport>
+
+    <noSecuritiesOwned>1</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0000749660</issuerCik>
+        <issuerName>ICAD INC</issuerName>
+        <issuerTradingSymbol>ICAD</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001779359</rptOwnerCik>
+            <rptOwnerName>Carter Charles Ross</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O ICAD, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>98 SPIT BROOK ROAD, SUITE 100</rptOwnerStreet2>
+            <rptOwnerCity>NASHUA</rptOwnerCity>
+            <rptOwnerState>NH</rptOwnerState>
+            <rptOwnerZipCode>03062</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>See Remarks</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <footnotes></footnotes>
+
+    <remarks>Interim Chief Financial Officer</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Charles Carter</signatureName>
+        <signatureDate>2021-05-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

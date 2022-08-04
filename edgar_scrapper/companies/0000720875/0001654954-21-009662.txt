@@ -1,0 +1,111 @@
+<SEC-DOCUMENT>0001654954-21-009662.txt : 20210901
+<SEC-HEADER>0001654954-21-009662.hdr.sgml : 20210901
+<ACCEPTANCE-DATETIME>20210901165841
+ACCESSION NUMBER:		0001654954-21-009662
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20210831
+FILED AS OF DATE:		20210901
+DATE AS OF CHANGE:		20210901
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Roegner Norman III
+		CENTRAL INDEX KEY:			0001864908
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-12697
+		FILM NUMBER:		211230865
+
+	BUSINESS ADDRESS:	
+		BUSINESS PHONE:		224-220-4628
+
+	MAIL ADDRESS:	
+		STREET 1:		1200 TRAPP ROAD
+		CITY:			EAGAN
+		STATE:			MN
+		ZIP:			55121
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DYNATRONICS CORP
+		CENTRAL INDEX KEY:			0000720875
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		IRS NUMBER:				870398434
+		STATE OF INCORPORATION:			UT
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7030 PARK CENTRE DRIVE
+		STREET 2:		BLDG D
+		CITY:			SALT LAKE CITY
+		STATE:			UT
+		ZIP:			84121
+		BUSINESS PHONE:		8015687000
+
+	MAIL ADDRESS:	
+		STREET 1:		7030 PARK CENTER DR
+		CITY:			SALT LAKE CITY
+		STATE:			UT
+		ZIP:			84121
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DYNATRONICS LASER CORP
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>section16.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2021-08-31</periodOfReport>
+
+    <noSecuritiesOwned>1</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0000720875</issuerCik>
+        <issuerName>DYNATRONICS CORP</issuerName>
+        <issuerTradingSymbol>DYNT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001864908</rptOwnerCik>
+            <rptOwnerName>Roegner Norman III</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1200 TRAPP ROAD</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>EAGAN</rptOwnerCity>
+            <rptOwnerState>MN</rptOwnerState>
+            <rptOwnerZipCode>55121</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>true</isOfficer>
+            <officerTitle>Chief Financial Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <ownerSignature>
+        <signatureName>/s/ Norman Roegner III</signatureName>
+        <signatureDate>2021-09-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

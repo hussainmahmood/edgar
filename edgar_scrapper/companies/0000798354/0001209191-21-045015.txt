@@ -1,0 +1,180 @@
+<SEC-DOCUMENT>0001209191-21-045015.txt : 20210702
+<SEC-HEADER>0001209191-21-045015.hdr.sgml : 20210702
+<ACCEPTANCE-DATETIME>20210702164536
+ACCESSION NUMBER:		0001209191-21-045015
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20210630
+FILED AS OF DATE:		20210702
+DATE AS OF CHANGE:		20210702
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			DE CASTRO HENRIQUE
+		CENTRAL INDEX KEY:			0001562331
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38962
+		FILM NUMBER:		211070889
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O YAHOO, INC.
+		STREET 2:		701 FIRST AVENUE
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94089
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	de Castro Henrique
+		DATE OF NAME CHANGE:	20121121
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	De Castro Henrique
+		DATE OF NAME CHANGE:	20121115
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FISERV INC
+		CENTRAL INDEX KEY:			0000798354
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		IRS NUMBER:				391506125
+		STATE OF INCORPORATION:			WI
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		255 FISERV DR
+		STREET 2:		PO BOX 979
+		CITY:			BROOKFIELD
+		STATE:			WI
+		ZIP:			53045
+		BUSINESS PHONE:		4148795000
+
+	MAIL ADDRESS:	
+		STREET 1:		255 FISERV DRIVE
+		CITY:			BROOKFIELD
+		STATE:			WI
+		ZIP:			53045
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-06-30</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000798354</issuerCik>
+        <issuerName>FISERV INC</issuerName>
+        <issuerTradingSymbol>FISV</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001562331</rptOwnerCik>
+            <rptOwnerName>DE CASTRO HENRIQUE</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>255 FISERV DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>BROOKFIELD</rptOwnerCity>
+            <rptOwnerState>WI</rptOwnerState>
+            <rptOwnerZipCode>53045</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Deferred Compensation Notional Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2021-06-30</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>253</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>106.89</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>253</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>927</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These deferred compensation notional units were allocated under the Fiserv, Inc. Non-Employee Director Deferred Compensation Plan (the &quot;Plan&quot;), under which director fees otherwise payable in cash may be deferred in exchange for the allocation of notional units under the Plan. This Form 4 reports the crediting of units under the Plan on June 30, 2021 in respect of $27,000 of deferred compensation. The number of notional units credited is calculated by dividing the amount of compensation that is deferred by the closing price of the company's common stock on the date of deferral, or last business day prior. On June 30, 2021, the closing price of Fiserv's common stock was $106.89 per share. Following cessation of the reporting person's service to the company, each notional unit will be settled in shares of Fiserv common stock on a one-for-one basis.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Eric C. Nelson (attorney-in-fact)</signatureName>
+        <signatureDate>2021-07-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

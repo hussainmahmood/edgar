@@ -1,0 +1,24 @@
+Year,2012,2011
+Fixed Assets,"368,843,759","405,047,820"
+Investments,"1,208,362,990","1,208,362,990"
+Cash in Hand and Bank,"3,105,357","1,722,914"
+Stores and Spares,0,0
+Stock in Trade,"66,257,079","32,139,224"
+Trade Debts,"437,596,330","348,066,888"
+Current Assets,"1,161,254,964","1,100,433,106"
+Quick Assets,"1,094,997,885","1,068,293,882"
+Total Assets,"3,644,283,335","3,591,830,448"
+Interest Bearing Long Term Liability,"55,798,479",0
+Non Interest Bearing Long Term Liability,0,0
+Interest Bearing Short Term Liability,"98,136,410","210,783,547"
+* Non Interest Bearing Short Term Liability,"326,174,127","423,859,693"
+Trades Payables,"252,536,512","386,044,453"
+Total Current Liabilities,"1,148,999,715","1,496,739,778"
+Total Liabilities,"1,231,443,866","1,540,785,849"
+Paid Up Capital,"1,872,489,630","1,872,489,630"
+Reserves,"540,349,839","178,554,969"
+Preferred Equity,0,0
+Surplus On Revaluation of Assets,0,0
+Shareholder Equity,"2,412,839,469","2,051,044,599"
+Paid Up Value,10,10
+Number of Shares,"187,248,963","187,248,963"

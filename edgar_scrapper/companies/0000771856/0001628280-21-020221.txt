@@ -1,0 +1,255 @@
+<SEC-DOCUMENT>0001628280-21-020221.txt : 20211019
+<SEC-HEADER>0001628280-21-020221.hdr.sgml : 20211019
+<ACCEPTANCE-DATETIME>20211019153948
+ACCESSION NUMBER:		0001628280-21-020221
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20211015
+FILED AS OF DATE:		20211019
+DATE AS OF CHANGE:		20211019
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			SIDRANSKY DAVID
+		CENTRAL INDEX KEY:			0001277161
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11504
+		FILM NUMBER:		211330798
+
+	MAIL ADDRESS:	
+		STREET 1:		JOHNS HOPKINS UNIVERSITY
+		STREET 2:		720 RUTLAND AVENUE
+		CITY:			BALTIMORE
+		STATE:			MD
+		ZIP:			21205
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CHAMPIONS ONCOLOGY, INC.
+		CENTRAL INDEX KEY:			0000771856
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		IRS NUMBER:				521401755
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0430
+
+	BUSINESS ADDRESS:	
+		STREET 1:		855 N. WOLFE STREET
+		STREET 2:		SUITE 619
+		CITY:			BALTIMORE
+		STATE:			MD
+		ZIP:			21205
+		BUSINESS PHONE:		410-369-0365
+
+	MAIL ADDRESS:	
+		STREET 1:		855 N. WOLFE STREET
+		STREET 2:		SUITE 619
+		CITY:			BALTIMORE
+		STATE:			MD
+		ZIP:			21205
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CHAMPIONS BIOTECHNOLOGY, INC.
+		DATE OF NAME CHANGE:	20070220
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CHAMPIONS SPORTS INC
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	INTERNATIONAL GROUP INC
+		DATE OF NAME CHANGE:	19860319
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wf-form4_163467237424646.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-10-15</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000771856</issuerCik>
+        <issuerName>CHAMPIONS ONCOLOGY, INC.</issuerName>
+        <issuerTradingSymbol>CSBR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001277161</rptOwnerCik>
+            <rptOwnerName>SIDRANSKY DAVID</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O CHAMPIONS ONCOLOGY, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>ONE UNIVERSITY PLAZA, SUITE 307</rptOwnerStreet2>
+            <rptOwnerCity>HACKENSACK</rptOwnerCity>
+            <rptOwnerState>NJ</rptOwnerState>
+            <rptOwnerZipCode>07601</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2021-10-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>16667</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.59</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>764901</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2021-10-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2629</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>10.08</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>762272</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Option to purchase Common Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.59</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2021-10-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>16667</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2021-11-01</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>16667.0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents a &quot;net exercise&quot; of outstanding stock options. The shares were withheld by Champions Oncology, Inc. for payment of the exercise price based on the market price of Champions Oncology, Inc. common stock on October 15, 2021.</footnote>
+        <footnote id="F2">The options vest and are exercisable over a twelve month period, with vesting to occur on November 1, 2016, February 1, 2017, May 1, 2017 and August 1, 2017, respectively.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ David Sidransky</signatureName>
+        <signatureDate>2021-10-19</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

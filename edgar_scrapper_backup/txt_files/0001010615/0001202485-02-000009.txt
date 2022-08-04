@@ -1,0 +1,340 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ HtvRw87XnYm5jXPkb6vee8fOvfbaeNTSmRQi/RKdTSnOMZ+gFmdQKTnuRzXVg7xg
+ YeT0CNpXgYQ7mXZ2vPzxCg==
+
+<SEC-DOCUMENT>0001202485-02-000009.txt : 20021119
+<SEC-HEADER>0001202485-02-000009.hdr.sgml : 20021119
+<ACCEPTANCE-DATETIME>20021119150634
+ACCESSION NUMBER:		0001202485-02-000009
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20021119
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			1-800 ATTORNEY INC
+		CENTRAL INDEX KEY:			0001010615
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS PUBLISHING [2741]
+		IRS NUMBER:				593203301
+		STATE OF INCORPORATION:			FL
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-50068
+		FILM NUMBER:		02832886
+
+	BUSINESS ADDRESS:	
+		STREET 1:		P O BOX 280
+		STREET 2:		186 P C N A PARKWAY
+		CITY:			LAKE HELEN
+		STATE:			FL
+		ZIP:			32744
+		BUSINESS PHONE:		9042281000
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 280
+		STREET 2:		186 P C N A PARKWAY
+		CITY:			LAKE HELEN
+		STATE:			FL
+		ZIP:			32744
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PUBLISHING CO OF NORTH AMERICA INC
+		DATE OF NAME CHANGE:	19960321
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ATTORNEYS COM INC
+		DATE OF NAME CHANGE:	20000607
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BALISE PETER S
+		CENTRAL INDEX KEY:			0001041170
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		186 N INDUSTRIAL PARK DR
+		CITY:			LAKE HELEN
+		STATE:			FL
+		ZIP:			32744-0280
+		BUSINESS PHONE:		9042281000
+
+	MAIL ADDRESS:	
+		STREET 1:		186 N INDUSTRIAL PARK DR
+		STREET 2:		PO BOX 280
+		CITY:			LAKE HELEN
+		STATE:			FL
+		ZIP:			32744-0280
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<FILENAME>sc13d111902.txt
+<TEXT>
+                              UNITED STATES
+                   SECURITIES AND EXCHANGE COMMISSION
+                         Washington, D.C. 20549
+
+                              SCHEDULE 13D
+                Under the Securities Exchange Act of 1934
+                        (Amendment No. ________)*
+
+                           1-800-ATTORNEY, INC.
+- --------------------------------------------------------------------------------
+                            (Name of Issuer)
+
+                   Common Stock, no par value per share
+- --------------------------------------------------------------------------------
+                      (Title of Class of Securities)
+
+                               68231A-20-4
+- --------------------------------------------------------------------------------
+                              (CUSIP Number)
+
+                              Peter S. Balise
+                          6939 Sylvan Woods Drive
+                             Sanford, FL  32771
+
+- --------------------------------------------------------------------------------
+                 (Name, Address and Telephone Number of Person
+                Authorized to Receive Notices and Communications)
+
+                             November 19, 2002
+- --------------------------------------------------------------------------------
+             (Date of Event which Requires Filing of this Statement)
+
+<PAGE>
+      If the filing person has previously filed a statement on Schedule 13G to
+      report the acquisition that is the subject of this Schedule 13D, and is
+      filing this schedule because of ss ss 240.13d-1(e), 240.13d-1(f) or
+      240.13d-1(g), check the following box. [   ]
+
+      Note: Schedules filed in paper format shall include a signed original and
+      five copies of the schedule, including all exhibits. See ss240.13d-7 for
+      other parties to whom copies are to be sent.
+
+      * The remainder of this cover page shall be filled out for a reporting
+      person's initial filing on this form with respect to the subject class of
+      securities, and for any subsequent amendment containing information which
+      would alter disclosures provided in a prior cover page.
+
+      The information required on the remainder of this cover page shall not be
+      deemed to be "filed" for the purpose of Section 18 of the Securities
+      Exchange Act of 1934 ("Act") or otherwise subject to the liabilities of
+      that section of the Act but shall be subject to all other provisions of
+      the Act (however, see the Notes).
+
+
+CUSIP No. 68231A-20-4
+================================================================================
+  1    Names of Reporting Persons.
+       I.R.S. Identification Nos. of above persons (entities only).
+
+       Peter S. Balise
+- -----  -------------------------------------------------------------------------
+  2    Check the Appropriate Box if a Member of a Group(See Instructions) (a)[_]
+                                                                          (b)[X]
+
+- -----  -------------------------------------------------------------------------
+  3    SEC Use Only
+
+- -----  -------------------------------------------------------------------------
+  4    Source of Funds (See Instructions)
+       PF
+
+- -----  -------------------------------------------------------------------------
+  5    Check if Disclosure of Legal Proceedings Is Required Pursuant to Items
+       2(d) or 2(e)                                                          [_]
+
+- -----  -------------------------------------------------------------------------
+  6    Citizenship or Place of Organization
+       United States of America
+
+- --------------------------------------------------------------------------------
+
+<PAGE>
+
+
+ NUMBER OF     7      SOLE VOTING POWER
+
+  SHARES              93,950
+             -----    ----------------------------------------------------------
+BENEFICIALLY   8      SHARED VOTING POWER
+
+ OWNED BY
+             -----    ----------------------------------------------------------
+   EACH        9      SOLE DISPOSITIVE POWER
+
+ REPORTING            93,950
+             -----    ----------------------------------------------------------
+  PERSON       10     SHARED DISPOSITIVE POWER
+
+   WITH
+- --------------------------------------------------------------------------------
+  11   Aggregate Amount Beneficially Owned by Each Reporting Person
+
+       93,950
+- -----  -------------------------------------------------------------------------
+  12   Check if the Aggregate Amount in Row (11) Excludes Certain Shares
+       (See Instructions)                                                    [_]
+
+- -----  -------------------------------------------------------------------------
+  13   Percent of Class Represented by Amount in Row (11)
+
+       9.8%
+- -----  -------------------------------------------------------------------------
+  14   Type of Reporting Person (See Instructions)
+
+       IN
+================================================================================
+
+
+
+Item 1.  Security and Issuer
+
+The name of the issuer is 1-800-ATTORNEY, Inc., a Florida corporation (the
+"Issuer").  The principal executive office address is 186 Attorneys.com Court,
+Lake Helen, Florida 32744.  This Schedule 13D relates to the Issuer's common
+stock, no par value (the "Shares").
+
+Item 2.  Identity and Background
+
+(a-c, f)  This Schedule 13D is being filed by Peter S. Balise, a U.S. citizen.
+Mr. Balise operates his own consulting business from his home in Sanford,
+Florida.  His address is 6939 Sylvan Woods Drive, Sanford, Florida, 32771. Mr.
+Balise was the chairman and CEO of the Issuer until January 18, 2002, and a
+member of the Issuer's board of directors until February 19, 2002.
+
+         (d)  During the last five years, the Reporting Person has not been
+              convicted in a criminal proceeding (excluding traffic violations
+              or similar misdemeanors).
+
+<PAGE>
+
+         (e)  During the last five years, the Reporting Person has not been a
+              party to a civil proceeding of a judicial or administrative body
+              of competent jurisdiction and as a result of such proceeding was
+              or is subject to a judgment, decree or final order enjoining
+              future violations of, or prohibiting or mandating activities
+              subject to, federal or state securities laws or finding any
+              violation with respect to such laws.
+
+Item 3.  Source and Amount of Funds or Other Consideration
+
+         A. Not applicable.
+
+Item 4.  Purpose of Transaction
+
+         (a)  Mr. Balise sold in open market transactions and gifted Shares of
+              the Issuer from November 14 - 19, 2002 as set forth in Schedule B
+              in order to raise working capital for his future business
+              activities and to benefit certain individuals.
+
+
+Item 5.  Interest in Securities of the Issuer
+
+         (a)  As of the filing of the report, Mr. Balise may be deemed to be
+              the beneficial owner of 93,950 Shares, constituting 9.8% of the
+              955,268 Shares outstanding as of November 19, 2002, according to
+              the Issuer's records.  Of these Shares, 91,476 are owned with Mr.
+              Balise's wife in joint tenancy; one Share is owned by Mr.
+              Balise's wife; and 2,473 are Shares for which Mr. Balise is
+              custodian for three minors.
+
+         (b)  As of the date hereof, Mr. Balise may be deemed to have the sole
+              power to vote or to direct the vote of the 93,950 shares.
+
+         (c)  The trading dates, number of shares sold and the price per share
+              for all transactions in the Shares that may be deemed to be
+              beneficially owned by Mr. Balise effected in open market
+              transactions during the past sixty (60) days are set forth in
+              Schedule B, as well as several gifts of Shares by Mr. Balise.
+
+Item 6.  Contracts, Arrangements, Understandings or Relationships with Respect
+         to Securities of the Issuer
+
+         Other than options to purchase Shares granted under the Issuer's 1996
+         Stock Plan while Mr. Balise was an employee of the Issuer that remained
+         unexpired after Mr. Balise's resignation from the Issuer earlier this
+         year, Mr. Balise does not have any contract, arrangement,
+         understandings or relationships with respect to securities of the
+         Issuer.
+
+<PAGE>
+Item 7.  Material to Be Filed as Exhibits
+
+Exhibit A        Trading Transactions in the Shares in the past 60 days
+
+                                Signature
+
+After reasonable inquiry and to the best of my knowledge and belief, I certify
+that the information set forth in this statement is true, complete and correct.
+
+
+                                                    November 19, 2002
+                                                    --------------------
+                                                           (Date)
+
+
+                                                    /s/ Peter S. Balise
+                                                    --------------------
+                                                    Peter S. Balise
+
+
+
+
+            Attention: Intentional misstatements or omissions of fact
+           constitute Federal criminal violations (See 18 U.S.C. 1001)
+
+
+<PAGE>
+
+                                                                     Exhibit A
+                                                                     ---------
+<TABLE>
+<CAPTION>
+                          Transactions in the Shares
+                          In the Last Sixty (60) Days
+
+
+
+                                                                Total Net
+Transaction date             Qty              Price             Proceeds
+- --------------------------------------------------------------------------
+<S>                        <C>               <C>              <C>
+Open market transaction
+on 11/14/02                    475             $5.11             $2,407.18
+Open market transaction
+on 11/14/02                  5,343             $5.02            $26,812.13
+Open market transaction
+on 11/14/02                  6,657             $5.00            $33,272.92
+Open market transaction
+on 11/15/02                    100             $4.17               $396.99
+Open market transaction
+on 11/18/02                  1,150             $5.05             $5,787.33
+Gifts of Shares to three
+individuals of majority
+age; Mr. Balise claims no
+continuing beneficial
+ownership or
+voting control  11/19/02     2,800              N/A                N/A
+
+</TABLE>
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

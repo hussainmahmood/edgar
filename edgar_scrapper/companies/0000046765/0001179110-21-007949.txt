@@ -1,0 +1,212 @@
+<SEC-DOCUMENT>0001179110-21-007949.txt : 20210805
+<SEC-HEADER>0001179110-21-007949.hdr.sgml : 20210805
+<ACCEPTANCE-DATETIME>20210805161747
+ACCESSION NUMBER:		0001179110-21-007949
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20210803
+FILED AS OF DATE:		20210805
+DATE AS OF CHANGE:		20210805
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Chariag Belgacem
+		CENTRAL INDEX KEY:			0001463291
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04221
+		FILM NUMBER:		211148447
+
+	MAIL ADDRESS:	
+		STREET 1:		TECHNO PARK
+		STREET 2:		SHEIKH ZAYED ROAD
+		CITY:			DUBAI
+		STATE:			C0
+		ZIP:			00000
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Helmerich & Payne, Inc.
+		CENTRAL INDEX KEY:			0000046765
+		STANDARD INDUSTRIAL CLASSIFICATION:	DRILLING OIL & GAS WELLS [1381]
+		IRS NUMBER:				730679879
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1437 S. BOULDER AVE., SUITE 1400
+		CITY:			TULSA
+		STATE:			OK
+		ZIP:			74119
+		BUSINESS PHONE:		9187425531
+
+	MAIL ADDRESS:	
+		STREET 1:		1437 S. BOULDER AVE., SUITE 1400
+		CITY:			TULSA
+		STATE:			OK
+		ZIP:			74119
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HELMERICH & PAYNE INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>edgar.xml
+<DESCRIPTION>FORM 3 -
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2021-08-03</periodOfReport>
+
+    <noSecuritiesOwned>1</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0000046765</issuerCik>
+        <issuerName>Helmerich &amp; Payne, Inc.</issuerName>
+        <issuerTradingSymbol>HP</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001463291</rptOwnerCik>
+            <rptOwnerName>Chariag Belgacem</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1437 S. BOULDER AVE.</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>TULSA</rptOwnerCity>
+            <rptOwnerState>OK</rptOwnerState>
+            <rptOwnerZipCode>74119</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes></footnotes>
+
+    <ownerSignature>
+        <signatureName>William H. Gault as Power of Attorney for Belgacem Chariag</signatureName>
+        <signatureDate>2021-08-05</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>ex24chariag.htm
+<DESCRIPTION>POWER OF ATTORNEY
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Limited Power of Attorney</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">I, Belgacem Chariag, hereby grant this Power of
+Attorney to each of the following persons: Cara Hair, Debra Stockton, William H. Gault, Jana Robinson and Sheli Friend; whose offices
+are located at 1437 S. Boulder Avenue, Tulsa, Oklahoma 74119, or any individual with the title General Counsel, Senior Attorney, or Attorney
+in Helmerich &amp; Payne, Inc. Legal Department, or any individual with the title Corporate Secretary or Assistant Corporate Secretary
+of Helmerich Payne, Inc. (hereinafter &ldquo;attorneys-in-fact&rdquo;).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Each of my attorneys-in-fact shall have full powers
+and authority to do and undertake the following on my behalf:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.5in"></TD><TD STYLE="width: 0.5in">(1)</TD><TD STYLE="text-align: justify">complete, sign, and submit all documents required by the Securities and Exchange Commission (the &ldquo;Commission&rdquo;)
+under Section 16(a) of the Securities Exchange Act of 1934 (15 U.S.C. &sect;78p(a)), Rule 144 of the Securities Act of 1933 (17 CFR &sect;
+230.144), and all other securities laws and rules applicable due to my status as a Director of Helmerich Payne, Inc. or its subsidiaries;</TD></TR></TABLE>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.5in"></TD><TD STYLE="width: 0.5in">(2)</TD><TD STYLE="text-align: justify">do and perform any and all acts for and on behalf of the undersigned which may be necessary or desirable
+to complete the execution of any such Form 3, 4, or 5 and the timely filing of such Form with the United States Securities and Exchange
+Commission and any other authority; and</TD></TR></TABLE>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.5in"></TD><TD STYLE="width: 0.5in">(3)</TD><TD STYLE="text-align: justify">take any other action of any type whatsoever in connection with the foregoing which, &#9;in the opinion
+of such attorney-in-fact, may be of benefit to, in the best interest of, or legally required by the undersigned, it being understood that
+the documents executed by such attorney-in-fact on behalf of the undersigned pursuant to this Power of Attorney shall be in such form
+and shall contain such terms and conditions as such attorney-in-fact may approve in his/her discretion.</TD></TR></TABLE>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Any powers not specifically mentioned herein will
+not be given.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">This limited power of attorney can be revoked
+at any time for any reason upon written notice.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">IN WITNESS WHEREOF, I hereby sign this Limited
+Power of Attorney as of the date below written.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 80%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 24%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Date: July 8, 2021</FONT></TD>
+    <TD STYLE="width: 13%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="width: 26%; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">/s/ Belgacem Chariag</FONT></TD>
+    <TD STYLE="width: 37%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Belgacem Chariag</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;&nbsp;</P>
+
+<!-- Field: Page; Sequence: 1; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></P>
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,421 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ EjRNkdfeXn0wjt+fVj/FRHsoKvioGwPYszcPCXICho+Ia9la82QvRk7WJtmzhcUh
+ cOoEOhEvBOPxEZk1vexa6A==
+
+<SEC-DOCUMENT>0000919574-02-000892.txt : 20020419
+<SEC-HEADER>0000919574-02-000892.hdr.sgml : 20020419
+ACCESSION NUMBER:		0000919574-02-000892
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20020419
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CIBELLI MARIO
+		CENTRAL INDEX KEY:			0001171692
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		52 VANDERBILT AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			1 800 CONTACTS INC
+		CENTRAL INDEX KEY:			0001050122
+		STANDARD INDUSTRIAL CLASSIFICATION:	OPTICAL INSTRUMENTS & LENSES [3827]
+		IRS NUMBER:				870571643
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-54695
+		FILM NUMBER:		02616384
+
+	BUSINESS ADDRESS:	
+		STREET 1:		13751 S WADSWORTH PARK DR SUITE D-140
+		CITY:			DRAPER
+		STATE:			UT
+		ZIP:			84020
+		BUSINESS PHONE:		8015728225
+
+	MAIL ADDRESS:	
+		STREET 1:		13751 S WADSWORTH PARK DR SUITE D-140
+		CITY:			DRAPER
+		STATE:			UT
+		ZIP:			84020
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<FILENAME>d318824_13d.txt
+<DESCRIPTION>SCHEDULE 13D CIBELLI APRIL 9, 2002
+<TEXT>
+                       SECURITIES AND EXCHANGE COMMISSION
+                              WASHINGTON, DC 20549
+
+                                ----------------
+
+                                  SCHEDULE 13D
+                                 (Rule 13d-101)
+
+             INFORMATION TO BE INCLUDED IN STATEMENTS FILED PURSUANT
+            TO RULE 13d-1(a) AND AMENDMENTS THERETO FILED PURSUANT TO
+                                  RULE 13d-2(a)
+
+                         (Amendment No. __________ )(1)
+
+
+                          1-800-CONTACTS, INC. (CTAC)
+- --------------------------------------------------------------------------------
+                                (Name of Issuer)
+
+
+                    Common Stock, Par Value $0.01 per share
+- --------------------------------------------------------------------------------
+                         (Title of Class of Securities)
+
+
+                                   681977104
+- --------------------------------------------------------------------------------
+                                 (CUSIP Number)
+
+
+  Mario Cibelli, c/o Cibelli Capital Management, L.L.C., 52 Vanderbilt Avenue,
+                          5th Floor, New York, NY 10017
+- --------------------------------------------------------------------------------
+                  (Name, Address and Telephone Number of Person
+                Authorized to Receive Notices and Communications)
+
+
+                                 April 9, 2002
+- --------------------------------------------------------------------------------
+            (Date of Event which Requires Filing of This Statement)
+
+     If the filing  person has  previously  filed a statement on Schedule 13G to
+report the  acquisition  that is the subject of this Schedule 13D, and is filing
+this  schedule  because  of Rule  13d-1(e),  13d-1(f)  or  13d-1(g),  check  the
+following box [_].
+
+
+          Note:  Schedules filed in paper format shall include a signed original
+     and five copies of the schedule, including all exhibits. See Rule 13d-7 for
+     other parties to whom copies are to be sent.
+
+
+- ----------
+(1)  The  remainder  of this  cover  page  shall be filled  out for a  reporting
+     person's  initial  filing on this form with respect to the subject class of
+     securities,  and for any subsequent amendment containing  information which
+     would alter disclosures provided in a prior cover page.
+
+     The  information  required on the remainder of this cover page shall not be
+deemed to be "filed"  for the purpose of Section 18 of the  Securities  Exchange
+Act of 1934 or otherwise  subject to the  liabilities of that section of the Act
+but  shall be  subject  to all other  provisions  of the Act  (however,  see the
+Notes).
+
+<PAGE>
+
+
+CUSIP No.681977104
+
+
+- --------------------------------------------------------------------------------
+1    NAME OF REPORTING PERSONS
+     I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)
+
+     Mario Cibelli
+
+- --------------------------------------------------------------------------------
+2    CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*
+                                                                 (a)  [_]
+                                                                 (b)  [X]
+
+- --------------------------------------------------------------------------------
+3    SEC USE ONLY
+
+
+
+- --------------------------------------------------------------------------------
+4    SOURCE OF FUNDS*
+
+     AF, WC, PN
+
+- --------------------------------------------------------------------------------
+5    CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED
+     PURSUANT TO ITEMS 2(d) OR 2(e)                                   [_]
+
+
+
+- --------------------------------------------------------------------------------
+6    CITIZENSHIP OR PLACE OF ORGANIZATION
+
+     United States of America
+
+- --------------------------------------------------------------------------------
+               7    SOLE VOTING POWER
+
+  NUMBER OF         49,400
+
+   SHARES      -----------------------------------------------------------------
+               8    SHARED VOTING POWER
+BENEFICIALLY
+                    520,000
+  OWNED BY
+               -----------------------------------------------------------------
+    EACH       9    SOLE DISPOSITIVE POWER
+
+  REPORTING         49,400
+
+   PERSON      -----------------------------------------------------------------
+               10   SHARED DISPOSITIVE POWER
+    WITH
+                    520,000
+
+- --------------------------------------------------------------------------------
+11   AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+     569,400
+
+- --------------------------------------------------------------------------------
+12   CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES*
+
+                                                                      [_]
+
+- --------------------------------------------------------------------------------
+13   PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+
+     5.01%
+
+- --------------------------------------------------------------------------------
+14   TYPE OF REPORTING PERSON*
+
+     IN
+
+- --------------------------------------------------------------------------------
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+This  Schedule  13D is being  filed for the  purpose of  disclosing  the current
+number of shares of Common Stock, $0.01 par value of 1-800-CONTACTS, INC. (CTAC)
+that may be deemed to be  beneficially  owned by Mario  Cibelli (the  "Reporting
+Person").
+
+
+
+<PAGE>
+
+
+CUSIP No.681977104
+
+
+- --------------------------------------------------------------------------------
+Item 1.  Security and Issuer.
+
+The name of the issuer is  1-800-CONTACTS,  INC.,  a Delaware  corporation  (the
+"Issuer").  The address of the Issuer's offices is 66 East Wadsworth Park Drive,
+3rd Floor,  Draper, Utah 84020. This Schedule 13D relates to the Issuer's Common
+Stock, $0.01 par value (the "Shares").
+
+- --------------------------------------------------------------------------------
+Item 2.  Identity and Background.
+
+     (a-c, f) This Schedule 13D is being filed by Mario Cibelli, a United States
+citizen,  whose  principal  business  address is located at c/o Cibelli  Capital
+Management,  L.L.C.,  52 Vanderbilt  Avenue,  5th Floor, New York, NY 10017. Mr.
+Cibelli is the managing member of Cibelli Capital Management,  L.L.C. ("CCM"), a
+Delaware limited liability  company that is an investment  management firm which
+serves as the general  partner of Marathon  Partners,  L.P.,  a New York limited
+partnership  ("MP"). Mr. Cibelli also serves as portfolio manager to a number of
+separate managed accounts.
+
+     (d) Neither  Mr.  Cibelli  nor CCM has,  during the last five  years,  been
+convicted in a criminal  proceeding  (excluding  traffic  violations  or similar
+misdemeanors).
+
+     (e) Neither Mr.  Cibelli  nor CCM has,  during the last five years,  been a
+party to a civil  proceeding of a judicial or  administrative  body of competent
+jurisdiction and as a result of such proceeding was or is subject to a judgment,
+decree  or final  order  enjoining  future  violations  of,  or  prohibiting  or
+mandating activities subject to, Federal or state securities laws or finding any
+violation with respect to such laws.
+
+- --------------------------------------------------------------------------------
+Item 3.  Source and Amount of Funds or Other Consideration.
+
+As of the date hereof,  Mr.  Cibelli may be deemed to  beneficially  own 569,400
+Shares.  The Shares are held by MP and the accounts for which Mr. Cibelli serves
+as portfolio manger (together, the "Clients"). The funds for the purchase of the
+Shares by the Clients came from the Clients'  respective  funds.  Mr. Cibelli is
+also the beneficial owner of the Shares held in his personal accounts and in the
+accounts of his family  members as follows:  Mario  Cibelli C/F S. Cibelli UTMA:
+300 Shares;  Mario Cibelli C/F G. Cibelli UTMA:  300 Shares;  Mario Cibelli IRA:
+600 shares; C. Cibelli IRA: 400 shares;  Mario Cibelli Simple IRA: 1,500 Shares.
+The total cost for the Shares held by Mr. Cibelli is $45,822.15.
+
+No borrowed  funds were used to purchase  the  Shares,  other than any  borrowed
+funds used for working capital purposes in the ordinary course of business.
+
+- --------------------------------------------------------------------------------
+Item 4.  Purpose of Transaction.
+
+The Shares held by the  Reporting  Person were  acquired for, and are being held
+for,  investment purposes on the Clients' and the Reporting Person's behalf. The
+acquisitions  of the Shares were made in the  ordinary  course of the  Reporting
+Person's business or investment activities, as the case may be.
+
+
+- --------------------------------------------------------------------------------
+Item 5.  Interest in Securities of the Issuer.
+
+As of the date hereof,  Mr. Cibelli may be deemed to be the beneficial  owner of
+569,400 Shares,  constituting 5.01% of the Shares of the Issuer,  based upon the
+11,381,840  Shares  outstanding as of March 18, 2002,  according to the Issuer's
+most recently Form 10-K.
+
+Mr.  Cibelli has the power to vote or direct the vote of 569,400 Shares to which
+this filing relates.
+
+Mr. Cibelli  specifically  disclaims beneficial ownership in the Shares reported
+herein except to the extent of his pecuniary interest therein.
+
+The trading dates,  number of shares  purchased and sold and price per share for
+all transactions in the Shares during the past 60 days by Mr. Cibelli and CCM on
+behalf of the  Clients  are set forth in  Schedule  A and were all  effected  in
+broker transactions.
+
+The 569,400 Shares were acquired for investment purposes. Mr. Cibelli and/or Mr.
+Cibelli on behalf of the Clients may acquire additional  Shares,  dispose of all
+or some of these  Shares  from  time to time,  in each case in open  markets  or
+private transactions,  block sales or purchases or otherwise, or may continue to
+hold the Shares.
+
+Mr.  Cibelli  does not have any present  plans or  proposals  that relate to, or
+would  result in,  any of the  actions  enumerated  in Item 4 of  Schedule  13D.
+However,  Mr.  Cibelli  reserves  the right to  discuss  company  business  with
+management,  make  proposals  to  management  and/or to take  other  actions  to
+influence management of the Issuer should he deem appropriate.
+
+- --------------------------------------------------------------------------------
+
+Item 6.   Contracts, Arrangements,  Understandings or Relationships with Respect
+          to Securities of the Issuer.
+
+Mr.  Cibelli  does  not  have  any  contract,   arrangement,   understanding  or
+relationship with any person with respect to the Shares.
+
+- --------------------------------------------------------------------------------
+Item 7.  Material to be Filed as Exhibits.
+
+None.
+
+- --------------------------------------------------------------------------------
+
+
+
+
+<PAGE>
+
+
+                                    SIGNATURE
+
+
+     After  reasonable  inquiry and to the best of my  knowledge  and belief,  I
+certify that the information  set forth in this statement is true,  complete and
+correct.
+
+
+                                        April 15, 2002
+                                        ----------------------------------------
+                                                         (Date)
+
+
+                                        /s/ Mario Cibelli
+                                        ----------------------------------------
+                                                       (Signature)
+
+
+                                        Mario Cibelli
+                                        ----------------------------------------
+                                                       (Name/Title)
+
+
+
+Attention.  Intentional  misstatements  or omissions of fact constitute  federal
+criminal violations (see 18 U.S.C. 1001).
+
+
+
+
+<PAGE>
+
+
+                             Schedule A
+                     Transactions in the Shares
+
+Date of                Number of Shares             Price Per
+Transaction            Purchase/(SOLD)              Share
+
+2/08/2002              1,000                        11.35
+2/12/2002              1,000                        11.21
+2/13/2002              3,500                        11.09
+2/14/2002                600                        11.39
+2/15/2002                900                        11.27
+2/19/2002                500                        11.39
+3/01/2002              1,000                        11.36
+3/04/2002                500                        11.28
+3/07/2002              5,000                        10.84
+3/08/2002              5,000                        10.82
+3/12/2002              2,100                        10.49
+3/13/2002              2,000                        10.43
+3/14/2002              1,000                        10.55
+3/18/2002              4,000                        10.61
+3/19/2002             25,000                        10.77
+3/20/2002             20,000                        10.85
+3/21/2002             10,000                        11.05
+3/28/2002              6,000                        10.80
+4/01/2002              4,000                        10.82
+4/01/2002                400                        10.83
+4/01/2002                100                        10.84
+4/01/2002             10,000                        10.88
+4/02/2002              5,000                        11.11
+4/03/2002              2,000                        11.70
+4/03/2002              3,000                        11.56
+4/04/2002              2,000                        13.67
+4/04/2002              2,000                        13.50
+4/05/2002              5,000                        14.14
+4/08/2002              1,000                        15.02
+4/09/2002                500                        14.35
+4/09/2002              2,000                        14.61
+
+
+
+
+
+
+
+
+
+
+03366.003 #318824
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

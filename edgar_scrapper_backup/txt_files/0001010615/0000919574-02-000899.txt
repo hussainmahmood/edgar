@@ -1,0 +1,663 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Bcc1JGDUSm64ER2doEQuJQZzzQr+9uO7wlIJOiMV5OEjEJRQ4oXycoUHiRtcnPjS
+ cQm7La9JbKjb/BVlgM4DOQ==
+
+<SEC-DOCUMENT>0000919574-02-000899.txt : 20020425
+<SEC-HEADER>0000919574-02-000899.hdr.sgml : 20020425
+ACCESSION NUMBER:		0000919574-02-000899
+CONFORMED SUBMISSION TYPE:	SC 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20020425
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			1-800 ATTORNEY INC
+		CENTRAL INDEX KEY:			0001010615
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS PUBLISHING [2741]
+		IRS NUMBER:				593203301
+		STATE OF INCORPORATION:			FL
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-50068
+		FILM NUMBER:		02621535
+
+	BUSINESS ADDRESS:	
+		STREET 1:		P O BOX 280
+		STREET 2:		186 P C N A PARKWAY
+		CITY:			LAKE HELEN
+		STATE:			FL
+		ZIP:			32744
+		BUSINESS PHONE:		9042281000
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 280
+		STREET 2:		186 P C N A PARKWAY
+		CITY:			LAKE HELEN
+		STATE:			FL
+		ZIP:			32744
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ATTORNEYS COM INC
+		DATE OF NAME CHANGE:	20000607
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PUBLISHING CO OF NORTH AMERICA INC
+		DATE OF NAME CHANGE:	19960321
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TIEDEMAN INVESTMENT GROUP
+		CENTRAL INDEX KEY:			0001172147
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		535 MADISON AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		2127590340
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<FILENAME>d318122_13-g.txt
+<DESCRIPTION>SCHEDULE 13G
+<TEXT>
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                              WASHINGTON, DC 20549
+
+                                  SCHEDULE 13G
+                                 (Rule 13d-102)
+
+
+             INFORMATION TO BE INCLUDED IN STATEMENTS FILED PURSUANT
+           TO RULES 13d-1(b)(c), AND (d) AND AMENDMENTS THERETO FILED
+                            PURSUANT TO RULE 13d-2(b)
+
+                         (Amendment No.____________)(1)
+
+
+
+                           1-800-ATTORNEY, INC. (ATTY)
+                                (Name of Issuer)
+
+
+
+                           Common Stock, No Par Value
+                         (Title of Class of Securities)
+
+
+
+                                   744654-10-4
+                                 (CUSIP Number)
+
+
+
+                                February 23, 2002
+             (Date of Event Which Requires Filing of this Statement)
+
+
+     Check the  appropriate  box to  designate  the rule  pursuant to which this
+Schedule is filed:
+
+          [_]  Rule 13d-1(b)
+
+          [_]  Rule 13d-1(c)
+
+          [_]  Rule 13d-1(d)
+
+
+- ----------
+(1)  The  remainder  of this  cover  page  shall be filled  out for a  reporting
+     person's  initial  filing on this form with respect to the subject class of
+     securities,  and for any subsequent amendment containing  information which
+     would alter the disclosures provided in a prior cover page.
+
+     The  information  required in the remainder of this cover page shall not be
+deemed to be "filed"  for the purpose of Section 18 of the  Securities  Exchange
+Act of 1934 or otherwise  subject to the  liabilities of that section of the Act
+but  shall be  subject  to all other  provisions  of the Act  (however,  see the
+Notes).
+
+
+<PAGE>
+
+
+CUSIP No.744654-10-4                  13G                 Page  2  of  8  Pages
+
+________________________________________________________________________________
+1.   NAME OF REPORTING PERSONS
+     I.R.S. IDENTIFICATION NO. OF ABOVE PERSONS (ENTITIES ONLY)
+
+          Carl Tiedemann
+
+________________________________________________________________________________
+2.   CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*
+                                                                 (a)  [_]
+                                                                 (b)  [_]
+
+________________________________________________________________________________
+3.   SEC USE ONLY
+
+
+
+________________________________________________________________________________
+4.   CITIZENSHIP OR PLACE OF ORGANIZATION
+
+     United States of America
+
+________________________________________________________________________________
+  NUMBER OF    5.   SOLE VOTING POWER
+
+   SHARES                 98,814
+
+BENEFICIALLY   6.   SHARED VOTING POWER
+
+  OWNED BY                553,359
+
+    EACH       7.   SOLE DISPOSITIVE POWER
+
+  REPORTING               98,814
+
+   PERSON      8.   SHARED DISPOSITIVE POWER
+
+    WITH                  553,359
+________________________________________________________________________________
+9.   AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+                          652,173
+
+________________________________________________________________________________
+10.  CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES*
+
+                                                                          [_]
+
+
+11.  PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 9
+
+                          12.14%
+
+
+
+________________________________________________________________________________
+12.  TYPE OF REPORTING PERSON*
+
+               IN
+
+________________________________________________________________________________
+                     *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+
+CUSIP No.744654-10-4                  13G                 Page  3  of  8  Pages
+
+
+1.   NAME OF REPORTING PERSONS
+     I.R.S. IDENTIFICATION NO. OF ABOVE PERSONS (ENTITIES ONLY)
+
+          Hans Tiedemann
+
+________________________________________________________________________________
+2.   CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*
+                                                                 (a)  [_]
+                                                                 (b)  [_]
+
+________________________________________________________________________________
+3.   SEC USE ONLY
+
+
+
+________________________________________________________________________________
+4.   CITIZENSHIP OR PLACE OF ORGANIZATION
+
+     United States of America
+
+________________________________________________________________________________
+  NUMBER OF    5.   SOLE VOTING POWER
+
+   SHARES                 39,526
+
+BENEFICIALLY   6.   SHARED VOTING POWER
+
+  OWNED BY                553,359
+
+    EACH       7.   SOLE DISPOSITIVE POWER
+
+  REPORTING               39,526
+
+   PERSON      8.   SHARED DISPOSITIVE POWER
+
+    WITH                  553,359
+________________________________________________________________________________
+9.   AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+                          592,885
+
+________________________________________________________________________________
+10.  CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES*
+
+                                                                          [_]
+
+________________________________________________________________________________
+11.  PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 9
+
+                          11.04%
+
+
+
+________________________________________________________________________________
+12.  TYPE OF REPORTING PERSON*
+
+               IN
+
+________________________________________________________________________________
+                     *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+
+
+
+
+1.   NAME OF REPORTING PERSONS
+     I.R.S. IDENTIFICATION NO. OF ABOVE PERSONS (ENTITIES ONLY)
+
+          Tiedemann Investment Group
+
+________________________________________________________________________________
+2.   CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*
+                                                                 (a)  [_]
+                                                                 (b)  [_]
+
+________________________________________________________________________________
+3.   SEC USE ONLY
+
+
+
+
+4.   CITIZENSHIP OR PLACE OF ORGANIZATION
+
+     New York
+
+________________________________________________________________________________
+  NUMBER OF    5.   SOLE VOTING POWER
+
+   SHARES                158,102
+
+BENEFICIALLY   6.   SHARED VOTING POWER
+
+  OWNED BY               394,257
+
+    EACH       7.   SOLE DISPOSITIVE POWER
+
+  REPORTING              158,102
+
+   PERSON      8.   SHARED DISPOSITIVE POWER
+
+    WITH                 394,257
+________________________________________________________________________________
+9.   AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+                         553,359
+
+________________________________________________________________________________
+10.  CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES*
+
+                                                                          [_]
+
+________________________________________________________________________________
+11.  PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 9
+
+                         10.03%
+
+
+________________________________________________________________________________
+12.  TYPE OF REPORTING PERSON*
+
+               PN
+
+________________________________________________________________________________
+                     *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+
+CUSIP No.744654-10-4                  13G                 Page  5  of  8  Pages
+
+
+1.   NAME OF REPORTING PERSONS
+     I.R.S. IDENTIFICATION NO. OF ABOVE PERSONS (ENTITIES ONLY)
+
+          George Boltres
+
+________________________________________________________________________________
+2.   CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*
+                                                                 (a)  [_]
+                                                                 (b)  [_]
+
+________________________________________________________________________________
+3.   SEC USE ONLY
+
+
+
+
+4.   CITIZENSHIP OR PLACE OF ORGANIZATION
+
+     United States of America
+
+________________________________________________________________________________
+  NUMBER OF    5.   SOLE VOTING POWER
+
+   SHARES                98,814
+
+BENEFICIALLY   6.   SHARED VOTING POWER
+
+  OWNED BY               395,257
+
+    EACH       7.   SOLE DISPOSITIVE POWER
+
+  REPORTING              98,814
+
+   PERSON      8.   SHARED DISPOSITIVE POWER
+
+    WITH                 395,257
+________________________________________________________________________________
+9.   AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+                         494,071
+
+________________________________________________________________________________
+10.  CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES*
+
+                                                                          [_]
+
+________________________________________________________________________________
+11.  PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW 9
+
+                         9.19%
+
+
+________________________________________________________________________________
+12.  TYPE OF REPORTING PERSON*
+
+               IN
+
+________________________________________________________________________________
+                     *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+<PAGE>
+
+
+CUSIP No.744654-10-4                  13G                 Page  6  of  8  Pages
+
+This Schedule 13G is being filed to report that the ownership of Carl Tiedemann,
+Hans  Tiedemann  and  Tiedemann  Investment  Group  (together,   the  "Reporting
+Persons")  in the  Common  Stock,  no par  value  per share  (the  "Shares")  of
+1-800-ATTORNEY, INC. (ATTY).
+
+
+Item 1(a).  Name of Issuer:
+
+
+
+            1-800-ATTORNEY, INC. (ATTY)
+
+Item 1(b).  Address of Issuer's Principal Executive Offices:
+
+
+
+            ____________________________________________________________________
+
+Item 2(a).  Name of Persons Filing:
+Carl Tiedemann
+Hans Tiedemann
+George Boltres
+Tiedemann Investment Group
+
+Item 2(b).  Address of Principal Business Office, or if None, Residence:
+535 Madison Avenue
+35th Floor
+New York, N.Y. 10022-4212
+
+Item 2(c).  Citizenship:
+Messrs. Tiedemann and Mr. Boltres - United States citizens
+Tiedemann Investment Group - New York limited partnership
+
+
+Item 2(d).  Title of Class of Securities:
+Common Stock, no par value
+
+
+Item 2(e).  CUSIP Number:
+744654-10-4
+
+
+Item 3.     If This Statement  is Filed  Pursuant to  Rule 13d-1(b), or 13d-2(b)
+            or (c), Check Whether the Person Filing is a:
+
+     (a)  [_]  Broker or dealer registered under Section 15 of the Exchange Act.
+
+     (b)  [_]  Bank as defined in Section 3(a)(6) of the Exchange Act.
+
+     (c)  [_]  Insurance  company as defined in Section 3(a)(19) of the Exchange
+               Act.
+
+     (d)  [_]  Investment  company  registered under Section 8 of the Investment
+               Company Act.
+
+
+     (e)  [_]  An investment adviser in accordance with Rule 13d-1(b)(1)(ii)(E);
+
+     (f)  [_]  An employee  benefit plan or endowment  fund in  accordance  with
+               Rule 13d-1(b)(1)(ii)(F);
+
+     (g)  [_]  A parent  holding  company or control  person in accordance  with
+               Rule 13d-1(b)(1)(ii)(G);
+
+     (h)  [_]  A savings  association  as defined in Section 3(b) of the Federal
+               Deposit Insurance Act;
+
+     (i)  [_]  A  church  plan  that  is  excluded  from  the  definition  of an
+               investment  company  under  Section  3(c)(14)  of the  Investment
+               Company Act;
+
+     (j)  [_]  Group, in accordance with Rule 13d-1(b)(1)(ii)(J).
+
+
+<PAGE>
+
+
+CUSIP No.744654-10-4                  13G                 Page  7  of  8  Pages
+
+Item 4.  Ownership.
+
+     Provide  the  following  information  regarding  the  aggregate  number and
+percentage of the class of securities of the issuer identified in Item 1.
+
+     (a)  Amount beneficially owned:
+          Carl Tiedemann - 652,173; Hans Tiedemann - 592,805;
+          George Boltres - 494,071
+          Tiedemann Investment Group - 553,359
+
+     (b)  Percent of class:
+          Carl Tiedemann - 12.14%; Hans Tiedemann - 11.04%;
+          George Boltres - 9.19%;
+          Tiedemann Investment Group - 10.3%
+
+     (c)  Number of shares as to which such person has:
+          Carl Tiedemann - 553,359 shares with shared power to vote or to direct
+          the vote; 98,814 shares with sole power to vote or to direct the vote;
+          553,359 shares with shared power to dispose or to direct the
+          disposition of; 98,814 shares with the sole power to dispose or to
+          direct the disposition of;
+
+          Hans Tiedemann - 553,359 shares with shared power to vote or to direct
+          the vote; 39,526 shares with sole power to vote or to direct the vote;
+          553,359 shares with shared power to dispose or direct the disposition
+          of; 39,526 shares with the sole power to dispose or to direct the
+          disposition of;
+
+          George Boltres - 395,257 shares with shared power to vote or to direct
+          the vote; 98,814 shares with sole power to vote or direct the vote;
+          395,275 shares with shared power to dispose or direct the disposition
+          of; 98,814 shares with sole power to dispose or the client to
+          disposition of
+
+          Tiedemann Investment Group - 394,257 shares with shared power to vote
+          or to direct the vote; 158,102 shares with sole power to vote or to
+          direct the vote; 394,257 shares with shared power to dispose or to
+          direct the disposition of; 158,102 shares with the sole power to
+          dispose or to direct the disposition of.
+
+
+Item 5.  Ownership of Five Percent or Less of a Class.
+
+     If this statement is being filed to report the fact that as of the date
+hereof the reporting person has ceased to be the beneficial owner of more than
+five percent of the class of securities check the following [ ].
+
+
+Item 6.  Ownership of More Than Five Percent on Behalf of Another Person.
+
+     If any other person is known to have the right to receive or the power to
+direct the receipt of dividends from, or the proceeds from the sale of, such
+securities, a statement to that effect should be included in response to this
+item and, if such interest relates to more than five percent of the class, such
+person should be identified.  A listing of the shareholders of an investment
+company registered under the Investment Company Act of 1940 or the beneficiaries
+of employee benefit plan, pension fund or endowment fund is not required.
+
+
+_______________________________________________________________________
+
+
+<PAGE>
+
+
+Item 7.  Identification and  Classification of the Subsidiary Which Acquired the
+         Security  Being  Reported on by the Parent  Holding  Company or Control
+         Person.
+
+     If a parent holding company or Control person has filed this schedule,
+pursuant to Rule 13d-1(b)(1)(ii)(G), so indicate under Item 3(g) and attach an
+exhibit stating the identity and the Item 3 classification of the relevant
+subsidiary.  If a parent holding company or control person has filed this
+schedule pursuant to Rule 13d-1(c) or Rule 13d-1(d), attach an exhibit stating
+the identification of the relevant subsidiary.
+
+
+         _______________________________________________________________________
+
+Item 8.  Identification  and  Classification  of Members of the Group.
+
+     If a group has filed this schedule pursuant to Section
+240.13d-1(b)(1)(ii)(J), so indicate under Item 3(j) and attach an exhibit
+stating the identity and Item 3 classification of each member of the group. If a
+group has filed this schedule pursuant to Section 240.13d-1(c) or Section
+240.13d-1(d), attach an exhibit stating the identity of each member of the
+group.
+
+
+         _______________________________________________________________________
+
+Item 9.  Notice of Dissolution of Group.
+
+     Notice of dissolution of a group may be furnished as an exhibit stating the
+date of the dissolution and that all further filings with respect to
+transactions in the security reported on will be filed, if required, by members
+of the group, in their individual capacity.  See Item 5.
+
+
+          ______________________________________________________________________
+
+
+Item 10.  Certifications.
+
+          The  following  certification  shall be included if the  statement is
+          filed pursuant to Rule 13d-1(c):
+
+          "By signing  below I certify  that,  to the best of my  knowledge  and
+          belief, the securities referred to above were not acquired and are not
+          held for the purpose of or with the effect of changing or  influencing
+          the control of the issuer of the  securities and were not acquired and
+          are not held in connection with or as a participant in any transaction
+          having such purpose or effect."
+
+          After reasonable inquiry and to the best of my knowledge and belief, I
+          certify that the information set forth in this statement is true,
+          complete and correct.
+
+                                                     /s/ Carl Tiedemann
+                                                     ---------------------------
+                                                     Carl Tiedemann
+
+                                                     /s/ Hans Tiedemann
+                                                     ---------------------------
+                                                     Hans Tiedemann
+
+                                                     /s/ George Boltres
+                                                     ---------------------------
+                                                     George Boltres
+
+                                                     Tiedmann Investment Group
+
+                                                     By: /s/ Carl Tiedemann
+                                                     ---------------------------
+                                                     Carl Tiedemann
+                                                     Senior Partner
+
+
+<PAGE>
+
+
+                                                                       Exhibit A
+                                                                       ---------
+
+                                    AGREEMENT
+                                    ---------
+
+     The undersigned agree that this Schedule 13G dated February 23, 2002
+relating to the Common Stock, no par value of 1-800-ATTORNEY, INC. (ATTY) shall
+be filed on behalf of the undersigned.
+
+                                                     /s/ Carl Tiedemann
+                                                     ---------------------------
+                                                     Carl Tiedemann
+
+                                                     /s/ Hans Tiedemann
+                                                     ---------------------------
+                                                     Hans Tiedemann
+
+                                                     /s/ George Boltres
+                                                     ---------------------------
+                                                     George Boltres
+
+                                                     Tiedmann Investment Group
+
+                                                     By: /s/ Carl Tiedemann
+                                                     ---------------------------
+                                                     Carl Tiedemann
+                                                     Senior Partner
+
+
+
+
+79575.050 #318122
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

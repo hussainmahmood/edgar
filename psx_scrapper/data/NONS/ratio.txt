@@ -1,0 +1,19 @@
+Year,2009,2008
+Payout,0.00,0.00
+Plow Back,100.00,100.00
+Return on Equity,5.86,-5.53
+Return on Assets,3.54,-2.60
+Book Value per Share,64.29,60.46
+Earning Per Share,3.77,-3.34
+Net Working Capital to Total Asseets,-0.13,-0.12
+Current Ratio,0.55,0.67
+Acid Test,0.12,0.15
+Times Interest Earned,1.52,0.76
+Total Debt Ratio,0.40,0.53
+Debt To Equity,0.66,1.13
+Return on Capital Employed,0.17,0.11
+Average Collection Period,0.66,8.20
+Days sales Inventory,48.35,85.20
+Total Assets Turnover,1.07,0.94
+Gross Profit Margin,15.77,12.75
+Net Profit Margin,3.30,-2.77

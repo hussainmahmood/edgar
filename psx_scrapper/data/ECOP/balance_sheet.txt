@@ -1,0 +1,24 @@
+Year,2009,2008
+Fixed Assets,"1,271,094,000","1,086,225,000"
+Investments,0,0
+Cash in Hand and Bank,"817,000","36,304,000"
+Stores and Spares,"54,859,000","47,559,000"
+Stock in Trade,"231,836,000","319,679,000"
+Trade Debts,"221,211,000","252,806,000"
+Current Assets,"572,711,000","699,565,000"
+Quick Assets,"286,016,000","332,327,000"
+Total Assets,"1,850,827,000","1,795,554,000"
+Interest Bearing Long Term Liability,"433,013,000","577,544,000"
+Non Interest Bearing Long Term Liability,"5,192,000",0
+Interest Bearing Short Term Liability,"434,271,000","405,896,000"
+* Non Interest Bearing Short Term Liability,"376,442,000","326,776,000"
+Trades Payables,"376,442,000","326,776,000"
+Total Current Liabilities,"868,062,000","782,918,000"
+Total Liabilities,"1,457,374,000","1,457,275,000"
+Paid Up Capital,"229,770,000","229,770,000"
+Reserves,"-49,646,000","25,820,000"
+Preferred Equity,0,0
+Surplus On Revaluation of Assets,"213,329,000","82,689,000"
+Shareholder Equity,"393,453,000","338,279,000"
+Paid Up Value,10,10
+Number of Shares,"22,976,971","22,976,971"

@@ -1,0 +1,167 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Wm8XmPm2ScxSqcImBPSscx4P1HIWeKk1E73QilGghmppTws5keRw3+AMZiezLo8I
+ beFprY7Cb+v9qObELOFFXg==
+
+<SEC-DOCUMENT>0000929638-08-000095.txt : 20080213
+<SEC-HEADER>0000929638-08-000095.hdr.sgml : 20080213
+<ACCEPTANCE-DATETIME>20080213164930
+ACCESSION NUMBER:		0000929638-08-000095
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20071231
+FILED AS OF DATE:		20080213
+DATE AS OF CHANGE:		20080213
+EFFECTIVENESS DATE:		20080213
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PAMET CAPITAL MANAGEMENT, LP
+		CENTRAL INDEX KEY:			0001358706
+		IRS NUMBER:				204043368
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-11903
+		FILM NUMBER:		08605736
+
+	BUSINESS ADDRESS:	
+		STREET 1:		222 BERKELEY STREET, 22ND FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+		BUSINESS PHONE:		617-646-6100
+
+	MAIL ADDRESS:	
+		STREET 1:		222 BERKELEY STREET, 22ND FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>pamet13f22008.txt
+<DESCRIPTION>13F REPORT FOR PERIOD ENDING 12/31/2007
+<TEXT>
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    Form 13F
+
+                              Form 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended:     December 31, 2007
+
+Check here if Amendment [   ]; Amendment Number: ____
+        This Amendment (Check only one.):   [   ] is a restatement.
+                                            [   ] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+Name:                 Pamet Capital Management, L.P.
+Address:              222 Berkeley Street, 22nd Floor
+                      Boston, MA 02116
+
+Form 13F File Number: 028-11903
+
+The institutional  investment  manager filing this report and the person by whom
+it is signed hereby  represent  that the person signing the report is authorized
+to  submit  it,  that all  information  contained  herein is true,  correct  and
+complete,  and  that it is  understood  that  all  required  items,  statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+Name:                 Jason Price
+Title:                Chief Financial Officer
+Phone:                (617) 646-6100
+
+Signature, Place, and Date of Signing:
+
+/s/ Jason Price                   Boston, MA                 February 13, 2008
+    [Signature]                    [City, State]                 [Date]
+
+Report Type (Check only one.):
+
+[X]  13F HOLDINGS REPORT.  (Check here if all holdings of this reporting
+     manager are reported in this report).
+
+[  ] 13F NOTICE.  (Check here if no holdings reported are in this report,  and
+     all holdings are reported by other reporting manager(s).)
+
+[  ] 13F COMBINATION REPORT. (Check here if a portion of the holdings for this
+     reporting manager are reported in this report and a portion are reported by
+     other reporting manager(s).)
+
+<PAGE>
+
+                             Form 13F SUMMARY PAGE
+
+
+Report Summary:
+
+Number of Other Included Managers:          None
+
+List of Other Included Managers:            N/A
+
+Form 13F Information Table Entry Total:     21
+
+Form 13F Information Table Value Total:     2,261,218
+                                            (x$1000)
+
+
+
+
+
+<PAGE>
+
+                                     FORM 13F INFORMATION TABLE
+                      NAME OF REPORTING MANAGER: PAMET CAPITAL MANAGEMENT, L.P.
+                                           As of 12/31/07
+<TABLE>
+<CAPTION>
+
+  Column 1                    Column 2      Column 3   Column 4         Column 5        Column 6     Column 7      Column 8
+
+                                                                  Shares or
+  Name of                     Title of       CUSIP      Value     Principal  SH/ PUT/   Investment    Other         Voting
+  Issuer                       Class         Number    (x$1,000)  Amount     PRN CALL   Discretion   Managers      Authority
+
+                                                                                                                Sole   Shared  None
+
+<S>                           <C>            <C>         <C>       <C>       <C>         <C>                   <C>
+ALLEGHENY ENERGY INC          COM            017361106   230,255   3,619,787 SH          SOLE                  3,619,787
+ALTRIA GROUP INC              COM            02209S103   220,066   2,911,700 SH          SOLE                  2,911,700
+ARBITRON INC                  COM            03875Q108   159,421   3,835,000 SH          SOLE                  3,835,000
+CLEAR CHANNEL COMMUNICATIONS  COM            184502102   163,532   4,737,316 SH          SOLE                  4,737,316
+CROWN CASTLE INTL CORP        COM            228227104   230,762   5,547,153 SH          SOLE                  5,547,153
+ECHOSTAR COMMUNICATIONS NEW   CL A           278762109   171,072   4,535,300 SH          SOLE                  4,535,300
+EXCO RESOURCES INC            COM            269279402   139,320   9,000,000 SH          SOLE                  9,000,000
+GATEHOUSE MEDIA INC           COM            367348109    16,112   1,835,100 SH          SOLE                  1,835,100
+GENTEK INC                    COM NEW        37245X203    35,308   1,206,272 SH          SOLE                  1,206,272
+GROUP 1 AUTOMOTIVE INC        COM            398905109    11,875     500,000 SH          SOLE                    500,000
+LIBERTY MEDIA HLDG CORP       INT COM SER A  53071M104   147,307   7,720,500 SH          SOLE                  7,720,500
+MOHAWK INDS INC               COM            608190104   151,858   2,041,100 SH          SOLE                  2,041,100
+MUELLER WTR PRODS INC         COM SER B      624758207    49,850   5,000,000 SH          SOLE                  5,000,000
+NEWCASTLE INVT CORP           COM            65105M108    37,843   2,920,000 SH          SOLE                  2,920,000
+NVR INC                       COM            62944T105   203,600     388,550 SH          SOLE                    388,550
+POOL CORPORATION              COM            73278L105     5,949     300,000 SH          SOLE                    300,000
+SAFETY INS GROUP INC          COM            78648T100    20,303     554,411 SH          SOLE                    554,411
+SLM CORP                      COM            78442P106   146,557   7,276,900 SH          SOLE                  7,276,900
+TAL INTL GROUP INC            COM            874083108    48,755   2,141,216 SH          SOLE                  2,141,216
+USA MOBILITY INC              COM            90341G103    51,080   3,571,997 SH          SOLE                  3,571,997
+WINTHROP RLTY TR              SH BEN INT     976391102    20,393   3,855,000 SH          SOLE                  3,855,000
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

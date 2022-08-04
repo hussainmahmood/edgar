@@ -1,0 +1,169 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ A0eAacb6dKydfT02ZNMgn94Refb7o7yF13a3sJqJn0Klki8mfVWn4TCxCRxkfQuC
+ E8tP+ytEsAHRWYFvYltUVA==
+
+<SEC-DOCUMENT>0001140361-10-021383.txt : 20100514
+<SEC-HEADER>0001140361-10-021383.hdr.sgml : 20100514
+<ACCEPTANCE-DATETIME>20100514160938
+ACCESSION NUMBER:		0001140361-10-021383
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20100331
+FILED AS OF DATE:		20100514
+DATE AS OF CHANGE:		20100514
+EFFECTIVENESS DATE:		20100514
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PAMET CAPITAL MANAGEMENT, LP
+		CENTRAL INDEX KEY:			0001358706
+		IRS NUMBER:				204043368
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-11903
+		FILM NUMBER:		10833471
+
+	BUSINESS ADDRESS:	
+		STREET 1:		222 BERKELEY STREET, 22ND FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+		BUSINESS PHONE:		617-646-6100
+
+	MAIL ADDRESS:	
+		STREET 1:		222 BERKELEY STREET, 22ND FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>form13fhr.txt
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    Form 13F
+                               Form 13F COVER PAGE
+Report for the Calendar Year or Quarter Ended: 3/31/2010
+Check here if Amendment []; Amendment Number:
+                                               -------
+This Amendment (Check only one.):               [] is a restatement.
+                                                [] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+
+Name:      Pamet Capital Management, L.P.
+
+Address:   222 Berkeley Street
+           22nd Floor
+           Boston, MA 02116
+
+
+Form 13F File Number: 028-11903
+
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Persons Signing this Report on Behalf of Reporting Manager:
+
+Name:   Fred Leif
+Title:  Chief Financial Officer
+Phone:  617-646-6100
+
+Signature,  Place,  and  Date  of  Signing:
+
+/s/ Fred Leif                      Boston, Massachusetts              5/14/2010
+- ---------------------------------  ---------------------------------  ----------
+[Signature]                        [City, State]                      [Date]
+
+
+
+Report  Type  (Check  only  one):
+
+[X]     13F HOLDINGS REPORT. (Check here if all holdings of this reporting
+        manager are reported in this report.)
+
+[ ]     13F NOTICE. (Check here if no holdings reported are in this report,
+        and all holdings are reported by other reporting manager(s).)
+
+[ ]     13F COMBINATION REPORT. (Check here if a portion of the holdings for
+        this reporting manager are reported in this report and a portion are
+        reported by other reporting manager(s).)
+
+List of Other Managers Reporting for this Manager:
+
+
+
+<PAGE>
+                              Form 13F SUMMARY PAGE
+
+Report Summary:
+
+Number of Other Included Managers:                    0
+
+Form 13F Information Table Entry Total:              11
+
+Form 13F Information Table Value Total:  $      826,845
+                                         --------------
+                                         (In Thousands)
+
+
+List of Other Included Managers:
+
+Provide a numbered list of the name(s) and 13F file number(s) of all
+institutional investment managers with respect to which this report is filed,
+other than the manager filing this report.
+NONE
+
+
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+                                                  FORM 13F INFORMATION TABLE
+
+         COLUMN 1              COLUMN 2    COLUMN 3  COLUMN 4      COLUMN 5       COLUMN 6  COLUMN 7       COLUMN 8
+- --------------------------- -------------- --------- -------- ------------------ ---------- -------- ---------------------
+                                                      VALUE    SHRS OR  SH/ PUT/ INVESTMENT  OTHER     VOTING AUTHORITY
+      NAME OF ISSUER        TITLE OF CLASS   CUSIP   (x$1000)  PRN AMT  PRN CALL DISCRETION MANAGERS   SOLE    SHARED NONE
+- --------------------------- -------------- --------- -------- --------- --- ---- ---------- -------- --------- ------ ----
+<S>                         <C>            <C>       <C>      <C>       <C> <C>  <C>        <C>      <C>       <C>    <C>
+ARBITRON INC                COM            03875Q108   85,518 3,207,709 SH       SOLE                3,207,709      0    0
+CIT GROUP INC               COM NEW        125581801   72,585 1,863,057 SH       SOLE                1,863,057      0    0
+CLEAR CHANNEL OUTDOOR HLDGS CL A           18451C109   35,194 3,317,090 SH       SOLE                3,317,090      0    0
+CROWN CASTLE INTL CORP      COM            228227104  231,183 6,047,153 SH       SOLE                6,047,153      0    0
+LIBERTY MEDIA CORP NEW      INT COM SER A  53071M104  138,844 9,074,750 SH       SOLE                9,074,750      0    0
+MCGRAW HILL COS INC         COM            580645109   54,265 1,522,146 SH       SOLE                1,522,146      0    0
+MOHAWK INDS INC             COM            608190104   68,142 1,253,078 SH       SOLE                1,253,078      0    0
+NEWCASTLE INVT CORP         COM            65105M108    8,475 2,623,897 SH       SOLE                2,623,897      0    0
+PENNYMAC MTG INVT TR        COM            70931T103   18,995 1,143,600 SH       SOLE                1,143,600      0    0
+SLM CORP                    COM            78442P106   98,763 7,888,407 SH       SOLE                7,888,407      0    0
+TAL INTL GROUP INC          COM            874083108   14,881   744,774 SH       SOLE                  744,774      0    0
+</TABLE>
+
+
+<PAGE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

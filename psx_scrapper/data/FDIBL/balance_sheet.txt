@@ -1,0 +1,17 @@
+Year,2011,2010
+Long Term Loans & Advances,"15,659,576","197,017,368"
+Investments,"332,920,128","792,817,697"
+Fixed Assets,"69,470,998","9,431,583"
+Cash in Hand and Bank,"114,051,788","146,587,174"
+Current Assets,"1,298,387,180","2,291,378,898"
+Total Assets,"1,824,890,877","3,148,108,347"
+Total Non Current Liabilities,"577,218,314","1,217,543,044"
+Total Current Liabilities,"656,529,193","1,309,872,462"
+Total Liabilities,"1,233,747,507","2,527,415,506"
+Paid Up Capital,"1,342,326,440","1,342,326,440"
+Reserves,"-726,420,630","-653,763,073"
+Preferred Equity,"715,833,540","715,833,540"
+Shareholder Equity,"591,143,370","620,692,841"
+Paid Up Value,10,10
+Number of Shares,"62,649,290","62,649,290"
+Surplus On Revaluation of Assets,"-24,762,440","-67,870,526"

@@ -1,0 +1,171 @@
+<SEC-DOCUMENT>0000899243-21-022630.txt : 20210608
+<SEC-HEADER>0000899243-21-022630.hdr.sgml : 20210608
+<ACCEPTANCE-DATETIME>20210608193111
+ACCESSION NUMBER:		0000899243-21-022630
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20210604
+FILED AS OF DATE:		20210608
+DATE AS OF CHANGE:		20210608
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			PATENAUDE PAMELA H.
+		CENTRAL INDEX KEY:			0001815221
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-13585
+		FILM NUMBER:		211003587
+
+	MAIL ADDRESS:	
+		STREET 1:		40 PACIFICA, SUITE 900
+		CITY:			IRVINE
+		STATE:			CA
+		ZIP:			92618
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CORELOGIC, INC.
+		CENTRAL INDEX KEY:			0000036047
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		IRS NUMBER:				951068610
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		40 PACIFICA
+		STREET 2:		SUITE 900
+		CITY:			IRVINE
+		STATE:			CA
+		ZIP:			92618
+		BUSINESS PHONE:		(949) 214-1000
+
+	MAIL ADDRESS:	
+		STREET 1:		40 PACIFICA
+		STREET 2:		SUITE 900
+		CITY:			IRVINE
+		STATE:			CA
+		ZIP:			92618
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FIRST AMERICAN CORP
+		DATE OF NAME CHANGE:	20020628
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FIRST AMERICAN FINANCIAL CORP
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FIRST AMERICAN TITLE INSURANCE & TRUST C
+		DATE OF NAME CHANGE:	19690515
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-06-04</periodOfReport>
+
+    <notSubjectToSection16>1</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000036047</issuerCik>
+        <issuerName>CORELOGIC, INC.</issuerName>
+        <issuerTradingSymbol>CLGX</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001815221</rptOwnerCik>
+            <rptOwnerName>PATENAUDE PAMELA H.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>CORELOGIC, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>40 PACIFICA, SUITE 900</rptOwnerStreet2>
+            <rptOwnerCity>IRVINE</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>92618</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2021-06-04</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5011.386</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>80.00</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Includes 2,008 restricted stock units of CoreLogic, Inc. (&quot;CoreLogic&quot;) subject to time-based vesting (&quot;RSUs&quot;).  Each RSU is settled by the delivery of the underlying shares of CoreLogic common stock.</footnote>
+        <footnote id="F2">On June 4, 2021, pursuant to that certain Agreement and Plan of Merger (the &quot;Merger Agreement&quot;), dated February 4, 2021, by and among CoreLogic, Celestial-Saturn Parent Inc., a Delaware corporation (&quot;Parent&quot;), and Celestial-Saturn Acquisition Sub Inc., a Delaware corporation (&quot;Acquisition Sub&quot;), Acquisition Sub merged with and into CoreLogic, with CoreLogic surviving as a wholly owned subsidiary of Parent (the &quot;Merger&quot;).  Pursuant to the Merger Agreement and by virtue of the Merger, in which each issued and outstanding share of CoreLogic common stock, par value $0.00001 per share, was converted into the right to receive $80 in cash, without interest (the &quot;Merger Consideration&quot;), each RSU held by a non-employee director that was outstanding immediately prior to the effective time of the Merger automatically vested (if unvested) and was cancelled and converted into the right to receive an amount in cash, without interest,</footnote>
+        <footnote id="F3">(Continued from Footnote 2) equal to the product of (A) the total number of shares of CoreLogic common stock underlying such RSU (including any shares of CoreLogic common stock in respect of dividend equivalent units credited thereon) multiplied by (B) the Merger Consideration.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Jan S. Morris, attorney-in-fact</signatureName>
+        <signatureDate>2021-06-08</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

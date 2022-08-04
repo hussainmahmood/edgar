@@ -1,0 +1,10 @@
+Year,2019
+Operating Cash Flow,"-1,990,377,000"
+Captial Expenditure,"17,876,000"
+Cashflow from Investing,"-2,574,076,000"
+Cash Flow from Financing,"-9,830,110,000"
+Net Change,"-14,394,563,000"
+Opening Cash,"21,731,666,000"
+Closing Cash,"7,337,103,000"
+FCFF,"-2,008,253,000"
+FCFE,"-11,838,363,000"

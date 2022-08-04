@@ -1,0 +1,177 @@
+<SEC-DOCUMENT>0000076282-21-000063.txt : 20210616
+<SEC-HEADER>0000076282-21-000063.hdr.sgml : 20210616
+<ACCEPTANCE-DATETIME>20210616155727
+ACCESSION NUMBER:		0000076282-21-000063
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20210616
+FILED AS OF DATE:		20210616
+DATE AS OF CHANGE:		20210616
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			FOGARTY PATRICK W
+		CENTRAL INDEX KEY:			0001206682
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-03134
+		FILM NUMBER:		211021408
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PARK OHIO HOLDINGS CORP
+		CENTRAL INDEX KEY:			0000076282
+		STANDARD INDUSTRIAL CLASSIFICATION:	METAL FORGING & STAMPINGS [3460]
+		IRS NUMBER:				346520107
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6065 PARKLAND BLVD.
+		CITY:			CLEVELAND
+		STATE:			OH
+		ZIP:			44124
+		BUSINESS PHONE:		440-947-2211
+
+	MAIL ADDRESS:	
+		STREET 1:		6065 PARKLAND BLVD.
+		CITY:			CLEVELAND
+		STATE:			OH
+		ZIP:			44124
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PARK OHIO INDUSTRIES INC
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GROWTH INTERNATIONAL INC
+		DATE OF NAME CHANGE:	19730404
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DISCOUNT CENTERS INC
+		DATE OF NAME CHANGE:	19680605
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wf-form4_162387343035949.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-06-16</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000076282</issuerCik>
+        <issuerName>PARK OHIO HOLDINGS CORP</issuerName>
+        <issuerTradingSymbol>PKOH</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001206682</rptOwnerCik>
+            <rptOwnerName>FOGARTY PATRICK W</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>6065 PARKLAND BLVD.</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>CLEVELAND</rptOwnerCity>
+            <rptOwnerState>OH</rptOwnerState>
+            <rptOwnerZipCode>44124</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>VP &amp; CFO</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2021-06-16</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4563</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>35.46</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>99795</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>834</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Individual Account Retirement Plan</value>
+                    <footnoteId id="F1"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Amount of securities beneficially owned as of April 1, 2021.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>Linda Kold, Attorney-In-Fact for Patrick W. Fogarty</signatureName>
+        <signatureDate>2021-06-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

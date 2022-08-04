@@ -1,0 +1,933 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ SGNf+3gY9Jss88Qayz4JmkFLK7eb8J5YB7IRgGp3HGY4YEXiJogvrGpCDQxVOdP2
+ Q3/ZgdIQ7bLWEgflngCTRg==
+
+<SEC-DOCUMENT>0001072613-02-001628.txt : 20021031
+<SEC-HEADER>0001072613-02-001628.hdr.sgml : 20021031
+<ACCEPTANCE-DATETIME>20021031144257
+ACCESSION NUMBER:		0001072613-02-001628
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20021031
+GROUP MEMBERS:		DAN RUBIN
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			RUBIN INVESTMENT GROUP
+		CENTRAL INDEX KEY:			0001121804
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2121 AVE OF THE STARS
+		STREET 2:		STE 101
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90067
+
+	MAIL ADDRESS:	
+		STREET 1:		2121 AVE OF THE STARS
+		STREET 2:		STE 101
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90067
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			1-800 ATTORNEY INC
+		CENTRAL INDEX KEY:			0001010615
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS PUBLISHING [2741]
+		IRS NUMBER:				593203301
+		STATE OF INCORPORATION:			FL
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-50068
+		FILM NUMBER:		02804809
+
+	BUSINESS ADDRESS:	
+		STREET 1:		P O BOX 280
+		STREET 2:		186 P C N A PARKWAY
+		CITY:			LAKE HELEN
+		STATE:			FL
+		ZIP:			32744
+		BUSINESS PHONE:		9042281000
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 280
+		STREET 2:		186 P C N A PARKWAY
+		CITY:			LAKE HELEN
+		STATE:			FL
+		ZIP:			32744
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PUBLISHING CO OF NORTH AMERICA INC
+		DATE OF NAME CHANGE:	19960321
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ATTORNEYS COM INC
+		DATE OF NAME CHANGE:	20000607
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<FILENAME>schedule13d_11564.txt
+<DESCRIPTION>SCHEDULE 13D - DAN RUBIN
+<TEXT>
+- --------------------------------------------------------------------------------
+SEC 1746   Potential persons who are to respond to the collection of information
+(2-98)     contained in this form are not required to respond unless the form
+           displays a currently valid OMB control number.
+- --------------------------------------------------------------------------------
+
+================================================================================
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                  SCHEDULE 13D
+                    Under the Securities Exchange Act of 1934
+                            (Amendment No. ________)*
+
+                              1-800-ATTORNEY, INC.
+- --------------------------------------------------------------------------------
+                                (Name of Issuer)
+
+                      Common Stock, no par value per share
+- --------------------------------------------------------------------------------
+                         (Title of Class of Securities)
+
+                                   68231A-20-4
+- --------------------------------------------------------------------------------
+                                 (CUSIP Number)
+
+                          Rubin Investment Group, Inc.
+                              405 Lexington Avenue
+                                   50th Floor
+                               New York, NY 10174
+                                 (212) 599-3483
+- --------------------------------------------------------------------------------
+                  (Name, Address and Telephone Number of Person
+                Authorized to Receive Notices and Communications)
+
+                                October 24, 2002
+- --------------------------------------------------------------------------------
+             (Date of Event which Requires Filing of this Statement)
+
+If the filing person has previously filed a statement on Schedule 13G to report
+the acquisition that is the subject of this Schedule 13D, and is filing this
+schedule because of ss.ss.240.13d-1(e), 240.13d-1(f) or 240.13d-1(g), check the
+following box. [ ]
+
+Note: Schedules filed in paper format shall include a signed original and five
+copies of the schedule, including all exhibits. See ss.240.13d-7 for other
+parties to whom copies are to be sent.
+
+* The remainder of this cover page shall be filled out for a reporting person's
+initial filing on this form with respect to the subject class of securities, and
+for any subsequent amendment containing information which would alter
+disclosures provided in a prior cover page.
+
+The information required on the remainder of this cover page shall not be deemed
+to be "filed" for the purpose of Section 18 of the Securities Exchange Act of
+1934 ("Act") or otherwise subject to the liabilities of that section of the Act
+but shall be subject to all other provisions of the Act (however, see the
+Notes).
+================================================================================
+<PAGE>
+
+
+CUSIP NO. 68231A-20-4
+
+================================================================================
+  1    NAMES OF REPORTING PERSONS
+       I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY).
+
+       Rubin Investment Group, Inc. Tax ID No. 22-3409835
+
+- -----  -------------------------------------------------------------------------
+  2    CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP              (A) |_|
+                                                                     (B) |X|
+
+- -----  -------------------------------------------------------------------------
+  3    SEC USE ONLY
+
+
+- -----  -------------------------------------------------------------------------
+  4    SOURCE OF FUNDS*
+
+       WC
+- -----  -------------------------------------------------------------------------
+  5    CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT TO
+       ITEM 2(D) OR 2(E)
+                                                                         |_|
+- -----  -------------------------------------------------------------------------
+  6    CITIZENSHIP OR PLACE OF ORGANIZATION
+
+       New York
+- --------------------------------------------------------------------------------
+  NUMBER OF    7    SOLE VOTING POWER
+
+   SHARES           153,026
+             -----  ------------------------------------------------------------
+BENEFICIALLY   8    SHARED VOTING POWER
+
+  OWNED BY          17,200
+             -----  ------------------------------------------------------------
+    EACH       9    SOLE DISPOSITIVE POWER
+
+  REPORTING         153,026
+             -----  ------------------------------------------------------------
+   PERSON      10   SHARED DISPOSITIVE POWER
+
+    WITH            17,200
+- --------------------------------------------------------------------------------
+  11   AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+       170,226
+- -----  -------------------------------------------------------------------------
+  12   CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES*
+                                                                         |_|
+
+- -----  -------------------------------------------------------------------------
+  13   PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)
+
+       17.83%
+- -----  -------------------------------------------------------------------------
+  14   TYPE OF REPORTING PERSON*
+
+       CO
+================================================================================
+                               *SEE INSTRUCTIONS
+<PAGE>
+
+
+ITEM 1.   SECURITY AND ISSUER
+
+The name of the issuer is 1-800-Attorney, Inc., a Florida corporation (the
+"Issuer"). The principal executive office address is 186 Attorneys.com Court,
+Lake Helen, Florida 32744. This Schedule 13D relates to the Issuer's common
+stock, no par value (the "Shares").
+
+ITEM 2.   IDENTITY AND BACKGROUND
+
+(a-c, f) This Schedule 13D is being filed by Rubin Investment Group, Inc, a New
+York corporation, and Dan Rubin, a United States citizen, the Chairman and CEO
+and principal stockholder of Rubin Investment Group, Inc., both of whose
+business addresses are c/o Rubin Investment Group, Inc., 405 Lexington Avenue,
+50th Floor, New York, NY 10174.
+
+          (d)  None of the Reporting Persons, during the last five years, have
+               been convicted in a criminal proceeding (excluding traffic
+               violations or similar misdemeanors). None of the Reporting
+               Persons, during the last five years, have been a party to a civil
+               proceeding of a judicial or administrative body of competent
+               jurisdiction and as a result of such proceeding
+
+          (e)  was or is subject to a judgment, decree or final order enjoining
+               future violations of, or prohibiting or mandating activities
+               subject to, federal or state securities laws or finding any
+               violation with respect to such laws.
+
+
+ITEM 3.   SOURCE AND AMOUNT OF FUNDS OR OTHER CONSIDERATION
+
+          A.   As of the date hereof, Dan Rubin may be deemed to beneficially
+               own 17,200 shares. Mr. Rubin may be deemed to beneficially also
+               own 153,026 shares which are held in the account of Rubin
+               Investment Group, Inc., an entity of which Mr. Rubin is the
+               controlling shareholder. The funds for the purchase of the shares
+               held by Dan Rubin were his funds. The funds for the purchase of
+               the shares held by Rubin Investment Group, Inc. came from that
+               corporation's funds.
+
+The total cost of the shares purchased by Mr. Rubin personally is $21,288.07.
+The total costs of the shares purchased by Rubin Investment Group, Inc. is
+$70,919.73. The aggregate cost of the shares Mr. Rubin is deemed to beneficially
+own is $92,207.80.
+
+No borrowed funds were used to purchase the shares, other than any borrowed
+funds used for working capital purposes in the oridinary course of business of
+Rubin Investment Group, Inc.
+
+ITEM 4.   PURPOSE OF TRANSACTION
+
+          (a)  The Shares beneficially owned by the Reporting Persons were
+               acquired for investment purposes on behalf of Mr. Rubin and Rubin
+               Investment Group, Inc. The acquisition of the shares were made in
+               the ordinary course of the Reporting Person's business or
+               investment activities, as the case may be.
+
+               Rubin Investment Group, Inc. has also entered into a Subscription
+               Agreement and Common Stock Purchase Agreement with the issuer to
+               purchase an additional 3,213,535 shares. Such purchase is subject
+               to approval of the Issuer's shareholders. The Issuer is
+               scheduling a Special Meeting of its shareholders to vote on the
+               proposed sale of 3,213,535 shares to Rubin Investment Group, Inc
+<PAGE>
+
+          (d)  Mr. Dan Rubin has been appointed to the Issuer's Board of
+               Directors and has been elected as the Chief Executive Officer of
+               the Issuer. In addition, Mr. Larry Twersky, a former director has
+               resigned from the Board and has been replaced by Mr. Robert J.
+               Lyszczarz.
+
+               The Issuer has proposed an increase in its authorized common
+               stock from 1,875,000 shares to 10,000,000 shares. The Amendment
+               to the Issuer's Articles of Incorporation to perfect this change
+               is subject to the approval of the Issuer's shareholders. A vote
+               on that proposed change is (e and scheduled for the same
+               shareholders meeting at which the shareholders will vote on the
+               proposed g) sale of 3,213,535 shares to Rubin Investment Group,
+               Inc.
+
+               Although it has no current plans to do so, the Reporting Persons
+               may also engage in:
+
+                  (1)   The acquisition of additional Shares of the Issuer, or
+                        the disposition of Shares of the Issuer;
+
+                  (2)   An extraordinary corporate transaction, such as a
+                        merger, reorganization or liquidation, involving the
+                        Issuer;
+
+                  (3)   a sale or transfer of a material amount of assets of the
+                        Issuer;
+
+                  (4)   any change in the present board of directors or
+                        management of the Issuer, including any plans or
+                        proposals to change the number or term of directors or
+                        to fill any existing vacancies on the board;
+
+                  (5)   any material change in the present capitalization or
+                        dividend policy of the Issuer;
+
+                  (6)   any other material change in the Issuer's business or
+                        corporate structure;
+
+            (j)   (7)   changes in the Issuer's charter, by-laws or instruments
+                        corresponding thereto or other actions which may impede
+                        the acquisition of control of the Issuer by any person;
+
+                  (8)   causing a class of securities of the Issuer to be
+                        delisted from a national securities exchange or to cease
+                        to be authorized to be quoted on an inter-dealer
+                        quotation system of a registered national securities
+                        association;
+
+                  (9)   a class of equity securities of the Issuer becoming
+                        eligible for termination of registration pursuant to
+                        Section 12(g)(4) of the Act; and/or
+
+                  (10)  any action similar to those enumerated above.
+
+                      Any future decision of the Reporting Persons to take any
+                      such actions with respect to the Issuer or its securities
+                      will take into account various factors, including the
+                      prospects of the Issuer, general market and economic
+                      conditions and other factors deemed relevant.
+
+ITEM 5.   INTEREST IN SECURITIES OF THE ISSUER
+
+          For Dan Rubin:
+
+          (a)  As of the date hereof, Mr. Rubin may be deemed to be the
+               beneficial owner of 170,226 Shares, constituting 17.83% of the
+               955,268 shares outstanding as of October 28, 2002, according to
+               the Issuer's records.
+
+          (b)  As of the date hereof, Mr. Rubin may be deemed to have the sole
+               power to vote or to direct the vote of 17,200 shares, and may be
+               deemed to have the shared power to vote or to direct the vote of
+               170,226 shares.
+<PAGE>
+
+          (c)  The trading dates, number of shares purchased and the price per
+               share for all transactions in the Shares that may be deemed to be
+               beneficially owned by Mr. Rubin and Rubin Investment Group, Inc.
+               during the past sixty (60) days are set forth in Schedule B and
+               were all effected in broker transactions.
+
+               The 170,226 Shares were acquired for investment purposes.
+
+          For Rubin Investment Group:
+
+          (a)  As of the date hereof, Rubin Investment Group may be deemed to be
+               the beneficial owner of 153,026 Shares, constituting 16.03% of
+               the 955,268 shares outstanding as of October 28, 2002, according
+               to the Issuer's records.
+
+          (b)  As of the date hereof,. Rubin Investment Group may be deemed to
+               have the sole power to vote or to direct the vote of 153,026
+               shares, and may be deemed to have the shared power to vote or to
+               direct the vote of 170,226 shares.
+
+          (c)  The trading dates, number of shares purchased and the price per
+               share for all transactions in the Shares that may be deemed to be
+               beneficially owned by Mr. Rubin and Rubin Investment Group, Inc.
+               during the past sixty (60) days are set forth in Schedule B and
+               were all effected in broker transactions.
+
+               The 170,226 Shares were acquired for investment purposes.
+
+ITEM 6.   CONTRACTS, ARRANGEMENTS, UNDERSTANDINGS OR RELATIONSHIPS WITH RESPECT
+          TO SECURITIES OF THE ISSUER
+
+Other than the Agreement to purchase 3,213,535 shares by Rubin Investment Group,
+Inc., (a copy of that Purchase Agreement is attached as Exhibit C), the
+Reporting Persons do not have any contract, arrangement, understandings or
+relationships with respect to securities of the Issuer.
+
+ITEM 7.   MATERIAL TO BE FILED AS EXHIBITS
+
+Exhibit A         Agreement
+
+Exhibit B         Trading Transactions in the Shares in the past 60 days
+
+Exhibit C         Common Stock Purchase Agreement between the Issuer and Rubin
+                  Investment Group, Inc. and Amendment to the Common Stock
+                  Purchase Agreement
+<PAGE>
+
+
+
+                                    Signature
+
+After reasonable inquiry and to the best of my knowledge and belief, I certify
+that the information set forth in this statement is true, complete and correct.
+
+                                               October 31, 2002
+                                               ----------------
+                                                   (Date)
+
+                                               /s/ Dan Rubin
+                                               -------------------------------
+                                               Dan Rubin
+
+
+                                               Rubin Investment Group, Inc.
+
+                                               /s/ Dan Rubin
+                                               -------------------------------
+                                               By: Dan Rubin, Chairman and CEO
+
+
+            Attention: Intentional misstatements or omissions of fact
+           constitute Federal criminal violations (See 18 U.S.C. 1001)
+<PAGE>
+
+                                                                       Exhibit A
+                                                                       ---------
+
+
+                                    AGREEMENT
+
+         The undersigned agree that this Schedule 13D dated October 31, 2002
+relating to the Common Stock, no par value of 1-800-ATTORNEY, INC. (ATTY) shall
+be filed on behalf of the undersigned.
+
+
+                                               October 31, 2002
+                                               ----------------
+                                                   (Date)
+
+                                               /s/ Dan Rubin
+                                               -------------------------------
+                                               Dan Rubin
+
+
+                                               Rubin Investment Group, Inc.
+
+                                               /s/ Dan Rubin
+                                               -------------------------------
+                                               By: Dan Rubin, Chairman and CEO
+
+
+<PAGE>
+
+                                                                       Exhibit B
+                                                                       ---------
+                           Transactions in the Shares
+                           In the Last Sixty (60) Days
+
+<TABLE><CAPTION>
+Open Market Transactions only
+Rev:  10-28-02
+                                                             Total                         Total
+                  Act date          Qty       Price        w/o fee            Fee          w/fee  Ownership
+- --------------------------- ------------ ----------- -------------- -------------- -------------- ------------------------
+<S>             <C>                <C>       <C>           <C>               <C>         <C>      <C>
+                10/23/2002         3,900     0.55000       2,145.00          10.99       2,155.99 Rubin Investment Group ("RIG")
+
+                10/24/2002           361     0.79000         285.19          10.99         296.18 RIG
+
+                10/24/2002           950     0.80000         760.00          10.99         770.99 Dan Rubin (DR)
+
+                10/24/2002           799     0.80000         639.20          10.99         650.19 DR
+
+                10/24/2002           100     0.87000          87.00          10.99          97.99 DR
+
+                10/24/2002           100     0.90000          90.00            --           90.00 DR
+
+                10/24/2002         1,001     0.98000         980.98          10.99         991.97 DR
+                            ------------             -------------- -------------- --------------
+                10/24/2002         3,311     0.86          2,842.37          54.95       2,897.32
+                                             Avg
+                                             price
+
+
+                10/25/2002         1,050     1.30000       1,365.00          10.99       1,375.99 DR
+
+                10/25/2002           900     1.30000       1,170.00          10.99       1,180.99 DR
+
+                10/25/2002           300     1.30000         390.00          10.99         400.99 DR
+
+                10/25/2002           500     1.30000         650.00            --          650.00 DR
+
+                10/25/2002         4,500     1.30000       5,850.00          10.99       5,860.99 DR
+
+                10/25/2002           500     1.30000         650.00            --          650.00 DR
+
+                10/25/2002           500     1.31000         655.00            --          655.00 DR
+
+                10/25/2002         1,000     1.32000       1,320.00          10.99       1,330.99 DR
+
+                10/25/2002         1,000     1.32000       1,320.00            --        1,320.00 DR
+                            ------------             -------------- -------------- --------------
+                10/25/2002        10,250     1.30         13,370.00          54.95      13,424.95
+                                             Avg
+                                             price
+</TABLE>
+<PAGE>
+
+<TABLE><CAPTION>
+<S>             <C>                <C>       <C>           <C>               <C>         <C>      <C>
+                10/28/2002         2,000     1.30000       2,600.00          10.99       2,610.99 DR
+
+                10/28/2002         2,000     1.32000       2,640.00          10.99       2,650.99 DR
+
+                10/28/2002        12,300     1.30000      15,990.00          75.00      16,065.00 RIG
+                            ------------             -------------- -------------- --------------
+                10/28/2002        16,300     1.30         21,230.00          96.98      21,326.98
+                                             Avg
+                                             price
+
+Balance at close
+                            ------------             -------------- -------------- --------------
+on 10/28/02                       33,761     1.17         39,587.37         217.87      39,805.24
+                                             Avg
+                                             price
+
+
+Dan Rubin personally              17,200     1.23         21,167.18         120.89      21,288.07 Dan Rubin personally
+
+Rubin Investment Group            16,561     1.11         18,420.19          96.98      18,517.17 Rubin Investment Group
+                            ------------             -------------- -------------- --------------
+
+                                  33,761     1.17         39,587.37         217.87      39,805.24
+
+Checksums                           --                      --              --            --
+
+
+Private xactn on
+10/21/02                         136,465     0.38400      52,402.56         --          52,402.56
+
+
+
+Direct ownership                  17,200     1.23         21,167.18         120.89      21,288.07 Direct ownership
+
+Indirect ownership               153,026     0.46         70,822.75          96.98      70,919.73 Indirect ownership
+                            ------------             -------------- -------------- --------------
+
+                                 170,226     0.54          91989.93         217.87      92,207.80
+</TABLE>
+<PAGE>
+
+
+                                                                       Exhibit C
+                                                                       ---------
+
+                         COMMON STOCK PURCHASE AGREEMENT
+
+
+     This Common Stock Purchase Agreement (the "Agreement"), is entered into as
+of October 21, 2002 by and among 1-800-ATTORNEY, Inc., a Florida corporation
+(the "Company") and Rubin Investment Group, Inc., a New York Corporation (the
+"Purchaser").
+
+                                   Background
+                                   ----------
+
+         The Company desires to sell to Purchaser, and Purchaser desires to
+purchase from the Company, shares of the Common Stock of the Company, on the
+terms and conditions set forth in this Agreement. The Company desires to appoint
+Purchaser, and Purchaser desires to be appointed, to serve as the Chairman of
+the Company's Board of Directors and as the Chief Executive Officer of the
+Company. Therefore, in consideration of the promises and mutual covenants set
+forth herein, and for other good and valuable consideration, the receipt and
+sufficiency of which is hereby acknowledged, the parties agree as follows:
+
+                                      Terms
+                                      -----
+
+1.       Authorization and Sale of Shares.
+         --------------------------------
+
+         1.1 Authorization. The Company has authorized the issuance and sale
+pursuant to this Agreement of Three Million Three Hundred Fifty Thousand
+(3,350,000) shares of its Common Stock (the "Shares"). The Shares have the
+rights, restrictions, privileges and preferences set forth in the Articles of
+Amendment to the Articles of Incorporation attached hereto as Exhibit A (the
+"Amendment").
+
+         1.2 Sale. Subject to the terms and conditions set forth herein and in
+the Subscription Agreement (as defined below), the Company hereby agrees to
+issue and sell to the Purchaser, and the Purchaser hereby agrees to purchase
+from the Company, the Shares at the purchase price of Thirty-Eight and Four
+Tenths Cents ($0.384) per Share.
+
+         1.3 Subscription Agreements. Simultaneously with the execution and
+delivery of this Agreement, Purchaser is executing and delivering to the Company
+a Subscription Agreement for the purchase of the Two Hundred Twenty-Five
+Thousand (225,000) Shares in the form attached hereto as Exhibit B (the "First
+Common Stock Subscription Agreement"). At
+<PAGE>
+
+such time as the parties hereto shall agree upon, Purchaser shall execute and
+deliver to the Company a second Subscription Agreement for the purchase of Three
+Million One Hundred Twenty-Five Thousand (3,125,000) Shares in the form attached
+hereto as Exhibit C (the "Second Common Stock Subscription Agreement", and
+collectively with the First Common Stock Subscription Agreement, the
+"Subscription Agreements").
+
+2.       Sale, Purchase and Delivery of Shares.
+         -------------------------------------
+
+         2.1 Sale and Purchase of the Shares. The sale and purchase of the
+Shares shall occur concurrently with the execution and delivery of the
+Subscription Agreements.
+
+         2.2 Delivery of the Shares. Subject to the terms and conditions hereof
+and of the Subscription Agreements, the Company will deliver to the Purchaser,
+certificates, in such denominations and registered in such name or names as the
+Purchaser may designate by notice to the Company, representing the Shares to be
+purchased by the Purchaser from the Company, dated as of the date of the
+Subscription Agreement(s).
+
+3.       Registration Rights.
+         -------------------
+
+         3.1 Demand Registration. If the Company shall receive from Purchaser,
+at any time or times beginning on first (1st) anniversary date of the execution
+of this Agreement and concluding on the fifth (5th) anniversary of the execution
+of this Agreement, a written request that the Company effect any registration
+with respect to at least 500,000 of the Shares in an offering to be firmly
+underwritten by underwriter(s) selected by the Purchaser (which underwriter(s)
+shall be reasonably acceptable to the Company) the Company shall, as soon as
+practicable, use its best efforts to file a registration statement covering the
+Shares so requested to be registered and to effect such registration (including,
+without limitation, filing post-effective amendments, appropriate qualifications
+under applicable blue sky or other state securities laws, and appropriate
+compliance with the Securities Act of 1933 (the "Securities Act") and as would
+permit or facilitate the sale and distribution of all of such Shares as are
+specified in such request. The registration statement filed pursuant to the
+request of the Purchaser may include other securities of the Company, with
+respect to which registration rights have been granted, and may include
+securities of the Company being sold for the account of the Company.
+
+         3.2 Piggyback Registration. If the Company proposes to register any of
+its Common Stock either for its own account or the account of a security holder
+or holders exercising their respective demand registration rights (other than
+pursuant to Section 3.1 hereof), the Company shall use its
+<PAGE>
+
+best efforts to include in such registration (and any related qualification
+under blue sky laws or other compliance) all the Shares specified in a written
+request or requests, made by the Purchaser and received by the Company within
+fifteen (15) days after the Purchaser's receipt of written notice from the
+Company regarding the proposed registration, which written request may specify
+the inclusion of all or a part of Purchaser's Shares.
+
+         3.3 Expenses of Registration. All registration expenses incurred in
+connection with any registration, qualification or compliance pursuant to
+Sections 3.1 and 3.2 hereof, shall be borne by the Company; provided, however,
+that the Purchaser shall bear the registration expenses for any registration
+proceeding begun pursuant to Section 3.1 and subsequently withdrawn by the
+Purchaser. All selling expenses relating to securities registered pursuant to
+Sections 3.1 and 3.2 hereof, shall be borne by the holders of such securities
+pro rata on the basis of the number of shares of securities so registered on
+their behalf.
+
+4.       Representations  and  Warranties  of the  Company.  The Company  hereby
+         -------------------------------------------------
+represents  and  warrants to each Purchaser the following:
+
+         4.1 Organization and Standing; Articles of Incorporation and Bylaws.
+The Company is a corporation duly organized, validly existing, and in good
+standing under the laws of the State of Florida, and has full power and
+authority to own and operate its properties and assets and to carry on its
+business as presently conducted. The Company is duly qualified and authorized to
+do business, and is in good standing as a foreign corporation, in each
+jurisdiction where the nature of its activities and of its properties (both
+owned and leased) makes such qualification necessary and where a failure to so
+qualify would have a material adverse effect on its business or properties. The
+Amendment has been filed with the Florida Secretary of State on or before the
+date hereof.
+
+         4.2 Corporate Power. The Company has all requisite legal and corporate
+power to execute and deliver this Agreement, to sell and issue the Shares
+hereunder and to carry out and perform its obligations under the terms of this
+Agreement.
+
+         4.3 Authorization. All corporate action on the part of the Company, its
+officers, directors and shareholders necessary for the authorization, execution
+and delivery of this Agreement, the performance of all the Company's obligations
+hereunder and thereunder, and for the authorization, issuance, sale and delivery
+of the Shares has been taken. This Agreement, when executed and delivered, shall
+constitute valid and legally binding obligations of the Company enforceable in
+accordance with its terms, subject to laws of general application relating to
+bankruptcy, insolvency and the relief of debtors and rules of law governing
+specific performance, injunctive relief or other equitable remedies.
+<PAGE>
+
+         4.4 Validity of Shares. The Shares, when issued or sold and delivered
+in compliance with the provisions of this Agreement or the Articles of
+Incorporation, as amended, as applicable, the Shares will be validly issued,
+fully paid, and nonassessable, and will be free of any liens or encumbrances;
+provided, however, that the Shares may be subject to restrictions on transfer
+imposed by the Bylaws of the Company or under state and/or federal securities
+laws as set forth herein or as otherwise required by such laws at the time a
+transfer is proposed.
+
+         4.5 Appointment as Chairman of the Board and Chief Executive Officer.
+Upon execution and delivery of the Second Common Stock Subscription Agreement,
+and upon the Company's receipt of the purchase price provided in the Second
+Common Stock Subscription Agreement, the Company's Board of Directors shall
+appoint Purchaser to serve as Chairman of the Company's Board of Directors until
+the next election of the Company's Directors, and the Company's Board of
+Directors shall appoint Purchaser to serve as the Company's Chief Executive
+Officer.
+
+5.       Representations  and  Warranties of the  Purchaser.  The Purchaser
+         --------------------------------------------------
+hereby represents and warrants to the Company as follows:
+
+         5.1 Legal Power. The Purchaser has the requisite legal power to enter
+into this Agreement and the Subscription Agreements, to purchase the Shares
+hereunder and thereunder, and to carry out and perform its obligations under the
+terms of this Agreement and the Subscription Agreements.
+
+         5.2 Due Execution. This Agreement has been duly authorized, executed
+and delivered by the Purchaser, and, upon due execution and delivery by the
+Company, this Agreement will be a valid and binding agreement of the Purchaser
+enforceable in accordance with its terms, subject to laws of general application
+relating to bankruptcy, insolvency and the relief of debtors and rules of law
+governing specific performance, injunctive relief or other equitable remedies.
+
+         5.3 Initiation of Referral Business. Upon Purchaser's appointment as
+the Chairman of the Company's Board of Directors and the Company's Chief
+Executive Officer, Purchaser shall initiate an investment banking referral
+business (but shall not transfer the assets of that business) with the Company
+with a minimum annual gross revenue equal to $2.5 Million.
+
+6.       Voting Rights of Purchaser. For a period of twelve (12) months
+         --------------------------
+following the issuance of the Shares to Purchaser, Purchaser shall not vote such
+Shares in favor of a liquidation of the Company or a merger or conversion of the
+Company with any Affiliated Entity. For the purposes of
+<PAGE>
+
+this Section 5, the term "Affiliated Entity" shall mean any corporation,
+partnership, limited liability company, unincorporated organization, trust or
+other entity in which Purchaser beneficially owns, directly or indirectly, five
+percent (5%) or more of the voting securities.
+
+7.       Miscellaneous.
+         -------------
+
+         7.1 Governing Law. This Agreement shall be governed by and construed in
+accordance with the laws of the State of Florida without regard to the conflicts
+of laws provisions thereof.
+
+         7.2 Survival. The representations, warranties, covenants, and
+agreements made herein or in the Subscription Agreements shall survive the
+closing of the transactions contemplated hereby.
+
+         7.3 Successors and Assigns. Except as otherwise expressly provided
+herein, the provisions hereof shall inure to the benefit of, and be binding
+upon, the successors, assigns, heirs, executors, and administrators of the
+parties hereto.
+
+         7.4 Entire Agreement. This Agreement, the Exhibits hereto, the
+Subscription Agreements and the other documents required to be delivered
+pursuant hereto constitute the full and entire understanding and agreement
+between the parties with regard to the subject matter hereof and no party shall
+be liable or bound to the other party in any manner by any representations,
+warranties, covenants, or agreements except as specifically set forth herein or
+therein. Nothing in this Agreement, express or implied, is intended to confer
+upon any party, other than the parties hereto and their respective successors
+and assigns, any rights, remedies, obligations, or liabilities under or by
+reason of this Agreement, except as expressly provided herein.
+
+         7.5 Separability. In case any provision of this Agreement shall be
+invalid, illegal, or unenforceable, it shall to the extent practicable, be
+modified so as to make it valid, legal and enforceable and to retain as nearly
+as practicable the intent of the parties, and the validity, legality, and
+enforceability of the remaining provisions shall not in any way be affected or
+impaired thereby.
+
+         7.6 Notices. Except as otherwise expressly provided in this Agreement,
+any notice or request to be given hereunder by either party to the other shall
+be in writing and may be affected either by personal delivery or by mail,
+registered or certified, postage prepaid with return receipt requested. Mailed
+notices shall be addressed to the parties at the following addresses, but either
+party may change its notice address by providing written notice to the other in
+accordance with this Subsection.
+<PAGE>
+
+           If to the Company:            1-800-Attorney, Inc.
+                                         186 Attorneys.com Court
+                                         Lake Helen, Florida 32744
+                                         Facsimile:  (386) 228-0276
+                                         Attn:  William J. Wrigley
+
+              with a copy to:            Holland & Knight LLP
+                                         200 South Orange Avenue, Suite 2600
+                                         Orlando, Florida 32801
+                                         Facsimile: (407) 244-5288
+                                         Attn:  Louis T.M. Conti, Esq.
+
+         If to the Purchaser:            Rubin Investment Group, Inc.
+                                         405 Lexington Avenue
+                                         50th Floor
+                                         New York, New York 10174
+                                         Facsimile: (212) 599-3484
+                                         Attn:  Dan Rubin
+
+         7.7 Fees and Expenses. Each party shall pay its own legal expenses
+relating to this Agreement. If legal action is brought to enforce or interpret
+this Agreement, the prevailing party shall be entitled to recover its attorneys'
+fees and legal costs in connection therewith.
+
+         7.8 Titles and Subtitles. The titles of the Sections and Subsections of
+this Agreement are for convenience of reference only and are not to be
+considered in construing this Agreement.
+
+         7.9 Counterparts. This Agreement may be executed in two or more
+counterparts, each of which shall be deemed an original, but all of which
+together shall constitute one instrument.
+         7.10 Gender. All references to "Purchaser," "it" or "he" herein shall
+be deemed to include the masculine and the feminine with reference to any
+individuals and the neuter with reference to any artificial persons.
+<PAGE>
+
+
+         IN WITNESS WHEREOF, the parties have executed this Agreement as of the
+date first above written.
+
+                                   "COMPANY"
+
+                                   1-800-ATTORNEY, INC.
+
+
+                                   By: /s/ J. William Wrigley
+                                      -----------------------------------------
+                                   Name: J. William Wrigley
+                                        ---------------------------------------
+                                   Title: President
+                                         --------------------------------------
+
+
+                                   "PURCHASER"
+
+
+                                   RUBIN INVESTMENT GROUP, INC.
+
+
+                                   By: /s/ Dan Rubin
+                                      -----------------------------------------
+                                   Name: Dan Rubin
+                                        ---------------------------------------
+                                   Title: CEO
+                                         --------------------------------------
+
+
+<PAGE>
+
+
+                                                                       Exhibit D
+                                                                       ---------
+
+
+                                  AMENDMENT TO
+                                  ------------
+                     COMMON STOCK PURCHASE AGREEMENT BETWEEN
+                     ---------------------------------------
+                 THE REGISTRANT AND RUBIN INVESTMENT GROUP, INC.
+                 -----------------------------------------------
+
+
+         WHEREAS, Rubin Investment Group, Inc.. and the Company entered into a
+Common Stock Purchase Agreement dated October 21, 2002 for the purchase of
+3,350,000 shares of common stock of 1-800 Attorney, Inc. at $0.384 per share;
+and
+
+         WHEREAS, Rubin Investment Group, Inc. purchased 225,000 shares of
+common stock which were issued to Rubin Investment Group, Inc. on October 21,
+2002; and
+
+         WHEREAS, the Company has retracted 88,535 shares of the 225,000 shares
+on October 24, 2002; now therefore
+
+         The parties agree to amend the Common Stock Purchase Agreement to
+provide as follows:
+
+         1.  Rubin Investment Group, Inc. reaffirms its agreement to purchase
+             the retracted 88,535 shares but understands and acknowledges that
+             issuance of said shares is subject to the approval of the Company's
+             shareholders, which approval will be subject to a vote of the
+             shareholders to be held at a meeting of the shareholders which is
+             currently scheduled for mid-November, 2002; and
+
+         2.  Upon approval of the shareholders, and upon payment of the purchase
+             price for said shares, the Company will issue 88,535 shares to
+             Rubin Investment Group, Inc. in addition to the 3,125,000 shares
+             which Rubin Investment Group, Inc. and the Company had previously
+             agreed to submit for approval of the shareholders; and
+
+         3.  All other terms, representations and provisions of the Common Stock
+             Purchase Agreement will remain in full force and effect as of the
+             date of this Amendment.
+
+         The parties hereby execute this Amendment effective October 24, 2002.
+
+                                           1-800-ATTORNEY, INC.
+
+
+                                           /s/ Bill Wrigley
+                                           -----------------------------------
+                                           Chief Operating Officer
+
+                                           RUBIN INVESTMENT GROUP, INC.
+
+
+                                           /s/ Dan Rubin
+                                           -----------------------------------
+                                           Chief Executive Officer
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

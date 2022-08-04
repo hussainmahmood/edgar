@@ -1,0 +1,467 @@
+<SEC-DOCUMENT>0001161697-21-000476.txt : 20211004
+<SEC-HEADER>0001161697-21-000476.hdr.sgml : 20211004
+<ACCEPTANCE-DATETIME>20211004164427
+ACCESSION NUMBER:		0001161697-21-000476
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20210930
+FILED AS OF DATE:		20211004
+DATE AS OF CHANGE:		20211004
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Horton Capital Partners, LLC
+		CENTRAL INDEX KEY:			0001575443
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39086
+		FILM NUMBER:		211303490
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1717 ARCH STREET
+		STREET 2:		39TH FLOOR
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19103
+		BUSINESS PHONE:		(215) 399-5402
+
+	MAIL ADDRESS:	
+		STREET 1:		1717 ARCH STREET
+		STREET 2:		39TH FLOOR
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19103
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Horton Capital Partners Fund, L.P.
+		CENTRAL INDEX KEY:			0001567994
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39086
+		FILM NUMBER:		211303489
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1717 ARCH STREET
+		STREET 2:		39TH FLOOR
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19103
+		BUSINESS PHONE:		215-399-5402
+
+	MAIL ADDRESS:	
+		STREET 1:		1717 ARCH STREET
+		STREET 2:		39TH FLOOR
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19103
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Horton Freedom, L.P.
+		CENTRAL INDEX KEY:			0001767112
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39086
+		FILM NUMBER:		211303488
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1717 ARCH STREET
+		STREET 2:		39TH FLOOR
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19103
+		BUSINESS PHONE:		215-399-5402
+
+	MAIL ADDRESS:	
+		STREET 1:		1717 ARCH STREET
+		STREET 2:		39TH FLOOR
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19103
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Horton Capital Management, LLC
+		CENTRAL INDEX KEY:			0001575444
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39086
+		FILM NUMBER:		211303491
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1717 ARCH STREET
+		STREET 2:		39TH FLOOR
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19103
+		BUSINESS PHONE:		(215) 399-5402
+
+	MAIL ADDRESS:	
+		STREET 1:		1717 ARCH STREET
+		STREET 2:		39TH FLOOR
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19103
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Manko Joseph M. Jr.
+		CENTRAL INDEX KEY:			0001664091
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39086
+		FILM NUMBER:		211303492
+
+	MAIL ADDRESS:	
+		STREET 1:		1717 ARCH STREET
+		STREET 2:		39TH FLOOR
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19103
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			REPRO MED SYSTEMS INC
+		CENTRAL INDEX KEY:			0000704440
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		IRS NUMBER:				133044880
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		24 CARPENTER RD
+		CITY:			CHESTER
+		STATE:			NY
+		ZIP:			10918
+		BUSINESS PHONE:		845-469-2042
+
+	MAIL ADDRESS:	
+		STREET 1:		24 CARPENTER RD
+		CITY:			CHESTER
+		STATE:			NY
+		ZIP:			10918
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form_4.xml
+<DESCRIPTION>FORM 4 FOR 09-30-2021
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-09-30</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000704440</issuerCik>
+        <issuerName>REPRO MED SYSTEMS INC</issuerName>
+        <issuerTradingSymbol>KRMD</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001664091</rptOwnerCik>
+            <rptOwnerName>Manko Joseph M. Jr.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1717 ARCH STREET</rptOwnerStreet1>
+            <rptOwnerStreet2>39TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>PHILADELPHIA</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>19103</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001575444</rptOwnerCik>
+            <rptOwnerName>Horton Capital Management, LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1717 ARCH STREET</rptOwnerStreet1>
+            <rptOwnerStreet2>39TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>PHILADELPHIA</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>19103</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001575443</rptOwnerCik>
+            <rptOwnerName>Horton Capital Partners, LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1717 ARCH STREET</rptOwnerStreet1>
+            <rptOwnerStreet2>39TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>PHILADELPHIA</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>19103</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001567994</rptOwnerCik>
+            <rptOwnerName>Horton Capital Partners Fund, L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1717 ARCH STREET</rptOwnerStreet1>
+            <rptOwnerStreet2>39TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>PHILADELPHIA</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>19103</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001767112</rptOwnerCik>
+            <rptOwnerName>Horton Freedom, L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1717 ARCH STREET</rptOwnerStreet1>
+            <rptOwnerStreet2>39TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>PHILADELPHIA</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>19103</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>1</isOther>
+            <officerTitle></officerTitle>
+            <otherText>Less than 10% Owner</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2021-09-30</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5263</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>7502302</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Horton Capital Partners Fund, LP</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3283593</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Horton Freedom, L.P.</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">See Exhibit 99.1 to this Form 4 for explanation of note (1).</footnote>
+        <footnote id="F2">See Exhibit 99.1 to this Form 4 for explanation of note (2).</footnote>
+    </footnotes>
+
+    <remarks>The filing of this statement shall not be construed as an admission (a) that the person filing this statement is, for the purposes of Section 16 of the Securities Exchange Act of 1934, as amended, the beneficial owner of any equity securities covered by this statement, or (b) that this statement is legally required to be filed by such person.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Joseph M. Manko, Jr.</signatureName>
+        <signatureDate>2021-10-04</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>/s/ Joseph M. Manko, Jr., Managing Member of Horton Capital Management, LLC</signatureName>
+        <signatureDate>2021-10-04</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>/s/ Joseph M. Manko, Jr., Managing Member of Horton Capital Partners, LLC</signatureName>
+        <signatureDate>2021-10-04</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>/s/ Joseph M. Manko, Jr., Managing Member of Horton Capital Partners, LLC, the General Partner of Horton Capital Partners Fund, LP</signatureName>
+        <signatureDate>2021-10-04</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>/s/ Joseph M. Manko, Jr., Managing Member of Horton Capital Partners, LLC, the General Partner of Horton Freedom, L.P.</signatureName>
+        <signatureDate>2021-10-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>ex_99-1.htm
+<DESCRIPTION>EXHIBIT 99.1 TO FORM 4
+<TEXT>
+<HTML>
+<HEAD>
+  <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<DIV STYLE="width: 100%">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>EXHIBIT 99.1 TO FORM 4</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>Explanation of Responses:</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 2%">(1)</TD>
+    <TD STYLE="width: 2%">&nbsp;</TD>
+    <TD STYLE="width: 96%">On September 30, 2021, Horton Capital Partners Fund, LP, a Delaware limited partnership
+    (&ldquo;HCPF&rdquo;), was granted 5,263 shares of Repro Med Systems, Inc. (the &ldquo;Issuer&rdquo;) common stock (&ldquo;Common
+    Stock&rdquo;) in consideration for Mr. Manko&rsquo;s service as a Director of the Issuer for the quarter ended September 30,
+    2021.</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>(2)</TD>
+    <TD>&nbsp;</TD>
+    <TD>This Form 4 is filed jointly by Horton Capital Management, LLC, a Delaware limited liability company (&ldquo;HCM&rdquo;), Horton Capital
+        Partners LLC, a Delaware limited liability company (&ldquo;HCP&rdquo;), HCPF, and Joseph M. Manko, Jr. Pursuant to investment advisory
+        agreements, HCM maintains investment and voting power with respect to shares of Common Stock of the Issuer held by HCPF and Horton Freedom,
+        L.P., a Delaware limited partnership (&ldquo;Horton Freedom&rdquo;). However, despite the delegation of investment and voting power to
+        HCM, HCP may be deemed to be the beneficial owner of such Common Stock because, in the event HCM&rsquo;s investment advisory agreement
+        with respect to such Common Stock is terminated, HCP has the right to assume HCM&rsquo;s discretionary investment and voting authority
+        with respect to such Common Stock. HCP is the general partner of HCPF and Horton Freedom. Mr. Manko is the managing member of both HCM
+        and HCP.</TD></TR>
+  </TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">The filing of this statement shall not be construed as an admission (a)
+that the person filing this statement is, for the purposes of Section 16 of the Securities Exchange Act of 1934, as amended, the beneficial
+owner of any equity securities covered by this statement, or (b) that this statement is legally required to be filed by such person.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P> <HR ALIGN="CENTER" NOSHADE SIZE="2" STYLE="width: 100%"> </DIV>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

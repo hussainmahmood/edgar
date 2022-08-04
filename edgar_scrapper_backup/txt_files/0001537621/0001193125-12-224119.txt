@@ -1,0 +1,213 @@
+<SEC-DOCUMENT>0001193125-12-224119.txt : 20120510
+<SEC-HEADER>0001193125-12-224119.hdr.sgml : 20120510
+<ACCEPTANCE-DATETIME>20120510103103
+ACCESSION NUMBER:		0001193125-12-224119
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20120331
+FILED AS OF DATE:		20120510
+DATE AS OF CHANGE:		20120510
+EFFECTIVENESS DATE:		20120510
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DT Investment Partners, LLC
+		CENTRAL INDEX KEY:			0001537621
+		IRS NUMBER:				451586812
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-14628
+		FILM NUMBER:		12828217
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1013 CENTRE ROAD - SUITE 220
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19805
+		BUSINESS PHONE:		3025941070
+
+	MAIL ADDRESS:	
+		STREET 1:		1013 CENTRE ROAD - SUITE 220
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19805
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>d352262d13fhr.txt
+<DESCRIPTION>FORM 13F-HR
+<TEXT>
+<PAGE>
+
+                                   FORM 13F
+
+                              Form 13F Cover Page
+
+Report for the Calendar Year or Quarter Ended: 03/31/2012
+
+Check here if Amendment [_]; Amendment Number
+
+   This Amendment (Check only one):   [_] is a restatement
+                                      [_] adds new holdings entries
+
+Institutional Investment Manager Filing this Report:
+
+Name:    DT Investment Partners, LLC
+Address: 1013 Centre Road
+         Suite 220
+         Wilmington, DE 19805
+
+Form 13F File Number: 028-14628
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements
+schedules, lists and tables, are considered integral parts of this form.
+
+Person signing this Report on Behalf of Reporting Manager:
+
+Name:    Daniel N. Mullen
+Title:   Chief Compliance Officer
+Phone:   302-594-1070
+
+Signature, Place and Date of Signing:
+
+Daniel N. Mullen,    Wilmington, DE,    May 8, 2012
+
+Report Type (Check only one.):
+
+[X] 13F Holdings Report (Check here if all holdings of this reporting manager
+    are reported in this report.)
+
+[_] 13F Notice. (Check here if no holdings reported are in this report, and all
+    holdings are reported by other reporting managers.)
+
+[_] 13F COMBINATION REPORT. (Check here if a portion of the holdings for this
+    reporting manager are reported in this report and a portion is reported by
+    other reporting managers.)
+
+List of Other Managers Reporting for this Manager:
+
+ None
+
+<PAGE>
+
+                             FORM 13F SUMMARY PAGE
+
+Report Summary:
+
+<TABLE>
+<C>                                      <S>
+Number of Other Included Managers:       1
+
+Form 13F Information Table Entry Total:  40
+
+Form 13F Information Table Value Total:  171799
+                                         ------------
+                                         (thousands)
+</TABLE>
+
+List of Other Included Managers:
+
+No.   Form 13F File Number           Name
+---   --------------------   ----------------------
+ 1         028-14068         Daniels & Tansey, LLP
+
+<PAGE>
+
+                          FORM 13F INFORMATION TABLE
+                         DT INVESTEMENT PARTNERS, LLC
+                             AS OF MARCH 31, 2012
+
+<TABLE>
+<CAPTION>
+COLUMN 1             COLUMN 2     COLUMN 3  COLUMN 4 COLUMN 5           COLUMN 6  COLUMN 7         COLUMN 8
+--------          --------------- --------- -------- --------          ---------- -------- ------------------------
+                                                                                            VOTING
+                                             VALUE   SHRS OR  SH/ PUT/ INVESTMENT  OTHER   AUTHORITY
+NAME OF ISSUER    TITLE OF CLASS   CUSIP    (x$1000) PRN AMT  PRN CALL DISCRETION   MGRS     SOLE    SHARED  NONE
+--------------    --------------- --------- -------- -------- --- ---- ---------- -------- --------- ------ -------
+<S>               <C>             <C>       <C>      <C>      <C> <C>  <C>        <C>      <C>       <C>    <C>
+ALPHATEC
+ HOLINGS INC      COM             02081G102      24   10,000  SH        Defined      1                       10,000
+AT&T INC          COM             00206R102     211    6,746  SH        Defined      1                        6,746
+BLCKRCK ENHDC
+ CAP FD I         COM             09256A109     325   24,119  SH        Defined      1                       24,119
+CAMPBELL SOUP
+ CO               COM             134429109     250    7,377  SH        Defined      1                        7,377
+CHEVRON CORP
+ NEW              COM             166764100     277    2,583  SH        Defined      1                        2,583
+CONOCOPHILLIPS    COM             20825C104     268    3,522  SH        Defined      1                        3,522
+DU PONT E I DE
+ NEMOURS & CO     COM             263534109     336    6,346  SH        Defined      1                        6,346
+KIMBERLY CLARK
+ CORP             COM             494368103     273    3,701  SH        Defined      1                        3,701
+KRAFT FOODS INC   CL A            50075N104     246    6,490  SH        Defined      1                        6,490
+MICROSOFT CORP    COM             594918104     211    6,543  SH        Defined      1                        6,543
+SHORE
+ BANCSHARES INC   COM             825107105      71   10,000  SH        Defined      1                       10,000
+SPECTRA ENERGY
+ PARTNERS LP      COM             847560109     217    6,885  SH        Defined      1                        6,885
+SYSCO CORP        COM             871829107     233    7,813  SH        Defined      1                        7,813
+TORTOISE EGY
+ INFRASTRUCT C    COM             89147L100     338    8,197  SH        Defined      1                        8,197
+VERIZON
+ COMMUNICATIONS
+ INC              COM             92343V104     225    5,875  SH        Defined      1                        5,875
+WILLIAMS COS INC
+ DEL              COM             969457100     215    6,985  SH        Defined      1                        6,985
+SELECT SECTOR
+ SPDR TR          SBI CONS STPLS  81369Y308   3,175   93,155  SH        Defined      1                       93,155
+SELECT SECTOR
+ SPDR TR          SBI INT ENERGY  81369Y506   3,559   49,599  SH        Defined      1                       49,599
+SELECT SECTOR
+ SPDR TR          SBI HEALTHCARE  81369Y209   3,236   86,050  SH        Defined      1                       86,050
+SELECT SECTOR
+ SPDR TR          SBI INT-UTILS   81369Y886   1,709   48,778  SH        Defined      1                       48,778
+I SHARES TR       COHEN & ST
+                  REALTY          464287564   4,689   61,182  SH        Defined      1                       61,182
+ISHARES GOLD
+ TRUST            I SHARES        464285105   2,801  172,162  SH        Defined      1                      172,162
+I SHARES TR       S&P MIDCAP 400  464287507  17,121  172,560  SH        Defined      1                      172,560
+I SHARES TR       MSCI EMERGING
+                  MKT             464287234     280    6,512  SH        Defined      1                        6,512
+I SHARES TR       RUSSELL1000GRW  464287622  13,148  168,650  SH        Defined      1                      168,650
+I SHARES TR       S&P SML CAP 600 464287804  10,500  137,600  SH        Defined      1                      137,600
+POWERSHARES DB
+ CMDTY IDX TRA    UNIT BEN INT    73935S105   3,200  111,117  SH        Defined      1                      111,117
+SPDR SERIES TR    DJ REIT ETF     78464A607   5,069   71,560  SH        Defined      1                       71,560
+SPDR S&P 500 ETF  TR UNIT         78462F103  21,409  152,043  SH        Defined      1                      152,043
+VANGUARD INT      MSCI EMR MKT
+ EQUITY INDEX F   ETF             922042858   8,879  204,254  SH        Defined      1                      204,254
+VANGUARD
+ SPECIALIZED
+ PORTFOL          DIV APP ETF     921908844   4,430   75,661  SH        Defined      1                       75,661
+I SHARES TR       BARCLAYS 1-3 YR
+                  CR              464288646   2,125   20,244  SH        Defined      1                       20,244
+I SHARES TR       AGENCY BD FD    464288166   4,295   38,133  SH        Defined      1                       38,133
+I SHARES TR       BARCLAYS US
+                  AGG B           464287226  17,944  163,349  SH        Defined      1                      163,349
+I SHARES TR       BARCLAYS INTER
+                  CR              464288638   7,035   64,628  SH        Defined      1                       64,628
+I SHARES TR       BARCLAYS MBS
+                  BD              464288588  16,964  157,150  SH        Defined      1                      157,150
+I SHARES TR       S&P NATL AMT
+                  FREE            464288414     986    9,017  SH        Defined      1                        9,017
+I SHARES TR       US PFD STOCK
+                  INDEX           464288687     407   10,433  SH        Defined      1                       10,433
+POWERSHARES
+ GLOBAL ETF
+ TRUST            SOVEREIGN DEBT  73936T573   1,464   52,249  SH        Defined      1                       52,249
+SPDR SERIES TR    BARCLAYS YIELD
+                  ETF             78464A417  13,654  346,801  SH        Defined      1                      346,801
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

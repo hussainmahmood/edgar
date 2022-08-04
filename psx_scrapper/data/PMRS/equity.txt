@@ -1,0 +1,4 @@
+Year,2009,2008
+Cash Dividend,"11,250,000",0
+Annual Dividend per Share,3,0
+Perferred Dividend,0,0

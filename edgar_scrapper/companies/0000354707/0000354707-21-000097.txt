@@ -1,0 +1,153 @@
+<SEC-DOCUMENT>0000354707-21-000097.txt : 20211012
+<SEC-HEADER>0000354707-21-000097.hdr.sgml : 20211012
+<ACCEPTANCE-DATETIME>20211012190500
+ACCESSION NUMBER:		0000354707-21-000097
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20211007
+FILED AS OF DATE:		20211012
+DATE AS OF CHANGE:		20211012
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Hazelton Gregory C
+		CENTRAL INDEX KEY:			0001647110
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08503
+		FILM NUMBER:		211319733
+
+	MAIL ADDRESS:	
+		STREET 1:		220 NW SECOND AVENUE
+		CITY:			PORTLAND
+		STATE:			OR
+		ZIP:			97209
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HAWAIIAN ELECTRIC INDUSTRIES INC
+		CENTRAL INDEX KEY:			0000354707
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		IRS NUMBER:				990208097
+		STATE OF INCORPORATION:			HI
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1001 BISHOP STREET, SUITE 2900
+		CITY:			HONOLULU
+		STATE:			HI
+		ZIP:			96813
+		BUSINESS PHONE:		8085435662
+
+	MAIL ADDRESS:	
+		STREET 1:		P.O. BOX 730
+		CITY:			HONOLULU
+		STATE:			HI
+		ZIP:			96808-0730
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-10-07</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000354707</issuerCik>
+        <issuerName>HAWAIIAN ELECTRIC INDUSTRIES INC</issuerName>
+        <issuerTradingSymbol>HE</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001647110</rptOwnerCik>
+            <rptOwnerName>Hazelton Gregory C</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O P.O. BOX 730</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>HONOLULU</rptOwnerCity>
+            <rptOwnerState>HI</rptOwnerState>
+            <rptOwnerZipCode>96808</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>EVP &amp; CFO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2021-10-07</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3658</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>38849</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Grant of 3,658 restricted stock units on October 7, 2021. Each restricted stock unit represents a contingent right to receive one share of HEI common stock. The restricted stock units will vest in equal installments in each of 2022, 2023 and 2024.</footnote>
+        <footnote id="F2">This number includes an accrued dividend (as denominated in shares of HE common stock) from January 31, 2017 (first RSU grants in 2017) to date. Dividend equivalents accrue with respect to outstanding RSUs when and as dividends are paid in HE stock. Accrued dividend equivalents are denominated in HE common stock and paid upon vesting in shares of HE common stock.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Sean K. Clark, Attorney-in-fact for Gregory C. Hazelton</signatureName>
+        <signatureDate>2021-10-12</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

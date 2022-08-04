@@ -1,0 +1,11 @@
+Year,2009,2008
+Net Working Capital to Total Asseets,0.18,0.12
+Current Ratio,1.33,1.36
+Time Interest Earn,0.20,0.87
+Return on Capital Employed,0.04,0.09
+Payout,0.00,0.00
+Plow Back,100.00,100.00
+Return on Equity,-25.57,-5.81
+Return on Assets,-5.27,-0.98
+Book Value per Share,10.28,13.13
+Earning Per Share,-2.82,-0.85

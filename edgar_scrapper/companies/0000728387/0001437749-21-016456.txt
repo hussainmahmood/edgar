@@ -1,0 +1,169 @@
+<SEC-DOCUMENT>0001437749-21-016456.txt : 20210706
+<SEC-HEADER>0001437749-21-016456.hdr.sgml : 20210706
+<ACCEPTANCE-DATETIME>20210706163112
+ACCESSION NUMBER:		0001437749-21-016456
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20210701
+FILED AS OF DATE:		20210706
+DATE AS OF CHANGE:		20210706
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Austin Mark John
+		CENTRAL INDEX KEY:			0001713059
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33407
+		FILM NUMBER:		211074505
+
+	MAIL ADDRESS:	
+		STREET 1:		350 HILLS ST, STE 106
+		CITY:			RICHLAND
+		STATE:			WA
+		ZIP:			99354
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Isoray, Inc.
+		CENTRAL INDEX KEY:			0000728387
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		IRS NUMBER:				411458152
+		STATE OF INCORPORATION:			MN
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		350 HILLS STREET,
+		STREET 2:		SUITE 106
+		CITY:			RICHLAND
+		STATE:			WA
+		ZIP:			99354
+		BUSINESS PHONE:		(509) 375-1202
+
+	MAIL ADDRESS:	
+		STREET 1:		350 HILLS STREET,
+		STREET 2:		SUITE 106
+		CITY:			RICHLAND
+		STATE:			WA
+		ZIP:			99354
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	IsoRay, Inc.
+		DATE OF NAME CHANGE:	20050805
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CENTURY PARK PICTURES CORP
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>rdgdoc.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-07-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000728387</issuerCik>
+        <issuerName>Isoray, Inc.</issuerName>
+        <issuerTradingSymbol>ISR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001713059</rptOwnerCik>
+            <rptOwnerName>Austin Mark John</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>350 HILLS ST, STE 106</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>RICHLAND</rptOwnerCity>
+            <rptOwnerState>WA</rptOwnerState>
+            <rptOwnerZipCode>99354</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>Controller/Prin Fin&amp;Acct Offic</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Options (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.79</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2021-07-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>133500</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2031-07-01</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>133500</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>398115</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">25% vested as of 7/1/2021, and the remaining 75% will vest over the next three (3) years, commencing on 7/1/2022, until fully vested.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Mark Austin</signatureName>
+        <signatureDate>2021-07-06</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

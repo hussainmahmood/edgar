@@ -1,0 +1,173 @@
+<SEC-DOCUMENT>0001236215-21-000008.txt : 20210517
+<SEC-HEADER>0001236215-21-000008.hdr.sgml : 20210517
+<ACCEPTANCE-DATETIME>20210517172922
+ACCESSION NUMBER:		0001236215-21-000008
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20210514
+FILED AS OF DATE:		20210517
+DATE AS OF CHANGE:		20210517
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			YOUNG PETER R
+		CENTRAL INDEX KEY:			0001238029
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11889
+		FILM NUMBER:		21932656
+
+	MAIL ADDRESS:	
+		STREET 1:		8229 BOONE BLVD
+		STREET 2:		STE 802
+		CITY:			VIENNA
+		STATE:			VA
+		ZIP:			22182
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CEL SCI CORP
+		CENTRAL INDEX KEY:			0000725363
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		IRS NUMBER:				840916344
+		STATE OF INCORPORATION:			CO
+		FISCAL YEAR END:			0930
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8229 BOONE BLVD .
+		STREET 2:		SUITE 802
+		CITY:			VIENNA
+		STATE:			VA
+		ZIP:			22182
+		BUSINESS PHONE:		7035069460
+
+	MAIL ADDRESS:	
+		STREET 1:		8229 BOONE BLVD.
+		STREET 2:		SUITE 802
+		CITY:			VIENNA
+		STATE:			VA
+		ZIP:			22182
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	INTERLEUKIN 2 INC
+		DATE OF NAME CHANGE:	19880317
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-05-14</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000725363</issuerCik>
+        <issuerName>CEL SCI CORP</issuerName>
+        <issuerTradingSymbol>CVM</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001238029</rptOwnerCik>
+            <rptOwnerName>YOUNG PETER R</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>8229 BOONE BLVD</rptOwnerStreet1>
+            <rptOwnerStreet2>STE 802</rptOwnerStreet2>
+            <rptOwnerCity>VIENNA</rptOwnerCity>
+            <rptOwnerState>VA</rptOwnerState>
+            <rptOwnerZipCode>22182</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Options</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>20.61</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2021-05-14</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>128000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.01</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2031-05-13</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>128000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>543100</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each option entitles the holder to purchase one share of the Company's common stock at a price of $20.61 per share. The stock options vest 100% upon either (a) the filing of the first marketing application for any pharmaceutical based upon the Company's Multikine technology in any of the USA, Canada, UK, Germany, France, Italy, Spain, Japan, or Australia, or (b) if the closing price of the Company's common stock exceeds $42.00 for one trading day.  None of the options will be exercisable before May 13, 2022.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Peter Young</signatureName>
+        <signatureDate>2021-05-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

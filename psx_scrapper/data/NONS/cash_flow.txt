@@ -1,0 +1,10 @@
+Year,2009,2008
+Operating Cash Flow,"441,492,000","416,499,000"
+Captial Expenditure,"22,255,000","47,222,000"
+Cashflow from Investing,"-13,770,000","-51,974,000"
+Cash Flow from Financing,"-434,206,000","-363,131,000"
+Net Change,"-6,484,000","1,394,000"
+Opening Cash,"16,250,000","14,856,000"
+Closing Cash,"9,766,000","16,250,000"
+FCFF,"419,237,000","369,277,000"
+FCFE,"-14,969,000","6,146,000"

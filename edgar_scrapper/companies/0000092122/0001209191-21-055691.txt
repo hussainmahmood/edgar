@@ -1,0 +1,207 @@
+<SEC-DOCUMENT>0001209191-21-055691.txt : 20210913
+<SEC-HEADER>0001209191-21-055691.hdr.sgml : 20210913
+<ACCEPTANCE-DATETIME>20210913164407
+ACCESSION NUMBER:		0001209191-21-055691
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20210910
+FILED AS OF DATE:		20210913
+DATE AS OF CHANGE:		20210913
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Tucker Daniel S
+		CENTRAL INDEX KEY:			0001881495
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-03526
+		FILM NUMBER:		211250185
+
+	MAIL ADDRESS:	
+		STREET 1:		30 IVAN ALLEN JR BLVD NW
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30308
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SOUTHERN CO
+		CENTRAL INDEX KEY:			0000092122
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		IRS NUMBER:				580690070
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		30 IVAN ALLEN JR. BLVD., N.W.
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30308
+		BUSINESS PHONE:		4045065000
+
+	MAIL ADDRESS:	
+		STREET 1:		30 IVAN ALLEN JR. BLVD., N.W.
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30308
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-09-10</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000092122</issuerCik>
+        <issuerName>SOUTHERN CO</issuerName>
+        <issuerTradingSymbol>SO</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001881495</rptOwnerCik>
+            <rptOwnerName>Tucker Daniel S</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>30 IVAN ALLEN JR BLVD NW</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>ATLANTA</rptOwnerCity>
+            <rptOwnerState>GA</rptOwnerState>
+            <rptOwnerZipCode>30308</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Executive Vice President &amp; CFO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Phantom Stock Units</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.00</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2021-09-10</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1.9129</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>66.21</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Southern Company Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1.9129</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3869.1213</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each share of phantom stock represents the right to receive one share of Southern Company common stock or the cash value thereof. Includes phantom stock units acquired as if reinvested in the dividend reinvestment plan.  There is no exercise or expiration date.</footnote>
+        <footnote id="F2">Shares of phantom stock are payable in cash following termination of Mr. Tucker's employment with The Southern Company. Mr. Tucker may transfer his phantom stock account into an alternative investment account at any time.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/Marcia R. DeMar, Attorney-in-Fact for Daniel S. Tucker</signatureName>
+        <signatureDate>2021-09-13</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.4_1008054
+<SEQUENCE>2
+<FILENAME>poa.txt
+<DESCRIPTION>POA DOCUMENT
+<TEXT>
+The undersigned, an executive officer of The Southern Company, hereby makes,
+constitutes, and appoints Myra C. Bierria, Lindsay T. McClelland, Marcia R.
+DeMar and Laura O. Hewett, my agents and attorneys-in-fact, for the limited
+purpose of signing on my behalf, and causing to be filed with the Securities and
+Exchange Commission Form ID and Initial Statement of Beneficial Ownership of
+Securities, Statement of Changes in Beneficial Ownership, and Annual Statement
+of Changes in Beneficial Ownership, on Forms 3, 4, and 5, respectively, and any
+appropriate amendment or amendments thereto.
+
+This power of attorney shall remain in effect until my obligation to file the
+aforementioned reports as an executive officer of The Southern Company ceases,
+unless earlier revoked by me by written document delivered to the Corporate
+Secretary of The Southern Company.
+
+
+Effective the 30th day of August, 2021.
+
+
+/s/Daniel S. Tucker
+
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

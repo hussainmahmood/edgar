@@ -1,0 +1,132 @@
+<SEC-DOCUMENT>0001493152-21-019358.txt : 20210811
+<SEC-HEADER>0001493152-21-019358.hdr.sgml : 20210811
+<ACCEPTANCE-DATETIME>20210811161540
+ACCESSION NUMBER:		0001493152-21-019358
+CONFORMED SUBMISSION TYPE:	4/A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20210308
+FILED AS OF DATE:		20210811
+DATE AS OF CHANGE:		20210811
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Baker Paul Christopher
+		CENTRAL INDEX KEY:			0001765672
+
+	FILING VALUES:
+		FORM TYPE:		4/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-19882
+		FILM NUMBER:		211163591
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O KOPIN CORPORATION
+		STREET 2:		125 NORTH DRIVE
+		CITY:			WESTBOROUGH
+		STATE:			MA
+		ZIP:			01581
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KOPIN CORP
+		CENTRAL INDEX KEY:			0000771266
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				042833935
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1225
+
+	BUSINESS ADDRESS:	
+		STREET 1:		125 NORTH DRIVE
+		CITY:			WESTBOROUGH
+		STATE:			MA
+		ZIP:			01581
+		BUSINESS PHONE:		508-870-5959
+
+	MAIL ADDRESS:	
+		STREET 1:		125 NORTH DRIVE
+		CITY:			WESTBOROUGH
+		STATE:			MA
+		ZIP:			01581
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4/A
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4/A</documentType>
+
+    <periodOfReport>2021-03-08</periodOfReport>
+
+    <dateOfOriginalSubmission>2021-03-08</dateOfOriginalSubmission>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000771266</issuerCik>
+        <issuerName>KOPIN CORP</issuerName>
+        <issuerTradingSymbol>KOPN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001765672</rptOwnerCik>
+            <rptOwnerName>Baker Paul Christopher</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O KOPIN CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>125 NORTH DRIVE</rptOwnerStreet2>
+            <rptOwnerCity>WESTBOROUGH</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>01581</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Strategic Business Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>189977</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">When reporting this transaction, the original Form 4 had a clerical error and over-reported the number of shares beneficially owned by the reporting person by 1,382 shares.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ John J. Concannon, as Attorney-in-fact</signatureName>
+        <signatureDate>2021-08-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,112 @@
+<SEC-DOCUMENT>0001104659-21-103579.txt : 20210811
+<SEC-HEADER>0001104659-21-103579.hdr.sgml : 20210811
+<ACCEPTANCE-DATETIME>20210811171618
+ACCESSION NUMBER:		0001104659-21-103579
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20210712
+FILED AS OF DATE:		20210811
+DATE AS OF CHANGE:		20210811
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Yrigoyen Dan
+		CENTRAL INDEX KEY:			0001877598
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-54986
+		FILM NUMBER:		211164582
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O ARCH THERAPEUTICS, INC.
+		STREET 2:		235 WALNUT STREET, SUITE 6
+		CITY:			FRAMINGHAM
+		STATE:			MA
+		ZIP:			01702
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Arch Therapeutics, Inc.
+		CENTRAL INDEX KEY:			0001537561
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		IRS NUMBER:				460524102
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0930
+
+	BUSINESS ADDRESS:	
+		STREET 1:		235 WALNUT STREET, SUITE 6
+		CITY:			FRAMINGHAM
+		STATE:			MA
+		ZIP:			01702
+		BUSINESS PHONE:		617-431-2313
+
+	MAIL ADDRESS:	
+		STREET 1:		235 WALNUT STREET, SUITE 6
+		CITY:			FRAMINGHAM
+		STATE:			MA
+		ZIP:			01702
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ALMAH,INC
+		DATE OF NAME CHANGE:	20111216
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>tm2124881-2_3seq1.xml
+<DESCRIPTION>OWNERSHIP DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2021-07-12</periodOfReport>
+
+    <noSecuritiesOwned>1</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001537561</issuerCik>
+        <issuerName>Arch Therapeutics, Inc.</issuerName>
+        <issuerTradingSymbol>ARTH</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001877598</rptOwnerCik>
+            <rptOwnerName>Yrigoyen Dan</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O ARCH THERAPEUTICS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>235 WALNUT STREET, SUITE 6</rptOwnerStreet2>
+            <rptOwnerCity>FRAMINGHAM</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>01702</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Vice President, Sales</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <ownerSignature>
+        <signatureName>/s/ Dan Yrigoyen</signatureName>
+        <signatureDate>2021-08-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

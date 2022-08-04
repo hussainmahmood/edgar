@@ -1,0 +1,171 @@
+<SEC-DOCUMENT>0000764065-21-000193.txt : 20210903
+<SEC-HEADER>0000764065-21-000193.hdr.sgml : 20210903
+<ACCEPTANCE-DATETIME>20210903172426
+ACCESSION NUMBER:		0000764065-21-000193
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20210901
+FILED AS OF DATE:		20210903
+DATE AS OF CHANGE:		20210903
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Goncalves Celso L Jr
+		CENTRAL INDEX KEY:			0001880965
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08944
+		FILM NUMBER:		211237528
+
+	MAIL ADDRESS:	
+		STREET 1:		200 PUBLIC SQUARE
+		STREET 2:		SUITE 3300
+		CITY:			CLEVELAND
+		STATE:			OH
+		ZIP:			44114
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CLEVELAND-CLIFFS INC.
+		CENTRAL INDEX KEY:			0000764065
+		STANDARD INDUSTRIAL CLASSIFICATION:	METAL MINING [1000]
+		IRS NUMBER:				341464672
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 PUBLIC SQUARE
+		STREET 2:		STE. 3300
+		CITY:			CLEVELAND
+		STATE:			OH
+		ZIP:			44114-2315
+		BUSINESS PHONE:		216-694-5700
+
+	MAIL ADDRESS:	
+		STREET 1:		200 PUBLIC SQUARE
+		STREET 2:		STE. 3300
+		CITY:			CLEVELAND
+		STATE:			OH
+		ZIP:			44114-2315
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CLIFFS NATURAL RESOURCES INC.
+		DATE OF NAME CHANGE:	20081015
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CLEVELAND CLIFFS INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>wf-form3_163070425412334.xml
+<DESCRIPTION>FORM 3
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2021-09-01</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0000764065</issuerCik>
+        <issuerName>CLEVELAND-CLIFFS INC.</issuerName>
+        <issuerTradingSymbol>CLF</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001880965</rptOwnerCik>
+            <rptOwnerName>Goncalves Celso L Jr</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>200 PUBLIC SQUARE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 3300</rptOwnerStreet2>
+            <rptOwnerCity>CLEVELAND</rptOwnerCity>
+            <rptOwnerState>OH</rptOwnerState>
+            <rptOwnerZipCode>44114</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>EVP, CFO</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>73920.613</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes></footnotes>
+
+    <remarks>Exhibit 24 - Power of Attorney</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ James D. Graham by Power of Attorney</signatureName>
+        <signatureDate>2021-09-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>poagoncalves.htm
+<DESCRIPTION>C GONCALVES POA
+<TEXT>
+<!-- Document created using Workiva -->
+<html>
+<body>
+<pre>
+LIMITED POWER OF ATTORNEY
+
+      KNOW ALL MEN BY THESE PRESENTS, that the undersigned hereby constitutes and appoints James D. Graham, Adam D. Munson and Madeline M. Costanzo and each of them, as the true and lawful attorney or attorneys-in-fact, with full power of substitution and revocation, for the undersigned and in the name, place and stead of the undersigned, in any and all capacities, to execute, on behalf of the undersigned any and all statements or reports considered necessary or advisable under Section 16(a) of the Securities Exchange Act of 1934 and the rules and regulations promulgated thereunder, as amended from time to time ("Exchange Act") with respect to the beneficial ownership of shares of Common Stock, par value $.125 per share, of Cleveland-Cliffs Inc. ("Company"), including, without limitation, all initial statements of beneficial ownership on Form 3; all statements of changes in beneficial ownership on Form 4; all annual statements of beneficial ownership on Form 5; and all notices of proposed sale of securities on Form 144; and any and all other documents that may be required, from time to time, to be filed with the Securities and Exchange Commission, to execute any and all amendments or supplements to any such statements or forms, and to file the same, with all exhibits thereto, and other documents in connection therewith, with the Securities and Exchange Commission, granting to said attorney or attorneys-in-fact, and each of them, full power and authority to do so and perform each and every act and thing requisite and necessary to be done in and about the premises, as fully to all intents and purposes as the undersigned might or could do in person, hereby ratifying and confirming all that said attorney or attorneys-in-fact or any of them or their substitutes, may lawfully do or cause to be done by virtue hereof.
+
+      The undersigned acknowledges that neither the Company nor such attorney-in-fact assumes (i) any liability for the undersigned's responsibility to comply with the requirement of the Exchange Act, (ii) any liability of the undersigned for any failure to comply with such requirements, or (iii) any obligation or liability of the undersigned for profit disgorgement under Section 16(b) of the Exchange Act.  This Power of Attorney does not relieve the undersigned from responsibility for compliance with the undersigned's obligations under the Exchange Act, including without limitation the reporting requirements under Section 16 of the Exchange Act.
+
+      This Power of Attorney shall remain in full force and effect as long as the undersigned is subject to the reporting requirements of Section 16 with respect to the undersigned's holdings and transactions in securities issued by the Company, unless earlier revoked by the undersigned in a signed writing delivered to the foregoing attorneys-in-fact.
+
+      IN WITNESS WHEREOF, the undersigned has caused this Power of Attorney to be executed as of this 1st day of September, 2021.
+
+
+/s/ Celso L. Goncalves, Jr.
+Celso L. Goncalves, Jr.
+Executive Vice President, Chief Financial Officer
+</pre>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

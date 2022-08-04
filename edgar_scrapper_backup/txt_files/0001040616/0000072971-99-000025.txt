@@ -1,0 +1,417 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ DKprXtNRcR+0LHXSjWI1dFjeyQA1RlQ1/b6MHn33KvzxBwQjruHVQpHhAIo6WHPt
+ GaUhYavc2eG9NtfPYYKlgQ==
+
+<SEC-DOCUMENT>0000072971-99-000025.txt : 19990325
+<SEC-HEADER>0000072971-99-000025.hdr.sgml : 19990325
+ACCESSION NUMBER:		0000072971-99-000025
+CONFORMED SUBMISSION TYPE:	SC 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19990323
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MERITOR AUTOMOTIVE INC
+		CENTRAL INDEX KEY:			0001040616
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLE PARTS & ACCESSORIES [3714]
+		IRS NUMBER:				383354643
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+		SEC ACT:		
+		SEC FILE NUMBER:	005-53047
+		FILM NUMBER:		99570485
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2135 W MAPLE RD
+		CITY:			TROY
+		STATE:			MI
+		ZIP:			48084-7186
+		BUSINESS PHONE:		2484351000
+
+	MAIL ADDRESS:	
+		STREET 1:		2135 WEST MAPLE ROAD
+		CITY:			TROY
+		STATE:			MI
+		ZIP:			48084-7186
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	111 HOLDINGS INC
+		DATE OF NAME CHANGE:	19970609
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WELLS FARGO & CO/MN
+		CENTRAL INDEX KEY:			0000072971
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		IRS NUMBER:				410449260
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		420 MONTGOMERY STREET
+		STREET 2:		SIXTH & MARQUETTE
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94163
+		BUSINESS PHONE:		6126671234
+
+	MAIL ADDRESS:	
+		STREET 1:		NORWEST CENTER
+		STREET 2:		SIXTH & MARQUETTE
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55479
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NORWEST CORP
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NORTHWEST BANCORPORATION
+		DATE OF NAME CHANGE:	19830516
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<TEXT>
+
+
+
+
+
+
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C.  20549
+
+SCHEDULE 13G
+
+Under the Securities Exchange Act of 1934
+
+Meritor Automotive, Inc.
+(Name of Issuer)
+
+Common Stock
+(Title of Class of Securities)
+
+59000G100
+(CUSIP Number)
+
+
+
+Check the appropriate box to designate the rule pursuant to which this 
+Schedule is filed:
+
+     [X] Rule 13d-1(b)
+     [ ] Rule 13d-1(c)
+     [ ] Rule 13d-1(d)
+
+*The remainder of this cover page shall be filled out for a reporting 
+person's initial filing on this form with respect to the subject class 
+of securities, and for any subsequent amendment containing information 
+which would alter the disclosures provided in a prior cover page.
+
+The information required in the remainder of this cover page shall not 
+be deemed to be "filed" for the purpose of Section 18 of the Securities 
+Exchange Act of 1934 ("Act") or otherwise subject to the liabilities of 
+that section of the Act but shall be subject to all other provisions of 
+the Act (however, see the Notes).
+
+
+                                   13G
+
+CUSIP NO. 59000G100
+
+
+1)        NAME OF REPORTING PERSON
+          S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+            Wells Fargo & Company (formerly known as Norwest
+            Corporation)*
+ 
+2)        CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*    (a)  [ ]
+                                                               (b)  [ ]
+3)        SEC USE ONLY
+
+4)        CITIZENSHIP OR PLACE OF ORGANIZATION
+
+            Delaware
+
+NUMBER OF          (5)  SOLE VOTING POWER
+SHARES                    16,126
+BENEFICIALLY       (6)  SHARED VOTING POWER
+OWNED BY                  11,026,337
+EACH               (7)  SOLE DISPOSITIVE POWER
+REPORTING                 4,117
+PERSON             (8)  SHARED DISPOSITIVE POWER
+WITH                      11,038,247
+
+9)         AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+             11,042,596
+
+10)        CHECK IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN 
+           SHARES
+
+11)        PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+             16.0%
+
+12)        TYPE OF REPORTING PERSON
+
+             HC
+
+_____________
+* On November 2, 1998, Wells Fargo & Company merged into WFC Holdings 
+Corporation, a wholly-owned subsidiary of Norwest Corporation.  WFC 
+Holdings Corporation was the surviving company in the merger.  Immediately 
+after the merger, Norwest Corporation changed its name to Wells Fargo & 
+Company (Wells Fargo-post-merger).
+
+Wells Fargo-post-merger is filing this report on behalf of certain 
+of its subsidiaries, including Wells Fargo Bank, N.A.  This report 
+amends any previous reports filed by or on behalf of Wells Fargo 
+Bank, N.A.
+
+
+                                   13G
+
+CUSIP NO. 59000G100
+
+
+1)        NAME OF REPORTING PERSON
+          S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+
+            Wells Fargo Bank, N.A.*
+ 
+2)        CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*    (a)  [ ]
+                                                               (b)  [ ]
+3)        SEC USE ONLY
+
+4)        CITIZENSHIP OR PLACE OF ORGANIZATION
+
+            United States of America
+
+NUMBER OF          (5)  SOLE VOTING POWER
+SHARES                    11,511
+BENEFICIALLY       (6)  SHARED VOTING POWER
+OWNED BY                  11,026,337
+EACH               (7)  SOLE DISPOSITIVE POWER
+REPORTING                 0
+PERSON             (8)  SHARED DISPOSITIVE POWER
+WITH                      11,037,981
+
+9)         AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+             11,037,981
+
+10)        CHECK IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN 
+           SHARES
+
+11)        PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+             16.0%
+
+12)        TYPE OF REPORTING PERSON
+
+             BK
+_____________
+* On November 2, 1998, Wells Fargo & Company merged into WFC Holdings 
+Corporation, a wholly-owned subsidiary of Norwest Corporation.  WFC 
+Holdings Corporation was the surviving company in the merger.  Immediately 
+after the merger, Norwest Corporation changed its name to Wells Fargo & 
+Company (Wells Fargo-post-merger).
+
+Wells Fargo-post-merger is filing this report on behalf of certain 
+of its subsidiaries, including Wells Fargo Bank, N.A.  This report 
+amends any previous reports filed by or on behalf of Wells Fargo 
+Bank, N.A.
+
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C.  20549
+
+SCHEDULE 13G
+Under the Securities Exchange Act of 1934
+
+
+DISCLAIMER:  Information in this Schedule 13G is provided solely for 
+the purpose of complying with Sections 13(d) and 13(g) of the Act and 
+regulations promulgated thereunder, and is not to be construed as an 
+admission that Wells Fargo & Company or any of its subsidiaries is the 
+beneficial owner of the securities covered by this Schedule 13G for any 
+purpose whatsoever.
+
+Item 1(a)  Name of Issuer:
+
+           Meritor Automotive, Inc.
+
+Item 1(b)  Address of Issuer's Principal Executive Offices:
+
+           2135 West Maple Road
+           Troy, MI  48084-7186
+ 
+Item 2(a)  Name of Person Filing:
+
+           1.  Wells Fargo & Company
+           2.  Wells Fargo Bank, N.A. 
+
+Item 2(b)  Address of Principal Business Office:
+
+           1.  Wells Fargo & Company
+               420 Montgomery Street
+               San Francisco, CA  94104
+
+           2.  Wells Fargo Bank, N.A.
+               343 Sansome Street, 3rd Floor
+               San Francisco, California 94163
+               
+Item 2(c)  Citizenship:
+
+           1.  Wells Fargo & Company:  Delaware
+           2.  Wells Fargo Bank, N.A.:  United States
+
+Item 2(d)  Title of Class of Securities:
+
+           Common Stock
+
+Item 2(e)  CUSIP Number:
+
+           59000G100
+
+Item 3     The person filing is a:
+
+           1.  Wells Fargo & Company:  Parent Holding Company in
+               accordance with 240.13d-1(b)(1)(ii)(G)
+           2.  Wells Fargo Bank, N.A.:  Bank as defined in Section 
+               3(a)(6) of the Act
+
+Item 4     Ownership:
+
+           See Items 5-11 of each cover page
+
+Item 5     Ownership of Five Percent or Less of a Class:
+
+           If this statement is being filed to report the fact that as
+           of the date hereof the reporting persons have ceased to be
+           beneficial owners of more than five percent of the class of
+           securities, check the following [ ].
+
+Item 6     Ownership of More than Five Percent on Behalf of Another 
+           Person:
+
+           Not applicable. 
+
+Item 7     Identification and Classification of the Subsidiary Which 
+           Acquired the Security Being Reported on by the Parent
+           Holding Company:
+
+           See Attachment A
+
+Item 8     Identification and Classification of Members of the Group:
+
+           Not Applicable
+
+Item 9     Notice of Dissolution of Group:
+
+           Not Applicable
+
+
+Item 10    Certification:
+
+           By signing below, I certify that, to the best of my
+           knowledge and belief, the securities referred to above were
+           acquired in the ordinary course of business and were not
+           acquired for the purpose of and do not have the effect of
+           changing or influencing the control of the issuer of such
+           securities and were not acquired in connection with or as a
+           participant in any transaction having such purposes or
+           effect.
+
+Signature.
+
+After reasonable inquiry and to the best of my knowledge and belief, I 
+certify that the information set forth in this statement is true, 
+complete, and correct.
+
+Date:  March 22, 1999
+
+WELLS FARGO & COMPANY
+
+
+
+By:  /s/ Laurel A. Holschuh
+         Laurel A. Holschuh, Senior Vice President
+          and Secretary
+
+
+AGREEMENT
+
+
+The undersigned hereby agree that the statement on Schedule 13G to 
+which this Agreement is attached shall be filed by Wells Fargo & 
+Company on its own behalf and on behalf of Wells Fargo Bank, N.A.
+
+Dated:  March 22, 1999 
+
+WELLS FARGO & COMPANY
+
+
+
+By:  /s/ Laurel A. Holschuh
+         Laurel A. Holschuh, Senior Vice President
+          and Secretary
+
+WELLS FARGO BANK, N.A.
+
+
+
+By:  /s/ Theodore N. Monohon
+         Theodore N. Monohon
+          Vice President
+
+
+
+
+
+ATTACHMENT A
+
+The Schedule 13G to which this attachment is appended is filed by Wells 
+Fargo & Company on behalf of the following subsidiaries:
+
+	Wells Fargo Bank, N.A.(1)
+	Norwest Bank Arizona, N.A(1)
+	Norwest Bank Colorado, N.A.(1)
+	Norwest Bank Indiana, N.A.(1)
+	Norwest Bank Iowa, N.A.(1)
+	Norwest Bank Minnesota, N.A.(1)
+	Norwest Bank Minnesota North, N.A.(1)
+	Norwest Bank Montana, N.A.(1)
+	Norwest Bank Nebraska, N.A.(1)
+	Norwest Bank Wisconsin, N.A.(1)
+
+
+__________________
+
+(1)	Classified as a bank in accordance with Regulation 13d-
+1(b)(1)(ii)(B).
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

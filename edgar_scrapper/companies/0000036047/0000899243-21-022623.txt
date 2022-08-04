@@ -1,0 +1,175 @@
+<SEC-DOCUMENT>0000899243-21-022623.txt : 20210608
+<SEC-HEADER>0000899243-21-022623.hdr.sgml : 20210608
+<ACCEPTANCE-DATETIME>20210608192651
+ACCESSION NUMBER:		0000899243-21-022623
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20210604
+FILED AS OF DATE:		20210608
+DATE AS OF CHANGE:		20210608
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Henry Francis Aaron
+		CENTRAL INDEX KEY:			0001553910
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-13585
+		FILM NUMBER:		211003557
+
+	MAIL ADDRESS:	
+		STREET 1:		2828 NORTH HARWOOD STREET
+		STREET 2:		15TH FLOOR
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75201
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CORELOGIC, INC.
+		CENTRAL INDEX KEY:			0000036047
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		IRS NUMBER:				951068610
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		40 PACIFICA
+		STREET 2:		SUITE 900
+		CITY:			IRVINE
+		STATE:			CA
+		ZIP:			92618
+		BUSINESS PHONE:		(949) 214-1000
+
+	MAIL ADDRESS:	
+		STREET 1:		40 PACIFICA
+		STREET 2:		SUITE 900
+		CITY:			IRVINE
+		STATE:			CA
+		ZIP:			92618
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FIRST AMERICAN CORP
+		DATE OF NAME CHANGE:	20020628
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FIRST AMERICAN FINANCIAL CORP
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FIRST AMERICAN TITLE INSURANCE & TRUST C
+		DATE OF NAME CHANGE:	19690515
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-06-04</periodOfReport>
+
+    <notSubjectToSection16>1</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000036047</issuerCik>
+        <issuerName>CORELOGIC, INC.</issuerName>
+        <issuerTradingSymbol>CLGX</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001553910</rptOwnerCik>
+            <rptOwnerName>Henry Francis Aaron</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>CORELOGIC, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>40 PACIFICA, SUITE 900</rptOwnerStreet2>
+            <rptOwnerCity>IRVINE</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>92618</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>CLO &amp; Corporate Secretary</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2021-06-04</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>42369.994</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>80.00</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Includes (i) 161.153 shares acquired under the CoreLogic, (&quot;CoreLogic&quot;) employee stock purchase plan on March 31, 2021, (ii) 7,623.211 restricted stock units of CoreLogic subject to time-based vesting (&quot;RSUs&quot;), and (iii) 20,972.731 performance-based restricted stock units of CoreLogic subject to both time-based and performance-based vesting (&quot;PSUs&quot;).  Each RSU and PSU is settled by the delivery of the underlying shares of CoreLogic common stock.</footnote>
+        <footnote id="F2">On June 4, 2021, pursuant to that certain Agreement and Plan of Merger (the &quot;Merger Agreement&quot;), dated February 4, 2021, by and among CoreLogic, Celestial-Saturn Parent Inc., a Delaware corporation (&quot;Parent&quot;), and Celestial-Saturn Acquisition Sub Inc., a Delaware corporation (&quot;Acquisition Sub&quot;), Acquisition Sub merged with and into CoreLogic, with CoreLogic surviving as a wholly owned subsidiary of Parent (the &quot;Merger&quot;).  Pursuant to the Merger Agreement and by virtue of the Merger, in which each issued and outstanding share of CoreLogic common stock, par value $0.00001 per share, was converted into the right to receive $80 in cash, without interest (the &quot;Merger Consideration&quot;): (i) each RSU that was outstanding immediately prior to the effective time of the Merger automatically vested (if unvested) and was cancelled and converted into the right to receive an amount in cash, without interest, equal to the product of</footnote>
+        <footnote id="F3">(Continued from Footnote 2) (A) the total number of shares of CoreLogic common stock underlying such RSU (including any shares of CoreLogic common stock in respect of dividend equivalent units credited thereon) (or, for RSUs granted in 2021, a prorated number of shares of CoreLogic common stock based on the period elapsed prior to the effective time of the Merger) multiplied by (B) the Merger Consideration; and (ii) each PSU that was outstanding immediately prior to the effective time of the Merger automatically vested (if unvested) and was cancelled and converted into the right to receive an amount in cash, without interest, equal to the product of</footnote>
+        <footnote id="F4">(Continued from Footnote 3) (A) the number of shares of CoreLogic common stock underlying such PSU (including any shares of CoreLogic common stock in respect of dividend equivalent units credited thereon) with performance measured in accordance with the terms of the applicable governing documents, as determined by the board of directors of CoreLogic or a committee thereof after consultation with Parent prior to the effective time of the Merger (or, for PSUs granted in 2021, a prorated number of shares of CoreLogic common stock based on the period elapsed prior to the effective time of the Merger and measured at the target level of performance) multiplied by (B) the Merger Consideration.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Jan S. Morris, attorney-in-fact</signatureName>
+        <signatureDate>2021-06-08</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

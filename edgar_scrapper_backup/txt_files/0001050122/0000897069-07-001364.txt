@@ -1,0 +1,1018 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ N5rwTNQUZRFqNHzaY6yB0OVUKBYclHGm0g6xzBj4zoUWTTJZgAZaHOfqZV3xfXbw
+ 99DQT9PnT6ixXoIvR35fow==
+
+<SEC-DOCUMENT>0000897069-07-001364.txt : 20070611
+<SEC-HEADER>0000897069-07-001364.hdr.sgml : 20070611
+<ACCEPTANCE-DATETIME>20070611151053
+ACCESSION NUMBER:		0000897069-07-001364
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20070611
+DATE AS OF CHANGE:		20070611
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			1 800 CONTACTS INC
+		CENTRAL INDEX KEY:			0001050122
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-CATALOG & MAIL-ORDER HOUSES [5961]
+		IRS NUMBER:				870571643
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-54695
+		FILM NUMBER:		07912239
+
+	BUSINESS ADDRESS:	
+		STREET 1:		66 E. WADSWORTH PARK DR
+		CITY:			DRAPER
+		STATE:			UT
+		ZIP:			84020
+		BUSINESS PHONE:		801-316-5000
+
+	MAIL ADDRESS:	
+		STREET 1:		66 E. WADSWORTH PARK DR
+		CITY:			DRAPER
+		STATE:			UT
+		ZIP:			84020
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			YACKTMAN FAMILY TRUST
+		CENTRAL INDEX KEY:			0001071922
+		STATE OF INCORPORATION:			SD
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O 9 CITICORP SOUTH DAKOTA
+		STREET 2:		701 EAST 60TH STREET NORTH
+		CITY:			SIOUX FALLS
+		STATE:			SD
+		ZIP:			57117
+		BUSINESS PHONE:		6053737851
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O 9 CITICORP SOUTH DAKOTA
+		STREET 2:		701 EAST 60TH STREET NORTH
+		CITY:			SIOUX FALLS
+		STATE:			SD
+		ZIP:			57117
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<FILENAME>tse85.htm
+<DESCRIPTION>D. A. YACKTMAN, C/O YACKTMAN ASSET MGMT. CO.
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Right" FSL="Default" -->
+<P ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OMB APPROVAL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </U><br>
+OMB Number: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3235-0145<br>
+Expires:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; February 28, 2009<br>
+Estimated average burden&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+Hours per response . . . . 14.5 </FONT>
+</P>
+
+
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Project" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>UNITED STATES
+<BR>SECURITIES AND EXCHANGE COMMISSION  <BR>Washington, D.C. 20549  </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Project" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=3>SCHEDULE 13D</FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Under the Securities Exchange
+Act of 1934 <br> (Amendment No. 6)*</B> </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><U><B>1-800 CONTACTS, INC. </B></U><BR>(Name of Issuer) </FONT> </P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><U><B>Common Stock, par value
+$0.01 per share </B></U><BR>(Title of Class of Securities) </FONT> </P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><U><B>681977104</B></U><BR>(CUSIP Number) </FONT> </P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Donald A. Yacktman
+<BR>c/o Yacktman Asset Management Co. <BR>6300 Bridgepoint Parkway
+<BR>Building 1, Suite 320
+<BR>Austin, TX 78730
+<BR><U>(512) 767-6710</U></B><BR>(Name, Address
+and Telephone Number of Person <BR>Authorized to Receive Notices and Communications) </FONT> </P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><U><B>May 31, 2007</B></U><BR>(Date of Event which
+Requires Filing of this Statement) </FONT> </P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>If the filing person has previously filed
+a statement on Schedule 13G to report the acquisition that is the subject of this
+Schedule 13D, and is filing this schedule because of Sections 240.13d-1(e), 240.13d-1(f) or 240.13d-1(g),
+check the following box [&nbsp;&nbsp;&nbsp;]. </FONT></P>
+
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Note:  Schedules  filed in paper
+ format  shall  include a signed  original and five copies of the schedule, including all
+exhibits.   See Section 240.13d-7 for other parties to whom copies are to be sent. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Hang Lv 0-TNR" FSL="Workstation" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>*  </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>The
+ remainder  of this cover page shall be filled out for a reporting  person&#146;s  initial
+ filing on this form with respect to          the subject class of  securities,  and for
+any  subsequent  amendment  containing  information  which would alter  disclosures
+         provided in a prior cover page.</FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>The  information  required on the
+ remainder  of this cover page shall not be deemed to be &#147;filed&#148; for the purpose of
+Section 18 of the Securities  Exchange  Act of 1934 (&#147; Act&#148;) or otherwise  subject to the
+ liabilities  of that section of the Act but shall be subject to all other provisions of
+the Act (however, see the Notes). </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 3-TNR" FSL="Workstation" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=15%>&nbsp;</TD>
+<TD WIDTH=85%>
+<FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Persons
+who respond to the collection of information contained in this form are not<br> required to
+respond unless the form displays a currently valid OMB control number.</B> </FONT> </TD>
+</TR>
+</TABLE>
+<BR>
+
+
+
+
+<!-- MARKER PAGE="sheet: 1; page: 1" -->
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=Bottom>
+     <TD WIDTH=55% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CUSIP No. 681977104</FONT></TD>
+     <TD WIDTH=45% ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Page 2 of 9 Pages&nbsp;</FONT></TD></TR>
+</TABLE>
+<BR><BR>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" ALIGN="CENTER" WIDTH="760">
+<TR VALIGN=Bottom>
+     <TH ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TH>
+     <TH ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TH>
+     <TH ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TH>
+     <TH ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TH>
+     <TH ALIGN="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT> </TH>
+</TR>
+<TR VALIGN=Bottom>
+     <TD WIDTH="10%" ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT><HR SIZE="3" ALIGN="Center" COLOR="Black"></TD>
+     <TD WIDTH="10%" ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT><HR SIZE="3" ALIGN="Center" COLOR="Black"></TD>
+     <TD WIDTH="10%" ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT><HR SIZE="3" ALIGN="Center" COLOR="Black"></TD>
+     <TD WIDTH="60%" ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT><HR SIZE="3" ALIGN="Center" COLOR="Black"></TD>
+     <TD WIDTH="10%" ALIGN="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT><HR SIZE="3" ALIGN="Center" COLOR="Black"></TD>
+</TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>1</B><BR><BR><BR><BR> </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="90%"></TD>
+     <TD COLSPAN="4"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>NAME OF REPORTING PERSONS<BR>
+I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)<BR>
+&nbsp;<BR><BR>
+<B>Yacktman Family Trust</B></FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD></TR>
+
+<TR VALIGN=Bottom>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>2<BR><BR><BR></B> </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="90%"></TD>
+     <TD COLSPAN="3"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP (SEE INSTRUCTIONS)<BR><BR><BR></FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD>
+     <TD ALIGN="Right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(a)&nbsp;&nbsp;&nbsp;[&nbsp;&nbsp;]<BR>(b)&nbsp;&nbsp;&nbsp;[X]
+</FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD></TR>
+
+<TR VALIGN=Bottom>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>3</B><BR><BR> </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="90%"></TD>
+     <TD COLSPAN="4"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SEC USE ONLY<BR><BR></FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD></TR>
+
+<TR VALIGN=Bottom>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>4</B><BR><BR> </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="90%"></TD>
+     <TD COLSPAN="4"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SOURCE OF FUNDS <BR><BR><B>OO (Assets of the Trust)</B></FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD></TR>
+
+<TR VALIGN=top>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>5</B><BR><BR>&nbsp; </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="90%"></TD>
+     <TD COLSPAN="3"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT TO <BR>ITEMS 2(d) OR 2(e)<BR>&nbsp;</FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD>
+     <TD ALIGN="Right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">[&nbsp;&nbsp;]<BR><BR>&nbsp;</FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD></TR>
+
+<TR VALIGN=Bottom>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>6</B><BR><BR><BR> </FONT></TD>
+     <TD COLSPAN="4"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CITIZENSHIP OR PLACE OF ORGANIZATION<BR><BR><B>South Dakota</B> </FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD COLSPAN="2"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="90%"></TD>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="90%"></TD>
+     <TD COLSPAN="4"><FONT FACE="Times New Roman, Times, Serif" SIZE=2> </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD></TR>
+<TR VALIGN=Bottom>
+     <TD COLSPAN="2" ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>NUMBER OF<BR><BR>SHARES</B> </FONT></TD>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>7</B><BR><BR><BR> </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="90%"></TD>
+     <TD COLSPAN="2"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">SOLE VOTING POWER<BR><BR><B>440,000</B> </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD>
+</TR>
+<TR VALIGN=Bottom>
+     <TD COLSPAN="2" ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>BENEFICIALLY<BR><BR>OWNED</B> </FONT></TD>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>8</B><BR><BR><BR> </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="90%"></TD>
+     <TD COLSPAN="2"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SHARED VOTING POWER<BR><BR><B>0</B></FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD>
+</TR>
+<TR VALIGN=Bottom>
+     <TD COLSPAN="2" ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>BY EACH<BR><BR>REPORTING</B> </FONT></TD>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>9</B><BR><BR><BR> </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="90%"></TD>
+     <TD COLSPAN="2"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SOLE DISPOSITIVE POWER<BR><BR><B>440,000</B></FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD>
+</TR>
+<TR VALIGN=Bottom>
+     <TD COLSPAN="2" ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>PERSON WITH:</B><BR><BR> </FONT></TD>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>10</B><BR><BR><BR> </FONT></TD>
+     <TD COLSPAN="2"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SHARED DISPOSITIVE POWER<BR><BR><B>0</B></FONT></TD>
+</TR>
+<TR VALIGN=Bottom>
+     <TD COLSPAN="2"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="90%"></TD>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="90%"></TD>
+     <TD COLSPAN="4"><FONT FACE="Times New Roman, Times, Serif" SIZE=2> </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD></TR>
+
+<TR VALIGN=Bottom>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>11</B><BR><BR><BR> </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="90%"></TD>
+     <TD COLSPAN="4"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON<BR><BR>
+<B>440,000</B> </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>12</B>&nbsp;&nbsp;<BR><BR><BR> </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="90%"></TD>
+     <TD COLSPAN="3"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CHECK IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES (SEE INSTRUCTIONS)<BR><BR>
+<B>&nbsp;</B> </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD>
+     <TD ALIGN="Right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">[&nbsp;&nbsp;]<BR><BR><BR></FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD>
+</TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>13</B>&nbsp;&nbsp;<BR><BR><BR> </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="90%"></TD>
+     <TD COLSPAN="4"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)<BR><BR>
+<B>3.1%</B></FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>14</B>&nbsp;&nbsp;<BR><BR><BR> </FONT><HR SIZE="3" ALIGN="Center" COLOR="Black"></TD>
+     <TD COLSPAN="4"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>TYPE OF REPORTING PERSON <BR><BR>
+<B>OO (Trust)</B></FONT><HR SIZE="3" ALIGN="Center" COLOR="Black"></TD></TR>
+</TABLE>
+<BR>
+
+
+
+<!-- MARKER PAGE="sheet: 39; page: 39" -->
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=Bottom>
+     <TD WIDTH=55% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CUSIP No. 681977104</FONT></TD>
+     <TD WIDTH=45% ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Page 3 of 9 Pages&nbsp;&nbsp;&nbsp;</FONT></TD></TR>
+</TABLE>
+<BR>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" ALIGN="CENTER" WIDTH="760">
+<TR VALIGN=Bottom>
+     <TH ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TH>
+     <TH ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TH>
+     <TH ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TH>
+     <TH ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TH>
+     <TH ALIGN="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT> </TH>
+</TR>
+<TR VALIGN=Bottom>
+     <TD WIDTH="10%" ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT><HR SIZE="3" ALIGN="Center" COLOR="Black"></TD>
+     <TD WIDTH="10%" ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT><HR SIZE="3" ALIGN="Center" COLOR="Black"></TD>
+     <TD WIDTH="10%" ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT><HR SIZE="3" ALIGN="Center" COLOR="Black"></TD>
+     <TD WIDTH="60%" ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT><HR SIZE="3" ALIGN="Center" COLOR="Black"></TD>
+     <TD WIDTH="10%" ALIGN="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT><HR SIZE="3" ALIGN="Center" COLOR="Black"></TD>
+</TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>1</B><BR><BR><BR><BR> </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="90%"></TD>
+     <TD COLSPAN="4"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>NAMES OF REPORTING PERSONS<BR>
+I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)&nbsp;<BR><BR>
+<B>Carolyn Z. Yacktman</B></FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD></TR>
+
+<TR VALIGN=Bottom>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>2<BR><BR><BR></B> </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="90%"></TD>
+     <TD COLSPAN="3"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP (SEE INSTRUCTIONS)<BR><BR><BR></FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD>
+     <TD ALIGN="Right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(a)&nbsp;&nbsp;&nbsp;[&nbsp;&nbsp;]<BR>(b)&nbsp;&nbsp;&nbsp;[X]
+</FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD></TR>
+
+<TR VALIGN=Bottom>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>3</B><BR><BR> </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="90%"></TD>
+     <TD COLSPAN="4"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SEC USE ONLY<BR><BR></FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD></TR>
+
+<TR VALIGN=Bottom>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>4</B><BR><BR> </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="90%"></TD>
+     <TD COLSPAN="4"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SOURCE OF FUNDS (SEE INSTRUCTIONS) <BR><BR><B>PF and OO (Assets of the Trust)</B></FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD></TR>
+
+<TR VALIGN=top>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>5</B><BR><BR>&nbsp; </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="90%"></TD>
+     <TD COLSPAN="3"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT TO <BR>ITEMS 2(d) OR 2(e)<BR>&nbsp;</FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD>
+     <TD ALIGN="Right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">[&nbsp;&nbsp;]<BR><BR>&nbsp;</FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD></TR>
+
+<TR VALIGN=Bottom>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>6</B><BR><BR><BR> </FONT></TD>
+     <TD COLSPAN="4"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CITIZENSHIP OR PLACE OF ORGANIZATION<BR><BR><B>United States</B> </FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD COLSPAN="2"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="90%"></TD>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="90%"></TD>
+     <TD COLSPAN="4"><FONT FACE="Times New Roman, Times, Serif" SIZE=2> </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD></TR>
+<TR VALIGN=Bottom>
+     <TD COLSPAN="2" ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>NUMBER OF<BR><BR>SHARES</B> </FONT></TD>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>7</B><BR><BR><BR> </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="90%"></TD>
+     <TD COLSPAN="2"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">SOLE VOTING POWER<BR><BR><B>450,000</B> </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD>
+</TR>
+<TR VALIGN=Bottom>
+     <TD COLSPAN="2" ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>BENEFICIALLY<BR><BR>OWNED</B> </FONT></TD>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>8</B><BR><BR><BR> </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="90%"></TD>
+     <TD COLSPAN="2"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SHARED VOTING POWER<BR><BR><B>0</B></FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD>
+</TR>
+<TR VALIGN=Bottom>
+     <TD COLSPAN="2" ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>BY EACH<BR><BR>REPORTING</B> </FONT></TD>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>9</B><BR><BR><BR> </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="90%"></TD>
+     <TD COLSPAN="2"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SOLE DISPOSITIVE POWER<BR><BR><B>450,000</B></FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD>
+</TR>
+<TR VALIGN=Bottom>
+     <TD COLSPAN="2" ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>PERSON WITH:</B><BR><BR> </FONT></TD>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>10</B><BR><BR><BR> </FONT></TD>
+     <TD COLSPAN="2"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SHARED DISPOSITIVE POWER<BR><BR><B>0</B></FONT></TD>
+</TR>
+<TR VALIGN=Bottom>
+     <TD COLSPAN="2"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="90%"></TD>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="90%"></TD>
+     <TD COLSPAN="4"><FONT FACE="Times New Roman, Times, Serif" SIZE=2> </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD></TR>
+
+<TR VALIGN=Bottom>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>11</B><BR><BR><BR> </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="90%"></TD>
+     <TD COLSPAN="4"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON<BR><BR>
+<B>450,000</B> </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>12</B>&nbsp;&nbsp;<BR><BR><BR> </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="90%"></TD>
+     <TD COLSPAN="3"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CHECK IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES (SEE INSTRUCTIONS)<BR><BR>
+<B>&nbsp;</B> </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD>
+     <TD ALIGN="Right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">[&nbsp;&nbsp;]<BR><BR><BR></FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD>
+</TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>13</B>&nbsp;&nbsp;<BR><BR><BR> </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="90%"></TD>
+     <TD COLSPAN="4"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)<BR><BR>
+<B>3.2%</B></FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>14</B>&nbsp;&nbsp;<BR><BR><BR> </FONT><HR SIZE="3" ALIGN="Center" COLOR="Black"></TD>
+     <TD COLSPAN="4"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>TYPE OF REPORTING PERSON <BR><BR>
+<B>IN</B></FONT><HR SIZE="3" ALIGN="Center" COLOR="Black"></TD></TR>
+</TABLE>
+<BR>
+
+
+
+<!-- MARKER PAGE="sheet: 39; page: 39" -->
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=Bottom>
+     <TD WIDTH=55% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CUSIP No. 681977104</FONT></TD>
+     <TD WIDTH=45% ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Page 4 of 9 Pages&nbsp;&nbsp;&nbsp;</FONT></TD></TR>
+</TABLE>
+<BR>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" ALIGN="CENTER" WIDTH="760">
+<TR VALIGN=Bottom>
+     <TH ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TH>
+     <TH ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TH>
+     <TH ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TH>
+     <TH ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TH>
+     <TH ALIGN="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT> </TH>
+</TR>
+<TR VALIGN=Bottom>
+     <TD WIDTH="10%" ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT><HR SIZE="3" ALIGN="Center" COLOR="Black"></TD>
+     <TD WIDTH="10%" ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT><HR SIZE="3" ALIGN="Center" COLOR="Black"></TD>
+     <TD WIDTH="10%" ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT><HR SIZE="3" ALIGN="Center" COLOR="Black"></TD>
+     <TD WIDTH="60%" ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT><HR SIZE="3" ALIGN="Center" COLOR="Black"></TD>
+     <TD WIDTH="10%" ALIGN="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT><HR SIZE="3" ALIGN="Center" COLOR="Black"></TD>
+</TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>1</B><BR><BR><BR><BR> </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="90%"></TD>
+     <TD COLSPAN="4"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>NAME OF REPORTING PERSONS<BR>
+I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)<BR><BR>
+<B>Donald A. Yacktman</B></FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD></TR>
+
+<TR VALIGN=Bottom>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>2<BR><BR><BR></B> </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="90%"></TD>
+     <TD COLSPAN="3"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP (SEE INSTRUCTIONS) <BR><BR><BR></FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD>
+     <TD ALIGN="Right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(a)&nbsp;&nbsp;&nbsp;[&nbsp;&nbsp;]<BR>(b)&nbsp;&nbsp;&nbsp;[X]
+</FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD></TR>
+
+<TR VALIGN=Bottom>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>3</B><BR><BR> </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="90%"></TD>
+     <TD COLSPAN="4"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SEC USE ONLY<BR><BR></FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD></TR>
+
+<TR VALIGN=Bottom>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>4</B><BR><BR> </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="90%"></TD>
+     <TD COLSPAN="4"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SOURCE OF FUNDS <BR><BR><B>PF and OO (Assets of the Trust)</B></FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD></TR>
+
+<TR VALIGN=top>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>5</B><BR><BR>&nbsp; </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="90%"></TD>
+     <TD COLSPAN="3"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CHECK BOX IF DISCLOSURE OF LEGAL PROCEEDINGS IS REQUIRED PURSUANT TO <BR>ITEMS 2(d) OR 2(e)<BR>&nbsp;</FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD>
+     <TD ALIGN="Right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">[&nbsp;&nbsp;]<BR><BR>&nbsp;</FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD></TR>
+
+<TR VALIGN=Bottom>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>6</B><BR><BR><BR> </FONT></TD>
+     <TD COLSPAN="4"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CITIZENSHIP OR PLACE OF ORGANIZATION<BR><BR><B>United States</B> </FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD COLSPAN="2"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="90%"></TD>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="90%"></TD>
+     <TD COLSPAN="4"><FONT FACE="Times New Roman, Times, Serif" SIZE=2> </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD></TR>
+<TR VALIGN=Bottom>
+     <TD COLSPAN="2" ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>NUMBER OF<BR><BR>SHARES</B> </FONT></TD>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>7</B><BR><BR><BR> </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="90%"></TD>
+     <TD COLSPAN="2"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">SOLE VOTING POWER<BR><BR><B>228,000</B> </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD>
+</TR>
+<TR VALIGN=Bottom>
+     <TD COLSPAN="2" ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>BENEFICIALLY<BR><BR>OWNED</B> </FONT></TD>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>8</B><BR><BR><BR> </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="90%"></TD>
+     <TD COLSPAN="2"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SHARED VOTING POWER<BR><BR><B>450,000</B></FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD>
+</TR>
+<TR VALIGN=Bottom>
+     <TD COLSPAN="2" ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>BY EACH<BR><BR>REPORTING</B> </FONT></TD>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>9</B><BR><BR><BR> </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="90%"></TD>
+     <TD COLSPAN="2"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SOLE DISPOSITIVE POWER<BR><BR><B>228,000</B></FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD>
+</TR>
+<TR VALIGN=Bottom>
+     <TD COLSPAN="2" ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>PERSON WITH:</B><BR><BR> </FONT></TD>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>10</B><BR><BR><BR> </FONT></TD>
+     <TD COLSPAN="2"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SHARED DISPOSITIVE POWER<BR><BR><B>450,000</B></FONT></TD>
+</TR>
+<TR VALIGN=Bottom>
+     <TD COLSPAN="2"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="90%"></TD>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="90%"></TD>
+     <TD COLSPAN="4"><FONT FACE="Times New Roman, Times, Serif" SIZE=2> </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD></TR>
+
+<TR VALIGN=Bottom>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>11</B><BR><BR><BR> </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="90%"></TD>
+     <TD COLSPAN="4"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON<BR><BR>
+<B>678,000</B> </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>12</B>&nbsp;&nbsp;<BR><BR><BR> </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="90%"></TD>
+     <TD COLSPAN="3"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CHECK IF THE AGGREGATE AMOUNT IN ROW (11) EXCLUDES CERTAIN SHARES (SEE INSTRUCTIONS) <BR><BR>
+<B>&nbsp;</B> </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD>
+     <TD ALIGN="Right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">[&nbsp;&nbsp;]<BR><BR><BR></FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD>
+</TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>13</B>&nbsp;&nbsp;<BR><BR><BR> </FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="90%"></TD>
+     <TD COLSPAN="4"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (11)<BR><BR>
+<B>4.8%</B></FONT><HR SIZE="1" ALIGN="Left" COLOR="Black" WIDTH="100%"></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>14</B>&nbsp;&nbsp;<BR><BR><BR> </FONT><HR SIZE="3" ALIGN="Center" COLOR="Black"></TD>
+     <TD COLSPAN="4"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>TYPE OF REPORTING PERSON <BR><BR>
+<B>IN</B></FONT><HR SIZE="3" ALIGN="Center" COLOR="Black"></TD></TR>
+</TABLE>
+<BR>
+
+
+
+<!-- MARKER PAGE="sheet: 39; page: 39" -->
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=Bottom>
+     <TD WIDTH=55% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CUSIP No. 681977104</FONT></TD>
+     <TD WIDTH=45% ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Page 5 of 9 Pages&nbsp;&nbsp;&nbsp;</FONT></TD></TR>
+</TABLE>
+<BR>
+
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This
+Amendment No. 6 to the undersigned&#146;s Schedule 13D, which was originally filed on
+October 13, 1998 and amended on October 13, 1998, April 1, 2002, February&nbsp;12, 2004,
+July 19, 2006 and December 8, 2006 (the &#147;Schedule 13D&#148;) with regard to
+1-800&nbsp;CONTACTS, INC., a Delaware corporation (the &#147;Issuer&#148;), is being filed
+to amend Items 2 through&nbsp;5 and Item&nbsp;7 of the Schedule 13D. Except as expressly
+stated herein, there have been no material changes in the information set forth in the
+Schedule 13D. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Workstation" -->
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Item 2. &nbsp;&nbsp;&nbsp;&nbsp;Identity and
+Background. </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)     &#150; (c),
+(f) This Amendment No.&nbsp;6 to the Schedule 13D (this           &#147;Statement&#148;)
+is being jointly filed by each of the following persons           pursuant to Rule
+13d-1(k) promulgated by the Securities and Exchange Commission           (the &#147;Commission&#148;)
+pursuant to Section 13 of the Securities Exchange           Act of 1934, as amended (the
+&#147;Exchange Act&#148;): (i)&nbsp;Yacktman Family           Trust, a trust created
+under the laws of the State of South Dakota (the           &#147;Trust&#148;), by virtue
+of its direct beneficial ownership of 440,000           shares of the Issuer&#146;s
+Common Stock, par value $.01 per share (the           &#147;Common Stock&#148;); (ii)&nbsp;Carolyn
+Z. Yacktman, by virtue of Mrs.           Yacktman being the spouse of Donald A. Yacktman,
+her serving as a trustee of the           Trust and having the sole power to vote and
+dispose of the shares held by the           Trust, and her indirect beneficial ownership
+of 10,000 shares of Common Stock in           her capacity as custodian for her dependent
+son; and (iii)&nbsp;Donald A.           Yacktman, by virtue of being the spouse of
+Carolyn Z. Yacktman, his direct           beneficial ownership of 220,000 shares of
+Common Stock and 8,000 shares of           Common Stock in his capacity as trustee of the
+Eugenia Aronold Trust, dated           July&nbsp;29, 1997 (the &#147;Aronold Trust&#148;).
+Attached as <B><U>Exhibit           A</U></B><U></U> hereto, which is incorporated by
+reference herein, is an           agreement among the Trust, Carolyn&nbsp;Z. Yacktman and
+Donald A. Yacktman that           provides that this Statement is filed on behalf of each
+of them. The Trust and           Mrs. and Mr. Yacktman are sometimes collectively
+referred to herein as the           &#147;Reporting Persons.&#148; The filing of this
+Statement shall not be           construed as an admission by Mr. Yacktman that he is,
+for the purpose of Section           13(d) or 13(g) of the Exchange Act or otherwise, the
+beneficial owner of any of           the shares of Common Stock beneficially owned by the
+Trust or Mrs. Yacktman. The           filing of this Statement shall not be construed as
+an admission by Mrs. Yacktman           that she is, for the purpose of Section 13(d) or
+13(g) of the Exchange Act or           otherwise, the beneficial owner of any of the
+shares of Common Stock           beneficially owned by Mr. Yacktman.  </FONT></P>
+
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+Trust was formed under the laws of the State of South Dakota and its address is c/o
+Citicorp Trust South Dakota, 701 East 60th Street North, Sioux Falls, South Dakota 57117.
+Carolyn Z. Yacktman, Russell Wilkins and Citicorp Trust-South Dakota serve as trustees
+under the Trust. Mr. Wilkins is a citizen of the United States with his principal business
+address at 6300 Bridgepoint Parkway, Building 1, Suite 320, Austin, TX 78730. Citicorp
+Trust-South Dakota is a corporation incorporated under the laws of the State of South
+Dakota with its principal business address at 701 East 60th Street North, Sioux Falls,
+South Dakota 57117. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Carolyn
+Z. Yacktman is a citizen of the United States with her principal residence at 9026 Atwater
+Cove, Austin, TX 78733. Mrs. Yacktman is not employed. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Donald
+A. Yacktman is a citizen of the United States with his principal business address at 6300
+Bridgepoint Parkway, Building 1, Suite 320, Austin, TX 78730. Mr. Yacktman is the
+President and Chief Investment Officer of Yacktman Asset Management Co., which is an
+investment advisor registered under Section 203 of the Investment Advisors Act of 1940. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Information
+with respect to each of the Reporting Persons is given solely by such Reporting Person,
+and no Reporting Person assumes responsibility for the accuracy or completeness of
+information given by another Reporting Person. By their signature on this Statement, each
+of the Reporting Persons agrees that this Statement is filed on behalf of such Reporting
+Person. </FONT></P>
+
+
+
+<!-- MARKER PAGE="sheet: 39; page: 39" -->
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=Bottom>
+     <TD WIDTH=55% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CUSIP No. 681977104</FONT></TD>
+     <TD WIDTH=45% ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Page 6 of 9 Pages&nbsp;&nbsp;&nbsp;</FONT></TD></TR>
+</TABLE>
+<BR>
+
+
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+Reporting Persons may be deemed to constitute a &#147;group&#148; for purposes of Section
+13(d)(3) of the Exchange Act. The Reporting Persons expressly disclaim that they have
+agreed to act as a group other than as described in this Statement. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Workstation" -->
+     <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          During the past five years, none of the Reporting Persons has been convicted in
+          a criminal proceeding (excluding traffic violations or similar misdemeanors). </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Workstation" -->
+     <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;(e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          During the past five years, none of the Reporting Persons was a party to a civil
+          proceeding of a judicial or administrative body of competent jurisdiction as a
+          result of which such person was or is subject to a judgment, decree or final
+          order enjoining future violations of, or prohibiting or mandating activity
+          subject to, federal or state securities laws or finding any violation with
+          respect to such laws. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Workstation" -->
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Item 3.&nbsp;&nbsp;&nbsp;&nbsp; Source and
+Amount of Funds or Other Consideration. </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All
+securities reported as beneficially owned by the Trust on this Statement were purchased by
+the Trust using assets of the Trust. Mrs. Yacktman used personal funds to purchase the
+10,000 shares of Common Stock held by her as custodian for her dependent son. Mr. Yacktman
+used personal funds to purchase the 220,000 shares of Common Stock individually owned by
+him. Mr. Yacktman used assets of the Aronold Trust to purchase the 8,000 shares of Common
+Stock held in the Aronold Trust. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Workstation" -->
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Item 4. &nbsp;&nbsp;&nbsp;&nbsp;Purpose of
+Transaction. </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Each
+of the Reporting Persons has acquired the shares of Common Stock beneficially owned by it,
+him or her for investment purposes and may acquire additional shares, or dispose of some
+or all of the shares of Common Stock, from time to time, depending upon price and market
+conditions, evaluation of alternative investments and other factors. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Workstation" -->
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Item 5.&nbsp;&nbsp;&nbsp;&nbsp; Interest in
+Securities of the Issuer. </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Hang LV 1-TNR" FSL="Workstation" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(a) </FONT></TD>
+<TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>As
+of May 31, 2007, each of the Reporting Persons named in Item 2 beneficially
+          owned the aggregate number and percentage of the shares of Common Stock set
+          forth below:  </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+
+
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 ALIGN=Center WIDTH=600>
+<TR VALIGN=Bottom>
+     <TH><FONT FACE="Times New Roman" SIZE=2>Reporting Person</FONT><HR WIDTH=95% SIZE=1 COLOR=BLACK NOSHADE></TH>
+     <TH><FONT FACE="Times New Roman" SIZE=2>No. of Shares</FONT><HR WIDTH=95% SIZE=1 COLOR=BLACK NOSHADE></TH>
+     <TH><FONT FACE="Times New Roman" SIZE=2>Percent of Class</FONT><HR WIDTH=95% SIZE=1 COLOR=BLACK NOSHADE></TH></TR>
+<TR VALIGN=Bottom>
+     <TD WIDTH=40% ALIGN=LEFT><FONT FACE="Times New Roman" SIZE=2><BR>Yacktman Family Trust</FONT></TD>
+     <TD WIDTH=30% ALIGN=CENTER><FONT FACE="Times New Roman" SIZE=2>440,000&nbsp;</FONT></TD>
+     <TD WIDTH=30% ALIGN=CENTER><FONT FACE="Times New Roman" SIZE=2>3.1%</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman" SIZE=2><BR>Carolyn Z. Yacktman</FONT></TD>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman" SIZE=2>450,000&nbsp;</FONT></TD>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman" SIZE=2>3.2%</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman" SIZE=2><BR>Donald A. Yacktman</FONT></TD>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman" SIZE=2>678,000&nbsp;</FONT></TD>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman" SIZE=2>4.8%</FONT></TD></TR>
+</TABLE>
+<BR><BR>
+
+
+<!-- MARKER FORMAT-SHEET="Para (List) Hang LV 1-TNR" FSL="Workstation" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(b) </FONT></TD>
+<TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>The
+Trust has sole power to vote or to direct the vote of 440,000 shares of           Common
+Stock and the sole power to dispose or to direct the disposition of           440,000
+shares of Common Stock.  </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 2-TNR" FSL="Workstation" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=10%>&nbsp;</TD>
+<TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+Carolyn
+Z. Yacktman, in her capacity as a trustee of the Trust, has the sole power to vote or to
+direct the vote of 440,000 shares of Common Stock and the sole power to dispose or to
+direct the disposition of 440,000 shares of Common Stock. In addition, Mrs. Yacktman, in
+her capacity as custodian for her dependent son, has the sole power to vote or to direct
+the vote of 10,000 shares of Common Stock and the sole power to dispose or to direct the
+disposition of 10,000 shares of Common Stock.  </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+
+<!-- MARKER PAGE="sheet: 39; page: 39" -->
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=Bottom>
+     <TD WIDTH=55% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CUSIP No. 681977104</FONT></TD>
+     <TD WIDTH=45% ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Page 7 of 9 Pages&nbsp;&nbsp;&nbsp;</FONT></TD></TR>
+</TABLE>
+<BR>
+
+
+
+
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 2-TNR" FSL="Workstation" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=10%>&nbsp;</TD>
+<TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+Donald
+A. Yacktman has sole power to vote or to direct the vote of 220,000 shares of Common
+Stock and the sole power to dispose or to direct the disposition of 220,000 shares of
+Common Stock. In addition, Mr. Yacktman, in his capacity as trustee of the Aronold Trust,
+has the sole power to vote or to direct the vote of 8,000 shares of Common Stock and the
+sole power to dispose or to direct the disposition of 8,000 shares of Common Stock. By
+virtue of his relationship with Carolyn Z. Yacktman, Mr. Yacktman may be deemed to share
+voting and dispositive power with respect to the 440,000 shares of Common Stock held by
+the Trust and the 10,000 shares of Common Stock held by her as custodian of her dependent
+son. The filing of this Statement shall not be construed as an admission by Mr. Yacktman
+that he is, for the purpose of Section 13(d) or 13(g) of the Exchange Act or otherwise,
+the beneficial owner of any of the shares of Common Stock beneficially owned by Mrs.
+Yacktman.  </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Hang LV 1-TNR" FSL="Workstation" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(c) </FONT></TD>
+<TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>During
+the 60 day period ended as of the date hereof, the Reporting Persons have
+          disposed of shares of Common Stock as follows:  </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 ALIGN=Center WIDTH=760>
+<TR VALIGN=Bottom>
+     <TH><FONT FACE="Times New Roman" SIZE=2>Reporting Person</FONT><HR WIDTH=95% SIZE=1 COLOR=BLACK NOSHADE></TH>
+     <TH WIDTH="18%" ALIGN="CENTER"><FONT FACE="Times New Roman" SIZE=2>Date</FONT><HR WIDTH=95% SIZE=1 COLOR=BLACK NOSHADE></TH>
+     <TH><FONT FACE="Times New Roman" SIZE=2>No. of Shares</FONT><HR WIDTH=95% SIZE=1 COLOR=BLACK NOSHADE></TH>
+     <TH><FONT FACE="Times New Roman" SIZE=2>Price Per Share</FONT><HR WIDTH=95% SIZE=1 COLOR=BLACK NOSHADE></TH>
+     <TH><FONT FACE="Times New Roman" SIZE=2>Type of Transaction</FONT><HR WIDTH=95% SIZE=1 COLOR=BLACK NOSHADE></TH></TR>
+<TR VALIGN=Bottom>
+     <TD WIDTH=50% ALIGN=LEFT><FONT FACE="Times New Roman" SIZE=2><BR>Yacktman Family Trust and<BR>Carolyn Z. Yacktman, as trustee</FONT></TD>
+     <TD WIDTH="18%" ALIGN="CENTER"><FONT FACE="Times New Roman" SIZE=2>04/10/2007</FONT></TD>
+     <TD WIDTH=12% ALIGN=RIGHT><FONT FACE="Times New Roman" SIZE=2>10,000&nbsp;</FONT></TD>
+     <TD WIDTH=15% ALIGN=RIGHT><FONT FACE="Times New Roman" SIZE=2>$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;18.0431</FONT></TD>
+     <TD WIDTH=5% ALIGN=RIGHT><FONT FACE="Times New Roman" SIZE=2>Sale</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="CENTER" WIDTH="18%"><FONT FACE="Times New Roman" SIZE=2>05/21/2007</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman" SIZE=2>12,743&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman" SIZE=2>$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;18.0374</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman" SIZE=2>Sale</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="CENTER" WIDTH="18%"><FONT FACE="Times New Roman" SIZE=2>05/22/2007</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman" SIZE=2>10,000&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman" SIZE=2>$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;18.7240</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman" SIZE=2>Sale</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="CENTER" WIDTH="18%"><FONT FACE="Times New Roman" SIZE=2>05/29/2007</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman" SIZE=2>10,000&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman" SIZE=2>$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;19.1101</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman" SIZE=2>Sale</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="CENTER" WIDTH="18%"><FONT FACE="Times New Roman" SIZE=2>05/30/2007</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman" SIZE=2>100&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman" SIZE=2>$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20.0300</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman" SIZE=2>Sale</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="CENTER" WIDTH="18%"><FONT FACE="Times New Roman" SIZE=2>05/31/2007</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman" SIZE=2>9,900&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman" SIZE=2>$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;19.7415</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman" SIZE=2>Sale</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman" SIZE=2><br>Donald A. Yacktman</FONT></TD>
+     <TD ALIGN="CENTER" WIDTH="18%"><FONT FACE="Times New Roman" SIZE=2>05/30/2007</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman" SIZE=2>10,000&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman" SIZE=2>N/A&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman" SIZE=2>Gift</FONT></TD></TR>
+</TABLE>
+<BR>
+
+
+<!-- MARKER FORMAT-SHEET="Para (List) Hang LV 1-TNR" FSL="Workstation" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(d) </FONT></TD>
+<TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>No
+person other than the Reporting Persons has the right to receive or the power
+          to direct the receipt of dividends from or the proceeds from the sale of the
+          Common Stock owned beneficially by any of the Reporting Persons.  </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Hang LV 1-TNR" FSL="Workstation" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(e) </FONT></TD>
+<TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>On
+May 26, 2006, the Yacktman Family Trust and Carolyn Z. Yacktman ceased to be
+          the beneficial owner of more than five percent of the Issuer&#146;s Common
+          Stock. On May 31, 2007, Donald A. Yacktman ceased to be the beneficial owner of
+          more than five percent of the Issuer&#146;s Common Stock.  </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All
+such ownership percentages of the shares of Common Stock reported herein are based upon
+14,009,591 shares of Common Stock outstanding as of May 3, 2007, as disclosed in the
+Issuer&#146;s Quarterly Report on Form 10-Q filed with the Commission on May 10, 2007 for
+the fiscal quarter ended March 31, 2007. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Default" -->
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Item 7. &nbsp;&nbsp;&nbsp;&nbsp;Materials to be
+Filed as Exhibits. </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Hang Lv 1-TNR" FSL="Workstation" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=2%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH=8%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>              Exhibit A:</FONT></TD>
+<TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+  Agreement of Joint Filing,  dated as of June 11, 2007, among the Trust, Carolyn
+                           Z. Yacktman and Donald A. Yacktman.</FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+
+<!-- MARKER PAGE="sheet: 39; page: 39" -->
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=Bottom>
+     <TD WIDTH=55% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CUSIP No. 681977104</FONT></TD>
+     <TD WIDTH=45% ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Page 8 of 9 Pages&nbsp;&nbsp;&nbsp;</FONT></TD></TR>
+</TABLE>
+<BR>
+
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center Bold" FSL="Default" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SIGNATURES</FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After
+reasonable inquiry and to the best of my knowledge and belief, I certify that the
+information set forth in this statement is true, complete and correct. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Default" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Date: &nbsp;&nbsp;June 11, 2007 </FONT></P>
+
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 ALIGN=Center WIDTH=100%>
+<TR VALIGN=Bottom>
+     <TH><FONT FACE="Times New Roman" SIZE=2></FONT></TH>
+     <TH><FONT FACE="Times New Roman" SIZE=2></FONT></TH></TR>
+<TR VALIGN=Bottom>
+     <TD WIDTH=50% ALIGN=LEFT><FONT FACE="Times New Roman" SIZE=2> &nbsp;</FONT></TD>
+     <TD WIDTH=50% ALIGN=LEFT><FONT FACE="Times New Roman" SIZE="2"><B>YACKTMAN FAMILY TRUST</B> </FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman" SIZE="2"><br><br>By: <U>/s/ Carolyn Z. Yacktman&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U> </FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Carolyn Z. Yacktman, Trustee</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman" SIZE="2"><br><br><U>/s/ Carolyn Z. Yacktman&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U> </FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Carolyn Z. Yacktman</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman" SIZE="2"><br><br><U>/s/ Donald A. Yacktman&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U> </FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Donald A. Yacktman</FONT></TD></TR>
+</TABLE>
+
+<br>
+
+
+<!-- MARKER PAGE="sheet: 39; page: 39" -->
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=Bottom>
+     <TD WIDTH=55% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CUSIP No. 681977104</FONT></TD>
+     <TD WIDTH=45% ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Page 9 of 9 Pages&nbsp;&nbsp;&nbsp;</FONT></TD></TR>
+</TABLE>
+<BR>
+
+
+
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center Bold" FSL="Default" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>EXHIBIT A </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center Bold" FSL="Default" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>JOINT FILING
+AGREEMENT </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>THIS
+JOINT FILING AGREEMENT </B>(this "Agreement") is dated as of June 11, 2007, by and among
+Donald A. Yacktman, Carolyn Z. Yacktman and the Yacktman Family Trust (the "Trust"). </FONT> </P>
+
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>WHEREAS,</B>
+in accordance with Rule 13d-1(k) of the Securities Exchange Act of 1934 (the
+&#147;Act&#148;), only one Schedule&nbsp;13D Statement (&#147;Statement&#148;) need be
+filed whenever two or more persons are required to file a Statement pursuant to Section
+13(d) of the Act with respect to the same securities, provided that said persons agree in
+writing that such statement is filed on behalf of each of them. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>NOW,
+THEREFORE,</B> in consideration of the premises and mutual agreements herein contained,
+the parties hereto agree as follows: </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Each
+of Mr. Yacktman, Mrs. Yacktman and the Trust does hereby agree, in accordance with Rule
+13d-1(k) under the Act, to file one Statement relating to their ownership of the Common
+Stock, par value $.01 per share, of 1-800 CONTACTS, INC., a Delaware corporation, and does
+hereby further agree that said Statement shall be filed on behalf of each of Mr. Yacktman,
+Mrs. Yacktman and the Trust. Nothing herein shall be deemed to be an admission that the
+parties hereto, or any of them, are members of a &#147;group&#148; (within the meaning of
+Section 13(d) of the Act and the rules promulgated thereunder) with respect to any
+securities of 1-800 CONTACTS, INC. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>IN
+WITNESS WHEREOF,</B> the parties have executed this Agreement as of the date first written
+above. </FONT></P>
+
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 ALIGN=Center WIDTH=100%>
+<TR VALIGN=Bottom>
+     <TH><FONT FACE="Times New Roman" SIZE=2></FONT></TH>
+     <TH><FONT FACE="Times New Roman" SIZE=2></FONT></TH></TR>
+<TR VALIGN=Bottom>
+     <TD WIDTH=50% ALIGN=LEFT><FONT FACE="Times New Roman" SIZE=2> &nbsp;</FONT></TD>
+     <TD WIDTH=50% ALIGN=LEFT><FONT FACE="Times New Roman" SIZE="2"><B>YACKTMAN FAMILY TRUST</B> </FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman" SIZE="2"><br><br>By: <U>/s/ Carolyn Z. Yacktman&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U> </FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Carolyn Z. Yacktman, Trustee</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman" SIZE="2"><br><br><U>/s/ Carolyn Z. Yacktman&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U> </FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Carolyn Z. Yacktman</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman" SIZE="2"><br><br><U>/s/ Donald A. Yacktman&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U> </FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Donald A. Yacktman</FONT></TD></TR>
+</TABLE>
+
+<br>
+<BR><BR>
+
+
+
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

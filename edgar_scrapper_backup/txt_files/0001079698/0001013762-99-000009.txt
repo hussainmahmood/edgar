@@ -1,0 +1,323 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ MK75UNQrmFSNne/6Nu2QMSo41sXCT9YO9oj8n2fKPeWZlpVEp70Uyaq/lLnpxoho
+ RD7dNytMceNkyU0U7VoESQ==
+
+<SEC-DOCUMENT>0001013762-99-000009.txt : 19990217
+<SEC-HEADER>0001013762-99-000009.hdr.sgml : 19990217
+ACCESSION NUMBER:		0001013762-99-000009
+CONFORMED SUBMISSION TYPE:	SC 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19990216
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ROSEDALE DECORATIVE PRODUCTS LTD
+		CENTRAL INDEX KEY:			0001051357
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-PAPER AND PAPER PRODUCTS [5110]
+		IRS NUMBER:				000000000
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+		SEC ACT:		
+		SEC FILE NUMBER:	005-55763
+		FILM NUMBER:		99541920
+
+	BUSINESS ADDRESS:	
+		STREET 1:		731 MILLWAY AVENUE
+		CITY:			CONCORD ONTARIO
+		STATE:			A6
+		BUSINESS PHONE:		4165934519
+
+	MAIL ADDRESS:	
+		STREET 1:		731 MILLWAY AVENUE
+		CITY:			CONCORD ONTARIO
+		STATE:			A6
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			1274152 ONTARIO INC
+		CENTRAL INDEX KEY:			0001079698
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROSEDALE DECORATIVE PRODUCTS
+		STREET 2:		731 MILLWAY AVENUE
+		CITY:			CONCORD ONTARIO CANA
+		STATE:			A6
+		ZIP:			00000000
+		BUSINESS PHONE:		4165934519
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<DESCRIPTION>C:\MYFILES\ROSEDALE\13G.1
+<TEXT>
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                  SCHEDULE 13G
+
+
+                                 (Rule 13d-102)
+
+
+             INFORMATION STATEMENT PURSUANT TO RULES 13d-1 AND 13d-2
+
+
+                    Under the Securities Exchange Act of 1934
+                          (Amendment No.____________)*
+
+
+                        Rosedale Decorative Products Ltd.
+              -----------------------------------------------------
+                                (Name of Issuer)
+
+                           Common Stock, no par value
+              -----------------------------------------------------
+                         (Title of Class of Securities)
+
+                                   777335 10 0
+              -----------------------------------------------------
+                                 (CUSIP Number)
+
+
+
+     Check the following box if a fee is being paid with this  statement [X]. (A
+fee is not required only if the filing person:  (1) has a previous  statement on
+file  reporting  beneficial  ownership of more than five percent of the class of
+securities  described  in Item 1;  and (2) has  filed  no  amendment  subsequent
+thereto reporting  beneficial  ownership of five percent or less of such class.)
+(See Rule 13d-7.)
+
+
+- ----------
+* The remainder of this cover page shall be filled out for a reporting  person's
+initial filing on this form with respect to the subject class of securities, and
+for any  subsequent  amendment  containing  information  which  would  alter the
+disclosures provided in a prior cover page.
+
+The information required in the remainder of this cover page shall not be deemed
+to be "filed" for the purpose of Section 18 of the  Securities  Exchange  Act of
+1934 ("Act") or otherwise  subject to the liabilities of that section of the Act
+but  shall be  subject  to all other  provisions  of the Act  (however,  see the
+Notes).
+
+
+
+
+<PAGE>
+CUSIP No. 777335 10 0                     13G                  Page 2 of 5 Pages
+- --------------------------------------------------------------------------------
+   1.  NAME OF REPORTING PERSON(S)
+       S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON(S)
+
+       1274152 Ontario, Inc.
+
+- --------------------------------------------------------------------------------
+   2.  CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*
+                                                             (a)  [  ]
+                                                             (b)  [  ]
+
+- --------------------------------------------------------------------------------
+   3.  SEC USE ONLY
+
+
+
+- --------------------------------------------------------------------------------
+   4.  CITIZENSHIP OR PLACE OF ORGANIZATION
+
+       Ontario, Canada
+
+- --------------------------------------------------------------------------------
+   NUMBER OF      5.   SOLE VOTING POWER
+     SHARES            426,500
+  BENEFICIALLY    --------------------------------------------------------------
+    OWNED BY      6.   SHARED VOTING POWER
+      EACH             0
+   REPORTING      --------------------------------------------------------------
+     PERSON       7.   SOLE DISPOSITIVE POWER
+      WITH             426,500
+                  --------------------------------------------------------------
+                  8.   SHARED DISPOSITIVE POWER
+                       0
+- --------------------------------------------------------------------------------
+   9.  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+       426,500
+
+- --------------------------------------------------------------------------------
+  10.  CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES*
+
+- --------------------------------------------------------------------------------
+  11.  PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+
+       Approximately 15.4%
+
+- --------------------------------------------------------------------------------
+  12.  TYPE OF REPORTING PERSON*
+
+       CO
+
+- --------------------------------------------------------------------------------
+                     *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+
+
+<PAGE>
+                                       13G                   Page 3 of 5 Pages
+
+
+Item 1.     (a)   Name of Issuer:
+
+                           Rosedale Decorative Products Ltd.
+                  --------------------------------------------------------------
+            (b)   Address of Issuer's Principal Executive Offices:
+
+                  Rosedale Decorative Products Ltd.,
+                  731 Millway Avenue, Concord, Ontario, Canada L4K 3S8
+                  --------------------------------------------------------------
+Item 2.     (a)   Name of Person Filing:
+
+                  1274152 Ontario, Inc.
+                  --------------------------------------------------------------
+            (b)   Address of Principal Business Office, or if None, Residence:
+
+                           Rosedale Decorative Products Ltd.,
+                  731 Millway Avenue, Concord, Ontario, Canada L4K 3S8
+                  --------------------------------------------------------------
+            (c)   Citizenship:
+
+                  United States
+                  --------------------------------------------------------------
+            (d) Title of Class of Securities:
+
+                  Common Stock, no par value
+                  --------------------------------------------------------------
+            (e) CUSIP Number:
+
+                  777335 10 0
+                  --------------------------------------------------------------
+Item        3. If this  statement  is  filed  pursuant  to  Rules  13d-1(b),  or
+            13d-2(b), check whether the person filing is a:
+
+            Not Applicable
+
+
+
+
+<PAGE>
+                                        13-G                   Page 4 of 5 Pages
+
+Item 4.     Ownership.
+
+            If more than five percent of the class is owned, indicate:
+
+            (a) Amount beneficially owned:  426,500
+                                          -------------------------------------,
+
+            (b) Percent of class:  15.4%
+                                 ----------------------------------------------,
+
+            (c)       1274152  Ontario,  Inc.  has the sole  power to vote or to
+                      direct  the  vote,  and the sole  power to  dispose  or to
+                      direct the disposition of 426,500 of the shares identified
+                      herein.
+
+Item 5.     Ownership of Five Percent or Less of a Class.
+
+            Not Applicable.
+
+Item 6.     Ownership of More Than Five Percent on Behalf of Another Person.
+
+            Not Applicable.
+
+Item 7.     Identification and Classification of the Subsidiary which Acquired
+            the Security Being Reported on By the Parent Holding Company.
+
+            Not Applicable.
+
+Item 8.     Identification and Classification of Members of the Group.
+
+            Not Applicable.
+
+Item 9.     Notice of Dissolution of Group.
+
+            Not Applicable.
+
+Item 10.    Certification.
+
+            By signing  below I certify  that,  to the best of my knowledge  and
+            belief,  the  securities  referred  to above  were  acquired  in the
+            ordinary course of business and were not acquired for the purpose of
+            and do not have the effect of changing or influencing the control of
+            the issuer of such  securities  and were not acquired in  connection
+            with or as a participant in any  transaction  having such purpose or
+            effect.
+
+
+
+
+
+<PAGE>
+                                   Signature.
+
+
+            After reasonable inquiry and to the best of my knowledge and belief,
+            I certify that the  information set forth in this statement is true,
+            complete and correct.
+
+
+February 11, 1999
+- ----------------------------------
+Date
+
+1274152 ONTARIO, INC.
+
+/s/ Sidney Ackerman
+- ----------------------------------
+Signature
+
+
+* Attention. Intentional misstatements or omissions of fact constitute federal
+  criminal violations (see 18 U.S.C. 1001).
+
+
+
+
+
+
+
+<PAGE>
+Schedule A
+
+1274152 Ontario Inc.
+
+Name                                        Percentage Ownership
+
+Sidney Ackerman                                      25.0% owner
+The Ackerman Family Trust                            25.0% owner
+454590 Ontario Limited                               25.0% owner
+Alan Fine                                            12.5% owner
+Rosalyn Fine                                         12.5% owner
+                                                     -----------
+                                                     100.0%
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

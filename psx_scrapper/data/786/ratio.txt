@@ -1,0 +1,11 @@
+Year,2012,2011,2010,2009
+Net Working Capital to Total Asseets,0.16,0.02,0.05,0.01
+Current Ratio,7.27,1.20,1.64,1.04
+Time Interest Earn,476.77,-20.00,0.45,-9.57
+Return on Capital Employed,0.01,-0.00,0.00,-0.60
+Payout,0.00,0.00,0.00,0.00
+Plow Back,100.00,100.00,100.00,100.00
+Return on Equity,0.54,0.24,-0.10,-66.87
+Return on Assets,0.52,0.23,-0.10,-52.00
+Book Value per Share,10.05,9.95,9.98,10.24
+Earning Per Share,0.05,-0.02,-0.01,-6.85

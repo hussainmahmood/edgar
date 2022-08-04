@@ -1,0 +1,168 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ VZw8564dfYX3c6gkQ9hjGojyte2K1vYOJjD+izn4Q9IgVTTBITa1JKX4cPCB8Af/
+ f1YulPqyiHlLP3A0o220kw==
+
+<SEC-DOCUMENT>0001193125-05-026705.txt : 20050211
+<SEC-HEADER>0001193125-05-026705.hdr.sgml : 20050211
+<ACCEPTANCE-DATETIME>20050211141005
+ACCESSION NUMBER:		0001193125-05-026705
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20041231
+FILED AS OF DATE:		20050211
+DATE AS OF CHANGE:		20050211
+EFFECTIVENESS DATE:		20050211
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PAMET CAPITAL MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001165407
+		IRS NUMBER:				043565803
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-10112
+		FILM NUMBER:		05597150
+
+	BUSINESS ADDRESS:	
+		STREET 1:		425 BOYLTON STREET
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+		BUSINESS PHONE:		6176466100
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>d13fhr.txt
+<DESCRIPTION>FORM 13F-HR
+<TEXT>
+<PAGE>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 13F
+
+                               FORM 13f Cover Page
+
+         Report for the Calendar Year or Quarter End: December 31, 2004
+
+                          Pamet Capital Management, LLC
+
+- --------------------------------------------------------------------------------
+Name of Institutional Investment Manager
+
+ 222 Berkeley Street, 22nd Floor                  Boston        MA       02116
+- --------------------------------------------------------------------------------
+      Business Address               (Street)     (City)     (State)     (Zip)
+
+13F File Number: 028-10112
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information herein is true, correct and complete, and
+that it is understood that all required items, statements, schedules, and
+tables, are considered integral parts of this form.
+
+Name, Title and Telephone Number of Person Submitting Report:
+
+  Jason Price               Chief Financial Officer              617-646-6100
+- --------------------------------------------------------------------------------
+    (Name)                         (Title)                          (Phone)
+
+Signature, Place and Date of Signing:
+
+Jason Price
+222 Berkeley Street, 22nd Floor, Boston, MA 02116
+2/11/2005
+
+Report Type:
+
+[X]     13F HOLDINGS REPORT.
+[ ]     13F NOTICE.
+[ ]     13F COMBINATION REPORT.
+
+                              FORM 13F SUMMARY PAGE
+
+Number of Other Included Managers:                 1
+List of Other Included Managers:         Abrams Capital, LLC
+
+Form 13F Information Table Entry Total:           27
+Form 13F Information Table Value Total:  691,138,000
+
+<PAGE>
+
+                UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 13F
+                                INFORMATION TABLE
+
+                          Pamet Capital Management, LLC
+
+                           FORM 13F INFORMATION TABLE
+                              AS OF DATE: 12/31/04
+
+<TABLE>
+<CAPTION>
+- ------------------------------------------------------------------------------------------------------------------------------------
+         ITEM 1                   ITEM 2        ITEM 3      ITEM 4          ITEM 5       ITEM 6      ITEM 7            ITEM 8
+- ------------------------------------------------------------------------------------------------------------------------------------
+                                                                                         INVSTMT                 VOTING AUTHORITY
+                                                            VALUE      SHARES/     PUT/  DSCRETN      OTHER    ---------------------
+     NAME OF ISSUER          TITLE OF CLASS     CUSIP      (x$1000)    PRN AMT     CALL   SOLE      MANAGERS*  SOLE   SHARED    NONE
+- ------------------------------------------------------------------------------------------------------------------------------------
+<S>                              <C>          <C>          <C>        <C>          <C>     <C>         <C>     <C>   <C>        <C>
+Allegheny Energy Inc                 COM      017361106      7,125      361,500            SOLE                        361,500
+Allegheny Energy Inc                 COM      017361106     98,907    5,018,100            SOLE        1             5,018,100
+Berkshire Hathaway Inc  Del         CL A      084670108      5,274           60            SOLE        1                    60
+Berkshire Hathaway Inc Del          CL B      084670207        863          294            SOLE                            294
+Berkshire Hathaway Inc Del          CL B      084670207      9,166        3,122            SOLE        1                 3,122
+Block H&R Inc                        COM      093671105      3,891       79,400            SOLE                         79,400
+Block H&R Inc                        COM      093671105     52,259    1,066,500            SOLE        1             1,066,500
+Citigroup Inc                      W EXP      172967127        350      246,340            SOLE                        246,340
+Citigroup Inc                      W EXP      172967127      5,213    3,670,936            SOLE        1             3,670,936
+Echostar Communications New         CL A      278762109     83,019    2,496,800            SOLE        1             2,496,800
+Erie Indty Co                       CL A      29530P102      3,075       58,500            SOLE                         58,500
+Erie Indty Co                       CL A      29530P102     42,928      816,592            SOLE        1               816,592
+Global Signal Inc                    COM      37944Q103     10,450      379,462            SOLE                        379,462
+Global Signal Inc                    COM      37944Q103    153,397    5,569,986            SOLE        1             5,569,986
+Intergraph Corp                      COM      458683109      2,141       79,486            SOLE                         79,486
+Intergraph Corp                      COM      458683109     34,824    1,293,133            SOLE        1             1,293,133
+Juno Ltg Inc                     COM NEW      482047206      1,445       34,400            SOLE                         34,400
+Juno Ltg Inc                     COM NEW      482047206     20,593      490,311            SOLE        1               490,311
+Morgan Stanley                   COM NEW      617446448      1,580       28,450            SOLE                         28,450
+Morgan Stanley                   COM NEW      617446448     22,699      408,850            SOLE        1               408,850
+</TABLE>
+
+<PAGE>
+
+<TABLE>
+<S>                                  <C>      <C>           <C>       <C>                  <C>         <C>           <C>
+Newcastle Invt Corp                  COM      65105M108        721       22,700            SOLE                         22,700
+Newcastle Invt Corp                  COM      65105M108     11,991      377,300            SOLE        1               377,300
+SLM Corp                             COM      78442P106      3,022       56,600            SOLE                         56,600
+SLM Corp                             COM      78442P106     41,164      771,000            SOLE        1               771,000
+Safety Ins Group Inc                 COM      78648T100      2,032       64,854            SOLE        1                64,854
+USA Mobility Inc                     COM      90341G103      4,722      133,743            SOLE                        133,743
+USA Mobility Inc                     COM      90341G103     68,287    1,933,932            SOLE        1             1,933,932
+</TABLE>
+
+* Where shares are reported for "Other Managers" designated in Item 7, all of
+the information provided is with respect to such manager.
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

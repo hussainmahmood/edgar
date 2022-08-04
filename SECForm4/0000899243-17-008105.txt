@@ -1,0 +1,920 @@
+<SEC-DOCUMENT>0000899243-17-008105.txt : 20170317
+<SEC-HEADER>0000899243-17-008105.hdr.sgml : 20170317
+<ACCEPTANCE-DATETIME>20170317194441
+ACCESSION NUMBER:		0000899243-17-008105
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20170315
+FILED AS OF DATE:		20170317
+DATE AS OF CHANGE:		20170317
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			SCHWARZMAN STEPHEN A
+		CENTRAL INDEX KEY:			0001070844
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36243
+		FILM NUMBER:		17699739
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O THE BLACKSTONE GROUP
+		STREET 2:		345 PARK AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Blackstone Group Management L.L.C.
+		CENTRAL INDEX KEY:			0001404071
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36243
+		FILM NUMBER:		17699741
+
+	BUSINESS ADDRESS:	
+		STREET 1:		345 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+		BUSINESS PHONE:		(212) 583-5000
+
+	MAIL ADDRESS:	
+		STREET 1:		345 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Blackstone Holdings III GP Management L.L.C.
+		CENTRAL INDEX KEY:			0001478815
+		STATE OF INCORPORATION:			DE
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36243
+		FILM NUMBER:		17699742
+
+	BUSINESS ADDRESS:	
+		STREET 1:		345 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+		BUSINESS PHONE:		212.583.5000
+
+	MAIL ADDRESS:	
+		STREET 1:		345 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Blackstone Holdings III L.P.
+		CENTRAL INDEX KEY:			0001404073
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36243
+		FILM NUMBER:		17699744
+
+	BUSINESS ADDRESS:	
+		STREET 1:		345 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+		BUSINESS PHONE:		(212) 583-5000
+
+	MAIL ADDRESS:	
+		STREET 1:		345 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Blackstone Management Associates V L.L.C.
+		CENTRAL INDEX KEY:			0001368609
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36243
+		FILM NUMBER:		17699746
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O THE BLACKSTONE GROUP
+		STREET 2:		345 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+		BUSINESS PHONE:		212-583-5000
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O THE BLACKSTONE GROUP
+		STREET 2:		345 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Blackstone Real Estate Associates VI L.P.
+		CENTRAL INDEX KEY:			0001587215
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36243
+		FILM NUMBER:		17699748
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O THE BLACKSTONE GROUP
+		STREET 2:		345 PARK AVE.
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+		BUSINESS PHONE:		212-583-5000
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O THE BLACKSTONE GROUP
+		STREET 2:		345 PARK AVE.
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BREA VI L.L.C.
+		CENTRAL INDEX KEY:			0001590150
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36243
+		FILM NUMBER:		17699747
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O THE BLACKSTONE GROUP
+		STREET 2:		345 PARK AVE.
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+		BUSINESS PHONE:		212-583-5000
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O THE BLACKSTONE GROUP
+		STREET 2:		345 PARK AVE.
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BMA V L.L.C.
+		CENTRAL INDEX KEY:			0001368608
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36243
+		FILM NUMBER:		17699745
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O THE BLACKSTONE GROUP
+		STREET 2:		345 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+		BUSINESS PHONE:		212-583-5000
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O THE BLACKSTONE GROUP
+		STREET 2:		345 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Blackstone Holdings III GP L.P.
+		CENTRAL INDEX KEY:			0001478809
+		STATE OF INCORPORATION:			DE
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36243
+		FILM NUMBER:		17699743
+
+	BUSINESS ADDRESS:	
+		STREET 1:		345 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+		BUSINESS PHONE:		212.583.5000
+
+	MAIL ADDRESS:	
+		STREET 1:		345 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Blackstone Group L.P.
+		CENTRAL INDEX KEY:			0001393818
+		STANDARD INDUSTRIAL CLASSIFICATION:	INVESTMENT ADVICE [6282]
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36243
+		FILM NUMBER:		17699740
+
+	BUSINESS ADDRESS:	
+		STREET 1:		345 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+		BUSINESS PHONE:		(212) 583-5000
+
+	MAIL ADDRESS:	
+		STREET 1:		345 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Hilton Worldwide Holdings Inc.
+		CENTRAL INDEX KEY:			0001585689
+		STANDARD INDUSTRIAL CLASSIFICATION:	HOTELS & MOTELS [7011]
+		IRS NUMBER:				274384691
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7930 JONES BRANCH DRIVE, SUITE 1100
+		CITY:			MCLEAN
+		STATE:			VA
+		ZIP:			22102
+		BUSINESS PHONE:		703-883-1000
+
+	MAIL ADDRESS:	
+		STREET 1:		7930 JONES BRANCH DRIVE, SUITE 1100
+		CITY:			MCLEAN
+		STATE:			VA
+		ZIP:			22102
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2017-03-15</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001585689</issuerCik>
+        <issuerName>Hilton Worldwide Holdings Inc.</issuerName>
+        <issuerTradingSymbol>HLT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001587215</rptOwnerCik>
+            <rptOwnerName>Blackstone Real Estate Associates VI L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O THE BLACKSTONE GROUP L.P.</rptOwnerStreet1>
+            <rptOwnerStreet2>345 PARK AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10154</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001590150</rptOwnerCik>
+            <rptOwnerName>BREA VI L.L.C.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O THE BLACKSTONE GROUP L.P.</rptOwnerStreet1>
+            <rptOwnerStreet2>345 PARK AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10154</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001368609</rptOwnerCik>
+            <rptOwnerName>Blackstone Management Associates V L.L.C.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O THE BLACKSTONE GROUP L.P.</rptOwnerStreet1>
+            <rptOwnerStreet2>345 PARK AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10154</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001368608</rptOwnerCik>
+            <rptOwnerName>BMA V L.L.C.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O THE BLACKSTONE GROUP L.P</rptOwnerStreet1>
+            <rptOwnerStreet2>345 PARK AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10154</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001404073</rptOwnerCik>
+            <rptOwnerName>Blackstone Holdings III L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O THE BLACKSTONE GROUP L.P.</rptOwnerStreet1>
+            <rptOwnerStreet2>345 PARK AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10154</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001478809</rptOwnerCik>
+            <rptOwnerName>Blackstone Holdings III GP L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O THE BLACKSTONE GROUP L.P.</rptOwnerStreet1>
+            <rptOwnerStreet2>345 PARK AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10154</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001478815</rptOwnerCik>
+            <rptOwnerName>Blackstone Holdings III GP Management L.L.C.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O THE BLACKSTONE GROUP L.P.</rptOwnerStreet1>
+            <rptOwnerStreet2>345 PARK AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10154</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001404071</rptOwnerCik>
+            <rptOwnerName>Blackstone Group Management L.L.C.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O THE BLACKSTONE GROUP L.P.</rptOwnerStreet1>
+            <rptOwnerStreet2>345 PARK AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10154</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001393818</rptOwnerCik>
+            <rptOwnerName>Blackstone Group L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>345 PARK AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10154</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001070844</rptOwnerCik>
+            <rptOwnerName>SCHWARZMAN STEPHEN A</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O THE BLACKSTONE GROUP L.P.</rptOwnerStreet1>
+            <rptOwnerStreet2>345 PARK AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10154</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2017-03-15</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>72421091</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>54.57</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>44002828</value>
+                    <footnoteId id="F13"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F4"/>
+                    <footnoteId id="F9"/>
+                    <footnoteId id="F10"/>
+                    <footnoteId id="F11"/>
+                    <footnoteId id="F12"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2017-03-15</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2496530</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>54.57</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1514096</value>
+                    <footnoteId id="F13"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F4"/>
+                    <footnoteId id="F9"/>
+                    <footnoteId id="F10"/>
+                    <footnoteId id="F11"/>
+                    <footnoteId id="F12"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2017-03-15</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>256021</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>54.57</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>152352</value>
+                    <footnoteId id="F13"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                    <footnoteId id="F9"/>
+                    <footnoteId id="F10"/>
+                    <footnoteId id="F11"/>
+                    <footnoteId id="F12"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2017-03-15</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>15067</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>54.57</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>8964</value>
+                    <footnoteId id="F13"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F5"/>
+                    <footnoteId id="F9"/>
+                    <footnoteId id="F10"/>
+                    <footnoteId id="F11"/>
+                    <footnoteId id="F12"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2017-03-15</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7268143</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>54.57</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4325050</value>
+                    <footnoteId id="F13"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F6"/>
+                    <footnoteId id="F9"/>
+                    <footnoteId id="F10"/>
+                    <footnoteId id="F11"/>
+                    <footnoteId id="F12"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2017-03-15</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>43148</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>54.57</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>25675</value>
+                    <footnoteId id="F13"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F7"/>
+                    <footnoteId id="F9"/>
+                    <footnoteId id="F10"/>
+                    <footnoteId id="F11"/>
+                    <footnoteId id="F12"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>14704</value>
+                    <footnoteId id="F13"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F8"/>
+                    <footnoteId id="F9"/>
+                    <footnoteId id="F10"/>
+                    <footnoteId id="F11"/>
+                    <footnoteId id="F12"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reflects securities held directly by HLT Holdco III LLC.  HLT Holdco III LLC is a wholly-owned subsidiary of HLT Holdco II LLC. HLT Holdco II LLC is a wholly-owned subsidiary of HLT Holdco LLC. HLT Holdco LLC is a wholly-owned subsidiary of BH Hotels Holdco LLC (&quot;BH Hotels&quot;).</footnote>
+        <footnote id="F2">Reflects securities held directly by HLT A23 Holdco LLC. The sole member of HLT A23 Holdco LLC is BH Hotels.</footnote>
+        <footnote id="F3">Reflects securities held directly by HLT BREH VI Holdco LLC.  The sole member of HLT BREH VI Holdco LLC is BH Hotels.</footnote>
+        <footnote id="F4">The managing members of BH Hotels are Blackstone Real Estate Partners VI L.P. and Blackstone Capital Partners V L.P. The general partner of Blackstone Capital Partners V L.P. is Blackstone Management Associates V L.L.C. The sole member of Blackstone Management Associates V L.L.C is BMA V L.L.C. The general partner of Blackstone Real Estate Partners VI L.P. is Blackstone Real Estate Associates VI L.P. The general partner of Blackstone Real Estate Associates VI L.P. is BREA VI L.L.C. The managing member of each of BREA VI L.L.C. and BMA V L.L.C. is Blackstone Holdings III L.P.</footnote>
+        <footnote id="F5">Reflects securities held directly by HLT A23 BREH VI Holdco LLC. The sole member of HLT A23 BREH VI Holdco LLC is HLT BREH VI-A Holdings Holdco LLC. The sole member of HLT BREH VI-A Holdings Holdco LLC is Blackstone Real Estate Holdings VI L.P. The general partner of Blackstone Real Estate Holdings VI L.P. is BREP VI Side-by-Side GP L.L.C. The sole member of BREP VI Side-by-Side GP L.L.C. is Blackstone Holdings III L.P.</footnote>
+        <footnote id="F6">Reflects securities held directly by HLT BREP VI.TE.2 Holdco LLC. The sole member of HLT BREP VI.TE.2 Holdco LLC is HLT BREP VI.TE.2 Holdings Holdco LLC. The sole member of HLT BREP VI.TE.2 Holdings Holdco LLC is Blackstone Real Estate Partners VI.TE.2 L.P. The general partner of Blackstone Real Estate Partners VI.TE.2 L.P. is Blackstone Real Estate Associates VI L.P. The general partner of Blackstone Real Estate Associates VI L.P. is BREA VI L.L.C. The managing member of BREA VI L.L.C. is Blackstone Holdings III L.P.</footnote>
+        <footnote id="F7">Reflects securities held directly by HLT BREH Intl II Holdco LLC. The sole member of HLT BREH Intl II Holdco LLC is HLT BREH Intl II Holdings Holdco LLC. The controlling member of HLT BREH Intl II Holdings Holdco LLC is Blackstone Real Estate Holdings International II-Q L.P. The general partner of Blackstone Real Estate Holdings International II-Q L.P. is BREP International II-Q GP L.P. The general partner of BREP International II-Q GP L.P. is BREP International II-Q GP L.L.C. The sole member of BREP International II-Q GP L.L.C. is Blackstone Holdings III L.P.</footnote>
+        <footnote id="F8">Reflects shares of Common Stock held directly by Stephen A. Schwarzman.</footnote>
+        <footnote id="F9">The general partner of Blackstone Holdings III L.P. is Blackstone Holdings III GP L.P. The general partner of Blackstone Holdings III GP L.P. is Blackstone Holdings III GP Management L.L.C. The sole member of Blackstone Holdings III GP Management L.L.C. is The Blackstone Group L.P. The general partner of The Blackstone Group L.P. is Blackstone Group Management L.L.C. Blackstone Group Management L.L.C. is wholly-owned by Blackstone's senior managing directors and controlled by its founder, Stephen A. Schwarzman.</footnote>
+        <footnote id="F10">Due to the limitations of the electronic filing system certain Reporting Persons are filing a separate Form 4.</footnote>
+        <footnote id="F11">Information with respect to each of the Reporting Persons is given solely by such Reporting Person, and no Reporting Person has responsibility for the accuracy or completeness of information supplied by another Reporting Person.</footnote>
+        <footnote id="F12">Each of the Reporting Persons (other than to the extent it directly holds securities reported herein) disclaims beneficial ownership of the securities held by the other Reporting Persons, except to the extent of such Reporting Person's pecuniary interest therein, and, pursuant to Rule 16a-1(a)(4) under the Securities Exchange Act of 1934, each of the Reporting Persons (other than to the extent it directly holds securities reported herein) states that the inclusion of these securities in this report shall not be deemed an admission of beneficial ownership of all of the reported securities for purposes of Section 16 or for any other purpose.</footnote>
+        <footnote id="F13">Reflects an adjustment in connection with the 1-for-3 reverse stock split of the Issuer's common stock effected on January 3, 2017.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>BLACKSTONE REAL ESTATE ASSOCIATES VI L.P., By: BREA VI L.L.C., its general partner, By: /s/ Paul Quinlan, Name: Paul Quinlan, Title: Managing Director</signatureName>
+        <signatureDate>2017-03-17</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>BREA VI L.L.C., By: /s/ Paul Quinlan, Name: Paul Quinlan, Title: Managing Director</signatureName>
+        <signatureDate>2017-03-17</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>BLACKSTONE MANAGEMENT ASSOCIATES V L.L.C., By: BMA V, L.L.C., its sole member, By: /s/ John G. Finley, Name: John G. Finley, Title: Chief Legal Officer</signatureName>
+        <signatureDate>2017-03-17</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>BMA V L.L.C., By: /s/ John G. Finley, Name: John G. Finley, Title: Chief Legal Officer</signatureName>
+        <signatureDate>2017-03-17</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>BLACKSTONE HOLDINGS III L.P., By: Blackstone Holdings III GP L.P., its general partner, By: Blackstone Holdings III GP Management L.L.C., its general partner, By: /s/ John G. Finley, Name: John G. Finley, Title: Chief Legal Officer</signatureName>
+        <signatureDate>2017-03-17</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>BLACKSTONE HOLDINGS III GP L.P., By: Blackstone Holdings III GP Management L.L.C., its general partner, By: /s/ John G. Finley, Name: John G. Finley, Title: Chief Legal Officer</signatureName>
+        <signatureDate>2017-03-17</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>BLACKSTONE HOLDINGS III GP MANAGEMENT L.L.C., By: /s/ John G. Finley, Name: John G. Finley, Title: Chief Legal Officer</signatureName>
+        <signatureDate>2017-03-17</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>THE BLACKSTONE GROUP L.P., By: Blackstone Group Management L.L.C., its general partner, By: /s/ John G. Finley, Name: John G. Finley, Title: Chief Legal Officer</signatureName>
+        <signatureDate>2017-03-17</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>BLACKSTONE GROUP MANAGEMENT L.L.C., By: /s/ John G. Finley, Name: John G. Finley, Title: Chief Legal Officer</signatureName>
+        <signatureDate>2017-03-17</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>/s/ Stephen A. Schwarzman</signatureName>
+        <signatureDate>2017-03-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

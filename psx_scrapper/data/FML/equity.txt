@@ -1,0 +1,4 @@
+Year,2020,2019
+Cash Dividend,"881,714,000","2,392,686,000"
+Annual Dividend per Share,2.34,6.35
+Perferred Dividend,0,0

@@ -1,0 +1,429 @@
+<SEC-DOCUMENT>0000921895-21-002138.txt : 20210817
+<SEC-HEADER>0000921895-21-002138.hdr.sgml : 20210817
+<ACCEPTANCE-DATETIME>20210817180715
+ACCESSION NUMBER:		0000921895-21-002138
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20210813
+FILED AS OF DATE:		20210817
+DATE AS OF CHANGE:		20210817
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Myrexis, Inc.
+		CENTRAL INDEX KEY:			0001459450
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-12957
+		FILM NUMBER:		211184403
+
+	BUSINESS ADDRESS:	
+		STREET 1:		600 FIFTH AVENUE, 2ND FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10020
+		BUSINESS PHONE:		801-214-7800
+
+	MAIL ADDRESS:	
+		STREET 1:		600 FIFTH AVENUE, 2ND FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10020
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	Myriad Pharmaceuticals, Inc.
+		DATE OF NAME CHANGE:	20090324
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			COUCHMAN JONATHAN
+		CENTRAL INDEX KEY:			0001265094
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-12957
+		FILM NUMBER:		211184406
+
+	MAIL ADDRESS:	
+		STREET 1:		630 FIFTH AVENUE
+		STREET 2:		SUITE 2260
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10020
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Couchman Family Fund
+		CENTRAL INDEX KEY:			0001737322
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-12957
+		FILM NUMBER:		211184405
+
+	BUSINESS ADDRESS:	
+		STREET 1:		630 FIFTH AVENUE, SUITE 2260
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10020
+		BUSINESS PHONE:		(212) 729-4962
+
+	MAIL ADDRESS:	
+		STREET 1:		630 FIFTH AVENUE, SUITE 2260
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10020
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Xstelos Corp.
+		CENTRAL INDEX KEY:			0001571659
+		STATE OF INCORPORATION:			DE
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-12957
+		FILM NUMBER:		211184404
+
+	BUSINESS ADDRESS:	
+		STREET 1:		630 FIFTH AVENUE
+		STREET 2:		SUITE 2260
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10020
+		BUSINESS PHONE:		212.729.4962
+
+	MAIL ADDRESS:	
+		STREET 1:		630 FIFTH AVENUE
+		STREET 2:		SUITE 2260
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10020
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ENZON PHARMACEUTICALS, INC.
+		CENTRAL INDEX KEY:			0000727510
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		IRS NUMBER:				222372868
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		20 COMMERCE DRIVE, SUITE 135
+		CITY:			CRANFORD
+		STATE:			NJ
+		ZIP:			07016
+		BUSINESS PHONE:		732-980-4500
+
+	MAIL ADDRESS:	
+		STREET 1:		20 COMMERCE DRIVE, SUITE 135
+		CITY:			CRANFORD
+		STATE:			NJ
+		ZIP:			07016
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ENZON PHARMACEUTICALS INC
+		DATE OF NAME CHANGE:	20060324
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ENZON PHARMACEUTICALS  INC
+		DATE OF NAME CHANGE:	20021211
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ENZON PHARMACEUTICAL  INC
+		DATE OF NAME CHANGE:	20021210
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form405735004_08172021.xml
+<DESCRIPTION>OWNERSHIP DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-08-13</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000727510</issuerCik>
+        <issuerName>ENZON PHARMACEUTICALS, INC.</issuerName>
+        <issuerTradingSymbol>ENZN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001265094</rptOwnerCik>
+            <rptOwnerName>COUCHMAN JONATHAN</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>600 FIFTH AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2>2ND FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10020</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001737322</rptOwnerCik>
+            <rptOwnerName>Couchman Family Fund</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>600 FIFTH AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2>2ND FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10020</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001571659</rptOwnerCik>
+            <rptOwnerName>Xstelos Corp.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>600 FIFTH AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2>2ND FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10020</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001459450</rptOwnerCik>
+            <rptOwnerName>Myrexis, Inc.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>600 FIFTH AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2>2ND FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10020</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, $0.01 par value</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4717666</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Jonathan Couchman</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, $0.01 par value</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2021-08-13</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>50000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.3898</value>
+                    <footnoteId id="F6"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>350000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Couchman Family Fund</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, $0.01 par value</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2021-08-13</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>57500</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.3898</value>
+                    <footnoteId id="F6"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2043024</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Xstelos Corp.</value>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, $0.01 par value</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>633264</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Myrexis, Inc.</value>
+                    <footnoteId id="F5"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This Form 4 is filed jointly by Jonathan Couchman (&quot;Mr. Couchman&quot;), Couchman Family Fund (the &quot;Foundation&quot;), Xstelos Corp. (&quot;Xstelos&quot;) and Myrexis, Inc. (&quot;Myrexis&quot;) (collectively, the &quot;Reporting Persons&quot;). Each of the Reporting Persons may be deemed to be a member of a Section 13(d) group that collectively owns more than 10% of the Issuer's outstanding shares of Common Stock (the &quot;Shares&quot;). Each of the Reporting Persons expressly disclaims beneficial ownership of the Shares reported herein except to the extent of his or its pecuniary interest therein, and this report shall not be deemed to be an admission that any Reporting Person is the beneficial owner of such Shares for purposes of Section 16 or for any other purpose.</footnote>
+        <footnote id="F2">Represents shares owned directly by Mr. Couchman. As the sole trustee of the Foundation, Mr. Couchman may be deemed to beneficially own the Shares owned by the Foundation. As the Chief Executive Officer of Xstelos, Mr. Couchman may be deemed to beneficially own the shares of Common Stock owned by Xstelos. As the Chief Executive Officer of Myrexis, Mr. Couchman may be deemed to beneficially own Shares of Common Stock owned by Myrexis.</footnote>
+        <footnote id="F3">Represents Shares owned directly by the Foundation. Mr. Couchman is the sole trustee of the Foundation. By virtue of this relationship, Mr. Couchman may be deemed to beneficially own the Shares owned directly by the Foundation, however he has no pecuniary interest in such Shares.</footnote>
+        <footnote id="F4">Represents Shares owned directly by Xstelos. Mr. Couchman is the controlling shareholder and Chief Executive Officer of Xstelos. By virtue of these relationships, Mr. Couchman may be deemed to beneficially own the Shares owned directly by Xstelos. Mr. Couchman expressly disclaims beneficial ownership of such Shares except to the extent of his pecuniary interest therein.</footnote>
+        <footnote id="F5">Represents Shares owned directly by Myrexis. Mr. Couchman is Chief Executive Officer of Myrexis. By virtue of this relationship, Mr. Couchman may be deemed to beneficially own the Shares owned directly by Myrexis. Mr. Couchman expressly disclaims beneficial ownership of such Shares except to the extent of his pecuniary interest therein.</footnote>
+        <footnote id="F6">The price reported in column 4 is a weighted average price. These shares were sold in multiple transactions and the reporting persons undertake to provide to the Issuer, any security holder of the Issuer or the staff of the Securities and Exchange Commision, upon request, full information regarding the number of shares purchased at each separate price.</footnote>
+    </footnotes>
+
+    <remarks>Effective September 17, 2020, Michael Pearce, Brian Harper and Harper Asset Management, LLC ceased to be members of the Section 13(d) group and ceased to be Reporting Persons.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Jonathan Couchman</signatureName>
+        <signatureDate>2021-08-17</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>Couchman Family Fund; By: /s/ Jonathan Couchman, Trustee</signatureName>
+        <signatureDate>2021-08-17</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>Xstelos Corp.; By: /s/ Jonathan Couchman, Chief Executive Officer</signatureName>
+        <signatureDate>2021-08-17</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>Myrexis, Inc.; By: /s/ Jonathan Couchman, Chief Executive Officer</signatureName>
+        <signatureDate>2021-08-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

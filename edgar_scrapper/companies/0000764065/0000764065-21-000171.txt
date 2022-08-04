@@ -1,0 +1,198 @@
+<SEC-DOCUMENT>0000764065-21-000171.txt : 20210611
+<SEC-HEADER>0000764065-21-000171.hdr.sgml : 20210611
+<ACCEPTANCE-DATETIME>20210611165844
+ACCESSION NUMBER:		0000764065-21-000171
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20210610
+FILED AS OF DATE:		20210611
+DATE AS OF CHANGE:		20210611
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BALDWIN JOHN T
+		CENTRAL INDEX KEY:			0001106143
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08944
+		FILM NUMBER:		211012046
+
+	MAIL ADDRESS:	
+		STREET 1:		200 PUBLIC SQUARE
+		STREET 2:		SUITE 3300
+		CITY:			CLEVELAND
+		STATE:			OH
+		ZIP:			44114
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CLEVELAND-CLIFFS INC.
+		CENTRAL INDEX KEY:			0000764065
+		STANDARD INDUSTRIAL CLASSIFICATION:	METAL MINING [1000]
+		IRS NUMBER:				341464672
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 PUBLIC SQUARE
+		STREET 2:		STE. 3300
+		CITY:			CLEVELAND
+		STATE:			OH
+		ZIP:			44114-2315
+		BUSINESS PHONE:		216-694-5700
+
+	MAIL ADDRESS:	
+		STREET 1:		200 PUBLIC SQUARE
+		STREET 2:		STE. 3300
+		CITY:			CLEVELAND
+		STATE:			OH
+		ZIP:			44114-2315
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CLIFFS NATURAL RESOURCES INC.
+		DATE OF NAME CHANGE:	20081015
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CLEVELAND CLIFFS INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wf-form4_162344510743597.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-06-10</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000764065</issuerCik>
+        <issuerName>CLEVELAND-CLIFFS INC.</issuerName>
+        <issuerTradingSymbol>CLF</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001106143</rptOwnerCik>
+            <rptOwnerName>BALDWIN JOHN T</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>200 PUBLIC SQUARE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 3300</rptOwnerStreet2>
+            <rptOwnerCity>CLEVELAND</rptOwnerCity>
+            <rptOwnerState>OH</rptOwnerState>
+            <rptOwnerZipCode>44114-2315</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2021-06-10</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>12800</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>23.383</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>120927</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2021-06-11</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7200</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>23.751</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>113727</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported in column four is a weighted average price. These shares were purchased in multiple transactions at prices ranging from $23.755 to $23.75, inclusive. The Reporting Person undertakes to provide the Issuer, any security holder of the Issuer or the Staff of the Securities and Exchange Commission, upon request, with full information regarding the number of shares purchased at each separate price within this range.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ James D. Graham by Power of Attorney</signatureName>
+        <signatureDate>2021-06-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

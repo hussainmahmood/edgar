@@ -1,0 +1,150 @@
+<SEC-DOCUMENT>0001493152-21-013086.txt : 20210527
+<SEC-HEADER>0001493152-21-013086.hdr.sgml : 20210527
+<ACCEPTANCE-DATETIME>20210527165417
+ACCESSION NUMBER:		0001493152-21-013086
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20210526
+FILED AS OF DATE:		20210527
+DATE AS OF CHANGE:		20210527
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BREWINGTON JAMES K
+		CENTRAL INDEX KEY:			0001230525
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-19882
+		FILM NUMBER:		21973712
+
+	MAIL ADDRESS:	
+		STREET 1:		600 MOUNTAIN AVE
+		CITY:			MURRAY HILL
+		STATE:			NJ
+		ZIP:			07974
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KOPIN CORP
+		CENTRAL INDEX KEY:			0000771266
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				042833935
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1225
+
+	BUSINESS ADDRESS:	
+		STREET 1:		125 NORTH DRIVE
+		CITY:			WESTBOROUGH
+		STATE:			MA
+		ZIP:			01581
+		BUSINESS PHONE:		508-870-5959
+
+	MAIL ADDRESS:	
+		STREET 1:		125 NORTH DRIVE
+		CITY:			WESTBOROUGH
+		STATE:			MA
+		ZIP:			01581
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-05-26</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000771266</issuerCik>
+        <issuerName>KOPIN CORP</issuerName>
+        <issuerTradingSymbol>KOPN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001230525</rptOwnerCik>
+            <rptOwnerName>BREWINGTON JAMES K</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O KOPIN CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>125 NORTH DRIVE</rptOwnerStreet2>
+            <rptOwnerCity>WESTBOROUGH</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>01581</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-06-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>100000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The equity award vests on the first anniversary of the date of grant (5/26/22).</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ John J. Concannon, as Attorney-in-fact</signatureName>
+        <signatureDate>2021-05-27</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

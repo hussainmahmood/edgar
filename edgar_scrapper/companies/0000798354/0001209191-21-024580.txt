@@ -1,0 +1,247 @@
+<SEC-DOCUMENT>0001209191-21-024580.txt : 20210402
+<SEC-HEADER>0001209191-21-024580.hdr.sgml : 20210402
+<ACCEPTANCE-DATETIME>20210402161954
+ACCESSION NUMBER:		0001209191-21-024580
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20210331
+FILED AS OF DATE:		20210402
+DATE AS OF CHANGE:		20210402
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			OLEARY DENIS
+		CENTRAL INDEX KEY:			0001253512
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38962
+		FILM NUMBER:		21802199
+
+	MAIL ADDRESS:	
+		STREET 1:		40 MORRIS LANE
+		CITY:			SCARSDALE
+		STATE:			NY
+		ZIP:			10583
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FISERV INC
+		CENTRAL INDEX KEY:			0000798354
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		IRS NUMBER:				391506125
+		STATE OF INCORPORATION:			WI
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		255 FISERV DR
+		STREET 2:		PO BOX 979
+		CITY:			BROOKFIELD
+		STATE:			WI
+		ZIP:			53045
+		BUSINESS PHONE:		4148795000
+
+	MAIL ADDRESS:	
+		STREET 1:		255 FISERV DRIVE
+		CITY:			BROOKFIELD
+		STATE:			WI
+		ZIP:			53045
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-03-31</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000798354</issuerCik>
+        <issuerName>FISERV INC</issuerName>
+        <issuerTradingSymbol>FISV</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001253512</rptOwnerCik>
+            <rptOwnerName>OLEARY DENIS</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>255 FISERV DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>BROOKFIELD</rptOwnerCity>
+            <rptOwnerState>WI</rptOwnerState>
+            <rptOwnerZipCode>53045</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Deferred Compensation Notional Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2021-03-31</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>406</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>119.04</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>406</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>38333</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These deferred compensation notional units were allocated under the Fiserv, Inc. Non-Employee Director Deferred Compensation Plan (the &quot;Plan&quot;), under which director fees otherwise payable in cash may be deferred in exchange for the allocation of notional units under the Plan. This Form 4 reports the crediting of units under the Plan on March 31, 2021 in respect of $48,250 of deferred compensation. The number of notional units credited is calculated by dividing the amount of compensation that is deferred by the closing price of the company's common stock on the date of deferral, or last business day prior. On March 31, 2021, the closing price of Fiserv's common stock was $119.04 per share. Following cessation of the reporting person's service to the company, each notional unit will be settled in shares of Fiserv common stock on a one-for-one basis.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Eric C. Nelson (attorney-in-fact)</signatureName>
+        <signatureDate>2021-04-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.4_977095
+<SEQUENCE>2
+<FILENAME>poa.txt
+<DESCRIPTION>POA DOCUMENT
+<TEXT>
+POWER OF ATTORNEY
+
+	Know all by these presents that the undersigned hereby constitutes and appoints
+each of Frank J. Bisignano, Robert W. Hau, Eric C. Nelson and Jennifer M.
+Manchester, signing singly, the undersigned's true and lawful attorney-in-fact
+with respect to the undersigned's holdings of and transactions in securities
+issued by Fiserv, Inc. to:
+
+(1)	execute for and on behalf of the undersigned Forms 3, 4 and 5 in accordance
+with Section 16(a) of the Securities Exchange Act of 1934 and the rules
+thereunder;
+
+(2)	do and perform any and all acts for and on behalf of the undersigned which
+may be necessary or desirable to complete the execution of any such Form 3, 4 or
+5 and the timely filing of such form with the United States Securities and
+Exchange Commission ("SEC") and any other authority;
+
+(3)	do and perform any and all acts for and on behalf of the undersigned which
+may be necessary or desirable, and to complete and execute any requests, forms
+or documents, including without limitation completing, executing and submitting
+an Update Passphrase request with the SEC and discussing the undersigned's EDGAR
+access codes with the SEC (collectively, "Documents"), and timely submit or file
+such Documents with the SEC, in connection with the maintenance and
+administration of the undersigned's EDGAR access codes; and
+
+(4)	take any other action of any type whatsoever in connection with the
+foregoing which, in the opinion of such attorney-in-fact, may be of benefit to,
+in the best interest of, or legally required by, the undersigned, it being
+understood that the documents executed by such attorney-in-fact on behalf of the
+undersigned pursuant to this Power of Attorney shall be in such form and shall
+contain such terms and conditions as such attorney-in-fact may approve in the
+undersigned's discretion.
+
+	The undersigned hereby grants to each such attorney-in-fact full power and
+authority to do and perform all and every act and exercise of any of the rights
+and powers herein granted, as fully to all intents and purposes as such
+attorney-in-fact might or could do if personally present, with full power of
+substitution or revocation, hereby ratifying and confirming all that such
+attorney-in-fact, or his or her substitute or substitutes, shall lawfully do or
+cause to be done by virtue of this power of attorney and the rights and powers
+herein granted.  The undersigned acknowledges that the foregoing
+attorneys-in-fact, in serving in such capacity at the request of the
+undersigned, are not assuming any of the undersigned's responsibilities to
+comply with Section 16 of the Securities Exchange Act of 1934.
+
+	The undersigned hereby revokes any power of attorney granted by the undersigned
+prior to the date hereof with respect to the undersigned's holdings of and
+transactions in securities issued by Fiserv, Inc.  This Power of Attorney shall
+remain in full force and effect until the undersigned is no longer required to
+file Forms 3, 4 or 5 with respect to the undersigned's holdings of and
+transactions in securities issued by Fiserv, Inc., unless earlier revoked by the
+undersigned in a signed writing delivered to the foregoing attorneys-in-fact.
+
+	IN WITNESS WHEREOF, the undersigned has caused this Power of Attorney to be
+executed this 17th day of March, 2021.
+
+
+
+
+
+                                         /s/ Denis J. O'Leary
+                                         Signature
+
+
+
+                                         Denis J. O'Leary
+                                         Print Name
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

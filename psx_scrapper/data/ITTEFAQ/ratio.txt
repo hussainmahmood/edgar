@@ -1,0 +1,19 @@
+Year,2020,2019,2018,2017,2016
+Payout,0.00,0.00,24.32,0.00,0.00
+Plow Back,100.00,100.00,75.68,100.00,100.00
+Return on Equity,-6.00,4.83,6.84,4.45,4.22
+Return on Assets,-3.73,3.09,4.48,2.74,1.92
+Book Value per Share,27.57,28.40,30.07,24.11,20.41
+Earning Per Share,-1.66,1.37,2.06,1.55,0.86
+Net Working Capital to Total Asseets,0.39,0.44,0.43,0.43,0.20
+Current Ratio,2.26,2.55,2.57,2.37,1.46
+Acid Test,1.28,1.16,0.90,1.38,0.70
+Times Interest Earned,-2.03,2.76,5.00,2.78,1.81
+Total Debt Ratio,0.38,0.36,0.35,0.38,0.54
+Debt To Equity,0.61,0.57,0.53,0.63,1.19
+Return on Capital Employed,-0.03,0.11,0.12,0.09,0.13
+Average Collection Period,174.22,59.69,48.69,55.89,55.63
+Days sales Inventory,208.62,151.21,179.10,140.98,135.33
+Total Assets Turnover,0.53,1.06,1.03,0.86,0.98
+Gross Profit Margin,0.52,9.39,10.00,8.37,9.07
+Net Profit Margin,-7.06,2.91,4.35,3.17,1.97

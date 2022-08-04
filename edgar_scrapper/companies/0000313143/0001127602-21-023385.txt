@@ -1,0 +1,173 @@
+<SEC-DOCUMENT>0001127602-21-023385.txt : 20210809
+<SEC-HEADER>0001127602-21-023385.hdr.sgml : 20210809
+<ACCEPTANCE-DATETIME>20210809185144
+ACCESSION NUMBER:		0001127602-21-023385
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20210806
+FILED AS OF DATE:		20210809
+DATE AS OF CHANGE:		20210809
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Johnson Lloyd Emerson
+		CENTRAL INDEX KEY:			0001708823
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14041
+		FILM NUMBER:		211157862
+
+	MAIL ADDRESS:	
+		STREET 1:		16737 NEW PROVIDENCE LANE
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28277
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HAEMONETICS CORP
+		CENTRAL INDEX KEY:			0000313143
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		IRS NUMBER:				042882273
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			0402
+
+	BUSINESS ADDRESS:	
+		STREET 1:		125 SUMMER STREET
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02110
+		BUSINESS PHONE:		7818487100
+
+	MAIL ADDRESS:	
+		STREET 1:		125 SUMMER STREET
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02110
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>form3.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2021-08-06</periodOfReport>
+
+    <noSecuritiesOwned>1</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0000313143</issuerCik>
+        <issuerName>HAEMONETICS CORP</issuerName>
+        <issuerTradingSymbol>HAE</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001708823</rptOwnerCik>
+            <rptOwnerName>Johnson Lloyd Emerson</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>125 SUMMER STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>BOSTON</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02110</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <footnotes></footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Thomas V. Powers, attorney-in-fact for Mr. Johnson</signatureName>
+        <signatureDate>2021-08-09</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>doc1.txt
+<DESCRIPTION>POWER OF ATTORNEY (PUBLIC): POWER OF ATTORNEY
+<TEXT>
+POWER OF ATTORNEY
+For Executing SEC Securities Transaction Forms
+
+Know all persons by these presents that the undersigned
+hereby constitutes and appoints each of Michelle L. Basil,
+Thomas V. Powers, Kristen Feetham and Melanie Gifford,
+signing singly, the undersigned's true and lawful
+attorney-in-fact to:
+
+(1) execute for and on behalf of the undersigned, in the
+undersigned's capacity as an officer and/or director of
+Haemonetics Corporation (the "Company"), Forms 3, 4 and 5
+in accordance with Section 16(a) of the Securities Exchange Act
+of 1934 and the rules thereunder and such other forms as may be
+required by the United States Securities and Exchange Commission
+(the "SEC") relating to transactions by the undersigned in
+securities issued by the Company ("Forms");
+
+(2) do and perform any and all acts for and on behalf of
+the undersigned which may be necessary or desirable to
+complete the execution of any such Forms, complete and
+execute an amendment or amendments thereto, and timely
+file such Forms with the SEC and any other appropriate
+governmental authority; and
+
+(3) take any other action of any type whatsoever in
+connection with the foregoing which, in the opinion of such
+attorney-in-fact, may be of benefit to, in the best interest
+of, or legally required by, the undersigned, it being understood
+that the documents executed by such attorney-in-fact on behalf of
+the undersigned pursuant to this Power of Attorney shall be in
+such form and shall contain such terms and conditions as such
+attorney-in-fact may approve in such attorney-in-fact's discretion.
+
+The undersigned hereby grants to each such attorney-in-fact full
+power and authority to do and perform all and every act and thing
+whatsoever requisite, necessary and proper to be done in the exercise
+of any of the rights and powers herein granted, as fully to all
+intents and purposes as the undersigned might or could do if
+personally present, with full power of substitution or revocation,
+hereby ratifying and confirming all that such attorney-in-fact, or
+such attorney-in-fact's substitute or substitutes, shall lawfully
+do or cause to be done by virtue of this power of attorney and
+the rights and powers herein granted.  The undersigned acknowledges
+that the foregoing attorneys-in-fact, in serving in such capacity
+at the request of the undersigned, are not assuming any of the
+undersigned's responsibilities to comply with Section 16 of the
+Securities Exchange Act of 1934.
+
+This Power of Attorney shall remain in full force and effect until
+the undersigned is no longer required to file the Forms with respect
+to the undersigned's holdings of and transactions in securities
+issued by the Company, unless earlier revoked by the undersigned
+in a signed writing delivered to the foregoing attorneys-in-fact.
+
+IN WITNESS WHEREOF, the undersigned has caused his/her Power of
+Attorney to be executed as of this 27th day of April, 2021.
+
+
+/s/ Lloyd E. Johnson
+Signature
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

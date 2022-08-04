@@ -1,0 +1,16 @@
+Year,2009,2008
+Sales,"233,300,261","249,258,221"
+COGS,"212,665,480","227,053,091"
+Gross Profit,"20,634,781","22,205,130"
+Administrative Expenses,"29,716,619","33,833,827"
+Selling & Distributive Expenses,"8,212,775","11,309,187"
+Financial Charges,"5,024,592","1,724,570"
+Other Income,"747,791","29,826"
+Change In Value of Investment,0,0
+Other Expenses,0,0
+EBITDA,"-4,608,275","-9,798,966"
+EBIT,"-16,546,823","-22,908,058"
+EBT,"-21,571,415","-24,632,628"
+Tax,"1,169,160","1,249,090"
+PAT,"-22,740,575","-25,881,718"
+EPS,-3.09,-3.52

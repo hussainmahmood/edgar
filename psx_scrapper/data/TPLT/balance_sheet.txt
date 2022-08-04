@@ -1,0 +1,24 @@
+Year,2020,2019
+Fixed Assets,"1,131,501,516","1,602,145,206"
+Investments,"85,030,450","85,030,450"
+Cash in Hand and Bank,"19,221,288","19,830,816"
+Stores and Spares,0,0
+Stock in Trade,"246,221,725","266,339,657"
+Trade Debts,"1,022,872,997","1,309,502,023"
+Current Assets,"2,687,113,657","2,384,538,897"
+Quick Assets,"2,440,891,932","2,118,199,240"
+Total Assets,"6,140,422,964","5,277,930,497"
+Interest Bearing Long Term Liability,"647,130,961","501,034,461"
+Non Interest Bearing Long Term Liability,0,0
+Interest Bearing Short Term Liability,"2,760,704,602","1,628,083,678"
+* Non Interest Bearing Short Term Liability,"1,075,887,277","819,029,513"
+Trades Payables,"935,825,506","750,929,062"
+Total Current Liabilities,"3,937,899,100","3,163,884,590"
+Total Liabilities,"4,586,811,069","3,664,919,051"
+Paid Up Capital,"1,204,425,930","929,262,520"
+Reserves,"64,753,752","128,476,899"
+Preferred Equity,0,0
+Surplus On Revaluation of Assets,"284,432,213","555,272,027"
+Shareholder Equity,"1,553,611,895","1,613,011,446"
+Paid Up Value,10,10
+Number of Shares,"120,442,593","92,926,252"

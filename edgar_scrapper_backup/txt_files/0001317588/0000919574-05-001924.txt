@@ -1,0 +1,160 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ QZ4O7s0BP8fBhoR9EBZkuuuYmPcJDZdoNWvP5YlcQTnAkiutfuzOOUcE4A90x1Ix
+ 9KIhtwtx7XyghqixCpucwg==
+
+<SEC-DOCUMENT>0000919574-05-001924.txt : 20050516
+<SEC-HEADER>0000919574-05-001924.hdr.sgml : 20050516
+<ACCEPTANCE-DATETIME>20050516120223
+ACCESSION NUMBER:		0000919574-05-001924
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20050331
+FILED AS OF DATE:		20050516
+DATE AS OF CHANGE:		20050516
+EFFECTIVENESS DATE:		20050516
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ABRAMS BISON INVESTMENTS, LLC
+		CENTRAL INDEX KEY:			0001317588
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-11161
+		FILM NUMBER:		05832361
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7315 WISCONSIN AVENUE
+		STREET 2:		SUITE 700E
+		CITY:			BETHESDA
+		STATE:			MD
+		ZIP:			20814
+		BUSINESS PHONE:		301-657-5925
+
+	MAIL ADDRESS:	
+		STREET 1:		7315 WISCONSIN AVENUE
+		STREET 2:		SUITE 700E
+		CITY:			BETHESDA
+		STATE:			MD
+		ZIP:			20814
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>d570945_13f-hr.txt
+<TEXT>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 13F
+
+                               FORM 13F Cover Page
+
+             Report for the Calendar Year or Quarter Ended 03/31/05
+
+Check here if Amendment:           |_|; Amendment Number: ____
+
+This Amendment (Check only one):   |_| is a restatement
+                                   |_| adds new holding entries.
+
+Institutional Manager Filing this Report:
+
+Name: Abrams Bison Investments, L.L.C.
+
+Address:    7315 Wisconsin Ave., Suite 700E
+            Bethesda, MD 20814
+
+13F File Number: 28- 11161
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:       Gavin M. Abrams
+Title:      Managing Member
+Phone:      (301) 657 5925
+
+Signature, Place and Date of Signing:
+
+  /s/ Gavin M. Abrams           Bethesda, Maryland               5/16/05
+- -----------------------     --------------------------    ----------------------
+     [Signature]                   [City, State]                  [Date]
+<PAGE>
+
+Report Type:  (Check only one):
+
+[X]  13F HOLDINGS REPORT. (Check here if all holdings of this reporting manager
+     are reported in this report).
+
+[_]  13F NOTICE. (Check here if no holdings reported are in this report, and all
+     holdings are reported by other reporting managers(s).)
+
+[_]  13F COMBINATION REPORT. (Check here if a portion of the holdings for this
+     reporting manager are reported in this report and a portion are reported by
+     other reporting manager(s).)
+
+List of Other Managers Reporting for this Manager:
+
+NONE
+<PAGE>
+
+                              Form 13F SUMMARY PAGE
+
+Report Summary:
+
+Number of Other Included Managers:         1
+Form 13F Information Table Entry Total:    7
+Form 13F Information Table Value Total:   $127,411 (thousands)
+
+Confidential information has been omitted from this public Form 13F report and
+filed separately with the Securities and Exchange Commission.
+
+List of Other Included Managers:
+
+Provide a numbered list of the name(s) and Form 13F file number(s) of all
+institutional investment managers with respect to which this report is filed,
+other than the manager filing this report.
+
+1. Abrams Bison Partners, L.P., 028-11159
+<PAGE>
+
+                                                    FORM 13F INFORMATION TABLE
+<TABLE>
+<CAPTION>
+         Column 1                Col 2      Col 3     Col 4              Col 5         Col 6   Col 7            Column 8
+                                                                                                            Voting Authority
+                                 Title               Value       Shrs/          Put/  Invtmnt  Other
+Name of Issuer                  of class   CUSIP     (X$1000)    Prn      SH/P  Call  Dsctrn   Mngrs     Sole    Shrd       None
+<S>                             <C>       <C>        <C>       <C>        <C>   <C>   <C>      <C>    <C>        <C>        <C>
+Aviall, Inc.                      COM     05366B102    53,287  1,903,100   SH     1   Defined    1    1,903,100  1,903,100
+Blockbuster Inc.                 CL A     093679108     2,790    316,000   SH     6   Defined    1      316,000    316,000
+Blockbuster Inc.                 CL B     093679207    15,333  1,834,100   SH     4   Defined    1    1,834,100  1,834,100
+Heidrick & Struggles Inc.         COM     422819102    27,221    740,291   SH     2   Defined    1      740,291    740,291
+Merck & Co. Inc.                  COM     589331107     1,619     50,000   SH     7   Defined    1       50,000     50,000
+Pfizer Inc.                       COM     717081103     7,881    300,000   SH     5   Defined    1      300,000    300,000
+United Defense Industries Inc.    COM     91018B104    19,280    262,600   SH     3   Defined    1      262,600    262,600
+
+Total number of positions:             7
+Total value ($000):              127,411
+</TABLE>
+
+02802.0001 #570945
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

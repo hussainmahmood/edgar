@@ -1,0 +1,10 @@
+Year,2010,2009
+Operating Cash Flow,"1,368,000","872,000"
+Captial Expenditure,0,0
+Cashflow from Investing,0,0
+Cash Flow from Financing,0,0
+Net Change,"1,368,000","872,000"
+Opening Cash,"3,178,000","2,306,000"
+Closing Cash,"4,546,000","3,178,000"
+FCFF,"1,368,000","872,000"
+FCFE,"1,368,000","872,000"

@@ -1,0 +1,143 @@
+<SEC-DOCUMENT>0001172661-12-001105.txt : 20121113
+<SEC-HEADER>0001172661-12-001105.hdr.sgml : 20121112
+<ACCEPTANCE-DATETIME>20121113161947
+ACCESSION NUMBER:		0001172661-12-001105
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20120930
+FILED AS OF DATE:		20121113
+DATE AS OF CHANGE:		20121113
+EFFECTIVENESS DATE:		20121113
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ABRAMS CAPITAL MANAGEMENT, L.P.
+		CENTRAL INDEX KEY:			0001358706
+		IRS NUMBER:				204043368
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-11903
+		FILM NUMBER:		121198996
+
+	BUSINESS ADDRESS:	
+		STREET 1:		222 BERKELEY STREET, 22ND FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+		BUSINESS PHONE:		617-646-6100
+
+	MAIL ADDRESS:	
+		STREET 1:		222 BERKELEY STREET, 22ND FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PAMET CAPITAL MANAGEMENT, LP
+		DATE OF NAME CHANGE:	20060407
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>abrams3q12.txt
+<DESCRIPTION>FORM 13F HOLDINGS REPORT
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C.  20549
+
+                                    Form 13F
+
+                              Form 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended: September 30, 2012
+
+Check here if Amendment [  ]; Amendment Number:
+This Amendment (Check only one.): [  ] is a restatement.
+                                  [  ] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name:    Abrams Capital Management, L.P.
+Address: 222 Berkeley Street
+         22nd Floor
+         Boston, MA  02116
+
+13F File Number:  028-11903
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:      Fred Leif
+Title:     Chief Financial Officer
+Phone:     617-646-6100
+
+Signature, Place, and Date of Signing:
+
+ /s/      Fred Leif     Boston, MA     November 13, 2012
+
+Report Type (Check only one.):
+
+[ X]         13F HOLDINGS REPORT.
+
+[  ]         13F NOTICE.
+
+[  ]         13F COMBINATION REPORT.
+
+<PAGE>
+
+                              FORM 13F SUMMARY PAGE
+
+Report Summary:
+
+Number of Other Included Managers:         0
+
+Form 13F Information Table Entry Total:    16
+
+Form 13F Information Table Value Total:    $956,508 (thousands)
+
+List of Other Included Managers:
+
+Provide a numbered list of the name(s) and Form 13F file number(s) of all
+institutional managers with respect to which this report is filed, other
+than the manager filing this report.
+
+NONE
+
+<PAGE>
+
+<TABLE>                       <C>             <C>
+                                                     FORM 13F INFORMATION TABLE
+                                                             VALUE  SHARES/ SH/ PUT/ INVSTMT  OTHER            VOTING AUTHORITY
+NAME OF ISSUER                 TITLE OF CLASS   CUSIP     (x$1000)  PRN AMT PRN CALL DSCRETN MANAGERS         SOLE   SHARED     NONE
+------------------------------ ---------------- --------- -------- -------- --- ---- ------- ------------ -------- -------- --------
+ARBITRON INC                   COM              03875Q108    86879  2292309 SH       SOLE                  2292309        0        0
+CLEAR CHANNEL OUTDOOR HLDGS    CL A             18451C109    20059  3354390 SH       SOLE                  3354390        0        0
+ENGILITY HLDGS INC             COM              29285W104    39693  2151368 SH       SOLE                  2151368        0        0
+GOOGLE INC                     CL A             38259P508    57195    75805 SH       SOLE                    75805        0        0
+LAMAR ADVERTISING CO           CL A             512815101   275659  7439476 SH       SOLE                  7439476        0        0
+MANTECH INTL CORP              CL A             564563104    10006   416931 SH       SOLE                   416931        0        0
+ROYAL BK SCOTLAND GROUP PLC    SP ADR PREF T    780097713     6397   281807 SH       SOLE                   281807        0        0
+ROYAL BK SCOTLAND GROUP PLC    SP ADR PREF S    780097739    17845   865425 SH       SOLE                   865425        0        0
+ROYAL BK SCOTLAND GROUP PLC    ADR PREF SHS R   780097747     6788   325401 SH       SOLE                   325401        0        0
+ROYAL BK SCOTLAND GROUP PLC    ADR PFD SER P    780097762     3031   146299 SH       SOLE                   146299        0        0
+ROYAL BK SCOTLAND GROUP PLC    ADR PREF SER N   780097770    11073   539603 SH       SOLE                   539603        0        0
+ROYAL BK SCOTLAND GROUP PLC    SP ADR PREF M    780097796    13972   684900 SH       SOLE                   684900        0        0
+SANOFI                         RIGHT 12/31/2020 80105N113    52532 31269087 SH       SOLE                 31269087        0        0
+SLM CORP                       COM              78442P106   195901 12461892 SH       SOLE                 12461892        0        0
+TEVA PHARMACEUTICAL INDS LTD   ADR              881624209    97521  2355000 SH       SOLE                  2355000        0        0
+WESCO AIRCRAFT HLDGS INC       COM              950814103    61957  4535630 SH       SOLE                  4535630        0        0
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

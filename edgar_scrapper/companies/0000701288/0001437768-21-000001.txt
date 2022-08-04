@@ -1,0 +1,157 @@
+<SEC-DOCUMENT>0001437768-21-000001.txt : 20210901
+<SEC-HEADER>0001437768-21-000001.hdr.sgml : 20210901
+<ACCEPTANCE-DATETIME>20210901142905
+ACCESSION NUMBER:		0001437768-21-000001
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20210830
+FILED AS OF DATE:		20210901
+DATE AS OF CHANGE:		20210901
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Sainz Maria
+		CENTRAL INDEX KEY:			0001437768
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32982
+		FILM NUMBER:		211229718
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O ORTHOFIX INTERNATIONAL N. V.
+		STREET 2:		3451 PLANO PARKWAY
+		CITY:			LEWISVILLE
+		STATE:			TX
+		ZIP:			75056
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ATRION CORP
+		CENTRAL INDEX KEY:			0000701288
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		IRS NUMBER:				630821819
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE ALLENTOWN PARKWAY
+		CITY:			ALLEN
+		STATE:			TX
+		ZIP:			75002
+		BUSINESS PHONE:		9723909800
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE ALLENTOWN PARKWAY
+		CITY:			ALLEN
+		STATE:			TX
+		ZIP:			75002
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ALATENN RESOURCES INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-08-30</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000701288</issuerCik>
+        <issuerName>ATRION CORP</issuerName>
+        <issuerTradingSymbol>ATRI</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001437768</rptOwnerCik>
+            <rptOwnerName>Sainz Maria</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O ORTHOFIX INTERNATIONAL N. V.</rptOwnerStreet1>
+            <rptOwnerStreet2>3451 PLANO PARKWAY</rptOwnerStreet2>
+            <rptOwnerCity>LEWISVILLE</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>75056</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2021-08-30</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>94</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>703.63</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>94</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Issuer's director compensation policy provides for a grant to the Reporting Person of an annual award of common stock in an amount equal to $92,000.  On August 30, 2021,  the Compensation Committee granted an award to Ms. Maria Sainz in an amount equal to $66,290 which is the pro rated portion of the annual amount for the remaining portion of the year until the Annual Stockholders meeting.</footnote>
+        <footnote id="F2">The number of shares of common stock issued for the award described above was based on the closing price per share of the Issuer's common stock on August 30, 2021, or $703.63.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>s/Jeffery Strickland, Attorney-in-fact</signatureName>
+        <signatureDate>2021-09-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

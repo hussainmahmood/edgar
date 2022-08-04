@@ -1,0 +1,172 @@
+<SEC-DOCUMENT>0000899243-21-035731.txt : 20210913
+<SEC-HEADER>0000899243-21-035731.hdr.sgml : 20210913
+<ACCEPTANCE-DATETIME>20210913192707
+ACCESSION NUMBER:		0000899243-21-035731
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20210910
+FILED AS OF DATE:		20210913
+DATE AS OF CHANGE:		20210913
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			AMGEN INC
+		CENTRAL INDEX KEY:			0000318154
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37686
+		FILM NUMBER:		211250864
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE AMGEN CENTER DRIVE
+		CITY:			THOUSAND OAKS
+		STATE:			CA
+		ZIP:			91320
+		BUSINESS PHONE:		(805)447-1000
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE AMGEN CENTER DRIVE
+		CITY:			THOUSAND OAKS
+		STATE:			CA
+		ZIP:			91320
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	AMGEN
+		DATE OF NAME CHANGE:	19870305
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BeiGene, Ltd.
+		CENTRAL INDEX KEY:			0001651308
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				981209416
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O MOURANT GOVERNANCE SERVICES (CAYMAN)
+		STREET 2:		94 SOLARIS AVENUE, CAMANA BAY
+		CITY:			GRAND CAYMAN
+		STATE:			E9
+		ZIP:			KY1-1108
+		BUSINESS PHONE:		13459494123
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O MOURANT GOVERNANCE SERVICES (CAYMAN)
+		STREET 2:		94 SOLARIS AVENUE, CAMANA BAY
+		CITY:			GRAND CAYMAN
+		STATE:			E9
+		ZIP:			KY1-1108
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-09-10</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001651308</issuerCik>
+        <issuerName>BeiGene, Ltd.</issuerName>
+        <issuerTradingSymbol>BGNE</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000318154</rptOwnerCik>
+            <rptOwnerName>AMGEN INC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>ONE AMGEN CENTER DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>THOUSAND OAKS</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>91320</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>American Depositary Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2021-09-10</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>165529</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>302.0615</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>18943802</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This transaction was made pursuant to that Share Purchase Agreement, dated as of September 24, 2020, as amended, by and between the Reporting Person and the Issuer.</footnote>
+        <footnote id="F2">The price reported is the volume weighted average price on the NASDAQ Stock Market LLC of one American Depositary Share (&quot;ADS&quot;) of the Issuer for the ninety calendar days preceding August 31, 2021.</footnote>
+        <footnote id="F3">As each ADS represents 13 Ordinary Shares of the Issuer, the reported securities represent 246,269,426 Ordinary Shares.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Andrea A. Robinson, Vice President, Law, Governance and Securities &amp; Assistant Secretary</signatureName>
+        <signatureDate>2021-09-13</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,146 @@
+<SEC-DOCUMENT>0001062993-21-007992.txt : 20210827
+<SEC-HEADER>0001062993-21-007992.hdr.sgml : 20210827
+<ACCEPTANCE-DATETIME>20210827103927
+ACCESSION NUMBER:		0001062993-21-007992
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20210826
+FILED AS OF DATE:		20210827
+DATE AS OF CHANGE:		20210827
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			TUMOLO ANNETTE
+		CENTRAL INDEX KEY:			0001717996
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-07928
+		FILM NUMBER:		211215090
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O BIO-RAD LABORATORIES, INC.
+		STREET 2:		1000 ALFRED NOBEL DRIVE
+		CITY:			HERCULES
+		STATE:			CA
+		ZIP:			94547
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BIO-RAD LABORATORIES, INC.
+		CENTRAL INDEX KEY:			0000012208
+		STANDARD INDUSTRIAL CLASSIFICATION:	LABORATORY ANALYTICAL INSTRUMENTS [3826]
+		IRS NUMBER:				941381833
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1000 ALFRED NOBEL DRIVE
+		CITY:			HERCULES
+		STATE:			CA
+		ZIP:			94547
+		BUSINESS PHONE:		5107247000
+
+	MAIL ADDRESS:	
+		STREET 1:		1000 ALFRED NOBEL DRIVE
+		CITY:			HERCULES
+		STATE:			CA
+		ZIP:			94547
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BIO RAD LABORATORIES INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2021-08-26</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000012208</issuerCik>
+        <issuerName>BIO-RAD LABORATORIES, INC.</issuerName>
+        <issuerTradingSymbol>BIO BIOB</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001717996</rptOwnerCik>
+            <rptOwnerName>TUMOLO ANNETTE</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O BIO-RAD LABORATORIES, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>1000 ALFRED NOBEL DRIVE</rptOwnerStreet2>
+            <rptOwnerCity>HERCULES</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94547</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Executive Vice President</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Bio-Rad A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2021-08-26</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>600</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>792.58</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3099.3476</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>/s/ Annette Tumolo</signatureName>
+        <signatureDate>2021-08-26</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

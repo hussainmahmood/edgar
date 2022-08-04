@@ -1,0 +1,423 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ HGkghoU+iTzCq5v5v23po0KWgobJnnk+BiF5jHbq3rxcpIFE+KlgnPKiSURAkIIH
+ 5+juafw476uftJsr2iFWeQ==
+
+<SEC-DOCUMENT>0001169232-03-000871.txt : 20030210
+<SEC-HEADER>0001169232-03-000871.hdr.sgml : 20030210
+<ACCEPTANCE-DATETIME>20030210110139
+ACCESSION NUMBER:		0001169232-03-000871
+CONFORMED SUBMISSION TYPE:	SC 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20030210
+GROUP MEMBERS:		RICHARD C. PERRY
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			1 800 CONTACTS INC
+		CENTRAL INDEX KEY:			0001050122
+		STANDARD INDUSTRIAL CLASSIFICATION:	OPTICAL INSTRUMENTS & LENSES [3827]
+		IRS NUMBER:				870571643
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-54695
+		FILM NUMBER:		03546205
+
+	BUSINESS ADDRESS:	
+		STREET 1:		13751 S WADSWORTH PARK DR SUITE D-140
+		CITY:			DRAPER
+		STATE:			UT
+		ZIP:			84020
+		BUSINESS PHONE:		8015728225
+
+	MAIL ADDRESS:	
+		STREET 1:		13751 S WADSWORTH PARK DR SUITE D-140
+		CITY:			DRAPER
+		STATE:			UT
+		ZIP:			84020
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PERRY CORP
+		CENTRAL INDEX KEY:			0000919085
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		599 LEXINGTON AVE
+		STREET 2:		36TH FL
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		2125834100
+
+	MAIL ADDRESS:	
+		STREET 1:		599 LEXINGTON
+		STREET 2:		36TH FL
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<FILENAME>d53544_sc13g.txt
+<DESCRIPTION>SCHEDULE 13G
+<TEXT>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                  SCHEDULE 13G
+                                (Amendment No. )*
+
+                    Under the Securities Exchange Act of 1934
+
+                               1-800 Contacts Inc.
+                                (Name of Issuer)
+
+                          Common Stock, $0.01 par value
+                         (Title of Class of Securities)
+
+                                    681977104
+                                 (CUSIP Number)
+
+                                December 31, 2002
+             (Date of Event Which Requires Filing of this Statement)
+
+Check the appropriate box to designate the rule pursuant to which this Schedule
+is filed:
+
+      |X|   Rule 13d-1(b)
+
+      |_|   Rule 13d-1(c)
+
+      |_|   Rule 13d-1(d)
+
+*The remainder of this cover page shall be filled out for a reporting person's
+initial filing on this form with respect to the subject class of securities, and
+for any subsequent amendment containing information which would alter the
+disclosures provided in a prior cover page.
+
+The information required in the remainder of this cover page shall not be deemed
+to be "filed" for the purpose of Section 18 of the Securities Exchange Act of
+1934 ("Act") or otherwise subject to the liabilities of that section of the Act
+but shall be subject to all other provisions of the Act (however, see the
+Notes).
+
+<PAGE>
+
+CUSIP No. 681977104
+- --------------------------------------------------------------------------------
+1.   NAME OF REPORTING PERSONS
+     I.R.S. IDENTIFICATION NO. OF ABOVE PERSONS (ENTITIES ONLY)
+
+     Perry Corp.
+- --------------------------------------------------------------------------------
+2.   CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*
+
+                                                                 (a)  |_|
+                                                                 (b)  |_|
+- --------------------------------------------------------------------------------
+3.   SEC USE ONLY
+
+
+- --------------------------------------------------------------------------------
+4.   CITIZENSHIP OR PLACE OF ORGANIZATION
+
+     New York
+- --------------------------------------------------------------------------------
+  NUMBER OF    5.   SOLE VOTING POWER
+
+   SHARES           816,050
+               -----------------------------------------------------------------
+BENEFICIALLY   6.   SHARED VOTING POWER
+
+  OWNED BY          NONE
+               -----------------------------------------------------------------
+    EACH       7.   SOLE DISPOSITIVE POWER
+
+  REPORTING         816,050
+               -----------------------------------------------------------------
+   PERSON      8.   SHARED DISPOSITIVE POWER
+
+    WITH            NONE
+- --------------------------------------------------------------------------------
+9.   AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+     816,050
+- --------------------------------------------------------------------------------
+10.  CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES*
+
+                                                                          |_|
+- --------------------------------------------------------------------------------
+11.  PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+
+     6.75%
+- --------------------------------------------------------------------------------
+12.  TYPE OF REPORTING PERSON*
+
+     IA, CO
+- --------------------------------------------------------------------------------
+
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT!
+
+<PAGE>
+
+CUSIP No. 681977104
+- --------------------------------------------------------------------------------
+1.   NAME OF REPORTING PERSONS
+     I.R.S. IDENTIFICATION NO. OF ABOVE PERSONS (ENTITIES ONLY)
+
+     Richard C. Perry
+- --------------------------------------------------------------------------------
+2.   CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*
+
+                                                                 (a)  |_|
+                                                                 (b)  |_|
+- --------------------------------------------------------------------------------
+3.   SEC USE ONLY
+
+
+- --------------------------------------------------------------------------------
+4.   CITIZENSHIP OR PLACE OF ORGANIZATION
+
+     United States
+- --------------------------------------------------------------------------------
+  NUMBER OF    5.   SOLE VOTING POWER
+
+   SHARES           816,050 (all shares beneficially owned by Perry Corp.)
+               -----------------------------------------------------------------
+BENEFICIALLY   6.   SHARED VOTING POWER
+
+  OWNED BY          NONE
+               -----------------------------------------------------------------
+    EACH       7.   SOLE DISPOSITIVE POWER
+
+  REPORTING         816,050 (all shares beneficially owned by Perry Corp.)
+               -----------------------------------------------------------------
+   PERSON      8.   SHARED DISPOSITIVE POWER
+
+    WITH            NONE
+- --------------------------------------------------------------------------------
+9.   AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+     816,050
+- --------------------------------------------------------------------------------
+10.  CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES*
+
+                                                                          |_|
+- --------------------------------------------------------------------------------
+11.  PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+
+     6.75%
+- --------------------------------------------------------------------------------
+12.  TYPE OF REPORTING PERSON*
+
+     IN, HC
+- --------------------------------------------------------------------------------
+
+                      *SEE INSTRUCTIONS BEFORE FILLING OUT!
+<PAGE>
+
+ITEM 1(a).  NAME OF ISSUER:
+
+            1-800 Contacts Inc.
+
+ITEM 1(b).  ADDRESS OF ISSUER'S PRINCIPAL PLACE EXECUTIVE OFFICES:
+
+            66 East Wadsworth Park Drive
+            3rd Floor
+            Draper, UT 84020
+
+ITEM 2(a).  NAME OF PERSON FILING:
+
+            This statement is filed on behalf of Perry Corp., a New York
+corporation, and Richard C. Perry, an American citizen. Perry Corp. is a private
+investment firm, and Richard C. Perry is the President and sole stockholder of
+Perry Corp. Their agreement in writing to file this statement on behalf of each
+of them is attached as Exhibit A hereto.
+
+            This statement relates to shares held for the accounts of two or
+more private investment funds for which Perry Corp. acts as general partner
+and/or investment adviser.
+
+ITEM 2(b).  ADDRESS OF PRINCIPAL BUSINESS OFFICE OR, IF NONE, RESIDENCE:
+
+            599 Lexington Avenue
+            New York, NY 10022
+
+ITEM 2(c).  CITIZENSHIP:
+
+            Perry Corp. is a New York corporation, and Richard C. Perry is a
+citizen of the United States.
+
+ITEM 2(d).  TITLE OF CLASS OF SECURITIES:
+
+            Common Stock, $0.01 par value
+
+ITEM 2(e).  CUSIP NUMBER:
+
+            681977104
+
+ITEM 3. IF THIS STATEMENT IS FILED PURSUANT TO RULE 13d-1(b), OR 13d-2(b) OR
+13d-2(c), CHECK WHETHER THE PERSON FILING IS A:
+
+            Perry Corp. is an investment adviser registered under Section 203 of
+the Investment Advisers Act of 1940, and Richard C. Perry is a control person of
+Perry Corp.
+
+ITEM 4.     OWNERSHIP:
+
+            (a)   AMOUNT BENEFICIALLY OWNED:
+
+                  816,050
+
+            (b)   PERCENT OF CLASS:
+
+                  6.75%
+
+            (c)   NUMBER OF SHARES AS TO WHICH SUCH PERSON HAS:
+
+                  (i)   Sole power to vote or to direct the vote:
+
+                        816,050 shares
+
+                  (ii)  Shared power to vote or to direct the vote:
+
+                        NONE
+
+                  (iii) Sole power to dispose or to direct the disposition of:
+
+                        816,050
+
+                  (iv)  Shared power to dispose or to direct the disposition of:
+
+                        NONE
+
+ITEM 5.     OWNERSHIP OF FIVE PERCENT OR LESS OF A CLASS:
+
+            If this statement is being filed to report the fact that as of the
+            date hereof the reporting person has ceased to be the beneficial
+            owner of more than 5 percent of the class of securities, check the
+            following |_|
+
+ITEM 6.     OWNERSHIP OF MORE THAN FIVE PERCENT ON BEHALF OF ANOTHER PERSON:
+
+            The limited partners of (or investors in) each of two or more
+            private investment funds for which Perry Corp. acts as general
+            partner and/or investment adviser have the right to participate in
+            the receipt of dividends from, or proceeds from the sale of, the
+            shares held for the accounts of their respective funds in accordance
+            with their respective limited partnership interest (or investment
+            percentages) in their respective funds.
+
+ITEM 7.     IDENTIFICATION AND CLASSIFICATION OF THE SUBSIDIARY WHICH ACQUIRED
+            THE SECURITY BEING REPORTED ON BY THE PARENT HOLDING COMPANY:
+
+            See Exhibit B
+
+ITEM 8.     IDENTIFICATION AND CLASSIFICATION OF MEMBERS OF THE GROUP:
+
+            Not Applicable
+
+ITEM 9.     NOTICE OF DISSOLUTION OF THE GROUP:
+
+            Not Applicable
+
+<PAGE>
+
+ITEM 10.    CERTIFICATION:
+
+            By signing below I certify that, to the best of my knowledge and
+            belief, the securities referred to above were acquired and are held
+            in the ordinary course of business and were not acquired and are not
+            held for the purpose of or with the effect of changing or
+            influencing the control of the issuer of the securities and were not
+            acquired and are not held in connection with or as a participant in
+            any transaction having that purpose or effect.
+
+                                    SIGNATURE
+
+      After reasonable inquiry and to the best of my knowledge and belief, I
+certify that the information set forth in this statement is true, complete and
+correct.
+
+                                        PERRY CORP.
+
+
+Dated: February 10, 2003
+       New York, New York               By: /s/ Richard C. Perry
+                                            ------------------------------------
+                                            Name: Richard C. Perry
+                                            Title: President
+
+
+Dated: February 10, 2003
+       New York, New York                   /s/ Richard C. Perry
+                                        ----------------------------------------
+                                            Richard C. Perry
+<PAGE>
+
+                                                                       EXHIBIT A
+
+                                    AGREEMENT
+
+                          JOINT FILING OF SCHEDULE 13G
+
+            The undersigned hereby agree to jointly prepare and file with
+regulatory authorities a Schedule 13G and any future amendments thereto
+reporting each of the undersigned's ownership of securities of 1-800 Contacts
+Inc., and hereby affirm that such Schedule 13G is being filed on behalf of each
+of the undersigned pursuant to and in accordance with the provisions of Rule
+13d-1(k) under the Securities Exchange Act of 1934. The undersigned acknowledge
+that each shall be responsible for the timely filing of such amendments, and for
+the completeness and accuracy of the information concerning him or it contained
+therein, but shall not be responsible for the completeness and accuracy of the
+information concerning the other, except to the extent that he or it knows or
+has reason to believe that such information is inaccurate.
+
+                                        PERRY CORP.
+
+
+Dated: February 10, 2003
+       New York, New York               By: /s/ Richard C. Perry
+                                            ------------------------------------
+                                            Name: Richard C. Perry
+                                            Title: President
+
+
+Dated: February 10, 2003
+       New York, New York                   /s/ Richard C. Perry
+                                        ----------------------------------------
+                                            Richard C. Perry
+<PAGE>
+
+                                                                       EXHIBIT B
+
+                                     ITEM 7
+
+Perry Corp. is the relevant entity for which Richard C. Perry may be considered
+a control person.
+
+Perry Corp. is an investment adviser registered under the Investment Advisers
+Act of 1940.
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

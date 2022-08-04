@@ -1,0 +1,1610 @@
+<SEC-DOCUMENT>0000899243-17-008212.txt : 20170320
+<SEC-HEADER>0000899243-17-008212.hdr.sgml : 20170320
+<ACCEPTANCE-DATETIME>20170320164554
+ACCESSION NUMBER:		0000899243-17-008212
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20170317
+FILED AS OF DATE:		20170320
+DATE AS OF CHANGE:		20170320
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BlueMountain Kicking Horse Fund L.P.
+		CENTRAL INDEX KEY:			0001557943
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-00087
+		FILM NUMBER:		17701925
+
+	BUSINESS ADDRESS:	
+		STREET 1:		280 PARK AVENUE
+		STREET 2:		12TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		212-905-3990
+
+	MAIL ADDRESS:	
+		STREET 1:		280 PARK AVENUE
+		STREET 2:		12TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BlueMountain Kicking Horse Fund GP, LLC
+		CENTRAL INDEX KEY:			0001557778
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-00087
+		FILM NUMBER:		17701926
+
+	BUSINESS ADDRESS:	
+		STREET 1:		280 PARK AVENUE
+		STREET 2:		12TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		212-905-3900
+
+	MAIL ADDRESS:	
+		STREET 1:		280 PARK AVENUE
+		STREET 2:		12TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BlueMountain Timberline Ltd.
+		CENTRAL INDEX KEY:			0001541089
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-00087
+		FILM NUMBER:		17701927
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O MAPLES CORPORATE SERVICES LIMITED
+		STREET 2:		UGLAND HOUSE, PO BOX 309
+		CITY:			GRAND CAYMAN
+		STATE:			E9
+		ZIP:			KY1-1104
+		BUSINESS PHONE:		212-905-3900
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O BLUEMOUNTAIN CAPITAL MANAGEMENT, LLC
+		STREET 2:		280 PARK AVENUE, 12TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BlueMountain Long/Short Credit GP, LLC
+		CENTRAL INDEX KEY:			0001541088
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-00087
+		FILM NUMBER:		17701929
+
+	BUSINESS ADDRESS:	
+		STREET 1:		280 PARK AVENUE, 12TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		212-905-3900
+
+	MAIL ADDRESS:	
+		STREET 1:		280 PARK AVENUE, 12TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BLUE MOUNTAIN CREDIT GP, LLC
+		CENTRAL INDEX KEY:			0001686968
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-00087
+		FILM NUMBER:		17701932
+
+	BUSINESS ADDRESS:	
+		STREET 1:		280 PARK AVE
+		STREET 2:		FL 12
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		212-905-3900
+
+	MAIL ADDRESS:	
+		STREET 1:		280 PARK AVE
+		STREET 2:		FL 12
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BlueMountain Capital Management, LLC
+		CENTRAL INDEX KEY:			0001427430
+		STATE OF INCORPORATION:			DE
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-00087
+		FILM NUMBER:		17701934
+
+	BUSINESS ADDRESS:	
+		STREET 1:		280 PARK AVENUE, 12TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		(212) 905-3900
+
+	MAIL ADDRESS:	
+		STREET 1:		280 PARK AVENUE, 12TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BlueMountain GP Holdings, LLC
+		CENTRAL INDEX KEY:			0001540859
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-00087
+		FILM NUMBER:		17701933
+
+	BUSINESS ADDRESS:	
+		STREET 1:		280 PARK AVENUE,
+		STREET 2:		12TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		212-905-3900
+
+	MAIL ADDRESS:	
+		STREET 1:		280 PARK AVENUE,
+		STREET 2:		12TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Blue Mountain Credit Alternatives Master Fund L.P.
+		CENTRAL INDEX KEY:			0001540860
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-00087
+		FILM NUMBER:		17701930
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O MAPLES CORPORATE SERVICES LIMITED
+		STREET 2:		UGLAND HOUSE, PO BOX 309
+		CITY:			GRAND CAYMAN
+		STATE:			E9
+		ZIP:			KY1-1104
+		BUSINESS PHONE:		212-905-3900
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O BLUEMOUNTAIN CAPITAL MANAGEMENT, LLC
+		STREET 2:		280 PARK AVENUE, 5TH FLOOR EAST
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BlueMountain Guadalupe Peak Fund L.P.
+		CENTRAL INDEX KEY:			0001598919
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-00087
+		FILM NUMBER:		17701928
+
+	BUSINESS ADDRESS:	
+		STREET 1:		280 PARK AVENUE
+		STREET 2:		12TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		2129053900
+
+	MAIL ADDRESS:	
+		STREET 1:		280 PARK AVENUE
+		STREET 2:		12TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EASTMAN KODAK CO
+		CENTRAL INDEX KEY:			0000031235
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHOTOGRAPHIC EQUIPMENT & SUPPLIES [3861]
+		IRS NUMBER:				160417150
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		343 STATE ST
+		CITY:			ROCHESTER
+		STATE:			NY
+		ZIP:			14650-0910
+		BUSINESS PHONE:		7167244000
+
+	MAIL ADDRESS:	
+		STREET 1:		343 STATE STREET
+		CITY:			ROCHESTER
+		STATE:			NY
+		ZIP:			14650
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Blue Mountain CA Master Fund GP, Ltd.
+		CENTRAL INDEX KEY:			0001540861
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-00087
+		FILM NUMBER:		17701931
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O MAPLES CORPORATE SERVICES LIMITED
+		STREET 2:		UGLAND HOUSE, PO BOX 309
+		CITY:			GRAND CAYMAN
+		STATE:			E9
+		ZIP:			KY1-1104
+		BUSINESS PHONE:		212-905-3900
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O BLUEMOUNTAIN CAPITAL MANAGEMENT, LLC
+		STREET 2:		280 PARK AVENUE, 12TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2017-03-17</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000031235</issuerCik>
+        <issuerName>EASTMAN KODAK CO</issuerName>
+        <issuerTradingSymbol>KODK</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001427430</rptOwnerCik>
+            <rptOwnerName>BlueMountain Capital Management, LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>280 PARK AVENUE, 12TH FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10017</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001540859</rptOwnerCik>
+            <rptOwnerName>BlueMountain GP Holdings, LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>280 PARK AVENUE, 12TH FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10017</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001686968</rptOwnerCik>
+            <rptOwnerName>BLUE MOUNTAIN CREDIT GP, LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>280 PARK AVENUE, 12TH FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10017</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001540861</rptOwnerCik>
+            <rptOwnerName>Blue Mountain CA Master Fund GP, Ltd.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>280 PARK AVENUE, 12TH FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10017</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001540860</rptOwnerCik>
+            <rptOwnerName>Blue Mountain Credit Alternatives Master Fund L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>280 PARK AVENUE, 12TH FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10017</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001541088</rptOwnerCik>
+            <rptOwnerName>BlueMountain Long/Short Credit GP, LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>280 PARK AVENUE, 12TH FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10017</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001598919</rptOwnerCik>
+            <rptOwnerName>BlueMountain Guadalupe Peak Fund L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>280 PARK AVENUE, 12TH FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10017</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001541089</rptOwnerCik>
+            <rptOwnerName>BlueMountain Timberline Ltd.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>280 PARK AVENUE, 12TH FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10017</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001557778</rptOwnerCik>
+            <rptOwnerName>BlueMountain Kicking Horse Fund GP, LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>280 PARK AVENUE, 12TH FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10017</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001557943</rptOwnerCik>
+            <rptOwnerName>BlueMountain Kicking Horse Fund L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>280 PARK AVENUE, 12TH FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10017</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+                <footnoteId id="F3"/>
+                <footnoteId id="F4"/>
+                <footnoteId id="F5"/>
+                <footnoteId id="F6"/>
+                <footnoteId id="F7"/>
+                <footnoteId id="F8"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2017-03-17</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>61540</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>11.50</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6908075</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Footnotes</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                    <footnoteId id="F5"/>
+                    <footnoteId id="F6"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+                <footnoteId id="F3"/>
+                <footnoteId id="F4"/>
+                <footnoteId id="F5"/>
+                <footnoteId id="F6"/>
+                <footnoteId id="F7"/>
+                <footnoteId id="F8"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2017-03-17</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>53254</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>11.50</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5978008</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Footnotes</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                    <footnoteId id="F5"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+                <footnoteId id="F3"/>
+                <footnoteId id="F4"/>
+                <footnoteId id="F5"/>
+                <footnoteId id="F6"/>
+                <footnoteId id="F7"/>
+                <footnoteId id="F8"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2017-03-17</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>24712</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>11.50</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2773894</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Footnotes</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+                <footnoteId id="F3"/>
+                <footnoteId id="F4"/>
+                <footnoteId id="F5"/>
+                <footnoteId id="F6"/>
+                <footnoteId id="F7"/>
+                <footnoteId id="F8"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2017-03-17</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>24712</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>11.50</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2773894</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Footnotes</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+                <footnoteId id="F3"/>
+                <footnoteId id="F4"/>
+                <footnoteId id="F5"/>
+                <footnoteId id="F6"/>
+                <footnoteId id="F7"/>
+                <footnoteId id="F8"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2017-03-17</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>24712</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>11.50</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2773894</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+                <footnoteId id="F3"/>
+                <footnoteId id="F4"/>
+                <footnoteId id="F5"/>
+                <footnoteId id="F6"/>
+                <footnoteId id="F7"/>
+                <footnoteId id="F8"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2017-03-17</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1582</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>11.50</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>177519</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Footnotes</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+                <footnoteId id="F3"/>
+                <footnoteId id="F4"/>
+                <footnoteId id="F5"/>
+                <footnoteId id="F6"/>
+                <footnoteId id="F7"/>
+                <footnoteId id="F8"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2017-03-17</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1582</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>11.50</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>177519</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+                <footnoteId id="F3"/>
+                <footnoteId id="F4"/>
+                <footnoteId id="F5"/>
+                <footnoteId id="F6"/>
+                <footnoteId id="F7"/>
+                <footnoteId id="F8"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2017-03-17</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2687</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>11.50</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>301531</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+                <footnoteId id="F3"/>
+                <footnoteId id="F4"/>
+                <footnoteId id="F5"/>
+                <footnoteId id="F6"/>
+                <footnoteId id="F7"/>
+                <footnoteId id="F8"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2017-03-17</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2081</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>11.50</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>233659</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Footnotes</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+                <footnoteId id="F3"/>
+                <footnoteId id="F4"/>
+                <footnoteId id="F5"/>
+                <footnoteId id="F6"/>
+                <footnoteId id="F7"/>
+                <footnoteId id="F8"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2017-03-17</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2081</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>11.50</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>233659</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+                <footnoteId id="F3"/>
+                <footnoteId id="F4"/>
+                <footnoteId id="F5"/>
+                <footnoteId id="F6"/>
+                <footnoteId id="F7"/>
+                <footnoteId id="F8"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2017-03-17</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>15760</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>11.50</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1769071</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Footnotes</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+                <footnoteId id="F3"/>
+                <footnoteId id="F4"/>
+                <footnoteId id="F5"/>
+                <footnoteId id="F6"/>
+                <footnoteId id="F7"/>
+                <footnoteId id="F8"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2017-03-17</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>15760</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>11.50</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1769071</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+                <footnoteId id="F3"/>
+                <footnoteId id="F4"/>
+                <footnoteId id="F5"/>
+                <footnoteId id="F6"/>
+                <footnoteId id="F7"/>
+                <footnoteId id="F8"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2017-03-17</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2920</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>11.50</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>327848</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Footnotes</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F5"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+                <footnoteId id="F3"/>
+                <footnoteId id="F4"/>
+                <footnoteId id="F5"/>
+                <footnoteId id="F6"/>
+                <footnoteId id="F7"/>
+                <footnoteId id="F8"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2017-03-17</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2920</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>11.50</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>327848</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+                <footnoteId id="F3"/>
+                <footnoteId id="F4"/>
+                <footnoteId id="F5"/>
+                <footnoteId id="F6"/>
+                <footnoteId id="F7"/>
+                <footnoteId id="F8"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2017-03-17</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5599</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>11.50</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>628536</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Footnotes</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F5"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+                <footnoteId id="F3"/>
+                <footnoteId id="F4"/>
+                <footnoteId id="F5"/>
+                <footnoteId id="F6"/>
+                <footnoteId id="F7"/>
+                <footnoteId id="F8"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2017-03-17</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5599</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>11.50</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>628536</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+                <footnoteId id="F3"/>
+                <footnoteId id="F4"/>
+                <footnoteId id="F5"/>
+                <footnoteId id="F6"/>
+                <footnoteId id="F7"/>
+                <footnoteId id="F8"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2017-03-17</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2187</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>11.50</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>245621</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Footnotes</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F5"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+                <footnoteId id="F3"/>
+                <footnoteId id="F4"/>
+                <footnoteId id="F5"/>
+                <footnoteId id="F6"/>
+                <footnoteId id="F7"/>
+                <footnoteId id="F8"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2017-03-17</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2187</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>11.50</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>245621</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+                <footnoteId id="F3"/>
+                <footnoteId id="F4"/>
+                <footnoteId id="F5"/>
+                <footnoteId id="F6"/>
+                <footnoteId id="F7"/>
+                <footnoteId id="F8"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2017-03-17</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4012</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>11.50</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>450396</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Footnotes</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F5"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+                <footnoteId id="F3"/>
+                <footnoteId id="F4"/>
+                <footnoteId id="F5"/>
+                <footnoteId id="F6"/>
+                <footnoteId id="F7"/>
+                <footnoteId id="F8"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2017-03-17</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4012</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>11.50</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>450396</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The filing of this Form 4 shall not be construed as an admission that any of BlueMountain Capital Management, LLC (&quot;BMCM&quot;), GP Holdings, the General Partners, BMM GP (each as defined in Footnote 5) or BMCA GP (as defined in Footnote 4) is or was for the purposes of Section 16(a) of the Securities Exchange Act of 1934, as amended (the &quot;Exchange Act&quot;), or otherwise the beneficial owner of any of the shares of Common Stock, par value $0.01 per share (the &quot;Common Stock&quot;), of Eastman Kodak Company (the &quot;Issuer&quot;).  Pursuant to Rule 16a-1(a)(4) of the Exchange Act, each of BMCM, GP Holdings and the General Partners disclaims such beneficial ownership, except to the extent of its pecuniary interest.</footnote>
+        <footnote id="F2">BMCM is the investment manager of each of:  (i) Blue Mountain Credit Alternatives Master Fund L.P. (&quot;BMCA&quot;), which is the direct beneficial owner of 2,773,894 shares of Common Stock; (ii) BlueMountain Guadalupe Peak Fund L.P. (&quot;BMGP&quot;), which is the direct beneficial owner of 177,519 shares of Common Stock; (iii) BlueMountain Kicking Horse Fund L.P. (&quot;BMKH&quot;), which is the direct beneficial owner of 233,659 shares of Common Stock; (iv) BlueMountain Credit Opportunities Master Fund I L.P. (&quot;BMCO&quot;), which is the direct beneficial owner of 1,769,071 shares of Common Stock; (v) BlueMountain Distressed Master Fund L.P. (&quot;BMD&quot;), which is the beneficial owner of 327,848 shares of Common Stock; (vi) BlueMountain Strategic Credit Master Fund L.P. (&quot;BMSC&quot;), which is the direct beneficial owner of 245,621 shares of Common Stock;</footnote>
+        <footnote id="F3">(vii) BlueMountain Summit Trading L.P. (&quot;BMST&quot; and, together with BMCA, BMGP, BMKH, BMCO, BMD and BMSC, the &quot;Partnerships&quot;), which is the direct beneficial owner of 450,396 shares of Common Stock; (viii) BlueMountain Timberline Ltd. (&quot;BMT&quot;), which is the direct beneficial owner of 301,531 shares of Common Stock; and (ix) BlueMountain Montenvers Master Fund SCA SICAV-SIF (&quot;BMM&quot; and, together with the Partnerships and BMT, the &quot;Funds&quot;), which is the direct beneficial owner of 628,536 shares of Common Stock.  BMCM, although it directs the voting and disposition of the Common Stock held by the Funds, only receives an asset-based fee relating to the Common Stock held by the Funds.</footnote>
+        <footnote id="F4">(i) Blue Mountain CA Master Fund GP, Ltd. (&quot;BMCA GP&quot;) is the general partner of BMCA and has an indirect profits interest in the Common Stock beneficially owned by it; (ii) Blue Mountain Credit GP, LLC (&quot;BMC GP&quot;) is the sole owner of BMCA GP and has an indirect profits interest in the Common Stock beneficially owned by BMCA; (iii) BlueMountain Long/Short Credit GP, LLC (&quot;BMGP GP&quot;) is the general partner of BMGP and has an indirect profits interest in the Common Stock beneficially owned by it; (iv) BlueMountain Kicking Horse Fund GP, LLC (&quot;BMKH GP&quot;) is the general partner of BMKH and has an indirect profits interest in the Common Stock beneficially owned by it; (v) BlueMountain Credit Opportunities GP I, LLC (&quot;BMCO GP&quot;) is the general partner of BMCO and has an indirect profits interest in the Common Stock beneficially owned by it;</footnote>
+        <footnote id="F5">(vi) BlueMountain Distressed GP, LLC (&quot;BMD GP&quot;) is the general partner of BMD and has an indirect profits interest in the Common Stock beneficially owned by it; (vii) BlueMountain Strategic Credit GP, LLC (&quot;BMSC GP&quot;) is the general partner of BMSC and has an indirect profits interest in the Common Stock beneficially owned by it; (viii) BlueMountain Summit Opportunities GP II, LLC (&quot;BMST GP&quot; and, together with BMC GP, BMGP GP, BMKH GP, BMCO GP, BMD GP and BMSC GP, the &quot;General Partners&quot;) is the general partner of BMST and has an indirect profits interest in the Common Stock beneficially owned by it; and (ix) BlueMountain Montenvers GP S.a r.l. (&quot;BMM GP&quot;) is the general partner of BMM and has an indirect profits interest in the Common Stock beneficially owned by it.  BlueMountain GP Holdings, LLC (&quot;GP Holdings&quot;) is the sole owner of each of the General Partners and thus has an indirect profits interest in the Common Stock beneficially owned by the Partnerships.</footnote>
+        <footnote id="F6">BMCM is the sole owner of BMM GP and thus has an indirect profits interest in the Common Stock beneficially owned by BMM.</footnote>
+        <footnote id="F7">On March 17, 2017, (i) BMCA sold 24,712 shares of Common Stock, (ii) BMGP sold 1,582 shares of Common Stock, (iii) BMT sold 2,687 shares of Common Stock, (iv) BMKH sold 2,081 shares of Common Stock, (v) BMCO sold 15,760 shares of Common Stock, (vi) BMD sold 2,920 shares of Common Stock, (vii) BMM sold 5,599 shares of Common Stock, (viii) BMSC sold 2,187 shares of Common Stock, and (ix) BMST sold 4,012 shares of Common Stock.</footnote>
+        <footnote id="F8">The Reporting Persons are jointly filing this Form 4 pursuant to Rule 16(a)-3(j) under the Exchange Act.  The Form 4 for certain additional Reporting Persons is being filed separately and simultaneously with this Form 4 due to the limitation of 10 Reporting Persons per filing.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>BlueMountain Capital Management, LLC, By: /s/ Eric M. Albert, Chief Compliance Officer</signatureName>
+        <signatureDate>2017-03-20</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>BlueMountain GP Holdings, LLC, By: /s/ Eric M. Albert, Chief Compliance Officer</signatureName>
+        <signatureDate>2017-03-20</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>Blue Mountain Credit GP, LLC, By: BlueMountain GP Holdings, LLC, By: /s/ Eric M. Albert, Chief Compliance Officer</signatureName>
+        <signatureDate>2017-03-20</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>Blue Mountain CA Master Fund GP, Ltd., By: /s/ Andrew Feldstein, Director</signatureName>
+        <signatureDate>2017-03-20</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>Blue Mountain Credit Alternatives Master Fund L.P., By: BlueMountain CA Master Fund GP, Ltd., By: /s/ Andrew Feldstein, Director</signatureName>
+        <signatureDate>2017-03-20</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>BlueMountain Long/Short Credit GP, LLC, By: BlueMountain GP Holdings, LLC, By: /s/ Eric M. Albert, Chief Compliance Officer</signatureName>
+        <signatureDate>2017-03-20</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>BlueMountain Guadalupe Peak Fund L.P., By: BlueMountain Long/Short Credit GP, LLC, By: BlueMountain GP Holdings, LLC, By: /s/ Eric M. Albert, Chief Compliance Officer</signatureName>
+        <signatureDate>2017-03-20</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>BlueMountain Timberline Ltd., By: /s/ Andrew Feldstein, Director</signatureName>
+        <signatureDate>2017-03-20</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>BlueMountain Kicking Horse Fund GP, LLC, By: BlueMountain GP Holdings, LLC, By: /s/ Eric M. Albert, Chief Compliance Officer</signatureName>
+        <signatureDate>2017-03-20</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>BlueMountain Kicking Horse Fund L.P., By: BlueMountain Kicking Horse Fund GP, LLC, By: BlueMountain GP Holdings, LLC, By: /s/ Eric M. Albert, Chief Compliance Officer</signatureName>
+        <signatureDate>2017-03-20</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

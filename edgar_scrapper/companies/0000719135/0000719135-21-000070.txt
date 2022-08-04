@@ -1,0 +1,159 @@
+<SEC-DOCUMENT>0000719135-21-000070.txt : 20210907
+<SEC-HEADER>0000719135-21-000070.hdr.sgml : 20210907
+<ACCEPTANCE-DATETIME>20210907081418
+ACCESSION NUMBER:		0000719135-21-000070
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20210825
+FILED AS OF DATE:		20210907
+DATE AS OF CHANGE:		20210907
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Levine Wendy Lauren
+		CENTRAL INDEX KEY:			0001881038
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-31885
+		FILM NUMBER:		211238303
+
+	MAIL ADDRESS:	
+		STREET 1:		75 KENMARE STREET
+		STREET 2:		APT. 2D
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10012
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Apyx Medical Corp
+		CENTRAL INDEX KEY:			0000719135
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		IRS NUMBER:				112644611
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5115 ULMERTON ROAD
+		CITY:			CLEARWATER
+		STATE:			FL
+		ZIP:			33760
+		BUSINESS PHONE:		7273842323
+
+	MAIL ADDRESS:	
+		STREET 1:		5115 ULMERTON ROAD
+		CITY:			CLEARWATER
+		STATE:			FL
+		ZIP:			33760
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BOVIE MEDICAL Corp
+		DATE OF NAME CHANGE:	20150319
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BOVIE MEDICAL CORP
+		DATE OF NAME CHANGE:	19990216
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AN CON GENETICS INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>wf-form3_163101684636207.xml
+<DESCRIPTION>FORM 3
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2021-08-25</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0000719135</issuerCik>
+        <issuerName>Apyx Medical Corp</issuerName>
+        <issuerTradingSymbol>APYX</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001881038</rptOwnerCik>
+            <rptOwnerName>Levine Wendy Lauren</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>5115 ULMERTON ROAD</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>CLEARWATER</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>33760</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Stock Option (Option to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>11.51</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2022-08-25</value>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2031-08-25</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>17000.0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reporting person was granted a stock option which shall vest ratably over a twelve (12) month period and shall become fully vested and fully exercisable on the first anniversary of the date of grant.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>Wendy Levine</signatureName>
+        <signatureDate>2021-09-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
